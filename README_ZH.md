@@ -14,9 +14,9 @@
 
 </div>
 
-适合第一次写歌的人、需要视频配乐的创作者，以及“脑中有声音，却总生成不出来”的音乐爱好者。这里有 **12 份原创方案**，分别写清风格填在哪里、歌词怎么填、下一次改什么、生成后听什么。
+适合第一次写歌的人、需要视频配乐的创作者，以及“脑中有声音，却总生成不出来”的音乐爱好者。从官方能力和公开案例入门，再选一首 MusicMaker 作品，跟着图文提案开始自己的创作。
 
-独立创作指南，非 Suno 官方文档。12 份原创方案尚未逐条生成验证；公开案例与原创练习分开注明。详细教程和多数方案为英文，本页提供中文入门。
+独立创作指南，非 Suno 官方文档。品牌原作品、来源风格与改写练习分开注明；改写尚未生成验证。详细教程和多数方案为英文，本页提供中文入门。
 
 ## Suno v6：能做什么？
 
@@ -96,23 +96,26 @@
 
 ## 先选你要做的内容
 
-先挑一个用途，再选择创作工具：**[Suno 官方](https://suno.com/create)** 或 **[MusicMaker](https://musicmaker.im/ai-song-generator/)**。下面的风格和歌词可以作为两边的创作起点；填写位置见下一节。
+<strong>先听作品，再选创作方向。</strong>下面四份提案选自 MusicMaker 现有曲库，使用原作品封面和公开风格描述。图中“用途”是我们给读者的改写方向；试听展示的是原作品，不是改写结果。
 
-| 你想做什么 | 从哪里开始 |
-|:--|:--|
-| 做第一首有主歌和副歌的歌曲 | [独立流行：Last Train Home](prompts/01-last-train-home.md) |
-| 给学习、播客或旅行视频配乐 | [4 份纯音乐方案](prompts/README.md#instrumentals) |
-| 写一首中文歌 | [站台的雨](prompts/08-rain-at-the-station.md) |
-| 给朋友做生日礼物 | [生日歌曲](prompts/07-birthday-table.md) |
-| 处理唱字太赶、声音太挤等问题 | [本页问题速查](#生成结果不对怎么办) |
-| 把歌曲做成社媒短片 | [公开案例与创作练习（英文）](docs/community-playbook.md) |
-| 了解一段音乐是否可能由 AI 生成 | [本页检测说明](#用-musicmaker-检查音乐来源) |
+<table>
+<tr>
+<td width="50%" valign="top"><a href="docs/listening-lab.md#1-it-takes-another-shape"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.webp" width="440" alt="It Takes Another Shape 品牌作品封面；点击查看对应创作提案"></a><br><b>把一段回忆写成慢歌</b><br><sub>MusicMaker Discover · It Takes Another Shape</sub><br>参考指弹吉他、柔和钢琴与渐强的末段。<br><a href="https://musicmaker.im/detail/discover-v2-108/">▶ 试听原作品</a> · <a href="docs/listening-lab.md#1-it-takes-another-shape">打开创作提案 →</a></td>
+<td width="50%" valign="top"><a href="docs/listening-lab.md#2-what-love-can-lose"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/what_love_can_lose.webp" width="440" alt="What Love Can Lose 品牌作品封面；点击查看对应创作提案"></a><br><b>让副歌逐渐饱满</b><br><sub>MusicMaker Discover · What Love Can Lose</sub><br>参考钢琴起步，再加入大提琴、贝斯和和声。<br><a href="https://musicmaker.im/detail/discover-v2-107/">▶ 试听原作品</a> · <a href="docs/listening-lab.md#2-what-love-can-lose">打开创作提案 →</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="docs/listening-lab.md#3-morning-with-healing-hands"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" width="440" alt="Morning with Healing Hands 品牌作品封面；点击查看对应创作提案"></a><br><b>为日常画面写温暖配乐</b><br><sub>MusicMaker Discover · Morning with Healing Hands</sub><br>参考木吉他、低音提琴和轻盈弦乐。<br><a href="https://musicmaker.im/detail/discover-v2-106/">▶ 试听原作品</a> · <a href="docs/listening-lab.md#3-morning-with-healing-hands">打开创作提案 →</a></td>
+<td width="50%" valign="top"><a href="docs/listening-lab.md#4-the-secret-is-you"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_secret_is_you.webp" width="440" alt="The Secret Is You 品牌作品封面；点击查看对应创作提案"></a><br><b>写一首轻快的告白歌</b><br><sub>MusicMaker Discover · The Secret Is You</sub><br>参考尼龙弦吉他、轻鼓与末段拍手。<br><a href="https://musicmaker.im/detail/discover-v2-105/">▶ 试听原作品</a> · <a href="docs/listening-lab.md#4-the-secret-is-you">打开创作提案 →</a></td>
+</tr>
+</table>
+
+选好后，可以在 **[Suno 官方](https://suno.com/create)** 或 **[MusicMaker](https://musicmaker.im/ai-song-generator/)** 开始。下面用第三首的木吉他配器做一次示范。
 
 ## 开始第一首歌
 
 不用下载仓库，也不用安装软件。
 
-**任选一个工具，使用下面同一份风格和歌词。**
+**任选一个工具，使用下面的创作提案。**
 
 | Suno 官方 | MusicMaker |
 |:--|:--|
@@ -120,66 +123,26 @@
 | 风格填入 **Styles / Style of Music**；歌词填入 **Lyrics** | 风格填入 **Music Style**；歌词填入 **Lyrics**；歌名填入 **Music Title** |
 | 按 Suno 当前模型、额度和套餐生成 | 先确认页面所选模型、额度和公开设置，再生成 |
 
-只有一句想法时，也可从 Suno 的 **Simple** 或 MusicMaker 的 **Basic → Description** 开始。下面有现成歌词，因此使用上表的 Custom 路径。两者是独立服务，账号、额度和作品权限分别管理；同一份提示词不会保证得到相同结果。
+这次以 [Morning with Healing Hands](https://musicmaker.im/detail/discover-v2-106/) 为参考：来源风格包含指弹吉他、低音提琴、轻盈弦乐与温暖男声。我们保留配器方向，尝试改成纯音乐，不复制原曲歌词或旋律。
 
-1. 选择上面一个工具，按字段填入下面两段内容。有歌词时关闭 **Instrumental（纯音乐）**。
-2. 在自己的可用额度内生成，先听完备选结果，再决定改什么。
-3. 保留较好的版本；下一次只改一个因素，例如主乐器、演唱方式或歌词长度。
+1. 先试听原作品，再打开上表中的一个工具，选择 **Custom**。
+2. 将下面的改写填入对应风格栏，开启 **Instrumental（纯音乐）**，歌词栏留空。
+3. 确认所选模型、额度和公开设置后生成。先检查是否仍有人声，再听配器是否适合你的画面。
+4. 下一次只调整一项，例如减少弦乐，其余要求保持不变。
 
-<strong>歌名：站台的雨。音乐风格栏：</strong>
-
-```text
-Mandarin acoustic pop ballad, gentle piano and warm fingerpicked guitar.
-Clear natural Mandarin lead vocal, short syllabic phrases, restrained emotion.
-Sparse verse, chorus adds soft bass and brushed drums.
-Small instrumental outro.
-```
-
-这段要求的是：中文抒情流行，钢琴和指弹吉他，咬字清晰，主歌简单，副歌再加入贝斯和轻鼓。
-
-<strong>歌词栏：</strong>以下为本仓库新写的短歌词。
+<strong>可复制的改写：温暖的日常配乐</strong>（原创改写练习，尚未生成验证）
 
 ```text
-[Verse]
-你把伞靠在窗边
-说雨停了就再见
-站台亮起一排灯
-我还留着那张票
-
-[Chorus]
-雨慢慢落 车慢慢走
-没说的话 留在路口
-下一站若 天气晴朗
-记得把伞 带在身旁
-
-[Outro]
-记得把伞 带在身旁
+An instrumental acoustic piece for a quiet everyday scene.
+Fingerpicked guitar leads, with upright bass and light strings.
+Keep the mood warm and hopeful. No singing or spoken voice.
 ```
 
-`[Verse]` 是主歌，`[Chorus]` 是副歌，`[Outro]` 是结尾。这些标签用于提示歌曲结构，不保证模型严格照做。
+两种工具的账号、额度和作品权限分别管理，同一份提示词不会保证得到相同结果。[查看这首作品的来源风格与另一项改写练习 →](docs/listening-lab.md#3-morning-with-healing-hands)
 
-<strong>生成后先听：</strong>“站台”“那张票”是否唱清楚？副歌是否比主歌更饱满？如果唱得赶，先减字或改断句。[查看完整方案 →](prompts/08-rain-at-the-station.md)
+### 想换一种风格？
 
-## 12 份方案，按用途挑
-
-选好方案后，在 [Suno](https://suno.com/create) 或 [MusicMaker](https://musicmaker.im/ai-song-generator/) 的 Custom 中填写。暂时想不到声音方向，可以先去 [MusicMaker 曲库](https://musicmaker.im/discover/)试听，再选相近的风格方案。
-
-| 用途 | 方案 |
-|:--|:--|
-| 怀旧流行 | [Last Train Home](prompts/01-last-train-home.md) |
-| 温暖民谣 | [Kitchen Light](prompts/02-kitchen-light.md) |
-| 深夜倾诉 | [Blue Receipt](prompts/03-blue-receipt.md) |
-| 轻快舞曲 | [Weekend Platform](prompts/04-weekend-platform.md) |
-| 有冲劲的流行朋克 | [Paper Crown](prompts/05-paper-crown.md) |
-| 公路乡村歌曲 | [Mile Marker](prompts/06-mile-marker.md) |
-| 生日礼物 | [Birthday Table](prompts/07-birthday-table.md) |
-| 中文抒情 | [站台的雨](prompts/08-rain-at-the-station.md) |
-| 学习背景音乐 | [Window Seat](prompts/09-window-seat.md) |
-| 夜间行车配乐 | [After Hours](prompts/10-after-hours.md) |
-| 播客和旁白底乐 | [Small Victories](prompts/11-small-victories.md) |
-| 旅行风景配乐 | [Open Horizon](prompts/12-open-horizon.md) |
-
-纯音乐方案需打开 Instrumental，并清空歌词栏。英文方案内的提示词可直接复制；不要把解释文字一起粘进去。
+先逛 [MusicMaker 曲库](https://musicmaker.im/discover/)，找到想借鉴的声音。另有 [12 份原创补充模板](prompts/README.md)，涵盖中文歌、生日歌和纯音乐；这些是独立练习，不对应品牌现有作品。
 
 ## 生成结果不对，怎么办？
 
@@ -208,16 +171,12 @@ Small instrumental outro.
 
 ### MusicMaker 精选试听
 
-点击封面进入 MusicMaker 作品页，或直接播放音频。以下为曲库精选，不是本仓库提示词的生成结果；风格摘要与模型来源见[素材说明](docs/sources.md)。
+点击封面进入 MusicMaker 作品页，或直接播放音频。以下为曲库精选，不是本仓库提示词的生成结果；来源链接与模型信息见[素材说明](docs/sources.md)。
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-108/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.webp" alt="It Takes Another Shape：专辑封面，点击打开 MusicMaker 作品页" width="440"></a><br><b>It Takes Another Shape</b><br><sub>MusicMaker Discover</sub><br>来源风格：指弹吉他开场，末段副歌逐步展开<br><a href="https://musicmaker.im/detail/discover-v2-108/">▶ 作品页</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.mp3">听音频</a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-107/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/what_love_can_lose.webp" alt="What Love Can Lose：专辑封面，点击打开 MusicMaker 作品页" width="440"></a><br><b>What Love Can Lose</b><br><sub>MusicMaker Discover</sub><br>来源风格：从毡音钢琴、大提琴到多层和声<br><a href="https://musicmaker.im/detail/discover-v2-107/">▶ 作品页</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/what_love_can_lose.mp3">听音频</a></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-106/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" alt="Morning with Healing Hands：专辑封面，点击打开 MusicMaker 作品页" width="440"></a><br><b>Morning with Healing Hands</b><br><sub>MusicMaker Discover</sub><br>来源风格：木吉他、低音提琴与温暖男声<br><a href="https://musicmaker.im/detail/discover-v2-106/">▶ 作品页</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.mp3">听音频</a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-105/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_secret_is_you.webp" alt="The Secret Is You：专辑封面，点击打开 MusicMaker 作品页" width="440"></a><br><b>The Secret Is You</b><br><sub>MusicMaker Discover</sub><br>来源风格：尼龙弦吉他、钢琴与末段拍手<br><a href="https://musicmaker.im/detail/discover-v2-105/">▶ 作品页</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/the_secret_is_you.mp3">听音频</a></td>
+<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-101/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/island_sunshine.webp" width="440" alt="Island Sunshine：封面，点击在 MusicMaker 试听"></a><br><b>Island Sunshine</b><br><sub>MusicMaker Discover</sub><br><a href="https://musicmaker.im/detail/discover-v2-101/">▶ 打开作品</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/island_sunshine.mp3">听音频</a></td>
+<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-94/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp" width="440" alt="Neon Pulse：封面，点击在 MusicMaker 试听"></a><br><b>Neon Pulse</b><br><sub>MusicMaker Discover</sub><br><a href="https://musicmaker.im/detail/discover-v2-94/">▶ 打开作品</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.mp3">听音频</a></td>
 </tr>
 </table>
 

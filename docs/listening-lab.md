@@ -1,12 +1,22 @@
-# Listening lab: hear a brief, then change it
+# MusicMaker creation briefs: listen, then make your own
 
 [← Home](../README.md) · [中文首页](../README_ZH.md)
 
 These four briefs are our concise paraphrases of the public MusicMaker track data, checked September 23, 2026. They describe the published tracks; we have not reproduced the generation or independently judged their audio quality. The separate exercises below are our original, untested adaptations. Do not copy the recordings or lyrics without permission.
 
+## How to use any brief
+
+**Start:** open [Suno](https://suno.com/create) or [MusicMaker](https://musicmaker.im/ai-song-generator/), then choose **Custom**. Paste the style summary into Styles / Music Style. Write your own words in Lyrics, or remove vocal directions from the brief, enable Instrumental and leave Lyrics empty for a vocal-free adaptation. Apply the next experiment by editing that brief, not by pasting it into Lyrics.
+
+Keep your first take, then try the single change shown under your chosen track. The source recording is a listening reference, not a generation result from the summary.
+
 ## 1. It Takes Another Shape
 
-[▶ Track and cover](https://musicmaker.im/detail/discover-v2-108/) · [Audio](https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.mp3)
+<a href="https://musicmaker.im/detail/discover-v2-108/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.webp" width="440" alt="It Takes Another Shape: original MusicMaker cover; open the source track"></a>
+
+**创作方向 / Your direction:** 把一段回忆写成慢歌 · Turn a memory into a slow song. These are suggested uses, not source claims.
+
+[▶ Listen to the source audio](https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.mp3)
 
 **Style summary / 来源风格概括**
 
@@ -14,7 +24,7 @@ These four briefs are our concise paraphrases of the public MusicMaker track dat
 A slow swaying acoustic arrangement: fingerpicked guitar, soft piano and cello, with percussion arriving later and a gradually fuller vocal ending.
 ```
 
-**Your next experiment / 改写练习** — 指弹吉他开场，观察最后副歌的变化。以下改写尚未生成验证。
+**Your next experiment / 改写练习** — 把大提琴换成轻柔的电钢琴。以下改写尚未生成验证。
 
 ```text
 Replace the cello with a quiet electric piano. Keep the other arrangement directions.
@@ -24,7 +34,11 @@ Listen for the single change you requested. Keep the source brief and your revis
 
 ## 2. What Love Can Lose
 
-[▶ Track and cover](https://musicmaker.im/detail/discover-v2-107/) · [Audio](https://cdn.musicmaker.im/musicmaker/discover_v2/what_love_can_lose.mp3)
+<a href="https://musicmaker.im/detail/discover-v2-107/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/what_love_can_lose.webp" width="440" alt="What Love Can Lose: original MusicMaker cover; open the source track"></a>
+
+**创作方向 / Your direction:** 让副歌逐渐饱满 · Build toward a fuller chorus. These are suggested uses, not source claims.
+
+[▶ Listen to the source audio](https://cdn.musicmaker.im/musicmaker/discover_v2/what_love_can_lose.mp3)
 
 **Style summary / 来源风格概括**
 
@@ -32,17 +46,21 @@ Listen for the single change you requested. Keep the source brief and your revis
 An intimate piano-led ballad that expands through cello, bass and harmonies as it reaches the chorus.
 ```
 
-**Your next experiment / 改写练习** — 从毡音钢琴、大提琴到多层和声。以下改写尚未生成验证。
+**Your next experiment / 改写练习** — 让贝斯到最后一次副歌才进入。以下改写尚未生成验证。
 
 ```text
-Delay the bass entrance until the chorus. Keep the other arrangement directions.
+Delay the bass entrance until the final chorus. Keep the other arrangement directions.
 ```
 
 Listen for the single change you requested. Keep the source brief and your revision in separate notes.
 
 ## 3. Morning with Healing Hands
 
-[▶ Track and cover](https://musicmaker.im/detail/discover-v2-106/) · [Audio](https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.mp3)
+<a href="https://musicmaker.im/detail/discover-v2-106/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" width="440" alt="Morning with Healing Hands: original MusicMaker cover; open the source track"></a>
+
+**创作方向 / Your direction:** 为日常画面写温暖配乐 · Score an everyday moment. These are suggested uses, not source claims.
+
+[▶ Listen to the source audio](https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.mp3)
 
 **Style summary / 来源风格概括**
 
@@ -50,7 +68,7 @@ Listen for the single change you requested. Keep the source brief and your revis
 Gentle fingerpicked guitar and upright bass, with light strings and a warm male lead; a calm, hopeful acoustic direction.
 ```
 
-**Your next experiment / 改写练习** — 木吉他、低音提琴与温暖男声。以下改写尚未生成验证。
+**Your next experiment / 改写练习** — 把轻盈弦乐换成柔和的单簧管。以下改写尚未生成验证。
 
 ```text
 Replace the light strings with a soft clarinet. Keep the other arrangement directions.
@@ -60,15 +78,19 @@ Listen for the single change you requested. Keep the source brief and your revis
 
 ## 4. The Secret Is You
 
-[▶ Track and cover](https://musicmaker.im/detail/discover-v2-105/) · [Audio](https://cdn.musicmaker.im/musicmaker/discover_v2/the_secret_is_you.mp3)
+<a href="https://musicmaker.im/detail/discover-v2-105/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_secret_is_you.webp" width="440" alt="The Secret Is You: original MusicMaker cover; open the source track"></a>
+
+**创作方向 / Your direction:** 写一首轻快的告白歌 · Write a gentle love song. These are suggested uses, not source claims.
+
+[▶ Listen to the source audio](https://cdn.musicmaker.im/musicmaker/discover_v2/the_secret_is_you.mp3)
 
 **Style summary / 来源风格概括**
 
 ```text
-Nylon-string guitar and soft piano support close verses; percussion and harmonies make the later choruses brighter.
+Nylon-string guitar and soft piano support close verses; percussion and harmonies widen the choruses, with handclaps in the final chorus.
 ```
 
-**Your next experiment / 改写练习** — 尼龙弦吉他、钢琴与末段拍手。以下改写尚未生成验证。
+**Your next experiment / 改写练习** — 删掉末段副歌的拍手声。以下改写尚未生成验证。
 
 ```text
 Remove the handclaps. Keep the other arrangement directions.

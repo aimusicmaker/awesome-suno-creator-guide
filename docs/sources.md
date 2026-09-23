@@ -71,7 +71,7 @@ See [asset rights](../assets/README.md) before republishing media. Please [repor
 - [Remix guide](https://help.suno.com/en/articles/6050497): creator permission and remix rights.
 - [Eric Christian interview](https://suno.com/blog/eric-christian): piano-to-orchestration workflow and featured track.
 - Homepage creator portraits are the header images linked from the four corresponding Suno interviews. They remain hosted by Suno's image provider and are credited through each card. Their inclusion does not imply endorsement.
-- The four homepage listening cards and four listening-lab cards use MusicMaker's public detail pages and their linked cover/audio assets. The first four source records identify `suno-chirp-v6.0`; the others identify MiniMax Music 3.0, Mureka V9.5, and `lyria-3-pro`. Source labels have not been independently authenticated.
+- The four homepage creation-brief cards and the additional listening cards use MusicMaker's public detail pages and their linked cover/audio assets. The first four source records identify `suno-chirp-v6.0`; the others identify MiniMax Music 3.0, Mureka V9.5, and `lyria-3-pro`. Source labels have not been independently authenticated.
 - [Listening lab](listening-lab.md): the four brief summaries paraphrase source text, while the proposed variations are original, untested exercises. No source lyrics are reproduced. Audio URLs were checked for availability; that is not a listening-quality evaluation or reproduction test.
 
 ## X examples

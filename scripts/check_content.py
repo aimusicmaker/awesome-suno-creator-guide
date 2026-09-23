@@ -61,9 +61,18 @@ for recipe in recipes:
         errors.append(f'{recipe.name}: missing input setup')
     if 'Not generation-tested' not in text:
         errors.append(f'{recipe.name}: missing test status')
-    for index in [ROOT / 'README.md', ROOT / 'README_ZH.md', ROOT / 'prompts/README.md']:
+    for index in [ROOT / 'prompts/README.md']:
         if recipe.name not in index.read_text():
             errors.append(f'{index.name}: recipe not discoverable: {recipe.name}')
+
+
+for homepage in [ROOT / 'README.md', ROOT / 'README_ZH.md']:
+    body = homepage.read_text()
+    if 'prompts/README.md' not in body:
+        errors.append(f'{homepage.name}: missing supplementary recipe index')
+    for fragment in ['1-it-takes-another-shape', '2-what-love-can-lose', '3-morning-with-healing-hands', '4-the-secret-is-you']:
+        if f'docs/listening-lab.md#{fragment}' not in body:
+            errors.append(f'{homepage.name}: missing brand creation brief: {fragment}')
 
 if errors:
     print('\n'.join(errors))

@@ -14,9 +14,9 @@ Copy-ready prompts, original lyrics, real listening references, and practical fi
 
 </div>
 
-A guide for first-time songwriters, video creators, and anyone who has a good idea but keeps getting the wrong sound. **12 original recipes** cover vocal songs and instrumentals, with a clear place to paste each part, one useful variation, and a listening check.
+For first-time songwriters and video creators: explore official capabilities and public examples, then choose a MusicMaker track and develop your own idea from its illustrated creation brief.
 
-An independent guide, not official Suno documentation. Our 12 recipes are untested starting points; published examples and original exercises are labeled separately.
+An independent guide, not official Suno documentation. Published source tracks, style summaries and untested adaptations are labeled separately.
 
 ## What can Suno v6 do?
 
@@ -96,23 +96,26 @@ Images come from the linked official interviews; listening links lead to their f
 
 ## What are you making?
 
-Choose a use case, then a creation tool: **[Suno](https://suno.com/create)** or **[MusicMaker](https://musicmaker.im/ai-song-generator/)**. The style and lyric blocks below can serve as starting material in either tool; the next section shows where to paste them.
+**Hear a real track, then choose a direction.** These four briefs start from existing MusicMaker catalog tracks, their original covers and published style descriptions. The suggested use cases are our adaptation ideas; the audio is the source track, not the result of an adaptation.
 
-| I want to… | Start here |
-|:--|:--|
-| Turn a feeling into my first song | [Indie pop · Last Train Home](prompts/01-last-train-home.md) |
-| Find music for a vlog, podcast, or study session | [Instrumental recipes](prompts/README.md#instrumentals) |
-| Write a chorus people remember | [Lyrics and structure](docs/lyrics-and-structure.md) |
-| Make a birthday song or sing in Chinese | [Birthday](prompts/07-birthday-table.md) · [中文流行](prompts/08-rain-at-the-station.md) |
-| Fix rushed words, weak choruses, or unwanted vocals | [Troubleshooting](docs/troubleshooting.md) |
-| Turn a song into a short social clip | [Community examples and creative exercises](docs/community-playbook.md) |
-| Check a song's possible AI origin | [Detector guide](docs/detector-and-release.md) |
+<table>
+<tr>
+<td width="50%" valign="top"><a href="docs/listening-lab.md#1-it-takes-another-shape"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.webp" width="440" alt="It Takes Another Shape cover; open the creation brief based on this MusicMaker track"></a><br><b>Turn a memory into a slow song</b><br><sub>MusicMaker Discover · It Takes Another Shape</sub><br>Study fingerpicked guitar, soft piano and a gradual lift.<br><a href="https://musicmaker.im/detail/discover-v2-108/">▶ Hear the source</a> · <a href="docs/listening-lab.md#1-it-takes-another-shape">Open creation brief →</a></td>
+<td width="50%" valign="top"><a href="docs/listening-lab.md#2-what-love-can-lose"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/what_love_can_lose.webp" width="440" alt="What Love Can Lose cover; open the creation brief based on this MusicMaker track"></a><br><b>Build toward a fuller chorus</b><br><sub>MusicMaker Discover · What Love Can Lose</sub><br>Study piano, then cello, bass and layered harmonies.<br><a href="https://musicmaker.im/detail/discover-v2-107/">▶ Hear the source</a> · <a href="docs/listening-lab.md#2-what-love-can-lose">Open creation brief →</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="docs/listening-lab.md#3-morning-with-healing-hands"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" width="440" alt="Morning with Healing Hands cover; open the creation brief based on this MusicMaker track"></a><br><b>Score an everyday moment</b><br><sub>MusicMaker Discover · Morning with Healing Hands</sub><br>Study acoustic guitar, upright bass and light strings.<br><a href="https://musicmaker.im/detail/discover-v2-106/">▶ Hear the source</a> · <a href="docs/listening-lab.md#3-morning-with-healing-hands">Open creation brief →</a></td>
+<td width="50%" valign="top"><a href="docs/listening-lab.md#4-the-secret-is-you"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_secret_is_you.webp" width="440" alt="The Secret Is You cover; open the creation brief based on this MusicMaker track"></a><br><b>Write a gentle love song</b><br><sub>MusicMaker Discover · The Secret Is You</sub><br>Study nylon guitar, light percussion and final-chorus handclaps.<br><a href="https://musicmaker.im/detail/discover-v2-105/">▶ Hear the source</a> · <a href="docs/listening-lab.md#4-the-secret-is-you">Open creation brief →</a></td>
+</tr>
+</table>
+
+Once you have a direction, open **[Suno](https://suno.com/create)** or **[MusicMaker](https://musicmaker.im/ai-song-generator/)**. The walkthrough below starts from the third track’s acoustic instrumentation.
 
 ## Make your first song
 
 You do not need to clone this repository or install anything.
 
-**Choose either tool and use the same style and lyrics below.**
+**Choose either tool and use the creation brief below.**
 
 | Suno | MusicMaker |
 |:--|:--|
@@ -120,65 +123,26 @@ You do not need to clone this repository or install anything.
 | Style goes in **Styles / Style of Music**; words go in **Lyrics** | Style goes in **Music Style**; words go in **Lyrics**; the title goes in **Music Title** |
 | Generate with your current Suno model, credits and plan | Check the selected model, credits and public-sharing setting before generating |
 
-For a one-sentence idea, start with Suno **Simple** or MusicMaker **Basic → Description**. This example includes lyrics, so use the Custom route above. These are separate services with separate accounts, credits and usage rights; the same prompt does not guarantee the same output.
+Use [Morning with Healing Hands](https://musicmaker.im/detail/discover-v2-106/) as your reference. Its published brief describes fingerpicked guitar, upright bass, light strings and a warm male voice. Keep the instrumental palette and try an instrumental adaptation, without copying the source melody or lyrics.
 
-1. Choose one tool and paste the two blocks into its matching fields. Leave **Instrumental off** for this vocal example.
-2. Generate within your available credits. Listen to the alternatives before changing the prompt.
-3. Keep the best take. Change **one** detail for the next attempt: the instrument, vocal delivery, or lyric length.
+1. Hear the source track, open either tool above, and select **Custom**.
+2. Paste the adaptation below into its style field. Turn **Instrumental on** and leave Lyrics empty.
+3. Check your model, credits and sharing settings, then generate. Listen for unwanted vocals and whether the arrangement suits your scene.
+4. Change one thing next, such as reducing the strings, while keeping other directions fixed.
 
-**Title:** Last Train Home · **Style field**
-
-```text
-Warm indie pop, relaxed mid-tempo groove, muted electric guitar,
-rounded bass and dry drums. Intimate low lead vocal in the verse;
-a brighter chorus with light backing harmonies. Nostalgic but hopeful.
-Short intro, clear words, restrained ending.
-```
-
-**Lyrics field** — an original short song sketch:
+**Copy-ready adaptation: a warm everyday soundtrack** — an editorial exercise, not generation-tested:
 
 ```text
-[Verse]
-Your coffee ring is on the map
-We missed our stop and doubled back
-The city folds its windows closed
-I take the long way when it snows
-
-[Chorus]
-Leave one light on, I'm coming home
-Past every street we used to know
-The last train hums beneath my feet
-Leave one light on for me
-
-[Outro]
-One light on for me
+An instrumental acoustic piece for a quiet everyday scene.
+Fingerpicked guitar leads, with upright bass and light strings.
+Keep the mood warm and hopeful. No singing or spoken voice.
 ```
 
-**Listen for:** can you understand the chorus without reading it? Does it feel bigger than the verse? If the words rush, shorten a line before adding more style instructions. [Full recipe and variation →](prompts/01-last-train-home.md)
+Accounts, credits and usage rights are separate between the services; the same prompt does not guarantee the same output. [See the source brief and another adaptation exercise →](docs/listening-lab.md#3-morning-with-healing-hands)
 
-Section tags such as `[Verse]` are creative cues, not exact commands. Tempo, duration, and arrangement requests can be interpreted loosely. The [official lyrics guide](https://help.suno.com/en/articles/2415873) explains Custom mode; the [prompting guide](docs/prompting.md) helps you make the next change.
+### Want a different direction?
 
-## Pick your next sound
-
-Open a recipe in [Suno](https://suno.com/create) or [MusicMaker](https://musicmaker.im/ai-song-generator/) using Custom mode. Need a sound to aim for? Listen in [MusicMaker Discover](https://musicmaker.im/discover/) before choosing a recipe.
-
-**Songs with original lyrics**
-
-| Start intimate | Turn up the energy |
-|:--|:--|
-| [01 · Last Train Home — indie pop](prompts/01-last-train-home.md) | [04 · Weekend Platform — dance pop](prompts/04-weekend-platform.md) |
-| [02 · Kitchen Light — acoustic folk](prompts/02-kitchen-light.md) | [05 · Paper Crown — pop punk](prompts/05-paper-crown.md) |
-| [03 · Blue Receipt — late-night R&B](prompts/03-blue-receipt.md) | [06 · Mile Marker — country](prompts/06-mile-marker.md) |
-| [08 · 站台的雨 — Mandarin pop](prompts/08-rain-at-the-station.md) | [07 · Birthday Table — personal gift](prompts/07-birthday-table.md) |
-
-**Instrumentals for your project**
-
-| Quiet background | Music that moves the scene |
-|:--|:--|
-| [09 · Window Seat — lo-fi study](prompts/09-window-seat.md) | [10 · After Hours — synthwave drive](prompts/10-after-hours.md) |
-| [11 · Small Victories — podcast bed](prompts/11-small-victories.md) | [12 · Open Horizon — cinematic travel](prompts/12-open-horizon.md) |
-
-[Browse all recipes with use cases →](prompts/README.md) · [Copy a blank song brief →](templates/song-brief.md)
+Browse [MusicMaker Discover](https://musicmaker.im/discover/) for a sound to explore. The [12 supplementary original templates](prompts/README.md) offer birthday songs, Mandarin lyrics and instrumentals; these are separate exercises, not recipes behind the brand’s published tracks.
 
 ## Better songs come from better revisions
 
@@ -201,16 +165,12 @@ Discover a sound you like, then turn your own idea into a song. **MusicMaker** b
 
 ### Selected from MusicMaker Discover
 
-Open a cover to visit its MusicMaker track page, or play the audio directly. These are catalog selections, not outputs from our recipes. [Source notes](docs/sources.md) document style summaries and model provenance.
+Open a cover to visit its MusicMaker track page, or play the audio directly. These are catalog selections, not outputs from our recipes. [Source notes](docs/sources.md) document source links and model provenance.
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-108/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.webp" alt="It Takes Another Shape: cover artwork; open the MusicMaker track page" width="440"></a><br><b>It Takes Another Shape</b><br><sub>MusicMaker Discover</sub><br>Published brief: Fingerpicked guitar → a widening final chorus<br><a href="https://musicmaker.im/detail/discover-v2-108/">▶ Track page</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.mp3">Audio</a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-107/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/what_love_can_lose.webp" alt="What Love Can Lose: cover artwork; open the MusicMaker track page" width="440"></a><br><b>What Love Can Lose</b><br><sub>MusicMaker Discover</sub><br>Published brief: Felt piano → cello → layered harmonies<br><a href="https://musicmaker.im/detail/discover-v2-107/">▶ Track page</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/what_love_can_lose.mp3">Audio</a></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-106/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" alt="Morning with Healing Hands: cover artwork; open the MusicMaker track page" width="440"></a><br><b>Morning with Healing Hands</b><br><sub>MusicMaker Discover</sub><br>Published brief: Acoustic guitar, upright bass, warm male voice<br><a href="https://musicmaker.im/detail/discover-v2-106/">▶ Track page</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.mp3">Audio</a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-105/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_secret_is_you.webp" alt="The Secret Is You: cover artwork; open the MusicMaker track page" width="440"></a><br><b>The Secret Is You</b><br><sub>MusicMaker Discover</sub><br>Published brief: Nylon guitar, soft piano, final-chorus handclaps<br><a href="https://musicmaker.im/detail/discover-v2-105/">▶ Track page</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/the_secret_is_you.mp3">Audio</a></td>
+<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-101/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/island_sunshine.webp" width="440" alt="Island Sunshine: cover; listen on MusicMaker"></a><br><b>Island Sunshine</b><br><sub>MusicMaker Discover</sub><br><a href="https://musicmaker.im/detail/discover-v2-101/">▶ Open track</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/island_sunshine.mp3">Audio</a></td>
+<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-94/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp" width="440" alt="Neon Pulse: cover; listen on MusicMaker"></a><br><b>Neon Pulse</b><br><sub>MusicMaker Discover</sub><br><a href="https://musicmaker.im/detail/discover-v2-94/">▶ Open track</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.mp3">Audio</a></td>
 </tr>
 </table>
 
