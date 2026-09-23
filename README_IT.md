@@ -94,6 +94,35 @@ Account, crediti e diritti d’uso sono separati per ciascun servizio. Lo stesso
 
 [Guida completa · inglese →](docs/official-suno-guide.md) · [12 modelli originali aggiuntivi →](prompts/README.md)
 
+### MusicMaker · Ascolta · 12
+
+[MusicMaker · 148 · 中文 / English →](docs/musicmaker-catalog.md)
+
+<!-- BRAND-STYLES:START -->
+<table>
+<tr>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-1"><img src="https://cdn.musicmaker.im/musicmaker/discover_ai_music/v2/cover/where_the_wild_rivers_run.webp" width="280" alt="Folk e natura · Where the Wild Rivers Run — Apri lo stile pubblicato e i dettagli"></a><br><b>Folk e natura</b><br><a href="docs/musicmaker-catalog.md#discover-v2-1">Where the Wild Rivers Run</a><br><a href="https://musicmaker.im/detail/discover-v2-1/">▶ Ascolta</a></td>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-13"><img src="https://cdn.musicmaker.im/musicmaker/discover_ai_music/v2/cover/no_knees_no_crown.webp" width="280" alt="Rap hardcore · No Knees, No Crown — Apri lo stile pubblicato e i dettagli"></a><br><b>Rap hardcore</b><br><a href="docs/musicmaker-catalog.md#discover-v2-13">No Knees, No Crown</a><br><a href="https://musicmaker.im/detail/discover-v2-13/">▶ Ascolta</a></td>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-17"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/leave_me_bored.webp" width="280" alt="Pop punk · Leave Me Bored — Apri lo stile pubblicato e i dettagli"></a><br><b>Pop punk</b><br><a href="docs/musicmaker-catalog.md#discover-v2-17">Leave Me Bored</a><br><a href="https://musicmaker.im/detail/discover-v2-17/">▶ Ascolta</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-18"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/2am_empty_taxi.webp" width="280" alt="R&amp;B · 2AM Empty Taxi — Apri lo stile pubblicato e i dettagli"></a><br><b>R&amp;B</b><br><a href="docs/musicmaker-catalog.md#discover-v2-18">2AM Empty Taxi</a><br><a href="https://musicmaker.im/detail/discover-v2-18/">▶ Ascolta</a></td>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-37"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/rain_on_the_windowpane.webp" width="280" alt="Jazz morbido · Rain On The Windowpane — Apri lo stile pubblicato e i dettagli"></a><br><b>Jazz morbido</b><br><a href="docs/musicmaker-catalog.md#discover-v2-37">Rain On The Windowpane</a><br><a href="https://musicmaker.im/detail/discover-v2-37/">▶ Ascolta</a></td>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-41"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/ignite_the_night.webp" width="280" alt="EDM da festival · Ignite the Night — Apri lo stile pubblicato e i dettagli"></a><br><b>EDM da festival</b><br><a href="docs/musicmaker-catalog.md#discover-v2-41">Ignite the Night</a><br><a href="https://musicmaker.im/detail/discover-v2-41/">▶ Ascolta</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-45"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/backroad_kinda_heaven.webp" width="280" alt="Ballata country · Backroad Kinda Heaven — Apri lo stile pubblicato e i dettagli"></a><br><b>Ballata country</b><br><a href="docs/musicmaker-catalog.md#discover-v2-45">Backroad Kinda Heaven</a><br><a href="https://musicmaker.im/detail/discover-v2-45/">▶ Ascolta</a></td>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-54"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/candlelight_for_you.webp" width="280" alt="Canzone di compleanno · Candlelight for You — Apri lo stile pubblicato e i dettagli"></a><br><b>Canzone di compleanno</b><br><a href="docs/musicmaker-catalog.md#discover-v2-54">Candlelight for You</a><br><a href="https://musicmaker.im/detail/discover-v2-54/">▶ Ascolta</a></td>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-58"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/late_afternoon_window.webp" width="280" alt="Lo-fi · Late Afternoon Window — Apri lo stile pubblicato e i dettagli"></a><br><b>Lo-fi</b><br><a href="docs/musicmaker-catalog.md#discover-v2-58">Late Afternoon Window</a><br><a href="https://musicmaker.im/detail/discover-v2-58/">▶ Ascolta</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-85"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/midnight_lane_king.webp" width="280" alt="Phonk · Midnight Lane King — Apri lo stile pubblicato e i dettagli"></a><br><b>Phonk</b><br><a href="docs/musicmaker-catalog.md#discover-v2-85">Midnight Lane King</a><br><a href="https://musicmaker.im/detail/discover-v2-85/">▶ Ascolta</a></td>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-21"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/sleeptown_windowlight.webp" width="280" alt="Piano strumentale · Sleeptown Windowlight — Apri lo stile pubblicato e i dettagli"></a><br><b>Piano strumentale</b><br><a href="docs/musicmaker-catalog.md#discover-v2-21">Sleeptown Windowlight</a><br><a href="https://musicmaker.im/detail/discover-v2-21/">▶ Ascolta</a></td>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-24"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/crown_of_the_tempest.webp" width="280" alt="Orchestra epica · Crown of the Tempest — Apri lo stile pubblicato e i dettagli"></a><br><b>Orchestra epica</b><br><a href="docs/musicmaker-catalog.md#discover-v2-24">Crown of the Tempest</a><br><a href="https://musicmaker.im/detail/discover-v2-24/">▶ Ascolta</a></td>
+</tr>
+</table>
+<!-- BRAND-STYLES:END -->
+
 ## Scopri la tua prossima canzone preferita su MusicMaker
 
 <p align="center"><a href="https://musicmaker.im/"><img src="https://musicmaker.im/images/logo.svg" width="64" alt="MusicMaker — musicmaker.im"></a><br><strong>AI Music Maker</strong><br><a href="https://musicmaker.im/">musicmaker.im</a></p>

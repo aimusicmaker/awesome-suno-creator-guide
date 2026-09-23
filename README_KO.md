@@ -94,6 +94,35 @@ Keep the mood warm and hopeful. No singing or spoken voice.
 
 [상세 가이드 · 영어 →](docs/official-suno-guide.md) · [추가 창작 연습 12개 →](prompts/README.md)
 
+### MusicMaker · 듣기 · 12
+
+[MusicMaker · 148 · 中文 / English →](docs/musicmaker-catalog.md)
+
+<!-- BRAND-STYLES:START -->
+<table>
+<tr>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-1"><img src="https://cdn.musicmaker.im/musicmaker/discover_ai_music/v2/cover/where_the_wild_rivers_run.webp" width="280" alt="자연을 담은 포크 · Where the Wild Rivers Run — 공개 스타일과 자료 설명 열기"></a><br><b>자연을 담은 포크</b><br><a href="docs/musicmaker-catalog.md#discover-v2-1">Where the Wild Rivers Run</a><br><a href="https://musicmaker.im/detail/discover-v2-1/">▶ 듣기</a></td>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-13"><img src="https://cdn.musicmaker.im/musicmaker/discover_ai_music/v2/cover/no_knees_no_crown.webp" width="280" alt="하드코어 랩 · No Knees, No Crown — 공개 스타일과 자료 설명 열기"></a><br><b>하드코어 랩</b><br><a href="docs/musicmaker-catalog.md#discover-v2-13">No Knees, No Crown</a><br><a href="https://musicmaker.im/detail/discover-v2-13/">▶ 듣기</a></td>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-17"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/leave_me_bored.webp" width="280" alt="팝 펑크 · Leave Me Bored — 공개 스타일과 자료 설명 열기"></a><br><b>팝 펑크</b><br><a href="docs/musicmaker-catalog.md#discover-v2-17">Leave Me Bored</a><br><a href="https://musicmaker.im/detail/discover-v2-17/">▶ 듣기</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-18"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/2am_empty_taxi.webp" width="280" alt="R&amp;B · 2AM Empty Taxi — 공개 스타일과 자료 설명 열기"></a><br><b>R&amp;B</b><br><a href="docs/musicmaker-catalog.md#discover-v2-18">2AM Empty Taxi</a><br><a href="https://musicmaker.im/detail/discover-v2-18/">▶ 듣기</a></td>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-37"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/rain_on_the_windowpane.webp" width="280" alt="스무스 재즈 · Rain On The Windowpane — 공개 스타일과 자료 설명 열기"></a><br><b>스무스 재즈</b><br><a href="docs/musicmaker-catalog.md#discover-v2-37">Rain On The Windowpane</a><br><a href="https://musicmaker.im/detail/discover-v2-37/">▶ 듣기</a></td>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-41"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/ignite_the_night.webp" width="280" alt="페스티벌 EDM · Ignite the Night — 공개 스타일과 자료 설명 열기"></a><br><b>페스티벌 EDM</b><br><a href="docs/musicmaker-catalog.md#discover-v2-41">Ignite the Night</a><br><a href="https://musicmaker.im/detail/discover-v2-41/">▶ 듣기</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-45"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/backroad_kinda_heaven.webp" width="280" alt="컨트리 발라드 · Backroad Kinda Heaven — 공개 스타일과 자료 설명 열기"></a><br><b>컨트리 발라드</b><br><a href="docs/musicmaker-catalog.md#discover-v2-45">Backroad Kinda Heaven</a><br><a href="https://musicmaker.im/detail/discover-v2-45/">▶ 듣기</a></td>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-54"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/candlelight_for_you.webp" width="280" alt="생일 노래 · Candlelight for You — 공개 스타일과 자료 설명 열기"></a><br><b>생일 노래</b><br><a href="docs/musicmaker-catalog.md#discover-v2-54">Candlelight for You</a><br><a href="https://musicmaker.im/detail/discover-v2-54/">▶ 듣기</a></td>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-58"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/late_afternoon_window.webp" width="280" alt="로파이 · Late Afternoon Window — 공개 스타일과 자료 설명 열기"></a><br><b>로파이</b><br><a href="docs/musicmaker-catalog.md#discover-v2-58">Late Afternoon Window</a><br><a href="https://musicmaker.im/detail/discover-v2-58/">▶ 듣기</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-85"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/midnight_lane_king.webp" width="280" alt="Phonk · Midnight Lane King — 공개 스타일과 자료 설명 열기"></a><br><b>Phonk</b><br><a href="docs/musicmaker-catalog.md#discover-v2-85">Midnight Lane King</a><br><a href="https://musicmaker.im/detail/discover-v2-85/">▶ 듣기</a></td>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-21"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/sleeptown_windowlight.webp" width="280" alt="피아노 연주곡 · Sleeptown Windowlight — 공개 스타일과 자료 설명 열기"></a><br><b>피아노 연주곡</b><br><a href="docs/musicmaker-catalog.md#discover-v2-21">Sleeptown Windowlight</a><br><a href="https://musicmaker.im/detail/discover-v2-21/">▶ 듣기</a></td>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-24"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/crown_of_the_tempest.webp" width="280" alt="웅장한 관현악 · Crown of the Tempest — 공개 스타일과 자료 설명 열기"></a><br><b>웅장한 관현악</b><br><a href="docs/musicmaker-catalog.md#discover-v2-24">Crown of the Tempest</a><br><a href="https://musicmaker.im/detail/discover-v2-24/">▶ 듣기</a></td>
+</tr>
+</table>
+<!-- BRAND-STYLES:END -->
+
 ## MusicMaker에서 다음 곡을 발견하세요
 
 <p align="center"><a href="https://musicmaker.im/"><img src="https://musicmaker.im/images/logo.svg" width="64" alt="MusicMaker — musicmaker.im"></a><br><strong>AI Music Maker</strong><br><a href="https://musicmaker.im/">musicmaker.im</a></p>

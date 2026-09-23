@@ -94,6 +94,35 @@ Keep the mood warm and hopeful. No singing or spoken voice.
 
 [詳細指南・英文 →](docs/official-suno-guide.md) · [12 份原創補充模板 →](prompts/README.md)
 
+### MusicMaker · 試聽 · 12
+
+[MusicMaker · 148 · 中文 / English →](docs/musicmaker-catalog.md)
+
+<!-- BRAND-STYLES:START -->
+<table>
+<tr>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-1"><img src="https://cdn.musicmaker.im/musicmaker/discover_ai_music/v2/cover/where_the_wild_rivers_run.webp" width="280" alt="自然民謠 · Where the Wild Rivers Run — 開啟公開風格與素材說明"></a><br><b>自然民謠</b><br><a href="docs/musicmaker-catalog.md#discover-v2-1">Where the Wild Rivers Run</a><br><a href="https://musicmaker.im/detail/discover-v2-1/">▶ 試聽</a></td>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-13"><img src="https://cdn.musicmaker.im/musicmaker/discover_ai_music/v2/cover/no_knees_no_crown.webp" width="280" alt="硬核饒舌 · No Knees, No Crown — 開啟公開風格與素材說明"></a><br><b>硬核饒舌</b><br><a href="docs/musicmaker-catalog.md#discover-v2-13">No Knees, No Crown</a><br><a href="https://musicmaker.im/detail/discover-v2-13/">▶ 試聽</a></td>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-17"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/leave_me_bored.webp" width="280" alt="流行龐克 · Leave Me Bored — 開啟公開風格與素材說明"></a><br><b>流行龐克</b><br><a href="docs/musicmaker-catalog.md#discover-v2-17">Leave Me Bored</a><br><a href="https://musicmaker.im/detail/discover-v2-17/">▶ 試聽</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-18"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/2am_empty_taxi.webp" width="280" alt="節奏藍調 · 2AM Empty Taxi — 開啟公開風格與素材說明"></a><br><b>節奏藍調</b><br><a href="docs/musicmaker-catalog.md#discover-v2-18">2AM Empty Taxi</a><br><a href="https://musicmaker.im/detail/discover-v2-18/">▶ 試聽</a></td>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-37"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/rain_on_the_windowpane.webp" width="280" alt="柔和爵士 · Rain On The Windowpane — 開啟公開風格與素材說明"></a><br><b>柔和爵士</b><br><a href="docs/musicmaker-catalog.md#discover-v2-37">Rain On The Windowpane</a><br><a href="https://musicmaker.im/detail/discover-v2-37/">▶ 試聽</a></td>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-41"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/ignite_the_night.webp" width="280" alt="電子舞曲 · Ignite the Night — 開啟公開風格與素材說明"></a><br><b>電子舞曲</b><br><a href="docs/musicmaker-catalog.md#discover-v2-41">Ignite the Night</a><br><a href="https://musicmaker.im/detail/discover-v2-41/">▶ 試聽</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-45"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/backroad_kinda_heaven.webp" width="280" alt="鄉村抒情 · Backroad Kinda Heaven — 開啟公開風格與素材說明"></a><br><b>鄉村抒情</b><br><a href="docs/musicmaker-catalog.md#discover-v2-45">Backroad Kinda Heaven</a><br><a href="https://musicmaker.im/detail/discover-v2-45/">▶ 試聽</a></td>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-54"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/candlelight_for_you.webp" width="280" alt="生日祝福 · Candlelight for You — 開啟公開風格與素材說明"></a><br><b>生日祝福</b><br><a href="docs/musicmaker-catalog.md#discover-v2-54">Candlelight for You</a><br><a href="https://musicmaker.im/detail/discover-v2-54/">▶ 試聽</a></td>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-58"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/late_afternoon_window.webp" width="280" alt="低傳真配樂 · Late Afternoon Window — 開啟公開風格與素材說明"></a><br><b>低傳真配樂</b><br><a href="docs/musicmaker-catalog.md#discover-v2-58">Late Afternoon Window</a><br><a href="https://musicmaker.im/detail/discover-v2-58/">▶ 試聽</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-85"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/midnight_lane_king.webp" width="280" alt="Phonk · Midnight Lane King — 開啟公開風格與素材說明"></a><br><b>Phonk</b><br><a href="docs/musicmaker-catalog.md#discover-v2-85">Midnight Lane King</a><br><a href="https://musicmaker.im/detail/discover-v2-85/">▶ 試聽</a></td>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-21"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/sleeptown_windowlight.webp" width="280" alt="鋼琴純音樂 · Sleeptown Windowlight — 開啟公開風格與素材說明"></a><br><b>鋼琴純音樂</b><br><a href="docs/musicmaker-catalog.md#discover-v2-21">Sleeptown Windowlight</a><br><a href="https://musicmaker.im/detail/discover-v2-21/">▶ 試聽</a></td>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-24"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/crown_of_the_tempest.webp" width="280" alt="史詩管弦樂 · Crown of the Tempest — 開啟公開風格與素材說明"></a><br><b>史詩管弦樂</b><br><a href="docs/musicmaker-catalog.md#discover-v2-24">Crown of the Tempest</a><br><a href="https://musicmaker.im/detail/discover-v2-24/">▶ 試聽</a></td>
+</tr>
+</table>
+<!-- BRAND-STYLES:END -->
+
 ## MusicMaker｜發現你的下一首歌
 
 <p align="center"><a href="https://musicmaker.im/"><img src="https://musicmaker.im/images/logo.svg" width="64" alt="MusicMaker — musicmaker.im"></a><br><strong>AI Music Maker</strong><br><a href="https://musicmaker.im/">musicmaker.im</a></p>

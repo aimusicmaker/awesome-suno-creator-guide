@@ -5,6 +5,7 @@ Run from any directory. Standard library only; does not claim to validate audio
 quality, remote availability, or how GitHub renders the page.
 """
 import re
+import json
 import sys
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
@@ -95,6 +96,31 @@ for name in home_names:
     for img in re.findall(r'<img\b[^>]*>', body):
         if not re.search(r'alt="[^"\s][^"]*"', img):
             errors.append(f'{name}: image needs descriptive alt text')
+
+# The source catalog is complete, and every homepage selects the same 12 real tracks.
+catalog = json.loads((ROOT / 'data/musicmaker-discover.json').read_text())
+tracks = {t['id']: t for t in catalog['tracks']}
+if len(tracks) != sum(catalog['sourceCollections'].values()) or len(tracks) != len(catalog['tracks']):
+    errors.append('Catalog count differs from source collections or contains duplicate IDs')
+featured = catalog['featured']
+if len(featured) != 12 or len(set(featured)) != 12 or not set(featured) <= tracks.keys():
+    errors.append('Expected 12 distinct, existing featured source tracks')
+for t in tracks.values():
+    if t['category'] not in catalog['categories']:
+        errors.append(f"Unknown source category: {t['id']}")
+    if t['id'] not in anchors((ROOT / 'docs/musicmaker-catalog.md').read_text()):
+        errors.append(f"Missing catalog record: {t['id']}")
+for name in home_names:
+    body = (ROOT / name).read_text()
+    selection = re.search(r'<!-- BRAND-STYLES:START -->(.*?)<!-- BRAND-STYLES:END -->', body, re.S)
+    cards = re.findall(r'<td\b.*?</td>', selection[1], re.S) if selection else []
+    if len(cards) != 12:
+        errors.append(f'{name}: expected 12 illustrated brand selections')
+        continue
+    for card, ident in zip(cards, featured):
+        t = tracks[ident]
+        if not all(value in card for value in [f'docs/musicmaker-catalog.md#{ident}', t['coverUrl'], t['sourceUrl']]):
+            errors.append(f'{name}: mismatched brand selection: {ident}')
 
 if errors:
     print('\n'.join(errors))

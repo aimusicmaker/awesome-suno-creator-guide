@@ -94,3 +94,11 @@ The [MusicMaker song generator](https://musicmaker.im/ai-song-generator/) was in
 The fifteen language links match the language navigation on [MusicMaker Discover](https://musicmaker.im/discover/), checked September 23, 2026: English, Japanese, Indonesian, Italian, Portuguese, Spanish, German, Russian, French, Simplified Chinese, Traditional Chinese, Korean, Thai, Vietnamese and Arabic. Localized README pages provide the main reader journey; detailed reference documents remain in English and are labeled accordingly.
 
 The nine-track brand gallery uses existing MusicMaker titles, covers and public audio URLs. It adds seven source records checked September 23, 2026. Tracks without a published Style field are not assigned invented genre labels. Images link to the matching source track, and audio links remain separate.
+
+## Complete MusicMaker Discover snapshot
+
+The [complete catalog](musicmaker-catalog.md) covers **148 public Discover records** checked September 23, 2026: 108 in the newer collection and 40 in the earlier collection, presented in ten 15-item pages (the final page has 13 items). The public Discover page loads both collections; the exact public data URL is retained in the [source snapshot](../data/musicmaker-discover.json). This covers Discover at that date, not private tracks or future additions.
+
+We retain titles, covers, audio links, published Style and tags, source model labels, and source links. Lyrics and media binaries are not copied. Reader categories are editorial groupings based on published Style/tags; the birthday group is based on the source lyrics’ explicit birthday theme. Twenty-four records publish neither Style nor tags and remain unclassified. Published Style is source metadata, not a claim to recover the complete original generation prompt, settings or editing history. Source text is not relicensed under the repository MIT license.
+
+The README selects twelve different directions from this catalog. Its images and titles link to the corresponding catalog record; its listening links open the original brand track. The separate nine-track listening gallery is unchanged. Regenerate the catalog with `python3 scripts/build_musicmaker_catalog.py`; `--check` verifies that it still matches the stored snapshot.

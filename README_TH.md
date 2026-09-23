@@ -94,6 +94,35 @@ Keep the mood warm and hopeful. No singing or spoken voice.
 
 [คู่มือละเอียด · อังกฤษ →](docs/official-suno-guide.md) · [แม่แบบต้นฉบับเพิ่มเติม 12 แบบ →](prompts/README.md)
 
+### MusicMaker · ฟังเพลง · 12
+
+[MusicMaker · 148 · 中文 / English →](docs/musicmaker-catalog.md)
+
+<!-- BRAND-STYLES:START -->
+<table>
+<tr>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-1"><img src="https://cdn.musicmaker.im/musicmaker/discover_ai_music/v2/cover/where_the_wild_rivers_run.webp" width="280" alt="โฟล์กแนวธรรมชาติ · Where the Wild Rivers Run — เปิดสไตล์ที่เผยแพร่และรายละเอียดต้นฉบับ"></a><br><b>โฟล์กแนวธรรมชาติ</b><br><a href="docs/musicmaker-catalog.md#discover-v2-1">Where the Wild Rivers Run</a><br><a href="https://musicmaker.im/detail/discover-v2-1/">▶ ฟังเพลง</a></td>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-13"><img src="https://cdn.musicmaker.im/musicmaker/discover_ai_music/v2/cover/no_knees_no_crown.webp" width="280" alt="แร็ปฮาร์ดคอร์ · No Knees, No Crown — เปิดสไตล์ที่เผยแพร่และรายละเอียดต้นฉบับ"></a><br><b>แร็ปฮาร์ดคอร์</b><br><a href="docs/musicmaker-catalog.md#discover-v2-13">No Knees, No Crown</a><br><a href="https://musicmaker.im/detail/discover-v2-13/">▶ ฟังเพลง</a></td>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-17"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/leave_me_bored.webp" width="280" alt="ป็อปพังก์ · Leave Me Bored — เปิดสไตล์ที่เผยแพร่และรายละเอียดต้นฉบับ"></a><br><b>ป็อปพังก์</b><br><a href="docs/musicmaker-catalog.md#discover-v2-17">Leave Me Bored</a><br><a href="https://musicmaker.im/detail/discover-v2-17/">▶ ฟังเพลง</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-18"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/2am_empty_taxi.webp" width="280" alt="อาร์แอนด์บี · 2AM Empty Taxi — เปิดสไตล์ที่เผยแพร่และรายละเอียดต้นฉบับ"></a><br><b>อาร์แอนด์บี</b><br><a href="docs/musicmaker-catalog.md#discover-v2-18">2AM Empty Taxi</a><br><a href="https://musicmaker.im/detail/discover-v2-18/">▶ ฟังเพลง</a></td>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-37"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/rain_on_the_windowpane.webp" width="280" alt="แจ๊สนุ่มนวล · Rain On The Windowpane — เปิดสไตล์ที่เผยแพร่และรายละเอียดต้นฉบับ"></a><br><b>แจ๊สนุ่มนวล</b><br><a href="docs/musicmaker-catalog.md#discover-v2-37">Rain On The Windowpane</a><br><a href="https://musicmaker.im/detail/discover-v2-37/">▶ ฟังเพลง</a></td>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-41"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/ignite_the_night.webp" width="280" alt="อีดีเอ็มเทศกาล · Ignite the Night — เปิดสไตล์ที่เผยแพร่และรายละเอียดต้นฉบับ"></a><br><b>อีดีเอ็มเทศกาล</b><br><a href="docs/musicmaker-catalog.md#discover-v2-41">Ignite the Night</a><br><a href="https://musicmaker.im/detail/discover-v2-41/">▶ ฟังเพลง</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-45"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/backroad_kinda_heaven.webp" width="280" alt="คันทรีบัลลาด · Backroad Kinda Heaven — เปิดสไตล์ที่เผยแพร่และรายละเอียดต้นฉบับ"></a><br><b>คันทรีบัลลาด</b><br><a href="docs/musicmaker-catalog.md#discover-v2-45">Backroad Kinda Heaven</a><br><a href="https://musicmaker.im/detail/discover-v2-45/">▶ ฟังเพลง</a></td>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-54"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/candlelight_for_you.webp" width="280" alt="เพลงวันเกิด · Candlelight for You — เปิดสไตล์ที่เผยแพร่และรายละเอียดต้นฉบับ"></a><br><b>เพลงวันเกิด</b><br><a href="docs/musicmaker-catalog.md#discover-v2-54">Candlelight for You</a><br><a href="https://musicmaker.im/detail/discover-v2-54/">▶ ฟังเพลง</a></td>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-58"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/late_afternoon_window.webp" width="280" alt="โลไฟ · Late Afternoon Window — เปิดสไตล์ที่เผยแพร่และรายละเอียดต้นฉบับ"></a><br><b>โลไฟ</b><br><a href="docs/musicmaker-catalog.md#discover-v2-58">Late Afternoon Window</a><br><a href="https://musicmaker.im/detail/discover-v2-58/">▶ ฟังเพลง</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-85"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/midnight_lane_king.webp" width="280" alt="Phonk · Midnight Lane King — เปิดสไตล์ที่เผยแพร่และรายละเอียดต้นฉบับ"></a><br><b>Phonk</b><br><a href="docs/musicmaker-catalog.md#discover-v2-85">Midnight Lane King</a><br><a href="https://musicmaker.im/detail/discover-v2-85/">▶ ฟังเพลง</a></td>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-21"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/sleeptown_windowlight.webp" width="280" alt="เปียโนบรรเลง · Sleeptown Windowlight — เปิดสไตล์ที่เผยแพร่และรายละเอียดต้นฉบับ"></a><br><b>เปียโนบรรเลง</b><br><a href="docs/musicmaker-catalog.md#discover-v2-21">Sleeptown Windowlight</a><br><a href="https://musicmaker.im/detail/discover-v2-21/">▶ ฟังเพลง</a></td>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-24"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/crown_of_the_tempest.webp" width="280" alt="ออร์เคสตรายิ่งใหญ่ · Crown of the Tempest — เปิดสไตล์ที่เผยแพร่และรายละเอียดต้นฉบับ"></a><br><b>ออร์เคสตรายิ่งใหญ่</b><br><a href="docs/musicmaker-catalog.md#discover-v2-24">Crown of the Tempest</a><br><a href="https://musicmaker.im/detail/discover-v2-24/">▶ ฟังเพลง</a></td>
+</tr>
+</table>
+<!-- BRAND-STYLES:END -->
+
 ## ค้นพบเพลงโปรดเพลงต่อไปบน MusicMaker
 
 <p align="center"><a href="https://musicmaker.im/"><img src="https://musicmaker.im/images/logo.svg" width="64" alt="MusicMaker — musicmaker.im"></a><br><strong>AI Music Maker</strong><br><a href="https://musicmaker.im/">musicmaker.im</a></p>

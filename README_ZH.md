@@ -160,7 +160,36 @@ Keep the mood warm and hopeful. No singing or spoken voice.
 
 ### 想换一种风格？
 
-先逛 [MusicMaker 曲库](https://musicmaker.im/discover/)，找到想借鉴的声音。另有 [12 份原创补充模板](prompts/README.md)，涵盖中文歌、生日歌和纯音乐；这些是独立练习，不对应品牌现有作品。
+先从 **12 种方向**里挑一首。图片和歌名进入对应素材，查看公开风格；“试听”打开品牌原作品。完整索引已收录 [MusicMaker Discover 曲库的 148 首作品](docs/musicmaker-catalog.md)，含封面、音频、公开风格与标签（核对时间：2026-09-23）。
+
+<!-- BRAND-STYLES:START -->
+<table>
+<tr>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-1"><img src="https://cdn.musicmaker.im/musicmaker/discover_ai_music/v2/cover/where_the_wild_rivers_run.webp" width="280" alt="自然民谣 · Where the Wild Rivers Run — 打开公开风格与素材说明"></a><br><b>自然民谣</b><br><a href="docs/musicmaker-catalog.md#discover-v2-1">Where the Wild Rivers Run</a><br><a href="https://musicmaker.im/detail/discover-v2-1/">▶ 试听</a></td>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-13"><img src="https://cdn.musicmaker.im/musicmaker/discover_ai_music/v2/cover/no_knees_no_crown.webp" width="280" alt="硬核说唱 · No Knees, No Crown — 打开公开风格与素材说明"></a><br><b>硬核说唱</b><br><a href="docs/musicmaker-catalog.md#discover-v2-13">No Knees, No Crown</a><br><a href="https://musicmaker.im/detail/discover-v2-13/">▶ 试听</a></td>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-17"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/leave_me_bored.webp" width="280" alt="流行朋克 · Leave Me Bored — 打开公开风格与素材说明"></a><br><b>流行朋克</b><br><a href="docs/musicmaker-catalog.md#discover-v2-17">Leave Me Bored</a><br><a href="https://musicmaker.im/detail/discover-v2-17/">▶ 试听</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-18"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/2am_empty_taxi.webp" width="280" alt="节奏蓝调 · 2AM Empty Taxi — 打开公开风格与素材说明"></a><br><b>节奏蓝调</b><br><a href="docs/musicmaker-catalog.md#discover-v2-18">2AM Empty Taxi</a><br><a href="https://musicmaker.im/detail/discover-v2-18/">▶ 试听</a></td>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-37"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/rain_on_the_windowpane.webp" width="280" alt="柔和爵士 · Rain On The Windowpane — 打开公开风格与素材说明"></a><br><b>柔和爵士</b><br><a href="docs/musicmaker-catalog.md#discover-v2-37">Rain On The Windowpane</a><br><a href="https://musicmaker.im/detail/discover-v2-37/">▶ 试听</a></td>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-41"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/ignite_the_night.webp" width="280" alt="电子舞曲 · Ignite the Night — 打开公开风格与素材说明"></a><br><b>电子舞曲</b><br><a href="docs/musicmaker-catalog.md#discover-v2-41">Ignite the Night</a><br><a href="https://musicmaker.im/detail/discover-v2-41/">▶ 试听</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-45"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/backroad_kinda_heaven.webp" width="280" alt="乡村抒情 · Backroad Kinda Heaven — 打开公开风格与素材说明"></a><br><b>乡村抒情</b><br><a href="docs/musicmaker-catalog.md#discover-v2-45">Backroad Kinda Heaven</a><br><a href="https://musicmaker.im/detail/discover-v2-45/">▶ 试听</a></td>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-54"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/candlelight_for_you.webp" width="280" alt="生日祝福 · Candlelight for You — 打开公开风格与素材说明"></a><br><b>生日祝福</b><br><a href="docs/musicmaker-catalog.md#discover-v2-54">Candlelight for You</a><br><a href="https://musicmaker.im/detail/discover-v2-54/">▶ 试听</a></td>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-58"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/late_afternoon_window.webp" width="280" alt="低保真配乐 · Late Afternoon Window — 打开公开风格与素材说明"></a><br><b>低保真配乐</b><br><a href="docs/musicmaker-catalog.md#discover-v2-58">Late Afternoon Window</a><br><a href="https://musicmaker.im/detail/discover-v2-58/">▶ 试听</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-85"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/midnight_lane_king.webp" width="280" alt="Phonk · Midnight Lane King — 打开公开风格与素材说明"></a><br><b>Phonk</b><br><a href="docs/musicmaker-catalog.md#discover-v2-85">Midnight Lane King</a><br><a href="https://musicmaker.im/detail/discover-v2-85/">▶ 试听</a></td>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-21"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/sleeptown_windowlight.webp" width="280" alt="钢琴纯音乐 · Sleeptown Windowlight — 打开公开风格与素材说明"></a><br><b>钢琴纯音乐</b><br><a href="docs/musicmaker-catalog.md#discover-v2-21">Sleeptown Windowlight</a><br><a href="https://musicmaker.im/detail/discover-v2-21/">▶ 试听</a></td>
+<td width="33%" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-24"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/crown_of_the_tempest.webp" width="280" alt="史诗管弦乐 · Crown of the Tempest — 打开公开风格与素材说明"></a><br><b>史诗管弦乐</b><br><a href="docs/musicmaker-catalog.md#discover-v2-24">Crown of the Tempest</a><br><a href="https://musicmaker.im/detail/discover-v2-24/">▶ 试听</a></td>
+</tr>
+</table>
+<!-- BRAND-STYLES:END -->
+
+[按类型浏览全部素材 →](docs/musicmaker-catalog.md#按类型浏览--browse-by-type) · [去 MusicMaker 创作 →](https://musicmaker.im/ai-song-generator/)
+
+<sub>另有 [12 份原创练习模板](prompts/README.md)，用于补充练习，不是上面作品的原始提示词。</sub>
 
 ## 生成结果不对，怎么办？
 
