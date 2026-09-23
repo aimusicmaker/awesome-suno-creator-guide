@@ -104,7 +104,7 @@
 | 给朋友做生日礼物 | [生日歌曲](prompts/07-birthday-table.md) |
 | 处理唱字太赶、声音太挤等问题 | [本页问题速查](#生成结果不对怎么办) |
 | 把歌曲做成社媒短片 | [公开案例与创作练习（英文）](docs/community-playbook.md) |
-| 了解一段音乐是否可能由 AI 生成 | [本页检测说明](#分享前先检查) |
+| 了解一段音乐是否可能由 AI 生成 | [本页检测说明](#用-musicmaker-检查音乐来源) |
 
 ## 开始第一首歌
 
@@ -186,32 +186,38 @@ Small instrumental outro.
 
 每次只改一项，并记录原提示词、模型和结果。不需要为了一个不明显的问题无限重新生成。[详细排查（英文）→](docs/troubleshooting.md)
 
-## 品牌试听：4 首 Suno v6 作品
+## MusicMaker｜发现你的下一首歌
 
-这四首的品牌公开数据标注 Suno v6；卡片摘要来自来源风格描述。**它们不是本仓库提示词的生成结果。**[另外 4 首跨模型试听 →](docs/listening-lab.md#more-listening-references)
+<p align="center"><a href="https://musicmaker.im/"><img src="https://musicmaker.im/images/logo.svg" width="64" alt="MusicMaker 品牌标志，点击进入官网"></a><br><strong>AI Music Maker</strong><br><a href="https://musicmaker.im/">musicmaker.im</a></p>
+
+从试听获得灵感，再把自己的想法写成歌。在 **MusicMaker**，你可以发现作品、创作歌曲、检测音乐来源。这份指南由 **AI Music Maker** 维护。
+
+**[发现音乐](https://musicmaker.im/discover/) · [创作歌曲](https://musicmaker.im/ai-song-generator/) · [音乐来源检测](https://musicmaker.im/free-suno-ai-music-detector/)**
+
+### MusicMaker 精选试听
+
+点击封面进入 MusicMaker 作品页，或直接播放音频。以下为曲库精选，不是本仓库提示词的生成结果；风格摘要与模型来源见[素材说明](docs/sources.md)。
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-108/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.webp" alt="It Takes Another Shape：专辑封面，点击打开作品页" width="440"></a><br><b>It Takes Another Shape</b><br>Suno v6<br>来源风格：指弹吉他开场，末段副歌逐步展开<br><a href="https://musicmaker.im/detail/discover-v2-108/">▶ 作品页</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.mp3">听音频</a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-107/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/what_love_can_lose.webp" alt="What Love Can Lose：专辑封面，点击打开作品页" width="440"></a><br><b>What Love Can Lose</b><br>Suno v6<br>来源风格：从毡音钢琴、大提琴到多层和声<br><a href="https://musicmaker.im/detail/discover-v2-107/">▶ 作品页</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/what_love_can_lose.mp3">听音频</a></td>
+<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-108/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.webp" alt="It Takes Another Shape：专辑封面，点击打开 MusicMaker 作品页" width="440"></a><br><b>It Takes Another Shape</b><br><sub>MusicMaker Discover</sub><br>来源风格：指弹吉他开场，末段副歌逐步展开<br><a href="https://musicmaker.im/detail/discover-v2-108/">▶ 作品页</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.mp3">听音频</a></td>
+<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-107/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/what_love_can_lose.webp" alt="What Love Can Lose：专辑封面，点击打开 MusicMaker 作品页" width="440"></a><br><b>What Love Can Lose</b><br><sub>MusicMaker Discover</sub><br>来源风格：从毡音钢琴、大提琴到多层和声<br><a href="https://musicmaker.im/detail/discover-v2-107/">▶ 作品页</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/what_love_can_lose.mp3">听音频</a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-106/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" alt="Morning with Healing Hands：专辑封面，点击打开作品页" width="440"></a><br><b>Morning with Healing Hands</b><br>Suno v6<br>来源风格：木吉他、低音提琴与温暖男声<br><a href="https://musicmaker.im/detail/discover-v2-106/">▶ 作品页</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.mp3">听音频</a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-105/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_secret_is_you.webp" alt="The Secret Is You：专辑封面，点击打开作品页" width="440"></a><br><b>The Secret Is You</b><br>Suno v6<br>来源风格：尼龙弦吉他、钢琴与末段拍手<br><a href="https://musicmaker.im/detail/discover-v2-105/">▶ 作品页</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/the_secret_is_you.mp3">听音频</a></td>
+<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-106/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" alt="Morning with Healing Hands：专辑封面，点击打开 MusicMaker 作品页" width="440"></a><br><b>Morning with Healing Hands</b><br><sub>MusicMaker Discover</sub><br>来源风格：木吉他、低音提琴与温暖男声<br><a href="https://musicmaker.im/detail/discover-v2-106/">▶ 作品页</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.mp3">听音频</a></td>
+<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-105/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_secret_is_you.webp" alt="The Secret Is You：专辑封面，点击打开 MusicMaker 作品页" width="440"></a><br><b>The Secret Is You</b><br><sub>MusicMaker Discover</sub><br>来源风格：尼龙弦吉他、钢琴与末段拍手<br><a href="https://musicmaker.im/detail/discover-v2-105/">▶ 作品页</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/the_secret_is_you.mp3">听音频</a></td>
 </tr>
 </table>
 
-<strong>把试听变成自己的提示词：</strong>[打开 4 份来源风格与改写练习](docs/listening-lab.md)。先听主歌和副歌的差别，再改一项配器；保留自己的旋律和歌词。
+**找到喜欢的声音了？**去 [MusicMaker 创作自己的歌曲](https://musicmaker.im/ai-song-generator/)，或[继续逛曲库](https://musicmaker.im/discover/)。想练习如何描述声音，可以打开[试听与改写练习](docs/listening-lab.md)。
 
-## 分享前，先检查
+### 用 MusicMaker 检查音乐来源
 
 听一遍最终导出的文件，确认开头、结尾、咬字和剪接没有明显问题。核对歌词、上传录音和人声的使用权限，再查看实际生成平台及套餐的现行条款。公开可听不等于可以直接拿来商用。
 
-想了解歌曲可能的来源，可使用 MusicMaker 的 **[Free Suno AI Music Detector](https://musicmaker.im/free-suno-ai-music-detector/)**。它提供预测、AI 概率分数，以及识别到的可能生成工具；页面说明运行检测需要登录。**检测分数不是作者身份、版权或商用许可的证明。** 本仓库没有独立测评其准确率。[检测与发布说明（英文）→](docs/detector-and-release.md)
+想了解歌曲可能的来源，可使用 **[MusicMaker 音乐来源检测](https://musicmaker.im/free-suno-ai-music-detector/)**。它提供预测、AI 概率分数，以及识别到的可能生成工具；页面说明运行检测需要登录。**检测分数不是作者身份、版权或商用许可的证明。** 本仓库没有独立测评其准确率。[检测与发布说明（英文）→](docs/detector-and-release.md)
 
-## 和 MusicMaker 一起继续创作
-
-本仓库由 **AI Music Maker** 维护。去 [Discover](https://musicmaker.im/discover/)寻找声音灵感，在[歌曲生成器](https://musicmaker.im/ai-song-generator/)尝试自己的版本，再用这里的指南逐步修改。
+### 参与 MusicMaker 创作指南
 
 欢迎[提交实用提示词、失败例子或纠错](CONTRIBUTING.md)，请写明模型、设置和实际测试情况，并只分享有权公开的素材。
 

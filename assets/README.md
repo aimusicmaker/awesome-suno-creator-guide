@@ -14,3 +14,5 @@ Do not infer a relationship with Suno from the guide's title. Names are used to 
 The README links four Suno interview header images (Dream Relic, Matt Steffanina, sad alex, Eric Christian), hosted on Suno's Sanity image CDN. Each image links back to its interview for attribution and context. These images, MusicMaker covers, and linked recordings are third-party media and are **not included in the repository's MIT license**. No new reuse license is granted here. See [source notes](../docs/sources.md).
 
 The original workflow diagram and X editorial cards are repository illustrations, not official Suno graphics. Source quotations, external images and video thumbnails remain attributed source material and are not relicensed by MIT.
+
+The MusicMaker logo in the brand section is linked from the official website (`https://musicmaker.im/images/logo.svg`) and opens that website. It remains a brand mark, not an MIT-licensed repository illustration.

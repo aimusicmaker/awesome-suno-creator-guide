@@ -179,32 +179,38 @@ Section tags such as `[Verse]` are creative cues, not exact commands. Tempo, dur
 
 [Write better prompts](docs/prompting.md) · [Shape the lyrics](docs/lyrics-and-structure.md) · [Fix common problems](docs/troubleshooting.md)
 
-## Brand listening: 4 Suno v6 tracks
+## MusicMaker · Find your next favorite song
 
-These four are labeled Suno v6 in the brand’s public data; captions summarize the published briefs. **They are not outputs from our recipes.** [4 more cross-model references →](docs/listening-lab.md#more-listening-references)
+<p align="center"><a href="https://musicmaker.im/"><img src="https://musicmaker.im/images/logo.svg" width="64" alt="MusicMaker logo; open the official website"></a><br><strong>AI Music Maker</strong><br><a href="https://musicmaker.im/">musicmaker.im</a></p>
+
+Discover a sound you like, then turn your own idea into a song. **MusicMaker** brings together track discovery, song creation, and music-origin detection. AI Music Maker maintains this guide.
+
+**[Discover music](https://musicmaker.im/discover/) · [Create a song](https://musicmaker.im/ai-song-generator/) · [Check music origin](https://musicmaker.im/free-suno-ai-music-detector/)**
+
+### Selected from MusicMaker Discover
+
+Open a cover to visit its MusicMaker track page, or play the audio directly. These are catalog selections, not outputs from our recipes. [Source notes](docs/sources.md) document style summaries and model provenance.
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-108/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.webp" alt="It Takes Another Shape: cover artwork; open the track page" width="440"></a><br><b>It Takes Another Shape</b><br>Suno v6<br>Published brief: Fingerpicked guitar → a widening final chorus<br><a href="https://musicmaker.im/detail/discover-v2-108/">▶ Track page</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.mp3">Audio</a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-107/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/what_love_can_lose.webp" alt="What Love Can Lose: cover artwork; open the track page" width="440"></a><br><b>What Love Can Lose</b><br>Suno v6<br>Published brief: Felt piano → cello → layered harmonies<br><a href="https://musicmaker.im/detail/discover-v2-107/">▶ Track page</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/what_love_can_lose.mp3">Audio</a></td>
+<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-108/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.webp" alt="It Takes Another Shape: cover artwork; open the MusicMaker track page" width="440"></a><br><b>It Takes Another Shape</b><br><sub>MusicMaker Discover</sub><br>Published brief: Fingerpicked guitar → a widening final chorus<br><a href="https://musicmaker.im/detail/discover-v2-108/">▶ Track page</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.mp3">Audio</a></td>
+<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-107/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/what_love_can_lose.webp" alt="What Love Can Lose: cover artwork; open the MusicMaker track page" width="440"></a><br><b>What Love Can Lose</b><br><sub>MusicMaker Discover</sub><br>Published brief: Felt piano → cello → layered harmonies<br><a href="https://musicmaker.im/detail/discover-v2-107/">▶ Track page</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/what_love_can_lose.mp3">Audio</a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-106/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" alt="Morning with Healing Hands: cover artwork; open the track page" width="440"></a><br><b>Morning with Healing Hands</b><br>Suno v6<br>Published brief: Acoustic guitar, upright bass, warm male voice<br><a href="https://musicmaker.im/detail/discover-v2-106/">▶ Track page</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.mp3">Audio</a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-105/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_secret_is_you.webp" alt="The Secret Is You: cover artwork; open the track page" width="440"></a><br><b>The Secret Is You</b><br>Suno v6<br>Published brief: Nylon guitar, soft piano, final-chorus handclaps<br><a href="https://musicmaker.im/detail/discover-v2-105/">▶ Track page</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/the_secret_is_you.mp3">Audio</a></td>
+<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-106/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" alt="Morning with Healing Hands: cover artwork; open the MusicMaker track page" width="440"></a><br><b>Morning with Healing Hands</b><br><sub>MusicMaker Discover</sub><br>Published brief: Acoustic guitar, upright bass, warm male voice<br><a href="https://musicmaker.im/detail/discover-v2-106/">▶ Track page</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.mp3">Audio</a></td>
+<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-105/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_secret_is_you.webp" alt="The Secret Is You: cover artwork; open the MusicMaker track page" width="440"></a><br><b>The Secret Is You</b><br><sub>MusicMaker Discover</sub><br>Published brief: Nylon guitar, soft piano, final-chorus handclaps<br><a href="https://musicmaker.im/detail/discover-v2-105/">▶ Track page</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/the_secret_is_you.mp3">Audio</a></td>
 </tr>
 </table>
 
-**Turn listening into your own prompt:** [4 published briefs and adaptation exercises](docs/listening-lab.md). Compare a verse with its chorus, then change one arrangement detail. Keep your melody and lyrics original.
+**Found a sound you like?** [Create your own song on MusicMaker](https://musicmaker.im/ai-song-generator/) or [keep exploring Discover](https://musicmaker.im/discover/). For a guided exercise, open the [listening lab](docs/listening-lab.md).
 
-## From a draft to something you can share
+### Check music origin with MusicMaker
 
 Before release, listen for abrupt endings and unclear words, check the rights to your inputs, and review the terms for the platform and plan used to create the song. A public listening link does not grant permission to reuse that recording.
 
-Curious about a track's origin? MusicMaker's **[Free Suno AI Music Detector](https://musicmaker.im/free-suno-ai-music-detector/)** provides a prediction, an AI probability score, and a likely generator when identified. Treat this as a clue, not proof of authorship or a commercial-use license. The site asks you to sign in to run the check. [How to interpret a result and prepare a release →](docs/detector-and-release.md)
+Curious about a track's origin? **[MusicMaker’s music-origin detector](https://musicmaker.im/free-suno-ai-music-detector/)** provides a prediction, an AI probability score, and a likely generator when identified. Treat this as a clue, not proof of authorship or a commercial-use license. The site asks you to sign in to run the check. [How to interpret a result and prepare a release →](docs/detector-and-release.md)
 
-## Made with the MusicMaker community
-
-This guide is part of AI Music Maker's creator resources. Use [Discover](https://musicmaker.im/discover/) for listening ideas, [Create Song](https://musicmaker.im/ai-song-generator/) to develop your own, and the guides here to make each revision more deliberate.
+### Contribute to the MusicMaker guide
 
 Have a better recipe? [Contribute a prompt or correction](CONTRIBUTING.md) with the model, settings, and an output you have permission to share. Useful failures are welcome too.
 
