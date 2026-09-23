@@ -83,8 +83,7 @@ Start with **4 official v6 prompt examples** and 3 video demos, then explore the
 
 <p align="center"><a href="https://x.com/suno/status/2098504035292618787"><img src="../assets/x-cases/arc.svg" width="100%" alt="Describe an emotional arc; open Suno’s original X prompt"></a><br><b>Describe an emotional arc</b><br><code>The verses are intimate, then the chorus cracks open</code><br><sub><a href="https://x.com/suno">@suno</a> · v6 Simple · 2026-09-12 · excerpt</sub></p>
 
-<details>
-<summary>▶ 3 official video demonstrations: audio inputs, effects, and v6 workflow</summary>
+### 3 official video demonstrations: audio inputs, effects, and v6 workflow
 
 **See input become music:** explore the creative process, from a typing-sound soundtrack and effect adjustments to the v6 workflow.
 
@@ -96,7 +95,6 @@ Start with **4 official v6 prompt examples** and 3 video demos, then explore the
 
 Open the source posts for videos and production notes. X may require sign-in.
 
-</details>
 
 <a id="learn-from-the-community"></a>
 **From prompts to finished work: 4 official Suno creator interviews**

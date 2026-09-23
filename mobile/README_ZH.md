@@ -92,8 +92,7 @@
 
 <p align="center"><a href="https://x.com/suno/status/2098504035292618787"><img src="../assets/x-cases/arc.svg" width="100%" alt="写清情绪怎样变化；点击阅读 Suno 原帖"></a><br><b>写清情绪怎样变化</b><br><code>The verses are intimate, then the chorus cracks open</code><br><sub><a href="https://x.com/suno">@suno</a> · v6 Simple · 2026-09-12 · 原文节选</sub></p>
 
-<details>
-<summary>▶ 展开 3 个官方视频案例：声音输入、音效编辑与 v6 创作流程</summary>
+### 3 个官方视频案例：声音输入、音效编辑与 v6 创作流程
 
 <strong>看输入如何变成作品：</strong>从打字声配乐、音效调整到 v6 工作流程，参考官方演示中的创作方法。
 
@@ -105,7 +104,6 @@
 
 点击原帖查看视频和制作说明。X 可能需要登录。
 
-</details>
 
 <a id="看看创作者怎样使用这些工具"></a>
 **从提示词到作品：4 篇 Suno 官方创作者访谈**
