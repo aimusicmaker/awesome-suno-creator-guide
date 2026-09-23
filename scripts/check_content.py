@@ -119,6 +119,17 @@ for name in home_names:
         if not all(value in card for value in [f'docs/musicmaker-catalog.md#{ident}', t['coverUrl'], t['sourceUrl']]):
             errors.append(f'{name}: mismatched brand selection: {ident}')
 
+# Distinct reader sections should introduce different source tracks.
+brief_ids = {b['id'] for b in catalog['creationBriefs']}
+if brief_ids & set(featured):
+    errors.append('Creation briefs and further styles must not repeat source tracks')
+for name in home_names:
+    body = (ROOT / name).read_text()
+    gallery = re.search(r'<!-- MUSICMAKER-GALLERY:START -->(.*?)<!-- MUSICMAKER-GALLERY:END -->', body, re.S)
+    gallery_ids = set(re.findall(r'/detail/(discover(?:-v2)?-\d+)/', gallery[1])) if gallery else set()
+    if gallery_ids & (brief_ids | set(featured)):
+        errors.append(f'{name}: brand listening gallery repeats an earlier selection')
+
 # Creation briefs must be a true 3x3 selection of distinct, source-backed records.
 briefs = catalog['creationBriefs']
 if len(briefs) != 9 or len({b['id'] for b in briefs}) != 9:
