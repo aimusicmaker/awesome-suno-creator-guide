@@ -67,11 +67,6 @@ for recipe in recipes:
             errors.append(f'{index.name}: recipe not discoverable: {recipe.name}')
 
 
-for homepage in [ROOT / 'README.md', ROOT / 'README_ZH.md']:
-    body = homepage.read_text()
-    if 'prompts/README.md' not in body:
-        errors.append(f'{homepage.name}: missing supplementary recipe index')
-
 # All brand-supported entry languages must remain real, mutually linked pages.
 home_names = ['README.md'] + [f'README_{code}.md' for code in
     ['ZH', 'TW', 'JA', 'KO', 'ID', 'IT', 'PT', 'ES', 'DE', 'RU', 'FR', 'TH', 'VI', 'AR']]

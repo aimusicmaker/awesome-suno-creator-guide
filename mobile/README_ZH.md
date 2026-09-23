@@ -39,7 +39,7 @@
 
 适合第一次写歌的人、需要视频配乐的创作者，以及“脑中有声音，却总生成不出来”的音乐爱好者。先了解官方能力，再从 X 社区作品里找灵感，最后跟着教程开始自己的创作。
 
-独立创作指南，非 Suno 官方文档。品牌原作品、来源风格与改写练习分开注明；改写尚未生成验证。详细教程和多数方案为英文，本页提供中文入门。
+MusicMaker 制作的独立创作指南。本页提供中文入门，详细教程和练习说明为英文。
 
 ## Suno v6：能做什么？
 
@@ -66,7 +66,7 @@
 - **可以怎样开始：** Replace Section / Extend：局部替换或延长
 - **要自己检查什么：** 接缝是否自然、其他部分是否变化
 
-<strong>当前模型：</strong>v6-mini 面向所有套餐；v6 与 v6-wild 面向 Pro / Premier。提示词不是精确控制秒数、每次保留相同旋律的保证；生成后仍需试听和剪辑。
+<strong>当前模型：</strong>v6-mini 面向所有套餐；v6 与 v6-wild 面向 Pro / Premier。生成后先试听节奏、旋律和段落衔接，再按需要剪辑。
 
 依据：[官方 v6 FAQ](https://help.suno.com/en/articles/13924481) · [v6 功能说明](https://help.suno.com/en/articles/13924801)。[观看官方流程视频 →](https://www.youtube.com/watch?v=tkKGNBzkHwE)
 
@@ -74,7 +74,7 @@
 <a id="x-上的提示词与作品演示"></a>
 ## Suno 官方案例：提示词、演示与访谈
 
-先看 4 条 **Suno 官方 v6 提示词**和 2 个视频演示，再通过官方创作者访谈了解完整创作过程。点击图片直达原帖；提示词卡是本仓库制作的导读图，不是原帖截图。
+先看 4 条 **Suno 官方 v6 提示词**和 2 个视频演示，再通过官方创作者访谈了解完整创作过程。提示词配有导读图，点击图片即可查看原帖。
 
 <p align="center"><a href="https://x.com/suno/status/2098504030204973500"><img src="../assets/x-cases/rooftop.svg" width="100%" alt="从一个场景开始；点击阅读 Suno 原帖"></a><br><b>从一个场景开始</b><br><code>make a song that feels like midnight on a rooftop</code><br><sub><a href="https://x.com/suno">@suno</a> · v6 Simple · 2026-09-12 · 原文节选</sub></p>
 
@@ -87,13 +87,13 @@
 <details>
 <summary>▶ 展开 2 个官方视频案例：原始输入、歌曲成品与音效编辑</summary>
 
-<strong>看输入如何变成作品：</strong>以下视频有不同的证据范围，卡片已注明；历史案例中的旧模型与套餐说明不代表当前功能。
+<strong>看输入如何变成作品：</strong>从打字声配乐到音效调整，参考官方演示中的创作方法。
 
-<p align="center"><a href="https://x.com/suno/status/1806740550566949019"><img src="https://pbs.twimg.com/ext_tw_video_thumb/1806740388373291008/pu/img/DDPGSmwQyy6srgb1?format=webp&amp;name=large" width="100%" alt="把打字声变成低保真桑巴：原视频封面，点击在 X 观看"></a><br><b>把打字声变成低保真桑巴</b><br><sub>Minz / Suno · 2024-06-29</sub><br>官方音频输入演示；帖子说明风格，未提供完整提示词或确切模型。<br><a href="https://x.com/suno/status/1806740550566949019">▶ 查看原视频</a></p>
+<p align="center"><a href="https://x.com/suno/status/1806740550566949019"><img src="https://pbs.twimg.com/ext_tw_video_thumb/1806740388373291008/pu/img/DDPGSmwQyy6srgb1?format=webp&amp;name=large" width="100%" alt="把打字声变成低保真桑巴：原视频封面，点击在 X 观看"></a><br><b>把打字声变成低保真桑巴</b><br><sub>Minz / Suno · 2024-06-29</sub><br>用打字声作为输入，探索低保真桑巴的节奏与配器。<br><a href="https://x.com/suno/status/1806740550566949019">▶ 查看原视频</a></p>
 
-<p align="center"><a href="https://x.com/suno/status/2102066500043510096"><img src="https://pbs.twimg.com/amplify_video_thumb/2102066204907040769/img/bwJ9Vf6zKR6h_lCz?format=webp&amp;name=large" width="100%" alt="用语言描述想要的音效：原视频封面，点击在 X 观看"></a><br><b>用语言描述想要的音效</b><br><sub>Suno · 2026-09-22</sub><br>官方音效描述演示，涉及饱和效果；属于编辑示例，并非整首歌曲提示词。帖子未标明确切模型。<br><a href="https://x.com/suno/status/2102066500043510096">▶ 查看原视频</a></p>
+<p align="center"><a href="https://x.com/suno/status/2102066500043510096"><img src="https://pbs.twimg.com/amplify_video_thumb/2102066204907040769/img/bwJ9Vf6zKR6h_lCz?format=webp&amp;name=large" width="100%" alt="用语言描述想要的音效：原视频封面，点击在 X 观看"></a><br><b>用语言描述想要的音效</b><br><sub>Suno · 2026-09-22</sub><br>用自然语言描述饱和效果，调整声音的质感。<br><a href="https://x.com/suno/status/2102066500043510096">▶ 查看原视频</a></p>
 
-视频和提示词均归原作者；我们核对了公开帖子与媒体，未复现生成。X 可能要求登录。
+点击原帖查看视频和制作说明。X 可能需要登录。
 
 </details>
 
@@ -118,7 +118,7 @@
 ## 先选你要做的内容
 
 <!-- COMMUNITY-CASES:START -->
-从 X 创作者的九个作品与流程中选一个方向。点击图片看原帖，案例笔记区分作者公开的音乐提示词与可借鉴的做法。这些是创作者发布的社区案例，不是官方演示。
+从九个 X 社区案例选方向；点击图片看原帖，笔记介绍公开提示词和制作方法。
 
 <p align="center"><a href="https://x.com/maxescu/status/2049444543360336167"><img src="https://pbs.twimg.com/amplify_video_thumb/2049444325596286976/img/lqCxWmk86QgVYb-a.jpg" width="100%" alt="用短提示词做 Tech house — @maxescu — 原帖关联素材预览；点击打开创作者的 X 原帖"></a><br><b>用短提示词做 Tech house</b><br><sub><a href="https://x.com/maxescu/status/2049444543360336167">@maxescu</a> · 2026-04-29</sub><br><sub>公开音乐提示词</sub><br><a href="https://x.com/maxescu/status/2049444543360336167">▶ 看 X 原帖</a> · <a href="../docs/x-community-examples.md#case-2049444543360336167">案例笔记 · 英文 →</a></p>
 
@@ -156,14 +156,14 @@
 - **Suno 官方：** 按 Suno 当前模型、额度和套餐生成
 - **MusicMaker：** 先确认页面所选模型、额度和公开设置，再生成
 
-这次以 [Morning with Healing Hands](https://musicmaker.im/detail/discover-v2-106/) 为参考：来源风格包含指弹吉他、低音提琴、轻盈弦乐与温暖男声。我们保留配器方向，尝试改成纯音乐，不复制原曲歌词或旋律。
+这次以 [Morning with Healing Hands](https://musicmaker.im/detail/discover-v2-106/) 为参考：来源风格包含指弹吉他、低音提琴、轻盈弦乐与温暖男声。沿着这个配器方向，试着写一段自己的纯音乐。
 
 1. 先试听原作品，再打开上面介绍的一个工具，选择 **Custom**。
 2. 将下面的改写填入对应风格栏，开启 **Instrumental（纯音乐）**，歌词栏留空。
 3. 确认所选模型、额度和公开设置后生成。先检查是否仍有人声，再听配器是否适合你的画面。
 4. 下一次只调整一项，例如减少弦乐，其余要求保持不变。
 
-<strong>可复制的改写：温暖的日常配乐</strong>（原创改写练习，尚未生成验证）
+<strong>可复制练习：温暖的日常配乐</strong> · 待试听
 
 ```text
 An instrumental acoustic piece for a quiet everyday scene.
@@ -171,7 +171,7 @@ Fingerpicked guitar leads, with upright bass and light strings.
 Keep the mood warm and hopeful. No singing or spoken voice.
 ```
 
-两种工具的账号、额度和作品权限分别管理，同一份提示词不会保证得到相同结果。[查看这首作品的来源风格与另一项改写练习 →](../docs/listening-lab.md#3-morning-with-healing-hands)
+两种工具的账号、额度和作品权限分别管理。[查看这首作品的来源风格与另一项改写练习 →](../docs/listening-lab.md#3-morning-with-healing-hands)
 
 ### 想换一种风格？
 
@@ -207,11 +207,9 @@ Keep the mood warm and hopeful. No singing or spoken voice.
 
 [按类型浏览全部素材 →](../docs/musicmaker-catalog.md#按类型浏览--browse-by-type) · [去 MusicMaker 创作 →](https://musicmaker.im/ai-song-generator/)
 
-<sub>另有 [12 份原创练习模板](../prompts/README.md)，用于补充练习，不是上面作品的原始提示词。</sub>
-
 ## 生成结果不对，怎么办？
 
-先在原工具里修改并比较：用 Suno 生成的版本回到 [Suno](https://suno.com/create)，用 MusicMaker 生成的版本回到 [MusicMaker](https://musicmaker.im/ai-song-generator/)。保持模型和歌词不变，只调整一项风格要求，更容易听出改动的影响。Suno 的局部编辑另见[官方操作说明](../docs/official-suno-guide.md)；不要把这些按钮路径直接套到其他工具。
+先在原工具里修改并比较：用 Suno 生成的版本回到 [Suno](https://suno.com/create)，用 MusicMaker 生成的版本回到 [MusicMaker](https://musicmaker.im/ai-song-generator/)。保持模型和歌词不变，只调整一项风格要求，更容易听出改动的影响。Suno 的局部编辑另见[官方操作说明](../docs/official-suno-guide.md)。
 
 - **问题：** 把要求也唱出来了
 - **先试这一项：** 将说明移到风格栏，歌词栏只留歌词和简单分段
@@ -252,13 +250,13 @@ Keep the mood warm and hopeful. No singing or spoken voice.
 
 <a href="https://musicmaker.im/free-suno-ai-music-detector/"><img src="../assets/screenshots/musicmaker-suno-detector.jpg" width="100%" alt="MusicMaker 检测工具官网截图：上传音频、检测按钮与结果区域；点击试用"></a>
 
-<sub>官网实拍截图（英文界面），尚未上传音频。</sub>
+<sub>MusicMaker 检测工具的英文界面。</sub>
 
 上传音频 → 登录并点击 **Check（检测）** → 查看预测结果和 AI 概率。
 
 **[试用 MusicMaker 音乐来源检测 →](https://musicmaker.im/free-suno-ai-music-detector/)** · [如何理解检测结果 · 英文](../docs/detector-and-release.md)
 
-<sub>检测结果是估计，不是作者身份、版权或商用许可的证明。本仓库尚未独立测评检测准确率。</sub>
+<sub>检测结果供参考；作品的使用权限请向作者确认。</sub>
 <!-- MUSICMAKER-DETECTOR:END -->
 
 ### 参与 MusicMaker 创作指南

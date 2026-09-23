@@ -34,7 +34,7 @@
 <p><a href="#official"><img src="../assets/ui/official-th.svg" height="32" alt="ข้อมูลทางการ"></a> <a href="#examples"><img src="../assets/ui/cases-th.svg" height="32" alt="ตัวอย่างจาก X"></a> <a href="#briefs"><img src="../assets/ui/briefs-th.svg" height="32" alt="เลือกแนวคิด"></a></p>
 </div>
 
-หน้านี้เป็นคู่มือเริ่มต้นภาษาไทย ส่วนคู่มือฉบับละเอียดและแบบฝึกหัดเป็นภาษาอังกฤษ คู่มือนี้จัดทำโดย MusicMaker อย่างเป็นอิสระ ไม่ใช่เอกสารทางการของ Suno
+หน้านี้เป็นคู่มือเริ่มต้นภาษาไทย ส่วนคู่มือฉบับละเอียดและแบบฝึกหัดเป็นภาษาอังกฤษ คู่มืออิสระจาก MusicMaker
 
 <a id="official"></a>
 ## Suno v6 ทำอะไรได้บ้าง
@@ -50,7 +50,7 @@ v6-mini ใช้ได้กับทุกแผน ส่วน v6 และ 
 <a id="examples"></a>
 ## ตัวอย่างพรอมป์ต์ทางการบน X
 
-คลิกภาพเพื่อเปิดโพสต์ต้นฉบับของ Suno การ์ดเป็นภาพประกอบของคู่มือนี้ ไม่ใช่ภาพหน้าจอจากโพสต์
+คลิกภาพเพื่อเปิดโพสต์ต้นฉบับของ Suno การ์ดสรุปประเด็นสำคัญ
 
 <p align="center"><a href="https://x.com/suno/status/2098504030204973500"><img src="../assets/x-cases/rooftop.svg" width="100%" alt="เริ่มจากบรรยากาศของฉาก — Suno / X"></a><br><a href="https://x.com/suno/status/2098504030204973500"><b>เริ่มจากบรรยากาศของฉาก ↗</b></a></p>
 
@@ -64,7 +64,7 @@ v6-mini ใช้ได้กับทุกแผน ส่วน v6 และ 
 ## ฟังเพลงแล้วเลือกแนวทางสร้างสรรค์
 
 <!-- COMMUNITY-CASES:START -->
-เลือกแนวทางจากผลงานและขั้นตอนของครีเอเตอร์บน X ทั้งเก้าตัวอย่าง คลิกภาพเพื่อเปิดโพสต์ต้นฉบับ บันทึกแยกพรอมป์ต์เพลงที่ผู้สร้างเผยแพร่จากแนวทางที่นำไปลองได้ ตัวอย่างเหล่านี้มาจากชุมชน ไม่ใช่การสาธิตอย่างเป็นทางการ
+เลือกแนวทางจากตัวอย่างชุมชนบน X ทั้งเก้ากรณี คลิกภาพเพื่อดูโพสต์ต้นฉบับ ส่วนบันทึกอธิบายพรอมป์ต์ที่เผยแพร่และวิธีการผลิต
 
 <p align="center"><a href="https://x.com/maxescu/status/2049444543360336167"><img src="https://pbs.twimg.com/amplify_video_thumb/2049444325596286976/img/lqCxWmk86QgVYb-a.jpg" width="100%" alt="เทคเฮาส์จากพรอมป์ต์สั้น — @maxescu — ภาพจากแหล่งที่มา คลิกเพื่อเปิดโพสต์ต้นฉบับบน X"></a><br><b>เทคเฮาส์จากพรอมป์ต์สั้น</b><br><sub><a href="https://x.com/maxescu/status/2049444543360336167">@maxescu</a> · 2026-04-29</sub><br><sub>เผยแพร่พรอมป์ต์เพลง</sub><br><a href="https://x.com/maxescu/status/2049444543360336167">▶ ดูโพสต์บน X</a> · <a href="../docs/x-community-examples.md#case-2049444543360336167">รายละเอียด · ภาษาอังกฤษ →</a></p>
 
@@ -93,7 +93,9 @@ v6-mini ใช้ได้กับทุกแผน ส่วน v6 และ 
 2. ใส่แนวเพลงใน Styles ของ Suno หรือ Music Style ของ MusicMaker และใส่เนื้อร้องใน Lyrics
 3. แบบฝึกหัดด้านล่างเป็นเพลงบรรเลง ให้เปิด Instrumental และเว้น Lyrics ว่าง ตรวจสอบโมเดล เครดิต และการตั้งค่าเผยแพร่ก่อนสร้าง
 
-แบบฝึกหัดเพลงบรรเลงที่อ้างอิงการเลือกเครื่องดนตรีใน Morning with Healing Hands ยังไม่ได้ทดสอบด้วยการสร้างเพลง และไม่คัดลอกทำนองหรือเนื้อร้องต้นฉบับ
+แบบฝึกหัดเพลงบรรเลงที่อ้างอิงการเลือกเครื่องดนตรีใน Morning with Healing Hands
+
+**รอทดสอบการฟัง**
 
 ```text
 An instrumental acoustic piece for a quiet everyday scene.
@@ -103,7 +105,7 @@ Keep the mood warm and hopeful. No singing or spoken voice.
 
 แต่ละบริการมีบัญชี เครดิต และสิทธิ์ใช้งานแยกกัน พรอมป์ต์เดียวกันไม่ได้รับประกันผลลัพธ์เหมือนกัน
 
-[คู่มือละเอียด · อังกฤษ →](../docs/official-suno-guide.md) · [แม่แบบต้นฉบับเพิ่มเติม 12 แบบ →](../prompts/README.md)
+[คู่มือละเอียด · อังกฤษ →](../docs/official-suno-guide.md)
 
 ### MusicMaker · ฟังเพลง · 12
 
@@ -150,13 +152,13 @@ Keep the mood warm and hopeful. No singing or spoken voice.
 
 <a href="https://musicmaker.im/free-suno-ai-music-detector/"><img src="../assets/screenshots/musicmaker-suno-detector.jpg" width="100%" alt="ภาพหน้าจอเครื่องมือตรวจสอบ MusicMaker: อัปโหลดเสียง ปุ่ม Check และพื้นที่ผลลัพธ์ คลิกเพื่อลองใช้"></a>
 
-<sub>ภาพหน้าจอจริงจากเว็บไซต์ ภาษาอังกฤษ ยังไม่ได้ส่งไฟล์เสียง</sub>
+<sub>อินเทอร์เฟซภาษาอังกฤษ</sub>
 
 อัปโหลดเสียง → เข้าสู่ระบบแล้วคลิก **Check** → ดูผลคาดการณ์และค่าความน่าจะเป็นของ AI
 
 **[ลองใช้เครื่องมือตรวจสอบเพลงของ MusicMaker →](https://musicmaker.im/free-suno-ai-music-detector/)** · [วิธีอ่านผล · ภาษาอังกฤษ](../docs/detector-and-release.md)
 
-<sub>ผลลัพธ์เป็นการประมาณ ไม่ใช่หลักฐานยืนยันผู้สร้าง ลิขสิทธิ์ หรือสิทธิ์ใช้งานเชิงพาณิชย์ เรายังไม่ได้ทดสอบความแม่นยำอย่างอิสระ</sub>
+<sub>ผลการตรวจจับใช้เป็นข้อมูลอ้างอิง โปรดยืนยันสิทธิ์การใช้ผลงานกับผู้สร้าง</sub>
 <!-- MUSICMAKER-DETECTOR:END -->
 
 [Sources · English](../docs/sources.md) · [Contributing · English](../CONTRIBUTING.md)

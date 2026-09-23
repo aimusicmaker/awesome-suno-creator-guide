@@ -34,7 +34,7 @@
 <p><a href="#official"><img src="../assets/ui/official-tw.svg" height="32" alt="官方說明"></a> <a href="#examples"><img src="../assets/ui/cases-tw.svg" height="32" alt="X 案例"></a> <a href="#briefs"><img src="../assets/ui/briefs-tw.svg" height="32" alt="選創作提案"></a></p>
 </div>
 
-本頁提供繁體中文入門說明；詳細指南與練習頁為英文。 這是 MusicMaker 提供的獨立創作指南，並非 Suno 官方文件。
+本頁提供繁體中文入門說明；詳細指南與練習頁為英文。這是 MusicMaker 提供的獨立創作指南。
 
 <a id="official"></a>
 ## Suno v6 能做什麼？
@@ -50,7 +50,7 @@ v6-mini 適用所有方案；v6 與 v6-wild 需要 Pro / Premier。提示詞不�
 <a id="examples"></a>
 ## X 上的官方提示詞案例
 
-點擊圖片直達 Suno 原始貼文。卡片是本指南製作的導讀圖，不是貼文截圖。
+點擊圖片直達 Suno 原始貼文。卡片簡要整理重點。
 
 <p align="center"><a href="https://x.com/suno/status/2098504030204973500"><img src="../assets/x-cases/rooftop.svg" width="100%" alt="從一個場景開始 — Suno / X"></a><br><a href="https://x.com/suno/status/2098504030204973500"><b>從一個場景開始 ↗</b></a></p>
 
@@ -64,7 +64,7 @@ v6-mini 適用所有方案；v6 與 v6-wild 需要 Pro / Premier。提示詞不�
 ## 先聽作品，再選創作方向
 
 <!-- COMMUNITY-CASES:START -->
-從 X 創作者的九個作品與流程中選一個方向。點擊圖片看原帖，案例筆記區分作者公開的音樂提示詞與可借鑑的做法。這些是創作者發布的社群案例，不是官方示範。
+從九個 X 社群案例選方向；點擊圖片看原帖，筆記介紹公開提示詞和製作方法。
 
 <p align="center"><a href="https://x.com/maxescu/status/2049444543360336167"><img src="https://pbs.twimg.com/amplify_video_thumb/2049444325596286976/img/lqCxWmk86QgVYb-a.jpg" width="100%" alt="用短提示詞做 Tech house — @maxescu — 原帖相關素材預覽；點擊開啟創作者的 X 原帖"></a><br><b>用短提示詞做 Tech house</b><br><sub><a href="https://x.com/maxescu/status/2049444543360336167">@maxescu</a> · 2026-04-29</sub><br><sub>公開音樂提示詞</sub><br><a href="https://x.com/maxescu/status/2049444543360336167">▶ 看 X 原帖</a> · <a href="../docs/x-community-examples.md#case-2049444543360336167">案例筆記 · 英文 →</a></p>
 
@@ -93,7 +93,9 @@ v6-mini 適用所有方案；v6 與 v6-wild 需要 Pro / Premier。提示詞不�
 2. 風格填入 Suno 的 Styles 或 MusicMaker 的 Music Style；歌詞填入 Lyrics。
 3. 下方練習是純音樂：開啟 Instrumental，歌詞欄留空。確認模型、額度與公開設定後再生成。
 
-這份純音樂改寫參考 Morning with Healing Hands 的配器，尚未生成驗證，也不複製原曲的旋律或歌詞。
+這份純音樂改寫參考 Morning with Healing Hands 的配器。
+
+**待試聽**
 
 ```text
 An instrumental acoustic piece for a quiet everyday scene.
@@ -103,7 +105,7 @@ Keep the mood warm and hopeful. No singing or spoken voice.
 
 兩個服務的帳號、額度與使用權限分開管理。同一份提示詞不保證得到相同結果。
 
-[詳細指南・英文 →](../docs/official-suno-guide.md) · [12 份原創補充模板 →](../prompts/README.md)
+[詳細指南・英文 →](../docs/official-suno-guide.md)
 
 ### MusicMaker · 試聽 · 12
 
@@ -150,13 +152,13 @@ Keep the mood warm and hopeful. No singing or spoken voice.
 
 <a href="https://musicmaker.im/free-suno-ai-music-detector/"><img src="../assets/screenshots/musicmaker-suno-detector.jpg" width="100%" alt="MusicMaker 檢測工具官網截圖：上傳音訊、檢測按鈕與結果區域；點擊試用"></a>
 
-<sub>官網實拍截圖（英文介面），尚未上傳音訊。</sub>
+<sub>英文介面。</sub>
 
 上傳音訊 → 登入並點擊 **Check（檢測）** → 查看預測結果與 AI 機率。
 
 **[試用 MusicMaker 音樂來源檢測 →](https://musicmaker.im/free-suno-ai-music-detector/)** · [如何理解檢測結果 · 英文](../docs/detector-and-release.md)
 
-<sub>檢測結果是估計，不是作者身分、著作權或商用許可的證明。本倉庫尚未獨立評測檢測準確率。</sub>
+<sub>檢測結果僅供參考，作品使用權限請向作者確認。</sub>
 <!-- MUSICMAKER-DETECTOR:END -->
 
 [Sources · English](../docs/sources.md) · [Contributing · English](../CONTRIBUTING.md)

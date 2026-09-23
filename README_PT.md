@@ -33,7 +33,7 @@ Conheça os recursos oficiais, ouça exemplos e crie sua própria música.
 <p><a href="#official"><img src="assets/ui/official-pt.svg" height="32" alt="Guia oficial"></a> <a href="#examples"><img src="assets/ui/cases-pt.svg" height="32" alt="Exemplos no X"></a> <a href="#briefs"><img src="assets/ui/briefs-pt.svg" height="32" alt="Escolher uma ideia"></a></p>
 </div>
 
-Introdução em português. Os guias detalhados e exercícios estão em inglês. Guia independente da MusicMaker; não é a documentação oficial do Suno.
+Introdução em português. Os guias detalhados e exercícios estão em inglês. Guia independente da MusicMaker.
 
 <a id="official"></a>
 ## O que o Suno v6 pode fazer
@@ -49,7 +49,7 @@ v6-mini está disponível em todos os planos; v6 e v6-wild exigem Pro / Premier.
 <a id="examples"></a>
 ## Exemplos oficiais de prompts no X
 
-Cada imagem abre a publicação original do Suno. Os cartões são ilustrações deste guia, não capturas das publicações.
+Cada imagem abre a publicação original do Suno; os cartões resumem os pontos principais.
 
 <table>
 <tr>
@@ -66,7 +66,7 @@ Cada imagem abre a publicação original do Suno. Os cartões são ilustrações
 ## Ouça e escolha uma ideia para criar
 
 <!-- COMMUNITY-CASES:START -->
-Escolha entre nove obras e processos de criadores no X. As imagens abrem os posts originais. As notas distinguem prompts musicais publicados de técnicas para experimentar. São exemplos da comunidade, não demonstrações oficiais.
+Escolha uma direção entre nove exemplos da comunidade no X. Clique em uma imagem para ver a publicação original; as notas apresentam prompts publicados e métodos de produção.
 
 <table width="100%">
 <tr>
@@ -95,7 +95,9 @@ Escolha entre nove obras e processos de criadores no X. As imagens abrem os post
 2. Cole o estilo em Styles no Suno ou Music Style no MusicMaker; a letra vai em Lyrics.
 3. O exercício abaixo é instrumental: ative Instrumental e deixe Lyrics vazio. Confira modelo, créditos e visibilidade antes de gerar.
 
-Adaptação instrumental inspirada nos instrumentos de Morning with Healing Hands. Ainda não foi testada por geração e não copia a letra nem a melodia original.
+Adaptação instrumental inspirada nos instrumentos de Morning with Healing Hands.
+
+**Aguardando teste de audição**
 
 ```text
 An instrumental acoustic piece for a quiet everyday scene.
@@ -105,7 +107,7 @@ Keep the mood warm and hopeful. No singing or spoken voice.
 
 Contas, créditos e direitos de uso são separados entre os serviços. O mesmo prompt não garante o mesmo resultado.
 
-[Guia completo · inglês →](docs/official-suno-guide.md) · [12 modelos originais adicionais →](prompts/README.md)
+[Guia completo · inglês →](docs/official-suno-guide.md)
 
 ### MusicMaker · Ouvir · 12
 
@@ -151,13 +153,13 @@ Nesses momentos, experimente o **Free Suno AI Music Detector do MusicMaker**. En
 
 <a href="https://musicmaker.im/free-suno-ai-music-detector/"><img src="assets/screenshots/musicmaker-suno-detector.jpg" width="100%" alt="Captura do detector MusicMaker: envio de áudio, botão Check e área de resultados; clique para experimentar"></a>
 
-<sub>Captura real do site, interface em inglês; nenhum áudio enviado.</sub>
+<sub>Interface em inglês.</sub>
 
 Envie o áudio → faça login e clique em **Check** → consulte a previsão e a probabilidade de IA.
 
 **[Experimente o detector de música do MusicMaker →](https://musicmaker.im/free-suno-ai-music-detector/)** · [Como interpretar o resultado · Inglês](docs/detector-and-release.md)
 
-<sub>Os resultados são estimativas, não provas de autoria, direitos autorais ou permissão comercial. Não testamos a precisão de forma independente.</sub>
+<sub>Os resultados da detecção servem apenas como referência. Confirme com o autor os direitos de uso da obra.</sub>
 <!-- MUSICMAKER-DETECTOR:END -->
 
 [Sources · English](docs/sources.md) · [Contributing · English](CONTRIBUTING.md)

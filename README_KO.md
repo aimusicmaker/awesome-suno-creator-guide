@@ -33,7 +33,7 @@
 <p><a href="#official"><img src="assets/ui/official-ko.svg" height="32" alt="공식 안내"></a> <a href="#examples"><img src="assets/ui/cases-ko.svg" height="32" alt="X 사례"></a> <a href="#briefs"><img src="assets/ui/briefs-ko.svg" height="32" alt="창작 방향 선택"></a></p>
 </div>
 
-한국어 입문 안내입니다. 자세한 설명과 연습 문서는 영어로 제공됩니다. MusicMaker가 제공하는 독립 가이드이며 Suno 공식 문서가 아닙니다.
+한국어 입문 안내입니다. 자세한 설명과 연습 문서는 영어로 제공됩니다. MusicMaker에서 만든 독립 창작 가이드입니다.
 
 <a id="official"></a>
 ## Suno v6로 할 수 있는 일
@@ -49,7 +49,7 @@ v6-mini는 모든 요금제에서, v6와 v6-wild는 Pro / Premier에서 사용�
 <a id="examples"></a>
 ## X에서 공개한 공식 프롬프트
 
-이미지를 누르면 Suno 원문 게시물로 이동합니다. 카드는 이 가이드에서 만든 안내 그림이며 게시물 캡처가 아닙니다.
+이미지를 누르면 Suno 원문 게시물이 열립니다. 카드는 핵심 내용을 간단히 정리합니다.
 
 <table>
 <tr>
@@ -66,7 +66,7 @@ v6-mini는 모든 요금제에서, v6와 v6-wild는 Pro / Premier에서 사용�
 ## 곡을 듣고 창작 방향 고르기
 
 <!-- COMMUNITY-CASES:START -->
-X 크리에이터의 작품과 제작 과정 9개에서 방향을 골라 보세요. 이미지를 누르면 원문이 열립니다. 해설은 공개된 음악 프롬프트와 참고할 제작 방법을 구분합니다. 공식 시연이 아닌 커뮤니티 사례입니다.
+X 커뮤니티 사례 9개에서 방향을 골라 보세요. 이미지를 누르면 원문이 열리고, 해설에서는 공개 프롬프트와 제작 방법을 소개합니다.
 
 <table width="100%">
 <tr>
@@ -95,7 +95,9 @@ X 크리에이터의 작품과 제작 과정 9개에서 방향을 골라 보세�
 2. 스타일은 Suno의 Styles 또는 MusicMaker의 Music Style에, 가사는 Lyrics에 입력하세요.
 3. 아래 연습은 연주곡입니다. Instrumental을 켜고 가사 칸을 비운 뒤 모델, 크레딧, 공개 설정을 확인하고 생성하세요.
 
-Morning with Healing Hands의 악기 구성을 참고해 보컬 없는 곡으로 바꾸는 연습입니다. 아직 생성 검증을 하지 않았으며 원곡의 가사나 멜로디를 복사하지 않습니다.
+Morning with Healing Hands의 악기 구성을 참고해 보컬 없는 곡으로 바꾸는 연습입니다.
+
+**청취 테스트 대기 중**
 
 ```text
 An instrumental acoustic piece for a quiet everyday scene.
@@ -105,7 +107,7 @@ Keep the mood warm and hopeful. No singing or spoken voice.
 
 두 서비스의 계정, 크레딧, 이용 권한은 별개입니다. 같은 프롬프트도 같은 결과를 보장하지 않습니다.
 
-[상세 가이드 · 영어 →](docs/official-suno-guide.md) · [추가 창작 연습 12개 →](prompts/README.md)
+[상세 가이드 · 영어 →](docs/official-suno-guide.md)
 
 ### MusicMaker · 듣기 · 12
 
@@ -151,13 +153,13 @@ Keep the mood warm and hopeful. No singing or spoken voice.
 
 <a href="https://musicmaker.im/free-suno-ai-music-detector/"><img src="assets/screenshots/musicmaker-suno-detector.jpg" width="100%" alt="MusicMaker 감지 도구 화면: 오디오 업로드, Check 버튼, 결과 영역. 클릭하여 사용"></a>
 
-<sub>공식 웹사이트 실제 화면(영어). 오디오는 제출하지 않은 상태입니다.</sub>
+<sub>영어 인터페이스입니다.</sub>
 
 오디오 업로드 → 로그인 후 **Check** 클릭 → 예측 결과와 AI 확률 확인.
 
 **[MusicMaker 음악 감지 도구 사용하기 →](https://musicmaker.im/free-suno-ai-music-detector/)** · [결과 읽는 법 · 영어](docs/detector-and-release.md)
 
-<sub>결과는 추정치이며 저작자, 저작권 또는 상업적 이용 허가를 증명하지 않습니다. 이 저장소는 감지 정확도를 독립적으로 검증하지 않았습니다.</sub>
+<sub>감지 결과는 참고용입니다. 작품 사용 권한은 제작자에게 확인하세요.</sub>
 <!-- MUSICMAKER-DETECTOR:END -->
 
 [Sources · English](docs/sources.md) · [Contributing · English](CONTRIBUTING.md)

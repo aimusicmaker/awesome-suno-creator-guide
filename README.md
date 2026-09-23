@@ -38,7 +38,7 @@ Copy-ready prompts, original lyrics, real listening references, and practical fi
 
 For first-time songwriters and video creators: explore official capabilities, find inspiration in X community works, then follow the tutorial to make your own song.
 
-An independent guide, not official Suno documentation. Published source tracks, style summaries and untested adaptations are labeled separately.
+An independent creation guide by MusicMaker, with source links and practical exercises.
 
 ## What can Suno v6 do?
 
@@ -56,7 +56,7 @@ An independent guide, not official Suno documentation. Published source tracks, 
 | A photo, video, or hum | v6: supply material you may use | Whether the music reflects the input |
 | A promising draft | Replace Section / Extend | Natural joins and unintended changes |
 
-**Current models:** v6-mini is available on all plans; v6 and v6-wild require Pro / Premier. A prompt is not exact timing control or a promise to preserve a melody on every attempt. Listen and edit before release.
+**Current models:** v6-mini is available on all plans; v6 and v6-wild require Pro / Premier. Listen for timing, melody and transitions, then edit as needed.
 
 Sources: [Official v6 FAQ](https://help.suno.com/en/articles/13924481) · [v6 features](https://help.suno.com/en/articles/13924801). [Watch the official workflow video →](https://www.youtube.com/watch?v=tkKGNBzkHwE)
 
@@ -64,7 +64,7 @@ Sources: [Official v6 FAQ](https://help.suno.com/en/articles/13924481) · [v6 fe
 <a id="prompts-and-demonstrations-from-x"></a>
 ## Suno official examples: prompts, demos and interviews
 
-Start with **4 official v6 prompt examples** and 2 video demos, then explore the creative process through Suno’s creator interviews. Every image opens its original post. Prompt cards are our editorial graphics, not screenshots.
+Start with **4 official v6 prompt examples** and 2 video demos, then explore the creative process through Suno’s creator interviews. Illustrated prompt cards link directly to the original posts.
 
 <table>
 <tr>
@@ -80,16 +80,16 @@ Start with **4 official v6 prompt examples** and 2 video demos, then explore the
 <details>
 <summary>▶ 2 official video demonstrations: original inputs, finished clips, and editing</summary>
 
-**See input become music:** evidence differs by demo and is noted below. Historical model and plan details do not describe today’s product.
+**See input become music:** explore the creative process, from a typing-sound soundtrack to effect adjustments.
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://x.com/suno/status/1806740550566949019"><img src="https://pbs.twimg.com/ext_tw_video_thumb/1806740388373291008/pu/img/DDPGSmwQyy6srgb1?format=webp&amp;name=large" width="260" alt="Typing becomes lo-fi samba: original video thumbnail; watch on X"></a><br><b>Typing becomes lo-fi samba</b><br><sub>Minz / Suno · 2024-06-29</sub><br>Official audio-input demonstration; the post names the style, but not the full prompt or exact model.<br><a href="https://x.com/suno/status/1806740550566949019">▶ Open original video</a></td>
-<td width="50%" valign="top"><a href="https://x.com/suno/status/2102066500043510096"><img src="https://pbs.twimg.com/amplify_video_thumb/2102066204907040769/img/bwJ9Vf6zKR6h_lCz?format=webp&amp;name=large" width="260" alt="Describe the sound of an effect: original video thumbnail; watch on X"></a><br><b>Describe the sound of an effect</b><br><sub>Suno · 2026-09-22</sub><br>Official video on describing effects, including saturation; an editing demo, not a full-song recipe. Exact model not specified in the post.<br><a href="https://x.com/suno/status/2102066500043510096">▶ Open original video</a></td>
+<td width="50%" valign="top"><a href="https://x.com/suno/status/1806740550566949019"><img src="https://pbs.twimg.com/ext_tw_video_thumb/1806740388373291008/pu/img/DDPGSmwQyy6srgb1?format=webp&amp;name=large" width="260" alt="Typing becomes lo-fi samba: original video thumbnail; watch on X"></a><br><b>Typing becomes lo-fi samba</b><br><sub>Minz / Suno · 2024-06-29</sub><br>Use typing sounds as input to explore a lo-fi samba rhythm and arrangement.<br><a href="https://x.com/suno/status/1806740550566949019">▶ Open original video</a></td>
+<td width="50%" valign="top"><a href="https://x.com/suno/status/2102066500043510096"><img src="https://pbs.twimg.com/amplify_video_thumb/2102066204907040769/img/bwJ9Vf6zKR6h_lCz?format=webp&amp;name=large" width="260" alt="Describe the sound of an effect: original video thumbnail; watch on X"></a><br><b>Describe the sound of an effect</b><br><sub>Suno · 2026-09-22</sub><br>Describe saturation in natural language to shape the texture of a sound.<br><a href="https://x.com/suno/status/2102066500043510096">▶ Open original video</a></td>
 </tr>
 </table>
 
-Media and prompts belong to their authors. We checked public posts and attached media, not generation reproducibility. X may require sign-in.
+Open the source posts for videos and production notes. X may require sign-in.
 
 </details>
 
@@ -117,7 +117,7 @@ Images come from the linked official interviews; listening links lead to their f
 ## What are you making?
 
 <!-- COMMUNITY-CASES:START -->
-Explore nine creator posts on X: finished works, experiments and practical workflows. Click an image to open its source; the notes distinguish published music prompts from ideas for your own practice. These are creator posts, not official demonstrations.
+Choose a direction from nine X community examples. Click an image to view the original post; the notes cover published prompts and production methods.
 
 <table width="100%">
 <tr>
@@ -152,14 +152,14 @@ You do not need to clone this repository or install anything.
 | Style goes in **Styles / Style of Music**; words go in **Lyrics** | Style goes in **Music Style**; words go in **Lyrics**; the title goes in **Music Title** |
 | Generate with your current Suno model, credits and plan | Check the selected model, credits and public-sharing setting before generating |
 
-Use [Morning with Healing Hands](https://musicmaker.im/detail/discover-v2-106/) as your reference. Its published brief describes fingerpicked guitar, upright bass, light strings and a warm male voice. Keep the instrumental palette and try an instrumental adaptation, without copying the source melody or lyrics.
+Use [Morning with Healing Hands](https://musicmaker.im/detail/discover-v2-106/) as your reference. Its published brief describes fingerpicked guitar, upright bass, light strings and a warm male voice. Use that instrumental palette as a starting point for a piece of your own.
 
 1. Hear the source track, open either tool above, and select **Custom**.
 2. Paste the adaptation below into its style field. Turn **Instrumental on** and leave Lyrics empty.
 3. Check your model, credits and sharing settings, then generate. Listen for unwanted vocals and whether the arrangement suits your scene.
 4. Change one thing next, such as reducing the strings, while keeping other directions fixed.
 
-**Copy-ready adaptation: a warm everyday soundtrack** — an editorial exercise, not generation-tested:
+**Copy-ready exercise: a warm everyday soundtrack** · Awaiting a listening test:
 
 ```text
 An instrumental acoustic piece for a quiet everyday scene.
@@ -167,7 +167,7 @@ Fingerpicked guitar leads, with upright bass and light strings.
 Keep the mood warm and hopeful. No singing or spoken voice.
 ```
 
-Accounts, credits and usage rights are separate between the services; the same prompt does not guarantee the same output. [See the source brief and another adaptation exercise →](docs/listening-lab.md#3-morning-with-healing-hands)
+Each service manages its own accounts, credits and usage rights. [See the source brief and another adaptation exercise →](docs/listening-lab.md#3-morning-with-healing-hands)
 
 ### Want a different direction?
 
@@ -202,8 +202,6 @@ Explore **12 more sounds** through their published styles. These MusicMaker sele
 
 [Browse all materials by type →](docs/musicmaker-catalog.md#按类型浏览--browse-by-type) · [Create with MusicMaker →](https://musicmaker.im/ai-song-generator/)
 
-<sub>The [12 original practice templates](prompts/README.md) remain supplementary exercises, not the prompts behind these source recordings.</sub>
-
 ## Better songs come from better revisions
 
 Revise where you created the take: return to [Suno](https://suno.com/create) for a Suno version or [MusicMaker](https://musicmaker.im/ai-song-generator/) for a MusicMaker version. Keep the selected model and lyrics unchanged while adjusting one style detail. For Suno-specific section editing, follow the [official workflow guide](docs/official-suno-guide.md).
@@ -228,13 +226,13 @@ For those moments, try **MusicMaker’s Free Suno AI Music Detector**. Upload th
 
 <a href="https://musicmaker.im/free-suno-ai-music-detector/"><img src="assets/screenshots/musicmaker-suno-detector.jpg" width="100%" alt="MusicMaker detector website: audio upload, Check button and results area; click to try the tool"></a>
 
-<sub>Live website screenshot, English interface; no audio submitted.</sub>
+<sub>MusicMaker detector interface, shown in English.</sub>
 
 Upload your audio → sign in and click **Check** → review the prediction and AI probability.
 
 **[Try MusicMaker’s music detector →](https://musicmaker.im/free-suno-ai-music-detector/)** · [How to read the result · English](docs/detector-and-release.md)
 
-<sub>Results are estimates, not proof of authorship, copyright or permission for commercial use. We have not independently tested detection accuracy.</sub>
+<sub>Use the estimate as a reference; confirm permission to use a work with its creator.</sub>
 <!-- MUSICMAKER-DETECTOR:END -->
 
 ### Contribute to the MusicMaker guide

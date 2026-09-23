@@ -34,7 +34,7 @@ Conoce las funciones oficiales, escucha ejemplos y crea tu propia canción.
 <p><a href="#official"><img src="../assets/ui/official-es.svg" height="32" alt="Guía oficial"></a> <a href="#examples"><img src="../assets/ui/cases-es.svg" height="32" alt="Ejemplos en X"></a> <a href="#briefs"><img src="../assets/ui/briefs-es.svg" height="32" alt="Elige una idea"></a></p>
 </div>
 
-Introducción en español. Las guías detalladas y los ejercicios están en inglés. Guía independiente de MusicMaker; no es documentación oficial de Suno.
+Introducción en español. Las guías detalladas y los ejercicios están en inglés. Guía independiente de MusicMaker.
 
 <a id="official"></a>
 ## Qué puedes hacer con Suno v6
@@ -50,7 +50,7 @@ v6-mini está disponible en todos los planes; v6 y v6-wild requieren Pro / Premi
 <a id="examples"></a>
 ## Ejemplos oficiales de prompts en X
 
-Cada imagen abre la publicación original de Suno. Las tarjetas son ilustraciones de esta guía, no capturas de X.
+Cada imagen abre la publicación original de Suno; las tarjetas resumen los puntos clave.
 
 <p align="center"><a href="https://x.com/suno/status/2098504030204973500"><img src="../assets/x-cases/rooftop.svg" width="100%" alt="Empieza con una escena — Suno / X"></a><br><a href="https://x.com/suno/status/2098504030204973500"><b>Empieza con una escena ↗</b></a></p>
 
@@ -64,7 +64,7 @@ Cada imagen abre la publicación original de Suno. Las tarjetas son ilustracione
 ## Escucha y elige una idea para crear
 
 <!-- COMMUNITY-CASES:START -->
-Elige entre nueve obras y procesos de creadores en X. Las imágenes abren los posts originales. Las notas distinguen los prompts musicales publicados de las técnicas que puedes probar. Son ejemplos de la comunidad, no demostraciones oficiales.
+Elige una dirección entre nueve casos de la comunidad en X. Pulsa una imagen para ver la publicación original; las notas explican prompts publicados y métodos de producción.
 
 <p align="center"><a href="https://x.com/maxescu/status/2049444543360336167"><img src="https://pbs.twimg.com/amplify_video_thumb/2049444325596286976/img/lqCxWmk86QgVYb-a.jpg" width="100%" alt="Tech house con un prompt breve — @maxescu — Imagen de la fuente; abrir el post original en X"></a><br><b>Tech house con un prompt breve</b><br><sub><a href="https://x.com/maxescu/status/2049444543360336167">@maxescu</a> · 2026-04-29</sub><br><sub>Prompt musical publicado</sub><br><a href="https://x.com/maxescu/status/2049444543360336167">▶ Ver en X</a> · <a href="../docs/x-community-examples.md#case-2049444543360336167">Notas · inglés →</a></p>
 
@@ -93,7 +93,9 @@ Elige entre nueve obras y procesos de creadores en X. Las imágenes abren los po
 2. Pega el estilo en Styles de Suno o Music Style de MusicMaker; la letra va en Lyrics.
 3. El ejercicio siguiente es instrumental: activa Instrumental y deja Lyrics vacío. Revisa el modelo, los créditos y la visibilidad antes de generar.
 
-Adaptación instrumental inspirada en los instrumentos de Morning with Healing Hands. No se ha probado mediante generación y no copia su melodía ni su letra.
+Adaptación instrumental inspirada en los instrumentos de Morning with Healing Hands.
+
+**Pendiente de prueba de escucha**
 
 ```text
 An instrumental acoustic piece for a quiet everyday scene.
@@ -103,7 +105,7 @@ Keep the mood warm and hopeful. No singing or spoken voice.
 
 Las cuentas, los créditos y los derechos de uso son independientes. Un mismo prompt no garantiza el mismo resultado.
 
-[Guía detallada · inglés →](../docs/official-suno-guide.md) · [12 plantillas originales adicionales →](../prompts/README.md)
+[Guía detallada · inglés →](../docs/official-suno-guide.md)
 
 ### MusicMaker · Escuchar · 12
 
@@ -150,13 +152,13 @@ Para esos momentos, puedes probar **Free Suno AI Music Detector de MusicMaker**.
 
 <a href="https://musicmaker.im/free-suno-ai-music-detector/"><img src="../assets/screenshots/musicmaker-suno-detector.jpg" width="100%" alt="Captura del detector MusicMaker: carga de audio, botón Check y área de resultados; pulsa para probarlo"></a>
 
-<sub>Captura real del sitio, interfaz en inglés; no se ha enviado audio.</sub>
+<sub>Interfaz en inglés.</sub>
 
 Sube el audio → inicia sesión y pulsa **Check** → consulta la predicción y la probabilidad de IA.
 
 **[Prueba el detector de música de MusicMaker →](https://musicmaker.im/free-suno-ai-music-detector/)** · [Cómo interpretar el resultado · Inglés](../docs/detector-and-release.md)
 
-<sub>Los resultados son estimaciones, no pruebas de autoría, derechos de autor ni permiso comercial. No hemos evaluado su precisión de forma independiente.</sub>
+<sub>Los resultados de detección son orientativos. Confirma con el autor los derechos de uso de la obra.</sub>
 <!-- MUSICMAKER-DETECTOR:END -->
 
 [Sources · English](../docs/sources.md) · [Contributing · English](../CONTRIBUTING.md)

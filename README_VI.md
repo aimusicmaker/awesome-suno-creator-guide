@@ -33,7 +33,7 @@ Tìm hiểu tính năng chính thức, nghe ví dụ và tạo bài hát của r
 <p><a href="#official"><img src="assets/ui/official-vi.svg" height="32" alt="Hướng dẫn chính thức"></a> <a href="#examples"><img src="assets/ui/cases-vi.svg" height="32" alt="Ví dụ trên X"></a> <a href="#briefs"><img src="assets/ui/briefs-vi.svg" height="32" alt="Chọn ý tưởng"></a></p>
 </div>
 
-Hướng dẫn nhập môn bằng tiếng Việt. Tài liệu chi tiết và bài tập bằng tiếng Anh. Đây là hướng dẫn độc lập do MusicMaker cung cấp, không phải tài liệu chính thức của Suno.
+Hướng dẫn nhập môn bằng tiếng Việt. Tài liệu chi tiết và bài tập bằng tiếng Anh. Đây là hướng dẫn độc lập của MusicMaker.
 
 <a id="official"></a>
 ## Suno v6 có thể làm gì?
@@ -49,7 +49,7 @@ v6-mini có trên mọi gói; v6 và v6-wild yêu cầu Pro / Premier. Không b�
 <a id="examples"></a>
 ## Ví dụ câu lệnh chính thức trên X
 
-Mỗi hình mở bài đăng gốc của Suno. Các thẻ là hình minh họa do hướng dẫn này tạo, không phải ảnh chụp bài đăng.
+Mỗi hình mở bài đăng gốc của Suno; các thẻ tóm tắt những điểm chính.
 
 <table>
 <tr>
@@ -66,7 +66,7 @@ Mỗi hình mở bài đăng gốc của Suno. Các thẻ là hình minh họa d
 ## Nghe nhạc rồi chọn hướng sáng tác
 
 <!-- COMMUNITY-CASES:START -->
-Chọn hướng sáng tác từ chín tác phẩm và quy trình của các nhà sáng tạo trên X. Nhấn ảnh để mở bài gốc. Ghi chú phân biệt prompt âm nhạc đã công bố với ý tưởng để bạn thử. Đây là ví dụ cộng đồng, không phải bản demo chính thức.
+Chọn hướng đi từ chín ví dụ cộng đồng trên X. Nhấn ảnh để xem bài gốc; phần ghi chú giới thiệu prompt đã công bố và phương pháp sản xuất.
 
 <table width="100%">
 <tr>
@@ -95,7 +95,9 @@ Chọn hướng sáng tác từ chín tác phẩm và quy trình của các nhà
 2. Nhập phong cách vào Styles trên Suno hoặc Music Style trên MusicMaker; nhập lời vào Lyrics.
 3. Bài tập dưới đây là nhạc không lời: bật Instrumental và để trống Lyrics. Kiểm tra mô hình, tín dụng và cài đặt công khai trước khi tạo.
 
-Bài tập biến tấu không lời dựa trên cách chọn nhạc cụ của Morning with Healing Hands. Chưa được kiểm chứng bằng việc tạo nhạc, không sao chép giai điệu hoặc lời gốc.
+Bài tập biến tấu không lời dựa trên cách chọn nhạc cụ của Morning with Healing Hands.
+
+**Đang chờ nghe thử**
 
 ```text
 An instrumental acoustic piece for a quiet everyday scene.
@@ -105,7 +107,7 @@ Keep the mood warm and hopeful. No singing or spoken voice.
 
 Tài khoản, tín dụng và quyền sử dụng của hai dịch vụ là riêng biệt. Cùng câu lệnh không bảo đảm cùng kết quả.
 
-[Chi tiết · tiếng Anh →](docs/official-suno-guide.md) · [12 mẫu sáng tác bổ sung →](prompts/README.md)
+[Chi tiết · tiếng Anh →](docs/official-suno-guide.md)
 
 ### MusicMaker · Nghe · 12
 
@@ -151,13 +153,13 @@ Lúc đó, bạn có thể thử **Free Suno AI Music Detector của MusicMaker*
 
 <a href="https://musicmaker.im/free-suno-ai-music-detector/"><img src="assets/screenshots/musicmaker-suno-detector.jpg" width="100%" alt="Ảnh chụp công cụ MusicMaker: tải âm thanh, nút Check và vùng kết quả; nhấn để dùng thử"></a>
 
-<sub>Ảnh chụp thật từ website, giao diện tiếng Anh; chưa gửi âm thanh.</sub>
+<sub>Giao diện tiếng Anh.</sub>
 
 Tải âm thanh lên → đăng nhập và nhấn **Check** → xem dự đoán và xác suất AI.
 
 **[Thử công cụ kiểm tra âm nhạc của MusicMaker →](https://musicmaker.im/free-suno-ai-music-detector/)** · [Cách đọc kết quả · Tiếng Anh](docs/detector-and-release.md)
 
-<sub>Kết quả là ước tính, không phải bằng chứng về tác giả, bản quyền hay quyền sử dụng thương mại. Chúng tôi chưa kiểm chứng độc lập độ chính xác.</sub>
+<sub>Kết quả phát hiện chỉ để tham khảo. Hãy xác nhận quyền sử dụng tác phẩm với tác giả.</sub>
 <!-- MUSICMAKER-DETECTOR:END -->
 
 [Sources · English](docs/sources.md) · [Contributing · English](CONTRIBUTING.md)

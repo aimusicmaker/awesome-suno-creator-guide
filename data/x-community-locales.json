@@ -1,6 +1,6 @@
 {
   "en": {
-    "intro": "Explore nine creator posts on X: finished works, experiments and practical workflows. Click an image to open its source; the notes distinguish published music prompts from ideas for your own practice. These are creator posts, not official demonstrations.",
+    "intro": "Choose a direction from nine X community examples. Click an image to view the original post; the notes cover published prompts and production methods.",
     "watch": "Watch on X",
     "notes": "Case notes · English",
     "alt": "Source preview; open the creator’s X post",
@@ -19,7 +19,7 @@
     ]
   },
   "zh": {
-    "intro": "从 X 创作者的九个作品与流程中选一个方向。点击图片看原帖，案例笔记区分作者公开的音乐提示词与可借鉴的做法。这些是创作者发布的社区案例，不是官方演示。",
+    "intro": "从九个 X 社区案例选方向；点击图片看原帖，笔记介绍公开提示词和制作方法。",
     "watch": "看 X 原帖",
     "notes": "案例笔记 · 英文",
     "alt": "原帖关联素材预览；点击打开创作者的 X 原帖",
@@ -38,7 +38,7 @@
     ]
   },
   "tw": {
-    "intro": "從 X 創作者的九個作品與流程中選一個方向。點擊圖片看原帖，案例筆記區分作者公開的音樂提示詞與可借鑑的做法。這些是創作者發布的社群案例，不是官方示範。",
+    "intro": "從九個 X 社群案例選方向；點擊圖片看原帖，筆記介紹公開提示詞和製作方法。",
     "watch": "看 X 原帖",
     "notes": "案例筆記 · 英文",
     "alt": "原帖相關素材預覽；點擊開啟創作者的 X 原帖",
@@ -57,7 +57,7 @@
     ]
   },
   "ja": {
-    "intro": "X のクリエイターによる9つの作品や制作例から、やりたいことを選びましょう。画像から元投稿へ移動できます。解説では公開された音楽プロンプトと参考にできる手法を区別しています。公式デモではありません。",
+    "intro": "X コミュニティの9つの事例から方向性を選べます。画像をクリックすると元投稿が開き、解説では公開プロンプトと制作方法を紹介します。",
     "watch": "X の元投稿",
     "notes": "解説 · 英語",
     "alt": "元投稿の関連画像。クリックして X の投稿を開く",
@@ -76,7 +76,7 @@
     ]
   },
   "ko": {
-    "intro": "X 크리에이터의 작품과 제작 과정 9개에서 방향을 골라 보세요. 이미지를 누르면 원문이 열립니다. 해설은 공개된 음악 프롬프트와 참고할 제작 방법을 구분합니다. 공식 시연이 아닌 커뮤니티 사례입니다.",
+    "intro": "X 커뮤니티 사례 9개에서 방향을 골라 보세요. 이미지를 누르면 원문이 열리고, 해설에서는 공개 프롬프트와 제작 방법을 소개합니다.",
     "watch": "X 원문 보기",
     "notes": "해설 · 영어",
     "alt": "원문 관련 이미지. X 원문 열기",
@@ -95,7 +95,7 @@
     ]
   },
   "id": {
-    "intro": "Pilih arah dari sembilan karya dan proses kreator di X. Klik gambar untuk membuka unggahan asli. Catatan membedakan prompt musik yang dibagikan dari teknik yang bisa dipelajari. Ini contoh komunitas, bukan demo resmi.",
+    "intro": "Pilih arah dari sembilan contoh komunitas di X. Klik gambar untuk melihat unggahan asli; catatan menjelaskan prompt yang dipublikasikan dan metode produksi.",
     "watch": "Lihat di X",
     "notes": "Catatan · Inggris",
     "alt": "Gambar sumber; buka unggahan asli di X",
@@ -114,7 +114,7 @@
     ]
   },
   "it": {
-    "intro": "Scegli fra nove opere e processi di creatori su X. Le immagini aprono i post originali. Le note distinguono i prompt musicali pubblicati dai metodi da cui prendere spunto. Sono esempi della comunità, non demo ufficiali.",
+    "intro": "Scegli una direzione fra nove esempi della comunità su X. Fai clic su un’immagine per vedere il post originale; le note illustrano i prompt pubblicati e i metodi di produzione.",
     "watch": "Guarda su X",
     "notes": "Note · inglese",
     "alt": "Immagine della fonte; apri il post originale su X",
@@ -133,7 +133,7 @@
     ]
   },
   "pt": {
-    "intro": "Escolha entre nove obras e processos de criadores no X. As imagens abrem os posts originais. As notas distinguem prompts musicais publicados de técnicas para experimentar. São exemplos da comunidade, não demonstrações oficiais.",
+    "intro": "Escolha uma direção entre nove exemplos da comunidade no X. Clique em uma imagem para ver a publicação original; as notas apresentam prompts publicados e métodos de produção.",
     "watch": "Ver no X",
     "notes": "Notas · inglês",
     "alt": "Imagem da fonte; abrir post original no X",
@@ -152,7 +152,7 @@
     ]
   },
   "es": {
-    "intro": "Elige entre nueve obras y procesos de creadores en X. Las imágenes abren los posts originales. Las notas distinguen los prompts musicales publicados de las técnicas que puedes probar. Son ejemplos de la comunidad, no demostraciones oficiales.",
+    "intro": "Elige una dirección entre nueve casos de la comunidad en X. Pulsa una imagen para ver la publicación original; las notas explican prompts publicados y métodos de producción.",
     "watch": "Ver en X",
     "notes": "Notas · inglés",
     "alt": "Imagen de la fuente; abrir el post original en X",
@@ -171,7 +171,7 @@
     ]
   },
   "de": {
-    "intro": "Wähle aus neun Werken und Arbeitsweisen von Kreativen auf X. Die Bilder öffnen die Originalbeiträge. Die Erläuterungen unterscheiden veröffentlichte Musik-Prompts von Anregungen zum Ausprobieren. Dies sind Community-Beispiele, keine offiziellen Demos.",
+    "intro": "Wähle eine Richtung aus neun Beispielen der X-Community. Klicke auf ein Bild, um den Originalbeitrag zu sehen; die Notizen erklären veröffentlichte Prompts und Produktionsmethoden.",
     "watch": "Auf X ansehen",
     "notes": "Erläuterungen · Englisch",
     "alt": "Quellbild; Originalbeitrag auf X öffnen",
@@ -190,7 +190,7 @@
     ]
   },
   "ru": {
-    "intro": "Выберите направление из девяти работ и процессов авторов в X. Нажмите на изображение, чтобы открыть исходный пост. В заметках опубликованные музыкальные промпты отделены от идей для практики. Это примеры сообщества, а не официальные демонстрации.",
+    "intro": "Выберите направление среди девяти примеров сообщества в X. Нажмите на изображение, чтобы открыть исходный пост; в заметках разобраны опубликованные промпты и методы создания.",
     "watch": "Смотреть в X",
     "notes": "Разбор · английский",
     "alt": "Изображение из источника; открыть исходный пост в X",
@@ -209,7 +209,7 @@
     ]
   },
   "fr": {
-    "intro": "Choisissez parmi neuf œuvres et méthodes de créateurs sur X. Les images ouvrent les publications originales. Les notes distinguent les prompts musicaux publiés des pistes à explorer. Ce sont des exemples de la communauté, pas des démonstrations officielles.",
+    "intro": "Choisissez une direction parmi neuf exemples de la communauté sur X. Cliquez sur une image pour voir la publication originale ; les notes présentent les prompts publiés et les méthodes de production.",
     "watch": "Voir sur X",
     "notes": "Notes · anglais",
     "alt": "Image liée à la source ; ouvrir la publication originale sur X",
@@ -228,7 +228,7 @@
     ]
   },
   "vi": {
-    "intro": "Chọn hướng sáng tác từ chín tác phẩm và quy trình của các nhà sáng tạo trên X. Nhấn ảnh để mở bài gốc. Ghi chú phân biệt prompt âm nhạc đã công bố với ý tưởng để bạn thử. Đây là ví dụ cộng đồng, không phải bản demo chính thức.",
+    "intro": "Chọn hướng đi từ chín ví dụ cộng đồng trên X. Nhấn ảnh để xem bài gốc; phần ghi chú giới thiệu prompt đã công bố và phương pháp sản xuất.",
     "watch": "Xem trên X",
     "notes": "Ghi chú · tiếng Anh",
     "alt": "Ảnh từ nguồn; mở bài gốc trên X",
@@ -247,7 +247,7 @@
     ]
   },
   "ar": {
-    "intro": "اختر من تسعة أعمال وأساليب لصنّاع محتوى على X. تفتح الصور المنشورات الأصلية. تميّز الملاحظات بين أوامر الموسيقى المنشورة والأفكار التي يمكنك تجربتها. هذه أمثلة من المجتمع وليست عروضًا رسمية.",
+    "intro": "اختر اتجاهًا من تسعة أمثلة لمجتمع X. انقر على الصورة لعرض المنشور الأصلي؛ وتشرح الملاحظات التعليمات المنشورة وطرق الإنتاج.",
     "watch": "شاهد على X",
     "notes": "شرح بالإنجليزية",
     "alt": "صورة مرتبطة بالمصدر؛ افتح المنشور الأصلي على X",
@@ -266,7 +266,7 @@
     ]
   },
   "th": {
-    "intro": "เลือกแนวทางจากผลงานและขั้นตอนของครีเอเตอร์บน X ทั้งเก้าตัวอย่าง คลิกภาพเพื่อเปิดโพสต์ต้นฉบับ บันทึกแยกพรอมป์ต์เพลงที่ผู้สร้างเผยแพร่จากแนวทางที่นำไปลองได้ ตัวอย่างเหล่านี้มาจากชุมชน ไม่ใช่การสาธิตอย่างเป็นทางการ",
+    "intro": "เลือกแนวทางจากตัวอย่างชุมชนบน X ทั้งเก้ากรณี คลิกภาพเพื่อดูโพสต์ต้นฉบับ ส่วนบันทึกอธิบายพรอมป์ต์ที่เผยแพร่และวิธีการผลิต",
     "watch": "ดูโพสต์บน X",
     "notes": "รายละเอียด · ภาษาอังกฤษ",
     "alt": "ภาพจากแหล่งที่มา คลิกเพื่อเปิดโพสต์ต้นฉบับบน X",

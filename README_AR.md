@@ -35,7 +35,7 @@
 <p><a href="#official"><img src="assets/ui/official-ar.svg" height="32" alt="الدليل الرسمي"></a> <a href="#examples"><img src="assets/ui/cases-ar.svg" height="32" alt="أمثلة من X"></a> <a href="#briefs"><img src="assets/ui/briefs-ar.svg" height="32" alt="اختر فكرة"></a></p>
 </div>
 
-هذه مقدمة باللغة العربية. الأدلة التفصيلية والتمارين باللغة الإنجليزية. هذا دليل مستقل من MusicMaker، وليس وثيقة رسمية من Suno.
+هذه مقدمة باللغة العربية. الأدلة التفصيلية والتمارين باللغة الإنجليزية. دليل مستقل يقدمه MusicMaker.
 
 <a id="official"></a>
 ## ما الذي يقدمه Suno v6؟
@@ -51,7 +51,7 @@
 <a id="examples"></a>
 ## أمثلة رسمية للتعليمات على X
 
-تفتح كل صورة منشور Suno الأصلي. البطاقات رسوم توضيحية أعددناها لهذا الدليل، وليست لقطات شاشة للمنشورات.
+تفتح كل صورة منشور Suno الأصلي، وتلخص البطاقات النقاط الأساسية.
 
 <table>
 <tr>
@@ -68,7 +68,7 @@
 ## استمع واختر فكرة لعملك
 
 <!-- COMMUNITY-CASES:START -->
-اختر من تسعة أعمال وأساليب لصنّاع محتوى على X. تفتح الصور المنشورات الأصلية. تميّز الملاحظات بين أوامر الموسيقى المنشورة والأفكار التي يمكنك تجربتها. هذه أمثلة من المجتمع وليست عروضًا رسمية.
+اختر اتجاهًا من تسعة أمثلة لمجتمع X. انقر على الصورة لعرض المنشور الأصلي؛ وتشرح الملاحظات التعليمات المنشورة وطرق الإنتاج.
 
 <table width="100%">
 <tr>
@@ -97,7 +97,9 @@
 2. أدخل النمط في Styles على Suno أو Music Style على MusicMaker، وأدخل الكلمات في Lyrics.
 3. التمرين التالي موسيقى بلا غناء: فعّل Instrumental واترك Lyrics فارغًا. تحقق من النموذج والرصيد وإعدادات النشر قبل التوليد.
 
-تمرين موسيقي بلا غناء يستلهم توزيع الآلات في Morning with Healing Hands. لم نختبره بالتوليد، ولا ينسخ لحن العمل الأصلي أو كلماته.
+تمرين موسيقي بلا غناء يستلهم توزيع الآلات في Morning with Healing Hands.
+
+**بانتظار اختبار الاستماع**
 
 ```text
 An instrumental acoustic piece for a quiet everyday scene.
@@ -107,7 +109,7 @@ Keep the mood warm and hopeful. No singing or spoken voice.
 
 الحسابات والأرصدة وحقوق الاستخدام منفصلة بين الخدمتين. التعليمات نفسها لا تضمن نتيجة متطابقة.
 
-[الدليل المفصل · بالإنجليزية →](docs/official-suno-guide.md) · [12 قالبًا أصليًا إضافيًا →](prompts/README.md)
+[الدليل المفصل · بالإنجليزية →](docs/official-suno-guide.md)
 
 ### MusicMaker · استمع · 12
 
@@ -153,13 +155,13 @@ Keep the mood warm and hopeful. No singing or spoken voice.
 
 <a href="https://musicmaker.im/free-suno-ai-music-detector/"><img src="assets/screenshots/musicmaker-suno-detector.jpg" width="100%" alt="لقطة لموقع كاشف MusicMaker: رفع الصوت وزر Check ومنطقة النتائج؛ انقر للتجربة"></a>
 
-<sub>لقطة فعلية للموقع بواجهة إنجليزية؛ لم يُرسل أي ملف صوتي.</sub>
+<sub>واجهة باللغة الإنجليزية.</sub>
 
 ارفع الملف الصوتي ← سجّل الدخول واضغط **Check** ← راجع التوقّع واحتمال التوليد بالذكاء الاصطناعي.
 
 **[جرّب كاشف الموسيقى من MusicMaker ←](https://musicmaker.im/free-suno-ai-music-detector/)** · [كيفية قراءة النتيجة · بالإنجليزية](docs/detector-and-release.md)
 
-<sub>النتائج تقديرات وليست إثباتًا لهوية المؤلف أو حقوق النشر أو الإذن بالاستخدام التجاري. لم نختبر الدقة بشكل مستقل.</sub>
+<sub>نتائج الكشف للاستئناس. تأكد من حقوق استخدام العمل مع صاحبه.</sub>
 <!-- MUSICMAKER-DETECTOR:END -->
 
 [Sources · English](docs/sources.md) · [Contributing · English](CONTRIBUTING.md)

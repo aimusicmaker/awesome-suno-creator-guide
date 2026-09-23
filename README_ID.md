@@ -33,7 +33,7 @@ Kenali fitur resmi, dengarkan contoh, lalu buat lagu Anda sendiri.
 <p><a href="#official"><img src="assets/ui/official-id.svg" height="32" alt="Panduan resmi"></a> <a href="#examples"><img src="assets/ui/cases-id.svg" height="32" alt="Contoh di X"></a> <a href="#briefs"><img src="assets/ui/briefs-id.svg" height="32" alt="Pilih ide"></a></p>
 </div>
 
-Panduan awal dalam bahasa Indonesia. Panduan terperinci dan latihan tersedia dalam bahasa Inggris. Panduan independen dari MusicMaker, bukan dokumentasi resmi Suno.
+Panduan awal dalam bahasa Indonesia. Panduan terperinci dan latihan tersedia dalam bahasa Inggris. Panduan independen dari MusicMaker.
 
 <a id="official"></a>
 ## Apa yang bisa dilakukan Suno v6?
@@ -49,7 +49,7 @@ v6-mini tersedia di semua paket; v6 dan v6-wild memerlukan Pro / Premier. Durasi
 <a id="examples"></a>
 ## Contoh prompt resmi di X
 
-Setiap gambar membuka unggahan asli Suno. Kartu dibuat untuk panduan ini, bukan tangkapan layar unggahan.
+Setiap gambar membuka unggahan asli Suno; kartu merangkum poin utamanya.
 
 <table>
 <tr>
@@ -66,7 +66,7 @@ Setiap gambar membuka unggahan asli Suno. Kartu dibuat untuk panduan ini, bukan 
 ## Dengarkan lalu pilih arah kreasi
 
 <!-- COMMUNITY-CASES:START -->
-Pilih arah dari sembilan karya dan proses kreator di X. Klik gambar untuk membuka unggahan asli. Catatan membedakan prompt musik yang dibagikan dari teknik yang bisa dipelajari. Ini contoh komunitas, bukan demo resmi.
+Pilih arah dari sembilan contoh komunitas di X. Klik gambar untuk melihat unggahan asli; catatan menjelaskan prompt yang dipublikasikan dan metode produksi.
 
 <table width="100%">
 <tr>
@@ -95,7 +95,9 @@ Pilih arah dari sembilan karya dan proses kreator di X. Klik gambar untuk membuk
 2. Masukkan gaya ke Styles di Suno atau Music Style di MusicMaker; lirik dimasukkan ke Lyrics.
 3. Latihan berikut berupa instrumental: aktifkan Instrumental dan kosongkan Lyrics. Periksa model, kredit, dan pengaturan publik sebelum membuatnya.
 
-Adaptasi instrumental berdasarkan pilihan alat musik dalam Morning with Healing Hands. Belum diuji melalui pembuatan audio dan tidak menyalin melodi atau lirik aslinya.
+Adaptasi instrumental berdasarkan pilihan alat musik dalam Morning with Healing Hands.
+
+**Menunggu uji dengar**
 
 ```text
 An instrumental acoustic piece for a quiet everyday scene.
@@ -105,7 +107,7 @@ Keep the mood warm and hopeful. No singing or spoken voice.
 
 Akun, kredit, dan hak penggunaan masing-masing layanan terpisah. Prompt yang sama tidak menjamin hasil yang sama.
 
-[Panduan lengkap · Inggris →](docs/official-suno-guide.md) · [12 templat orisinal tambahan →](prompts/README.md)
+[Panduan lengkap · Inggris →](docs/official-suno-guide.md)
 
 ### MusicMaker · Dengarkan · 12
 
@@ -151,13 +153,13 @@ Untuk saat seperti itu, coba **Free Suno AI Music Detector dari MusicMaker**. Un
 
 <a href="https://musicmaker.im/free-suno-ai-music-detector/"><img src="assets/screenshots/musicmaker-suno-detector.jpg" width="100%" alt="Tangkapan layar detektor MusicMaker: unggah audio, tombol Check, dan area hasil; klik untuk mencoba"></a>
 
-<sub>Tangkapan layar situs asli, antarmuka bahasa Inggris; belum ada audio yang dikirim.</sub>
+<sub>Antarmuka berbahasa Inggris.</sub>
 
 Unggah audio → masuk dan klik **Check** → baca prediksi dan probabilitas AI.
 
 **[Coba detektor musik MusicMaker →](https://musicmaker.im/free-suno-ai-music-detector/)** · [Cara membaca hasil · Bahasa Inggris](docs/detector-and-release.md)
 
-<sub>Hasil berupa perkiraan, bukan bukti kepengarangan, hak cipta, atau izin komersial. Kami belum menguji akurasinya secara independen.</sub>
+<sub>Hasil deteksi hanya sebagai rujukan. Konfirmasikan hak penggunaan karya kepada pembuatnya.</sub>
 <!-- MUSICMAKER-DETECTOR:END -->
 
 [Sources · English](docs/sources.md) · [Contributing · English](CONTRIBUTING.md)

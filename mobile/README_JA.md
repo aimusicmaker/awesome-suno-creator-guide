@@ -34,7 +34,7 @@
 <p><a href="#official"><img src="../assets/ui/official-ja.svg" height="32" alt="公式情報"></a> <a href="#examples"><img src="../assets/ui/cases-ja.svg" height="32" alt="X の実例"></a> <a href="#briefs"><img src="../assets/ui/briefs-ja.svg" height="32" alt="制作案を選ぶ"></a></p>
 </div>
 
-日本語の入門ページです。詳しい解説と練習ページは英語です。 MusicMaker が提供する独立したガイドであり、Suno の公式文書ではありません。
+日本語の入門ページです。詳しい解説と練習ページは英語です。MusicMaker による独立制作ガイドです。
 
 <a id="official"></a>
 ## Suno v6 でできること
@@ -50,7 +50,7 @@ v6-mini は全プラン、v6 と v6-wild は Pro / Premier 向けです。指定
 <a id="examples"></a>
 ## X の公式プロンプト例
 
-画像をクリックすると Suno の元投稿が開きます。カードはこのガイドが作成した案内図で、投稿のスクリーンショットではありません。
+画像をクリックすると Suno の元投稿が開きます。カードでは要点を簡潔に紹介します。
 
 <p align="center"><a href="https://x.com/suno/status/2098504030204973500"><img src="../assets/x-cases/rooftop.svg" width="100%" alt="情景から始める — Suno / X"></a><br><a href="https://x.com/suno/status/2098504030204973500"><b>情景から始める ↗</b></a></p>
 
@@ -64,7 +64,7 @@ v6-mini は全プラン、v6 と v6-wild は Pro / Premier 向けです。指定
 ## 作品を聴いて制作の方向を選ぶ
 
 <!-- COMMUNITY-CASES:START -->
-X のクリエイターによる9つの作品や制作例から、やりたいことを選びましょう。画像から元投稿へ移動できます。解説では公開された音楽プロンプトと参考にできる手法を区別しています。公式デモではありません。
+X コミュニティの9つの事例から方向性を選べます。画像をクリックすると元投稿が開き、解説では公開プロンプトと制作方法を紹介します。
 
 <p align="center"><a href="https://x.com/maxescu/status/2049444543360336167"><img src="https://pbs.twimg.com/amplify_video_thumb/2049444325596286976/img/lqCxWmk86QgVYb-a.jpg" width="100%" alt="短い指示でテックハウス — @maxescu — 元投稿の関連画像。クリックして X の投稿を開く"></a><br><b>短い指示でテックハウス</b><br><sub><a href="https://x.com/maxescu/status/2049444543360336167">@maxescu</a> · 2026-04-29</sub><br><sub>公開音楽プロンプト</sub><br><a href="https://x.com/maxescu/status/2049444543360336167">▶ X の元投稿</a> · <a href="../docs/x-community-examples.md#case-2049444543360336167">解説 · 英語 →</a></p>
 
@@ -93,7 +93,9 @@ X のクリエイターによる9つの作品や制作例から、やりたい�
 2. 曲調は Suno の Styles、または MusicMaker の Music Style に入力します。歌詞は Lyrics に入れます。
 3. 下の練習は純音楽です。Instrumental をオンにして歌詞欄を空にし、モデル、クレジット、公開設定を確認して生成します。
 
-Morning with Healing Hands の楽器構成を参考に、歌声のない曲へアレンジする練習です。未生成・未検証で、元の旋律や歌詞はコピーしません。
+Morning with Healing Hands の楽器構成を参考に、歌声のない曲へアレンジする練習です。
+
+**試聴待ち**
 
 ```text
 An instrumental acoustic piece for a quiet everyday scene.
@@ -103,7 +105,7 @@ Keep the mood warm and hopeful. No singing or spoken voice.
 
 アカウント、クレジット、利用条件はサービスごとに別です。同じプロンプトでも同じ結果になるとは限りません。
 
-[詳しいガイド・英語 →](../docs/official-suno-guide.md) · [補足のオリジナル練習 12 件 →](../prompts/README.md)
+[詳しいガイド・英語 →](../docs/official-suno-guide.md)
 
 ### MusicMaker · 試聴 · 12
 
@@ -150,13 +152,13 @@ Keep the mood warm and hopeful. No singing or spoken voice.
 
 <a href="https://musicmaker.im/free-suno-ai-music-detector/"><img src="../assets/screenshots/musicmaker-suno-detector.jpg" width="100%" alt="MusicMaker の検出ツールの画面：音声アップロード、Check ボタン、結果欄。クリックして試す"></a>
 
-<sub>公式サイトの実際の画面（英語）。音声は未送信です。</sub>
+<sub>英語の画面です。</sub>
 
 音声をアップロード → ログインして **Check** をクリック → 判定と AI 生成の可能性を確認。
 
 **[MusicMaker の音楽検出ツールを試す →](https://musicmaker.im/free-suno-ai-music-detector/)** · [結果の読み方・英語](../docs/detector-and-release.md)
 
-<sub>結果は推定であり、作者、著作権、商用利用の許可を証明するものではありません。本リポジトリでは精度を独自に検証していません。</sub>
+<sub>検出結果は参考情報です。作品の利用許可は作者に確認してください。</sub>
 <!-- MUSICMAKER-DETECTOR:END -->
 
 [Sources · English](../docs/sources.md) · [Contributing · English](../CONTRIBUTING.md)
