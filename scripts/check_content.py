@@ -125,24 +125,23 @@ for name in home_names:
 brief_ids = {b['id'] for b in catalog['creationBriefs']}
 if brief_ids & set(featured):
     errors.append('Creation briefs and further styles must not repeat source tracks')
-# Creation briefs must be a true 3x3 selection of distinct, source-backed records.
-briefs = catalog['creationBriefs']
-if len(briefs) != 9 or len({b['id'] for b in briefs}) != 9:
-    errors.append('Expected nine distinct brand creation briefs')
-if len({tracks[b['id']]['category'] for b in briefs}) != 9:
-    errors.append('The nine creation briefs must span nine distinct catalog categories')
+# Community cards must stay a full-width 3x3 grid with original sources.
+community = json.loads((ROOT / 'data/x-community-examples.json').read_text())['examples']
+if len(community) != 9 or len({c['id'] for c in community}) != 9:
+    errors.append('Expected nine distinct X community cases')
 for name in home_names:
     body = (ROOT / name).read_text()
-    block = re.search(r'<!-- CREATION-BRIEFS:START -->(.*?)<!-- CREATION-BRIEFS:END -->', body, re.S)
+    block = re.search(r'<!-- COMMUNITY-CASES:START -->(.*?)<!-- COMMUNITY-CASES:END -->', body, re.S)
     rows = re.findall(r'<tr>(.*?)</tr>', block[1], re.S) if block else []
     if len(rows) != 3 or any(len(re.findall(r'<td\b', row)) != 3 for row in rows):
-        errors.append(f'{name}: creation briefs must use three rows of three cards')
+        errors.append(f'{name}: community cases must use three rows of three cards')
         continue
+    if '<table width="100%">' not in block[1] or 'musicmaker.im' in block[1]:
+        errors.append(f'{name}: community grid must be full-width and separate from brand cases')
     cards = re.findall(r'<td\b.*?</td>', block[1], re.S)
-    for card, brief in zip(cards, briefs):
-        track = tracks[brief['id']]
-        if not all(v in card for v in [track['coverUrl'], track['sourceUrl'], f"docs/listening-lab.md#{brief['anchor']}"]):
-            errors.append(f"{name}: mismatched creation brief: {brief['id']}")
+    for card, case in zip(cards, community):
+        if not all(v in card for v in [case['thumbnail'], case['url'], f"docs/x-community-examples.md#case-{case['id']}", 'width="1200"']):
+            errors.append(f"{name}: mismatched community case: {case['id']}")
 
 if errors:
     print('\n'.join(errors))

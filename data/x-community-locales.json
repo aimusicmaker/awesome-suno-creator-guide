@@ -1,0 +1,287 @@
+{
+  "en": {
+    "intro": "Explore nine creator posts on X: finished works, experiments and practical workflows. Click an image to open its source; the notes distinguish published music prompts from ideas for your own practice. These are creator posts, not official demonstrations.",
+    "watch": "Watch on X",
+    "notes": "Case notes · English",
+    "alt": "Source preview; open the creator’s X post",
+    "published": "Music prompt",
+    "workflow": "Workflow / finished work",
+    "titles": [
+      "Tech house from a short prompt",
+      "Latin jazz with live piano",
+      "Give a song an animated video",
+      "Score everyday scenes",
+      "Music for a science-fiction short",
+      "Build a complete music video",
+      "Revive an unfinished melody",
+      "Make a cat-themed song",
+      "Develop a multi-stage funk remix"
+    ]
+  },
+  "zh": {
+    "intro": "从 X 创作者的九个作品与流程中选一个方向。点击图片看原帖，案例笔记区分作者公开的音乐提示词与可借鉴的做法。这些是创作者发布的社区案例，不是官方演示。",
+    "watch": "看 X 原帖",
+    "notes": "案例笔记 · 英文",
+    "alt": "原帖关联素材预览；点击打开创作者的 X 原帖",
+    "published": "公开音乐提示词",
+    "workflow": "流程 / 成品案例",
+    "titles": [
+      "用短提示词做 Tech house",
+      "把钢琴接进拉丁爵士",
+      "为歌曲制作动画短片",
+      "给日常镜头配一首歌",
+      "为科幻短片设计配乐",
+      "制作完整音乐视频",
+      "让旧旋律长出新编曲",
+      "做一首猫咪主题歌曲",
+      "用多轮修改打磨放克混音"
+    ]
+  },
+  "tw": {
+    "intro": "從 X 創作者的九個作品與流程中選一個方向。點擊圖片看原帖，案例筆記區分作者公開的音樂提示詞與可借鑑的做法。這些是創作者發布的社群案例，不是官方示範。",
+    "watch": "看 X 原帖",
+    "notes": "案例筆記 · 英文",
+    "alt": "原帖相關素材預覽；點擊開啟創作者的 X 原帖",
+    "published": "公開音樂提示詞",
+    "workflow": "流程 / 成品案例",
+    "titles": [
+      "用短提示詞做 Tech house",
+      "把鋼琴接進拉丁爵士",
+      "為歌曲製作動畫短片",
+      "給日常鏡頭配一首歌",
+      "為科幻短片設計配樂",
+      "製作完整音樂影片",
+      "讓舊旋律長出新編曲",
+      "做一首貓咪主題歌曲",
+      "用多輪修改打磨放克混音"
+    ]
+  },
+  "ja": {
+    "intro": "X のクリエイターによる9つの作品や制作例から、やりたいことを選びましょう。画像から元投稿へ移動できます。解説では公開された音楽プロンプトと参考にできる手法を区別しています。公式デモではありません。",
+    "watch": "X の元投稿",
+    "notes": "解説 · 英語",
+    "alt": "元投稿の関連画像。クリックして X の投稿を開く",
+    "published": "公開音楽プロンプト",
+    "workflow": "制作過程 / 完成作品",
+    "titles": [
+      "短い指示でテックハウス",
+      "ピアノとラテンジャズ",
+      "曲にアニメ映像を付ける",
+      "日常の映像に曲を合わせる",
+      "SF短編の音楽を作る",
+      "ミュージックビデオを仕上げる",
+      "未完成のメロディーを育てる",
+      "猫をテーマにした曲",
+      "段階的にファンクをリミックス"
+    ]
+  },
+  "ko": {
+    "intro": "X 크리에이터의 작품과 제작 과정 9개에서 방향을 골라 보세요. 이미지를 누르면 원문이 열립니다. 해설은 공개된 음악 프롬프트와 참고할 제작 방법을 구분합니다. 공식 시연이 아닌 커뮤니티 사례입니다.",
+    "watch": "X 원문 보기",
+    "notes": "해설 · 영어",
+    "alt": "원문 관련 이미지. X 원문 열기",
+    "published": "공개 음악 프롬프트",
+    "workflow": "제작 과정 / 완성작",
+    "titles": [
+      "짧은 프롬프트로 테크 하우스",
+      "피아노와 라틴 재즈",
+      "노래에 애니메이션 입히기",
+      "일상 장면에 노래 더하기",
+      "SF 단편에 음악 입히기",
+      "뮤직비디오 완성하기",
+      "미완성 멜로디 이어 만들기",
+      "고양이 테마 노래 만들기",
+      "여러 단계로 펑크 리믹스 다듬기"
+    ]
+  },
+  "id": {
+    "intro": "Pilih arah dari sembilan karya dan proses kreator di X. Klik gambar untuk membuka unggahan asli. Catatan membedakan prompt musik yang dibagikan dari teknik yang bisa dipelajari. Ini contoh komunitas, bukan demo resmi.",
+    "watch": "Lihat di X",
+    "notes": "Catatan · Inggris",
+    "alt": "Gambar sumber; buka unggahan asli di X",
+    "published": "Prompt musik tersedia",
+    "workflow": "Proses / karya selesai",
+    "titles": [
+      "Tech house dari prompt singkat",
+      "Piano dan jazz Latin",
+      "Buat animasi untuk lagu",
+      "Musik untuk adegan sehari-hari",
+      "Musik untuk film fiksi ilmiah",
+      "Selesaikan video musik",
+      "Lanjutkan melodi lama",
+      "Buat lagu bertema kucing",
+      "Olah remix funk bertahap"
+    ]
+  },
+  "it": {
+    "intro": "Scegli fra nove opere e processi di creatori su X. Le immagini aprono i post originali. Le note distinguono i prompt musicali pubblicati dai metodi da cui prendere spunto. Sono esempi della comunità, non demo ufficiali.",
+    "watch": "Guarda su X",
+    "notes": "Note · inglese",
+    "alt": "Immagine della fonte; apri il post originale su X",
+    "published": "Prompt musicale pubblico",
+    "workflow": "Processo / opera finita",
+    "titles": [
+      "Tech house con un prompt breve",
+      "Pianoforte e jazz latino",
+      "Anima una canzone",
+      "Musica per scene quotidiane",
+      "Musica per un corto di fantascienza",
+      "Realizza un video musicale",
+      "Riprendi una vecchia melodia",
+      "Crea una canzone sui gatti",
+      "Sviluppa un remix funk a più riprese"
+    ]
+  },
+  "pt": {
+    "intro": "Escolha entre nove obras e processos de criadores no X. As imagens abrem os posts originais. As notas distinguem prompts musicais publicados de técnicas para experimentar. São exemplos da comunidade, não demonstrações oficiais.",
+    "watch": "Ver no X",
+    "notes": "Notas · inglês",
+    "alt": "Imagem da fonte; abrir post original no X",
+    "published": "Prompt musical publicado",
+    "workflow": "Processo / obra concluída",
+    "titles": [
+      "Tech house com um prompt curto",
+      "Piano e jazz latino",
+      "Anime uma canção",
+      "Música para cenas do dia a dia",
+      "Música para curta de ficção científica",
+      "Crie um videoclipe completo",
+      "Retome uma melodia antiga",
+      "Faça uma canção sobre gatos",
+      "Refine um remix funk em etapas"
+    ]
+  },
+  "es": {
+    "intro": "Elige entre nueve obras y procesos de creadores en X. Las imágenes abren los posts originales. Las notas distinguen los prompts musicales publicados de las técnicas que puedes probar. Son ejemplos de la comunidad, no demostraciones oficiales.",
+    "watch": "Ver en X",
+    "notes": "Notas · inglés",
+    "alt": "Imagen de la fuente; abrir el post original en X",
+    "published": "Prompt musical publicado",
+    "workflow": "Proceso / obra terminada",
+    "titles": [
+      "Tech house con un prompt breve",
+      "Piano y jazz latino",
+      "Anima una canción",
+      "Música para escenas cotidianas",
+      "Música para un corto de ciencia ficción",
+      "Crea un vídeo musical completo",
+      "Retoma una melodía antigua",
+      "Haz una canción sobre gatos",
+      "Desarrolla un remix funk por etapas"
+    ]
+  },
+  "de": {
+    "intro": "Wähle aus neun Werken und Arbeitsweisen von Kreativen auf X. Die Bilder öffnen die Originalbeiträge. Die Erläuterungen unterscheiden veröffentlichte Musik-Prompts von Anregungen zum Ausprobieren. Dies sind Community-Beispiele, keine offiziellen Demos.",
+    "watch": "Auf X ansehen",
+    "notes": "Erläuterungen · Englisch",
+    "alt": "Quellbild; Originalbeitrag auf X öffnen",
+    "published": "Musik-Prompt veröffentlicht",
+    "workflow": "Arbeitsweise / fertiges Werk",
+    "titles": [
+      "Tech House mit kurzem Prompt",
+      "Klavier und Latin Jazz",
+      "Ein Lied animieren",
+      "Musik für Alltagsszenen",
+      "Musik für einen Science-Fiction-Kurzfilm",
+      "Ein Musikvideo fertigstellen",
+      "Eine alte Melodie weiterführen",
+      "Ein Lied über Katzen",
+      "Einen Funk-Remix schrittweise ausarbeiten"
+    ]
+  },
+  "ru": {
+    "intro": "Выберите направление из девяти работ и процессов авторов в X. Нажмите на изображение, чтобы открыть исходный пост. В заметках опубликованные музыкальные промпты отделены от идей для практики. Это примеры сообщества, а не официальные демонстрации.",
+    "watch": "Смотреть в X",
+    "notes": "Разбор · английский",
+    "alt": "Изображение из источника; открыть исходный пост в X",
+    "published": "Музыкальный промпт опубликован",
+    "workflow": "Процесс / готовая работа",
+    "titles": [
+      "Тек-хаус с коротким промптом",
+      "Фортепиано и латинский джаз",
+      "Анимация для песни",
+      "Музыка для повседневных сцен",
+      "Музыка для фантастического короткометражного фильма",
+      "Создать музыкальное видео",
+      "Продолжить старую мелодию",
+      "Сделать песню о кошках",
+      "Доработать фанк-ремикс поэтапно"
+    ]
+  },
+  "fr": {
+    "intro": "Choisissez parmi neuf œuvres et méthodes de créateurs sur X. Les images ouvrent les publications originales. Les notes distinguent les prompts musicaux publiés des pistes à explorer. Ce sont des exemples de la communauté, pas des démonstrations officielles.",
+    "watch": "Voir sur X",
+    "notes": "Notes · anglais",
+    "alt": "Image liée à la source ; ouvrir la publication originale sur X",
+    "published": "Prompt musical publié",
+    "workflow": "Méthode / œuvre terminée",
+    "titles": [
+      "De la tech house avec un prompt court",
+      "Piano et jazz latin",
+      "Animer une chanson",
+      "Musique pour des scènes du quotidien",
+      "Musique pour un court métrage de science-fiction",
+      "Réaliser un clip complet",
+      "Reprendre une ancienne mélodie",
+      "Créer une chanson sur les chats",
+      "Affiner un remix funk par étapes"
+    ]
+  },
+  "vi": {
+    "intro": "Chọn hướng sáng tác từ chín tác phẩm và quy trình của các nhà sáng tạo trên X. Nhấn ảnh để mở bài gốc. Ghi chú phân biệt prompt âm nhạc đã công bố với ý tưởng để bạn thử. Đây là ví dụ cộng đồng, không phải bản demo chính thức.",
+    "watch": "Xem trên X",
+    "notes": "Ghi chú · tiếng Anh",
+    "alt": "Ảnh từ nguồn; mở bài gốc trên X",
+    "published": "Prompt âm nhạc đã công bố",
+    "workflow": "Quy trình / tác phẩm hoàn chỉnh",
+    "titles": [
+      "Tech house từ prompt ngắn",
+      "Piano và jazz Latin",
+      "Làm hoạt hình cho bài hát",
+      "Nhạc cho cảnh đời thường",
+      "Nhạc cho phim ngắn khoa học viễn tưởng",
+      "Hoàn thiện video âm nhạc",
+      "Viết tiếp giai điệu cũ",
+      "Làm bài hát về mèo",
+      "Tinh chỉnh bản remix funk qua nhiều bước"
+    ]
+  },
+  "ar": {
+    "intro": "اختر من تسعة أعمال وأساليب لصنّاع محتوى على X. تفتح الصور المنشورات الأصلية. تميّز الملاحظات بين أوامر الموسيقى المنشورة والأفكار التي يمكنك تجربتها. هذه أمثلة من المجتمع وليست عروضًا رسمية.",
+    "watch": "شاهد على X",
+    "notes": "شرح بالإنجليزية",
+    "alt": "صورة مرتبطة بالمصدر؛ افتح المنشور الأصلي على X",
+    "published": "أمر موسيقي منشور",
+    "workflow": "أسلوب عمل / عمل مكتمل",
+    "titles": [
+      "تك هاوس بأمر قصير",
+      "البيانو والجاز اللاتيني",
+      "أضف رسومًا متحركة إلى أغنية",
+      "موسيقى لمشاهد الحياة اليومية",
+      "موسيقى لفيلم خيال علمي قصير",
+      "أنجز فيديو موسيقيًا",
+      "أكمل لحنًا قديمًا",
+      "اصنع أغنية عن القطط",
+      "طوّر ريمكس فانك على مراحل"
+    ]
+  },
+  "th": {
+    "intro": "เลือกแนวทางจากผลงานและขั้นตอนของครีเอเตอร์บน X ทั้งเก้าตัวอย่าง คลิกภาพเพื่อเปิดโพสต์ต้นฉบับ บันทึกแยกพรอมป์ต์เพลงที่ผู้สร้างเผยแพร่จากแนวทางที่นำไปลองได้ ตัวอย่างเหล่านี้มาจากชุมชน ไม่ใช่การสาธิตอย่างเป็นทางการ",
+    "watch": "ดูโพสต์บน X",
+    "notes": "รายละเอียด · ภาษาอังกฤษ",
+    "alt": "ภาพจากแหล่งที่มา คลิกเพื่อเปิดโพสต์ต้นฉบับบน X",
+    "published": "เผยแพร่พรอมป์ต์เพลง",
+    "workflow": "ขั้นตอน / ผลงานสำเร็จ",
+    "titles": [
+      "เทคเฮาส์จากพรอมป์ต์สั้น",
+      "เปียโนกับลาตินแจ๊ส",
+      "ทำแอนิเมชันให้เพลง",
+      "เพลงสำหรับภาพชีวิตประจำวัน",
+      "เพลงประกอบหนังสั้นไซไฟ",
+      "ทำมิวสิกวิดีโอให้สมบูรณ์",
+      "ต่อยอดทำนองเก่า",
+      "ทำเพลงธีมแมว",
+      "ปรับรีมิกซ์ฟังก์ทีละขั้น"
+    ]
+  }
+}

@@ -2,7 +2,7 @@
 
 [← Home](../README.md) · [中文首页](../README_ZH.md)
 
-The nine featured briefs and three earlier song ideas below are our concise paraphrases of the public MusicMaker track data, checked September 23, 2026. They describe the published tracks; we have not reproduced the generation or independently judged their audio quality. The separate exercises below are our original, untested adaptations. Do not copy the recordings or lyrics without permission.
+The nine brand briefs and three earlier song ideas below are our concise paraphrases of the public MusicMaker track data, checked September 23, 2026. They describe the published tracks; we have not reproduced the generation or independently judged their audio quality. The separate exercises below are our original, untested adaptations. Do not copy the recordings or lyrics without permission.
 
 ## How to use any brief
 

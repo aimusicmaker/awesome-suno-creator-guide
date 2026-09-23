@@ -36,7 +36,7 @@
 
 </div>
 
-适合第一次写歌的人、需要视频配乐的创作者，以及“脑中有声音，却总生成不出来”的音乐爱好者。从官方能力和公开案例入门，再选一首 MusicMaker 作品，跟着图文提案开始自己的创作。
+适合第一次写歌的人、需要视频配乐的创作者，以及“脑中有声音，却总生成不出来”的音乐爱好者。先了解官方能力，再从 X 社区作品里找灵感，最后跟着教程开始自己的创作。
 
 独立创作指南，非 Suno 官方文档。品牌原作品、来源风格与改写练习分开注明；改写尚未生成验证。详细教程和多数方案为英文，本页提供中文入门。
 
@@ -62,7 +62,7 @@
 
 ## X 上的提示词与作品演示
 
-先看 4 条 **Suno 官方 v6 提示词**，再对照 4 个带视频的演示。点击图片直达原帖；提示词卡是本仓库制作的导读图，不是原帖截图。
+先看 4 条 **Suno 官方 v6 提示词**，再对照 2 个官方视频演示。点击图片直达原帖；提示词卡是本仓库制作的导读图，不是原帖截图。
 
 <table>
 <tr>
@@ -76,17 +76,13 @@
 </table>
 
 <details>
-<summary>▶ 展开 4 个视频案例：原始输入、歌曲成品与音效编辑</summary>
+<summary>▶ 展开 2 个官方视频案例：原始输入、歌曲成品与音效编辑</summary>
 
 <strong>看输入如何变成作品：</strong>以下视频有不同的证据范围，卡片已注明；历史案例中的旧模型与套餐说明不代表当前功能。
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://x.com/Attack/status/1797664905568412055"><img src="https://pbs.twimg.com/ext_tw_video_thumb/1797663888697090048/pu/img/nPOfswNRcqjBjTWV?format=webp&amp;name=large" width="260" alt="让旧旋律长出新编曲：原视频封面，点击在 X 观看"></a><br><b>让旧旋律长出新编曲</b><br><sub>Kevin Pereira · 2024-06-04</sub><br>v3.5；回复中有原始录音，未公开完整风格提示词。作者用了他人的歌词；只参考流程，不复制歌词。<br><a href="https://x.com/Attack/status/1797664905568412055">▶ 查看原视频</a></td>
 <td width="50%" valign="top"><a href="https://x.com/suno/status/1806740550566949019"><img src="https://pbs.twimg.com/ext_tw_video_thumb/1806740388373291008/pu/img/DDPGSmwQyy6srgb1?format=webp&amp;name=large" width="260" alt="把打字声变成低保真桑巴：原视频封面，点击在 X 观看"></a><br><b>把打字声变成低保真桑巴</b><br><sub>Minz / Suno · 2024-06-29</sub><br>官方音频输入演示；帖子说明风格，未提供完整提示词或确切模型。<br><a href="https://x.com/suno/status/1806740550566949019">▶ 查看原视频</a></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://x.com/Hermion28758241/status/1802200978969559447"><img src="https://pbs.twimg.com/ext_tw_video_thumb/1802200843904532480/pu/img/Syu6hS_9jGHJvVo7?format=webp&amp;name=large" width="260" alt="猫咪主题的声音转歌曲实验：原视频封面，点击在 X 观看"></a><br><b>猫咪主题的声音转歌曲实验</b><br><sub>瑶酱Hermione · 2024-06-16</sub><br>作者标注 v3.5 声音转歌曲，附演示视频，未公开完整提示词。<br><a href="https://x.com/Hermion28758241/status/1802200978969559447">▶ 查看原视频</a></td>
 <td width="50%" valign="top"><a href="https://x.com/suno/status/2102066500043510096"><img src="https://pbs.twimg.com/amplify_video_thumb/2102066204907040769/img/bwJ9Vf6zKR6h_lCz?format=webp&amp;name=large" width="260" alt="用语言描述想要的音效：原视频封面，点击在 X 观看"></a><br><b>用语言描述想要的音效</b><br><sub>Suno · 2026-09-22</sub><br>官方音效描述演示，涉及饱和效果；属于编辑示例，并非整首歌曲提示词。帖子未标明确切模型。<br><a href="https://x.com/suno/status/2102066500043510096">▶ 查看原视频</a></td>
 </tr>
 </table>
@@ -118,29 +114,29 @@
 
 ## 先选你要做的内容
 
-<strong>先听作品，再选创作方向。</strong>下面九份提案选自 MusicMaker 现有曲库，使用原作品封面和公开风格描述。卡片上的用途是我们建议的创作方向；试听展示的是原作品，不是改写结果。
+<!-- COMMUNITY-CASES:START -->
+从 X 创作者的九个作品与流程中选一个方向。点击图片看原帖，案例笔记区分作者公开的音乐提示词与可借鉴的做法。这些是创作者发布的社区案例，不是官方演示。
 
-<!-- CREATION-BRIEFS:START -->
-<table>
+<table width="100%">
 <tr>
-<td width="33%" valign="top"><a href="docs/listening-lab.md#3-morning-with-healing-hands"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" width="360" alt="Morning with Healing Hands — 品牌作品封面；打开对应创作提案"></a><br><b>给日常画面配温暖民谣</b><br><sub>Morning with Healing Hands</sub><br><a href="https://musicmaker.im/detail/discover-v2-106/">▶ 试听原作</a><br><a href="docs/listening-lab.md#3-morning-with-healing-hands">创作提案 →</a></td>
-<td width="33%" valign="top"><a href="docs/listening-lab.md#brief-discover-v2-13"><img src="https://cdn.musicmaker.im/musicmaker/discover_ai_music/v2/cover/no_knees_no_crown.webp" width="360" alt="No Knees, No Crown — 品牌作品封面；打开对应创作提案"></a><br><b>给运动短片写硬核说唱</b><br><sub>No Knees, No Crown</sub><br><a href="https://musicmaker.im/detail/discover-v2-13/">▶ 试听原作</a><br><a href="docs/listening-lab.md#brief-discover-v2-13">创作提案 →</a></td>
-<td width="33%" valign="top"><a href="docs/listening-lab.md#brief-discover-v2-24"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/crown_of_the_tempest.webp" width="360" alt="Crown of the Tempest — 品牌作品封面；打开对应创作提案"></a><br><b>为冒险故事写史诗配乐</b><br><sub>Crown of the Tempest</sub><br><a href="https://musicmaker.im/detail/discover-v2-24/">▶ 试听原作</a><br><a href="docs/listening-lab.md#brief-discover-v2-24">创作提案 →</a></td>
+<td width="33%" align="center" valign="top"><a href="https://x.com/maxescu/status/2049444543360336167"><img src="https://pbs.twimg.com/amplify_video_thumb/2049444325596286976/img/lqCxWmk86QgVYb-a.jpg" width="1200" alt="用短提示词做 Tech house — @maxescu — 原帖关联素材预览；点击打开创作者的 X 原帖"></a><br><b>用短提示词做 Tech house</b><br><sub><a href="https://x.com/maxescu/status/2049444543360336167">@maxescu</a> · 2026-04-29</sub><br><sub>公开音乐提示词</sub><br><a href="https://x.com/maxescu/status/2049444543360336167">▶ 看 X 原帖</a> · <a href="docs/x-community-examples.md#case-2049444543360336167">案例笔记 · 英文 →</a></td>
+<td width="33%" align="center" valign="top"><a href="https://x.com/KiwiJazzTutor/status/2069599574000586959"><img src="https://pbs.twimg.com/amplify_video_thumb/2069594596422672384/img/F5ujZhXCu71zlQcd.jpg" width="1200" alt="把钢琴接进拉丁爵士 — @KiwiJazzTutor — 原帖关联素材预览；点击打开创作者的 X 原帖"></a><br><b>把钢琴接进拉丁爵士</b><br><sub><a href="https://x.com/KiwiJazzTutor/status/2069599574000586959">@KiwiJazzTutor</a> · 2026-06-24</sub><br><sub>流程 / 成品案例</sub><br><a href="https://x.com/KiwiJazzTutor/status/2069599574000586959">▶ 看 X 原帖</a> · <a href="docs/x-community-examples.md#case-2069599574000586959">案例笔记 · 英文 →</a></td>
+<td width="33%" align="center" valign="top"><a href="https://x.com/Framer_X/status/2093001366922744183"><img src="https://pbs.twimg.com/amplify_video_thumb/2092980107551858688/img/anFYID4N5V4X_n1y.jpg" width="1200" alt="为歌曲制作动画短片 — @Framer_X — 原帖关联素材预览；点击打开创作者的 X 原帖"></a><br><b>为歌曲制作动画短片</b><br><sub><a href="https://x.com/Framer_X/status/2093001366922744183">@Framer_X</a> · 2026-08-27</sub><br><sub>流程 / 成品案例</sub><br><a href="https://x.com/Framer_X/status/2093001366922744183">▶ 看 X 原帖</a> · <a href="docs/x-community-examples.md#case-2093001366922744183">案例笔记 · 英文 →</a></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><a href="docs/listening-lab.md#brief-discover-v2-21"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/sleeptown_windowlight.webp" width="360" alt="Sleeptown Windowlight — 品牌作品封面；打开对应创作提案"></a><br><b>做一段睡前钢琴曲</b><br><sub>Sleeptown Windowlight</sub><br><a href="https://musicmaker.im/detail/discover-v2-21/">▶ 试听原作</a><br><a href="docs/listening-lab.md#brief-discover-v2-21">创作提案 →</a></td>
-<td width="33%" valign="top"><a href="docs/listening-lab.md#brief-discover-v2-41"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/ignite_the_night.webp" width="360" alt="Ignite the Night — 品牌作品封面；打开对应创作提案"></a><br><b>给派对做电子舞曲</b><br><sub>Ignite the Night</sub><br><a href="https://musicmaker.im/detail/discover-v2-41/">▶ 试听原作</a><br><a href="docs/listening-lab.md#brief-discover-v2-41">创作提案 →</a></td>
-<td width="33%" valign="top"><a href="docs/listening-lab.md#brief-discover-v2-17"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/leave_me_bored.webp" width="360" alt="Leave Me Bored — 品牌作品封面；打开对应创作提案"></a><br><b>把青春烦恼唱成朋克</b><br><sub>Leave Me Bored</sub><br><a href="https://musicmaker.im/detail/discover-v2-17/">▶ 试听原作</a><br><a href="docs/listening-lab.md#brief-discover-v2-17">创作提案 →</a></td>
+<td width="33%" align="center" valign="top"><a href="https://x.com/juliewdesign_/status/1928099450884333867"><img src="https://pbs.twimg.com/amplify_video_thumb/1928098998537076736/img/lz34BDEJjqLEvQy_.jpg" width="1200" alt="给日常镜头配一首歌 — @juliewdesign_ — 原帖关联素材预览；点击打开创作者的 X 原帖"></a><br><b>给日常镜头配一首歌</b><br><sub><a href="https://x.com/juliewdesign_/status/1928099450884333867">@juliewdesign_</a> · 2025-05-29</sub><br><sub>流程 / 成品案例</sub><br><a href="https://x.com/juliewdesign_/status/1928099450884333867">▶ 看 X 原帖</a> · <a href="docs/x-community-examples.md#case-1928099450884333867">案例笔记 · 英文 →</a></td>
+<td width="33%" align="center" valign="top"><a href="https://x.com/HashemGhaili/status/1929615615133966391"><img src="https://pbs.twimg.com/amplify_video_thumb/1929614716961247232/img/mfhSRJTv-wh7OvDx.jpg" width="1200" alt="为科幻短片设计配乐 — @HashemGhaili — 原帖关联素材预览；点击打开创作者的 X 原帖"></a><br><b>为科幻短片设计配乐</b><br><sub><a href="https://x.com/HashemGhaili/status/1929615615133966391">@HashemGhaili</a> · 2025-06-02</sub><br><sub>流程 / 成品案例</sub><br><a href="https://x.com/HashemGhaili/status/1929615615133966391">▶ 看 X 原帖</a> · <a href="docs/x-community-examples.md#case-1929615615133966391">案例笔记 · 英文 →</a></td>
+<td width="33%" align="center" valign="top"><a href="https://x.com/demon_ai_/status/1797764913198154072"><img src="https://pbs.twimg.com/ext_tw_video_thumb/1797763815158784001/pu/img/lcMHsbRBHK8hmv0J.jpg" width="1200" alt="制作完整音乐视频 — @demon_ai_ — 原帖关联素材预览；点击打开创作者的 X 原帖"></a><br><b>制作完整音乐视频</b><br><sub><a href="https://x.com/demon_ai_/status/1797764913198154072">@demon_ai_</a> · 2024-06-03</sub><br><sub>流程 / 成品案例</sub><br><a href="https://x.com/demon_ai_/status/1797764913198154072">▶ 看 X 原帖</a> · <a href="docs/x-community-examples.md#case-1797764913198154072">案例笔记 · 英文 →</a></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><a href="docs/listening-lab.md#brief-discover-v2-37"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/rain_on_the_windowpane.webp" width="360" alt="Rain On The Windowpane — 品牌作品封面；打开对应创作提案"></a><br><b>给咖啡馆写轻柔爵士</b><br><sub>Rain On The Windowpane</sub><br><a href="https://musicmaker.im/detail/discover-v2-37/">▶ 试听原作</a><br><a href="docs/listening-lab.md#brief-discover-v2-37">创作提案 →</a></td>
-<td width="33%" valign="top"><a href="docs/listening-lab.md#brief-discover-v2-54"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/candlelight_for_you.webp" width="360" alt="Candlelight for You — 品牌作品封面；打开对应创作提案"></a><br><b>写一首专属生日歌</b><br><sub>Candlelight for You</sub><br><a href="https://musicmaker.im/detail/discover-v2-54/">▶ 试听原作</a><br><a href="docs/listening-lab.md#brief-discover-v2-54">创作提案 →</a></td>
-<td width="33%" valign="top"><a href="docs/listening-lab.md#brief-discover-2"><img src="https://cdn.musicmaker.im/musicmaker/discover_ai_music/example/Ahava's_melody.webp" width="360" alt="Ahava&#x27;s melody — 品牌作品封面；打开对应创作提案"></a><br><b>写一段 Klezmer 风格舞曲</b><br><sub>Ahava&#x27;s melody</sub><br><a href="https://musicmaker.im/detail/discover-2/">▶ 试听原作</a><br><a href="docs/listening-lab.md#brief-discover-2">创作提案 →</a></td>
+<td width="33%" align="center" valign="top"><a href="https://x.com/Attack/status/1797664905568412055"><img src="https://pbs.twimg.com/ext_tw_video_thumb/1797663888697090048/pu/img/nPOfswNRcqjBjTWV.jpg" width="1200" alt="让旧旋律长出新编曲 — @Attack — 原帖关联素材预览；点击打开创作者的 X 原帖"></a><br><b>让旧旋律长出新编曲</b><br><sub><a href="https://x.com/Attack/status/1797664905568412055">@Attack</a> · 2024-06-03</sub><br><sub>流程 / 成品案例</sub><br><a href="https://x.com/Attack/status/1797664905568412055">▶ 看 X 原帖</a> · <a href="docs/x-community-examples.md#case-1797664905568412055">案例笔记 · 英文 →</a></td>
+<td width="33%" align="center" valign="top"><a href="https://x.com/Hermion28758241/status/1802200978969559447"><img src="https://pbs.twimg.com/ext_tw_video_thumb/1802200843904532480/pu/img/Syu6hS_9jGHJvVo7.jpg" width="1200" alt="做一首猫咪主题歌曲 — @Hermion28758241 — 原帖关联素材预览；点击打开创作者的 X 原帖"></a><br><b>做一首猫咪主题歌曲</b><br><sub><a href="https://x.com/Hermion28758241/status/1802200978969559447">@Hermion28758241</a> · 2024-06-16</sub><br><sub>流程 / 成品案例</sub><br><a href="https://x.com/Hermion28758241/status/1802200978969559447">▶ 看 X 原帖</a> · <a href="docs/x-community-examples.md#case-1802200978969559447">案例笔记 · 英文 →</a></td>
+<td width="33%" align="center" valign="top"><a href="https://x.com/DJKNEK/status/2001536418393543105"><img src="https://cdn2.suno.ai/2607b0c3-4c55-4cad-98f8-e8e0217a184e.jpeg" width="1200" alt="用多轮修改打磨放克混音 — @DJKNEK — 原帖关联素材预览；点击打开创作者的 X 原帖"></a><br><b>用多轮修改打磨放克混音</b><br><sub><a href="https://x.com/DJKNEK/status/2001536418393543105">@DJKNEK</a> · 2025-12-18</sub><br><sub>公开音乐提示词</sub><br><a href="https://x.com/DJKNEK/status/2001536418393543105">▶ 看 X 原帖</a> · <a href="docs/x-community-examples.md#case-2001536418393543105">案例笔记 · 英文 →</a></td>
 </tr>
 </table>
-<!-- CREATION-BRIEFS:END -->
+<!-- COMMUNITY-CASES:END -->
 
-选好后，可以在 **[Suno 官方](https://suno.com/create)** 或 **[MusicMaker](https://musicmaker.im/ai-song-generator/)** 开始。下面以 Morning with Healing Hands 的木吉他配器做一次示范。
+选好后，可以在 **[Suno 官方](https://suno.com/create)** 或 **[MusicMaker](https://musicmaker.im/ai-song-generator/)** 开始。接下来换一个独立练习：参考品牌作品 Morning with Healing Hands 的木吉他配器，尝试自己的版本。
 
 ## 开始第一首歌
 

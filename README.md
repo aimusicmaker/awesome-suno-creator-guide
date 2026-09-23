@@ -36,7 +36,7 @@ Copy-ready prompts, original lyrics, real listening references, and practical fi
 
 </div>
 
-For first-time songwriters and video creators: explore official capabilities and public examples, then choose a MusicMaker track and develop your own idea from its illustrated creation brief.
+For first-time songwriters and video creators: explore official capabilities, find inspiration in X community works, then follow the tutorial to make your own song.
 
 An independent guide, not official Suno documentation. Published source tracks, style summaries and untested adaptations are labeled separately.
 
@@ -62,7 +62,7 @@ Sources: [Official v6 FAQ](https://help.suno.com/en/articles/13924481) · [v6 fe
 
 ## Prompts and demonstrations from X
 
-Start with **4 official v6 prompt examples**, then explore 4 video demonstrations. Every image opens its original post. Prompt cards are our editorial graphics, not screenshots.
+Start with **4 official v6 prompt examples**, then explore 2 official video demonstrations. Every image opens its original post. Prompt cards are our editorial graphics, not screenshots.
 
 <table>
 <tr>
@@ -76,17 +76,13 @@ Start with **4 official v6 prompt examples**, then explore 4 video demonstration
 </table>
 
 <details>
-<summary>▶ 4 video demonstrations: original inputs, finished clips, and editing</summary>
+<summary>▶ 2 official video demonstrations: original inputs, finished clips, and editing</summary>
 
 **See input become music:** evidence differs by demo and is noted below. Historical model and plan details do not describe today’s product.
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://x.com/Attack/status/1797664905568412055"><img src="https://pbs.twimg.com/ext_tw_video_thumb/1797663888697090048/pu/img/nPOfswNRcqjBjTWV?format=webp&amp;name=large" width="260" alt="An old melody becomes a new arrangement: original video thumbnail; watch on X"></a><br><b>An old melody becomes a new arrangement</b><br><sub>Kevin Pereira · 2024-06-04</sub><br>v3.5; original upload linked in the replies; full style prompt not disclosed. Uses borrowed lyrics: study the workflow, not those lyrics.<br><a href="https://x.com/Attack/status/1797664905568412055">▶ Open original video</a></td>
 <td width="50%" valign="top"><a href="https://x.com/suno/status/1806740550566949019"><img src="https://pbs.twimg.com/ext_tw_video_thumb/1806740388373291008/pu/img/DDPGSmwQyy6srgb1?format=webp&amp;name=large" width="260" alt="Typing becomes lo-fi samba: original video thumbnail; watch on X"></a><br><b>Typing becomes lo-fi samba</b><br><sub>Minz / Suno · 2024-06-29</sub><br>Official audio-input demonstration; the post names the style, but not the full prompt or exact model.<br><a href="https://x.com/suno/status/1806740550566949019">▶ Open original video</a></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://x.com/Hermion28758241/status/1802200978969559447"><img src="https://pbs.twimg.com/ext_tw_video_thumb/1802200843904532480/pu/img/Syu6hS_9jGHJvVo7?format=webp&amp;name=large" width="260" alt="A cat-themed sound-to-song experiment: original video thumbnail; watch on X"></a><br><b>A cat-themed sound-to-song experiment</b><br><sub>瑶酱Hermione · 2024-06-16</sub><br>Creator identifies v3.5 sound-to-song; video attached, full prompt not disclosed.<br><a href="https://x.com/Hermion28758241/status/1802200978969559447">▶ Open original video</a></td>
 <td width="50%" valign="top"><a href="https://x.com/suno/status/2102066500043510096"><img src="https://pbs.twimg.com/amplify_video_thumb/2102066204907040769/img/bwJ9Vf6zKR6h_lCz?format=webp&amp;name=large" width="260" alt="Describe the sound of an effect: original video thumbnail; watch on X"></a><br><b>Describe the sound of an effect</b><br><sub>Suno · 2026-09-22</sub><br>Official video on describing effects, including saturation; an editing demo, not a full-song recipe. Exact model not specified in the post.<br><a href="https://x.com/suno/status/2102066500043510096">▶ Open original video</a></td>
 </tr>
 </table>
@@ -118,29 +114,29 @@ Images come from the linked official interviews; listening links lead to their f
 
 ## What are you making?
 
-**Hear a real track, then choose a direction.** These nine briefs start from existing MusicMaker catalog tracks, their original covers and published style descriptions. The suggested use cases are our adaptation ideas; the audio is the source track, not the result of an adaptation.
+<!-- COMMUNITY-CASES:START -->
+Explore nine creator posts on X: finished works, experiments and practical workflows. Click an image to open its source; the notes distinguish published music prompts from ideas for your own practice. These are creator posts, not official demonstrations.
 
-<!-- CREATION-BRIEFS:START -->
-<table>
+<table width="100%">
 <tr>
-<td width="33%" valign="top"><a href="docs/listening-lab.md#3-morning-with-healing-hands"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" width="360" alt="Morning with Healing Hands — MusicMaker cover; open the corresponding creation brief"></a><br><b>Warm folk for everyday scenes</b><br><sub>Morning with Healing Hands</sub><br><a href="https://musicmaker.im/detail/discover-v2-106/">▶ Listen</a><br><a href="docs/listening-lab.md#3-morning-with-healing-hands">Creation brief →</a></td>
-<td width="33%" valign="top"><a href="docs/listening-lab.md#brief-discover-v2-13"><img src="https://cdn.musicmaker.im/musicmaker/discover_ai_music/v2/cover/no_knees_no_crown.webp" width="360" alt="No Knees, No Crown — MusicMaker cover; open the corresponding creation brief"></a><br><b>Hardcore rap for a sports clip</b><br><sub>No Knees, No Crown</sub><br><a href="https://musicmaker.im/detail/discover-v2-13/">▶ Listen</a><br><a href="docs/listening-lab.md#brief-discover-v2-13">Creation brief →</a></td>
-<td width="33%" valign="top"><a href="docs/listening-lab.md#brief-discover-v2-24"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/crown_of_the_tempest.webp" width="360" alt="Crown of the Tempest — MusicMaker cover; open the corresponding creation brief"></a><br><b>An epic adventure score</b><br><sub>Crown of the Tempest</sub><br><a href="https://musicmaker.im/detail/discover-v2-24/">▶ Listen</a><br><a href="docs/listening-lab.md#brief-discover-v2-24">Creation brief →</a></td>
+<td width="33%" align="center" valign="top"><a href="https://x.com/maxescu/status/2049444543360336167"><img src="https://pbs.twimg.com/amplify_video_thumb/2049444325596286976/img/lqCxWmk86QgVYb-a.jpg" width="1200" alt="Tech house from a short prompt — @maxescu — Source preview; open the creator’s X post"></a><br><b>Tech house from a short prompt</b><br><sub><a href="https://x.com/maxescu/status/2049444543360336167">@maxescu</a> · 2026-04-29</sub><br><sub>Music prompt</sub><br><a href="https://x.com/maxescu/status/2049444543360336167">▶ Watch on X</a> · <a href="docs/x-community-examples.md#case-2049444543360336167">Case notes · English →</a></td>
+<td width="33%" align="center" valign="top"><a href="https://x.com/KiwiJazzTutor/status/2069599574000586959"><img src="https://pbs.twimg.com/amplify_video_thumb/2069594596422672384/img/F5ujZhXCu71zlQcd.jpg" width="1200" alt="Latin jazz with live piano — @KiwiJazzTutor — Source preview; open the creator’s X post"></a><br><b>Latin jazz with live piano</b><br><sub><a href="https://x.com/KiwiJazzTutor/status/2069599574000586959">@KiwiJazzTutor</a> · 2026-06-24</sub><br><sub>Workflow / finished work</sub><br><a href="https://x.com/KiwiJazzTutor/status/2069599574000586959">▶ Watch on X</a> · <a href="docs/x-community-examples.md#case-2069599574000586959">Case notes · English →</a></td>
+<td width="33%" align="center" valign="top"><a href="https://x.com/Framer_X/status/2093001366922744183"><img src="https://pbs.twimg.com/amplify_video_thumb/2092980107551858688/img/anFYID4N5V4X_n1y.jpg" width="1200" alt="Give a song an animated video — @Framer_X — Source preview; open the creator’s X post"></a><br><b>Give a song an animated video</b><br><sub><a href="https://x.com/Framer_X/status/2093001366922744183">@Framer_X</a> · 2026-08-27</sub><br><sub>Workflow / finished work</sub><br><a href="https://x.com/Framer_X/status/2093001366922744183">▶ Watch on X</a> · <a href="docs/x-community-examples.md#case-2093001366922744183">Case notes · English →</a></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><a href="docs/listening-lab.md#brief-discover-v2-21"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/sleeptown_windowlight.webp" width="360" alt="Sleeptown Windowlight — MusicMaker cover; open the corresponding creation brief"></a><br><b>Piano for winding down</b><br><sub>Sleeptown Windowlight</sub><br><a href="https://musicmaker.im/detail/discover-v2-21/">▶ Listen</a><br><a href="docs/listening-lab.md#brief-discover-v2-21">Creation brief →</a></td>
-<td width="33%" valign="top"><a href="docs/listening-lab.md#brief-discover-v2-41"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/ignite_the_night.webp" width="360" alt="Ignite the Night — MusicMaker cover; open the corresponding creation brief"></a><br><b>Electronic dance for a party</b><br><sub>Ignite the Night</sub><br><a href="https://musicmaker.im/detail/discover-v2-41/">▶ Listen</a><br><a href="docs/listening-lab.md#brief-discover-v2-41">Creation brief →</a></td>
-<td width="33%" valign="top"><a href="docs/listening-lab.md#brief-discover-v2-17"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/leave_me_bored.webp" width="360" alt="Leave Me Bored — MusicMaker cover; open the corresponding creation brief"></a><br><b>Turn teenage angst into punk</b><br><sub>Leave Me Bored</sub><br><a href="https://musicmaker.im/detail/discover-v2-17/">▶ Listen</a><br><a href="docs/listening-lab.md#brief-discover-v2-17">Creation brief →</a></td>
+<td width="33%" align="center" valign="top"><a href="https://x.com/juliewdesign_/status/1928099450884333867"><img src="https://pbs.twimg.com/amplify_video_thumb/1928098998537076736/img/lz34BDEJjqLEvQy_.jpg" width="1200" alt="Score everyday scenes — @juliewdesign_ — Source preview; open the creator’s X post"></a><br><b>Score everyday scenes</b><br><sub><a href="https://x.com/juliewdesign_/status/1928099450884333867">@juliewdesign_</a> · 2025-05-29</sub><br><sub>Workflow / finished work</sub><br><a href="https://x.com/juliewdesign_/status/1928099450884333867">▶ Watch on X</a> · <a href="docs/x-community-examples.md#case-1928099450884333867">Case notes · English →</a></td>
+<td width="33%" align="center" valign="top"><a href="https://x.com/HashemGhaili/status/1929615615133966391"><img src="https://pbs.twimg.com/amplify_video_thumb/1929614716961247232/img/mfhSRJTv-wh7OvDx.jpg" width="1200" alt="Music for a science-fiction short — @HashemGhaili — Source preview; open the creator’s X post"></a><br><b>Music for a science-fiction short</b><br><sub><a href="https://x.com/HashemGhaili/status/1929615615133966391">@HashemGhaili</a> · 2025-06-02</sub><br><sub>Workflow / finished work</sub><br><a href="https://x.com/HashemGhaili/status/1929615615133966391">▶ Watch on X</a> · <a href="docs/x-community-examples.md#case-1929615615133966391">Case notes · English →</a></td>
+<td width="33%" align="center" valign="top"><a href="https://x.com/demon_ai_/status/1797764913198154072"><img src="https://pbs.twimg.com/ext_tw_video_thumb/1797763815158784001/pu/img/lcMHsbRBHK8hmv0J.jpg" width="1200" alt="Build a complete music video — @demon_ai_ — Source preview; open the creator’s X post"></a><br><b>Build a complete music video</b><br><sub><a href="https://x.com/demon_ai_/status/1797764913198154072">@demon_ai_</a> · 2024-06-03</sub><br><sub>Workflow / finished work</sub><br><a href="https://x.com/demon_ai_/status/1797764913198154072">▶ Watch on X</a> · <a href="docs/x-community-examples.md#case-1797764913198154072">Case notes · English →</a></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><a href="docs/listening-lab.md#brief-discover-v2-37"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/rain_on_the_windowpane.webp" width="360" alt="Rain On The Windowpane — MusicMaker cover; open the corresponding creation brief"></a><br><b>Smooth jazz for a café</b><br><sub>Rain On The Windowpane</sub><br><a href="https://musicmaker.im/detail/discover-v2-37/">▶ Listen</a><br><a href="docs/listening-lab.md#brief-discover-v2-37">Creation brief →</a></td>
-<td width="33%" valign="top"><a href="docs/listening-lab.md#brief-discover-v2-54"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/candlelight_for_you.webp" width="360" alt="Candlelight for You — MusicMaker cover; open the corresponding creation brief"></a><br><b>A personal birthday song</b><br><sub>Candlelight for You</sub><br><a href="https://musicmaker.im/detail/discover-v2-54/">▶ Listen</a><br><a href="docs/listening-lab.md#brief-discover-v2-54">Creation brief →</a></td>
-<td width="33%" valign="top"><a href="docs/listening-lab.md#brief-discover-2"><img src="https://cdn.musicmaker.im/musicmaker/discover_ai_music/example/Ahava's_melody.webp" width="360" alt="Ahava&#x27;s melody — MusicMaker cover; open the corresponding creation brief"></a><br><b>A klezmer-inspired dance tune</b><br><sub>Ahava&#x27;s melody</sub><br><a href="https://musicmaker.im/detail/discover-2/">▶ Listen</a><br><a href="docs/listening-lab.md#brief-discover-2">Creation brief →</a></td>
+<td width="33%" align="center" valign="top"><a href="https://x.com/Attack/status/1797664905568412055"><img src="https://pbs.twimg.com/ext_tw_video_thumb/1797663888697090048/pu/img/nPOfswNRcqjBjTWV.jpg" width="1200" alt="Revive an unfinished melody — @Attack — Source preview; open the creator’s X post"></a><br><b>Revive an unfinished melody</b><br><sub><a href="https://x.com/Attack/status/1797664905568412055">@Attack</a> · 2024-06-03</sub><br><sub>Workflow / finished work</sub><br><a href="https://x.com/Attack/status/1797664905568412055">▶ Watch on X</a> · <a href="docs/x-community-examples.md#case-1797664905568412055">Case notes · English →</a></td>
+<td width="33%" align="center" valign="top"><a href="https://x.com/Hermion28758241/status/1802200978969559447"><img src="https://pbs.twimg.com/ext_tw_video_thumb/1802200843904532480/pu/img/Syu6hS_9jGHJvVo7.jpg" width="1200" alt="Make a cat-themed song — @Hermion28758241 — Source preview; open the creator’s X post"></a><br><b>Make a cat-themed song</b><br><sub><a href="https://x.com/Hermion28758241/status/1802200978969559447">@Hermion28758241</a> · 2024-06-16</sub><br><sub>Workflow / finished work</sub><br><a href="https://x.com/Hermion28758241/status/1802200978969559447">▶ Watch on X</a> · <a href="docs/x-community-examples.md#case-1802200978969559447">Case notes · English →</a></td>
+<td width="33%" align="center" valign="top"><a href="https://x.com/DJKNEK/status/2001536418393543105"><img src="https://cdn2.suno.ai/2607b0c3-4c55-4cad-98f8-e8e0217a184e.jpeg" width="1200" alt="Develop a multi-stage funk remix — @DJKNEK — Source preview; open the creator’s X post"></a><br><b>Develop a multi-stage funk remix</b><br><sub><a href="https://x.com/DJKNEK/status/2001536418393543105">@DJKNEK</a> · 2025-12-18</sub><br><sub>Music prompt</sub><br><a href="https://x.com/DJKNEK/status/2001536418393543105">▶ Watch on X</a> · <a href="docs/x-community-examples.md#case-2001536418393543105">Case notes · English →</a></td>
 </tr>
 </table>
-<!-- CREATION-BRIEFS:END -->
+<!-- COMMUNITY-CASES:END -->
 
-Once you have a direction, open **[Suno](https://suno.com/create)** or **[MusicMaker](https://musicmaker.im/ai-song-generator/)**. The walkthrough below starts from the acoustic instrumentation of Morning with Healing Hands.
+Once you have a direction, open **[Suno](https://suno.com/create)** or **[MusicMaker](https://musicmaker.im/ai-song-generator/)**. Next, try a separate brand-inspired exercise using the acoustic instrumentation of Morning with Healing Hands.
 
 ## Make your first song
 
@@ -173,7 +169,7 @@ Accounts, credits and usage rights are separate between the services; the same p
 
 ### Want a different direction?
 
-Explore **12 more sounds** through their published styles. These selections add to the creation briefs above. Covers and titles open source details; Listen opens the original track.
+Explore **12 more sounds** through their published styles. These MusicMaker selections offer more styles for your own experiment. Covers and titles open source details; Listen opens the original track.
 
 [Full catalog: 148 tracks →](docs/musicmaker-catalog.md)
 

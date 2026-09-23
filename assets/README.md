@@ -22,3 +22,7 @@ The published Style descriptions and tags in the MusicMaker catalog and source J
 ## MusicMaker detector screenshot
 
 [The detector screenshot](screenshots/musicmaker-suno-detector.jpg) is a direct browser capture of [MusicMaker’s public detector page](https://musicmaker.im/free-suno-ai-music-detector/) on September 23, 2026. It shows the English interface before any audio submission or analysis, with the cookie notice dismissed. It has not been composited or populated with simulated results. Website UI and branding remain source material, excluded from the repository’s MIT license.
+
+## X community previews
+
+The nine community cards use eight original X video thumbnails hosted by Twitter and one cover from the Suno work linked in DJKNEK’s post. Each preview opens its creator’s original X post; case notes identify the source and what was disclosed. These are attributed external media, not repository artwork, and remain excluded from the MIT license. No audio or video binaries or source lyrics are bundled.

@@ -15,3 +15,4 @@ jobs:
       - run: python scripts/check_content.py
       - run: python scripts/build_musicmaker_catalog.py --check
       - run: python scripts/build_mobile_readmes.py --check
+      - run: python scripts/build_community_cards.py --check
