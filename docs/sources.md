@@ -77,3 +77,7 @@ See [asset rights](../assets/README.md) before republishing media. Please [repor
 ## X examples
 
 The homepage links four separate replies in [Suno’s September 12 v6 thread](https://x.com/suno/status/2098504028522942964), with short excerpts and original editorial cards. These are official prompt examples, not independently reproduced tracks. Four further cards link video demonstrations by Kevin Pereira, Minz via Suno, 瑶酱Hermione, and Suno. Full prompts are not claimed where the posts omit them. Native X post text, dates, and media thumbnails were inspected September 23, 2026. Popularity metrics are intentionally not used as a quality score.
+
+## Two creation routes
+
+The [MusicMaker song generator](https://musicmaker.im/ai-song-generator/) was inspected in the browser on September 23, 2026 with Music 6.0 selected. Basic showed Description and Instrumental; switching to Custom exposed Lyrics, Music Style, Music Title, and Instrumental. A Public switch was also visible. This was an interface inspection, not a paid generation or output-quality test. Suno’s corresponding Custom route is documented in its [own-lyrics guide](https://help.suno.com/en/articles/2415873). The README and recipe links connect the two services through a shared creative brief, not through shared accounts, credits, rights, or guaranteed identical capabilities.

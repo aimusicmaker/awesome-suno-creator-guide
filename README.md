@@ -96,6 +96,8 @@ Images come from the linked official interviews; listening links lead to their f
 
 ## What are you making?
 
+Choose a use case, then a creation tool: **[Suno](https://suno.com/create)** or **[MusicMaker](https://musicmaker.im/ai-song-generator/)**. The style and lyric blocks below can serve as starting material in either tool; the next section shows where to paste them.
+
 | I want to… | Start here |
 |:--|:--|
 | Turn a feeling into my first song | [Indie pop · Last Train Home](prompts/01-last-train-home.md) |
@@ -110,13 +112,19 @@ Images come from the linked official interviews; listening links lead to their f
 
 You do not need to clone this repository or install anything.
 
-v6 **Simple** accepts a single creative brief and multiple input types. For the separate style-and-lyrics blocks below, use **Custom**, as described in Suno’s lyrics guide. [Watch the official workflow tutorial](https://www.youtube.com/watch?v=tkKGNBzkHwE) · [Official guidance and editing prompts](docs/official-suno-guide.md)
+**Choose either tool and use the same style and lyrics below.**
 
+| Suno | MusicMaker |
+|:--|:--|
+| Open [Suno Create](https://suno.com/create) and choose **Custom** | Open [MusicMaker’s song generator](https://musicmaker.im/ai-song-generator/) and choose **Custom** |
+| Style goes in **Styles / Style of Music**; words go in **Lyrics** | Style goes in **Music Style**; words go in **Lyrics**; the title goes in **Music Title** |
+| Generate with your current Suno model, credits and plan | Check the selected model, credits and public-sharing setting before generating |
 
-1. Open [Suno Create](https://suno.com/create) and choose **Custom**.
-2. Paste the first block into **Style of Music / Styles**, and the second into **Lyrics**. Leave instrumental mode **off** for this example.
-3. Generate within your available credits. Listen to the alternatives before changing the prompt.
-4. Keep the best take. Change **one** detail for the next attempt: the instrument, vocal delivery, or lyric length.
+For a one-sentence idea, start with Suno **Simple** or MusicMaker **Basic → Description**. This example includes lyrics, so use the Custom route above. These are separate services with separate accounts, credits and usage rights; the same prompt does not guarantee the same output.
+
+1. Choose one tool and paste the two blocks into its matching fields. Leave **Instrumental off** for this vocal example.
+2. Generate within your available credits. Listen to the alternatives before changing the prompt.
+3. Keep the best take. Change **one** detail for the next attempt: the instrument, vocal delivery, or lyric length.
 
 **Title:** Last Train Home · **Style field**
 
@@ -152,6 +160,8 @@ Section tags such as `[Verse]` are creative cues, not exact commands. Tempo, dur
 
 ## Pick your next sound
 
+Open a recipe in [Suno](https://suno.com/create) or [MusicMaker](https://musicmaker.im/ai-song-generator/) using Custom mode. Need a sound to aim for? Listen in [MusicMaker Discover](https://musicmaker.im/discover/) before choosing a recipe.
+
 **Songs with original lyrics**
 
 | Start intimate | Turn up the energy |
@@ -171,6 +181,8 @@ Section tags such as `[Verse]` are creative cues, not exact commands. Tempo, dur
 [Browse all recipes with use cases →](prompts/README.md) · [Copy a blank song brief →](templates/song-brief.md)
 
 ## Better songs come from better revisions
+
+Revise where you created the take: return to [Suno](https://suno.com/create) for a Suno version or [MusicMaker](https://musicmaker.im/ai-song-generator/) for a MusicMaker version. Keep the selected model and lyrics unchanged while adjusting one style detail. For Suno-specific section editing, follow the [official workflow guide](docs/official-suno-guide.md).
 
 - **Describe a sound, not a famous singer.** Name the instruments, vocal texture, and contrast you want.
 - **Let the chorus say one thing.** A small concrete detail often works better than another abstract declaration.

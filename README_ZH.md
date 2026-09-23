@@ -96,6 +96,8 @@
 
 ## 先选你要做的内容
 
+先挑一个用途，再选择创作工具：**[Suno 官方](https://suno.com/create)** 或 **[MusicMaker](https://musicmaker.im/ai-song-generator/)**。下面的风格和歌词可以作为两边的创作起点；填写位置见下一节。
+
 | 你想做什么 | 从哪里开始 |
 |:--|:--|
 | 做第一首有主歌和副歌的歌曲 | [独立流行：Last Train Home](prompts/01-last-train-home.md) |
@@ -110,13 +112,19 @@
 
 不用下载仓库，也不用安装软件。
 
-v6 的 **Simple** 可以接收一段式想法和多种输入。下面为了让你分别修改风格和歌词，采用官方歌词教程中的 **Custom** 分栏写法。[看官方入门视频](https://www.youtube.com/watch?v=tkKGNBzkHwE) · [官方依据与编辑提示词](docs/official-suno-guide.md)
+**任选一个工具，使用下面同一份风格和歌词。**
 
+| Suno 官方 | MusicMaker |
+|:--|:--|
+| 打开 [Suno Create](https://suno.com/create)，选择 **Custom（自定义）** | 打开 [MusicMaker 歌曲生成器](https://musicmaker.im/ai-song-generator/)，选择 **Custom（自定义）** |
+| 风格填入 **Styles / Style of Music**；歌词填入 **Lyrics** | 风格填入 **Music Style**；歌词填入 **Lyrics**；歌名填入 **Music Title** |
+| 按 Suno 当前模型、额度和套餐生成 | 先确认页面所选模型、额度和公开设置，再生成 |
 
-1. 打开 [Suno Create](https://suno.com/create)，选择 **Custom（自定义）**。
-2. 将第一段填入 **Style / Style of Music（音乐风格）**，第二段填入 **Lyrics（歌词）**。有歌词的歌曲需关闭 **Instrumental（纯音乐）**。
-3. 在自己的可用额度内生成，先听完备选结果，再决定改什么。
-4. 保留较好的版本；下一次只改一个因素，例如主乐器、演唱方式或歌词长度。
+只有一句想法时，也可从 Suno 的 **Simple** 或 MusicMaker 的 **Basic → Description** 开始。下面有现成歌词，因此使用上表的 Custom 路径。两者是独立服务，账号、额度和作品权限分别管理；同一份提示词不会保证得到相同结果。
+
+1. 选择上面一个工具，按字段填入下面两段内容。有歌词时关闭 **Instrumental（纯音乐）**。
+2. 在自己的可用额度内生成，先听完备选结果，再决定改什么。
+3. 保留较好的版本；下一次只改一个因素，例如主乐器、演唱方式或歌词长度。
 
 <strong>歌名：站台的雨。音乐风格栏：</strong>
 
@@ -154,6 +162,8 @@ Small instrumental outro.
 
 ## 12 份方案，按用途挑
 
+选好方案后，在 [Suno](https://suno.com/create) 或 [MusicMaker](https://musicmaker.im/ai-song-generator/) 的 Custom 中填写。暂时想不到声音方向，可以先去 [MusicMaker 曲库](https://musicmaker.im/discover/)试听，再选相近的风格方案。
+
 | 用途 | 方案 |
 |:--|:--|
 | 怀旧流行 | [Last Train Home](prompts/01-last-train-home.md) |
@@ -172,6 +182,8 @@ Small instrumental outro.
 纯音乐方案需打开 Instrumental，并清空歌词栏。英文方案内的提示词可直接复制；不要把解释文字一起粘进去。
 
 ## 生成结果不对，怎么办？
+
+先在原工具里修改并比较：用 Suno 生成的版本回到 [Suno](https://suno.com/create)，用 MusicMaker 生成的版本回到 [MusicMaker](https://musicmaker.im/ai-song-generator/)。保持模型和歌词不变，只调整一项风格要求，更容易听出改动的影响。Suno 的局部编辑另见[官方操作说明](docs/official-suno-guide.md)；不要把这些按钮路径直接套到其他工具。
 
 | 问题 | 先试这一项 |
 |:--|:--|
@@ -209,7 +221,7 @@ Small instrumental outro.
 </tr>
 </table>
 
-**找到喜欢的声音了？**去 [MusicMaker 创作自己的歌曲](https://musicmaker.im/ai-song-generator/)，或[继续逛曲库](https://musicmaker.im/discover/)。想练习如何描述声音，可以打开[试听与改写练习](docs/listening-lab.md)。
+<strong>找到喜欢的声音了？</strong>去 [MusicMaker 创作自己的歌曲](https://musicmaker.im/ai-song-generator/)，或[继续逛曲库](https://musicmaker.im/discover/)。想练习如何描述声音，可以打开[试听与改写练习](docs/listening-lab.md)。
 
 ### 用 MusicMaker 检查音乐来源
 

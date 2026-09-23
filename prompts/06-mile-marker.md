@@ -6,6 +6,8 @@
 
 Original editorial recipe. Not generation-tested; no linked recording is claimed as its output.
 
+**Try this recipe:** open [Suno](https://suno.com/create) or [MusicMaker](https://musicmaker.im/ai-song-generator/), then select **Custom**. Use **Styles** in Suno or **Music Style** in MusicMaker for the first block. [Field guide](../docs/prompting.md#choose-a-creation-tool).
+
 ## Paste into Style
 
 ```text

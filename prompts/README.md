@@ -4,6 +4,8 @@
 
 Choose a use case, open its recipe, and copy the **Style** and **Lyrics** blocks into separate fields. The 12 recipes are original creative starting points, not tested output promises. Tempo and structure are requests, not exact controls.
 
+**Create with:** open [Suno](https://suno.com/create) or [MusicMaker](https://musicmaker.im/ai-song-generator/), then select **Custom**. In MusicMaker, Style maps to **Music Style** and the song name to **Music Title**; both tools have a Lyrics field. [Field-by-field guide](../docs/prompting.md#choose-a-creation-tool).
+
 No music theory needed: **BPM** means beats per minute (tempo); a **hook** is the phrase or melody you remember; a **bed** is quiet background music under speech.
 
 ## Vocal songs
