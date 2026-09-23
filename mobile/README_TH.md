@@ -37,8 +37,6 @@
 <p align="center"><a href="#start"><strong>▶ สร้างเพลงแรก</strong></a> · <a href="../docs/troubleshooting.md">แก้ปัญหาการสร้างเพลง · อังกฤษ</a></p>
 </div>
 
-[MusicMaker](https://github.com/aimusicmaker) จัดทำและดูแลคู่มือนี้ รวมถึงให้บริการเครื่องมือ MusicMaker ที่แนะนำในคู่มือ บทสอนและแบบฝึกหัดฉบับละเอียดเป็นภาษาอังกฤษ [ผู้จัดทำและวิธีตรวจสอบ · อังกฤษ](../docs/editorial-policy.md)
-
 <a id="official"></a>
 ## Suno v6 ทำอะไรได้บ้าง
 
@@ -46,11 +44,9 @@
 
 [![Suno v6 ทำอะไรได้บ้าง](../assets/suno-workflow.svg)](https://help.suno.com/en/articles/13924481)
 
-v6-mini ใช้ได้กับทุกแผน ส่วน v6 และ v6-wild ต้องใช้ Pro / Premier คำสั่งไม่ได้รับประกันความยาวที่ตรงเป๊ะหรือทำนองเดิมทุกครั้ง ควรฟังและตรวจสอบผลลัพธ์
+v6-mini ใช้ได้กับทุกแผน ส่วน v6 และ v6-wild ต้องใช้ Pro / Premier
 
 [ข้อมูลทางการ ↗](https://help.suno.com/en/articles/13924481) · [Suno v6 ↗](https://help.suno.com/en/articles/13924801)
-
-<sub>ตรวจสอบข้อมูลโมเดลเมื่อ 2026-09-23</sub>
 
 <a id="examples"></a>
 ## ตัวอย่างพรอมป์ต์ทางการบน X
@@ -101,15 +97,11 @@ v6-mini ใช้ได้กับทุกแผน ส่วน v6 และ 
 
 แบบฝึกหัดเพลงบรรเลงที่อ้างอิงการเลือกเครื่องดนตรีใน Morning with Healing Hands
 
-**รอทดสอบการฟัง**
-
 ```text
 An instrumental acoustic piece for a quiet everyday scene.
 Fingerpicked guitar leads, with upright bass and light strings.
 Keep the mood warm and hopeful. No singing or spoken voice.
 ```
-
-แต่ละบริการมีบัญชี เครดิต และสิทธิ์ใช้งานแยกกัน พรอมป์ต์เดียวกันไม่ได้รับประกันผลลัพธ์เหมือนกัน
 
 [คู่มือละเอียด · อังกฤษ →](../docs/official-suno-guide.md)
 
@@ -158,16 +150,11 @@ Keep the mood warm and hopeful. No singing or spoken voice.
 
 <a href="https://musicmaker.im/free-suno-ai-music-detector/"><img src="../assets/screenshots/musicmaker-suno-detector.jpg" width="100%" alt="ภาพหน้าจอเครื่องมือตรวจสอบ MusicMaker: อัปโหลดเสียง ปุ่ม Check และพื้นที่ผลลัพธ์ คลิกเพื่อลองใช้"></a>
 
-<sub>อินเทอร์เฟซภาษาอังกฤษ</sub>
-
 อัปโหลดเสียง → เข้าสู่ระบบแล้วคลิก **Check** → ดูผลคาดการณ์และค่าความน่าจะเป็นของ AI
 
 **[ลองใช้เครื่องมือตรวจสอบเพลงของ MusicMaker →](https://musicmaker.im/free-suno-ai-music-detector/)** · [วิธีอ่านผล · ภาษาอังกฤษ](../docs/detector-and-release.md)
 
-<sub>ผลการตรวจจับใช้เป็นข้อมูลอ้างอิง โปรดยืนยันสิทธิ์การใช้ผลงานกับผู้สร้าง</sub>
 <!-- MUSICMAKER-DETECTOR:END -->
-
-[Sources · English](../docs/sources.md) · [Contributing · English](../CONTRIBUTING.md)
 
 <!-- BRAND-AFFILIATE:START -->
 ### ร่วมเป็นพันธมิตรกับ MusicMaker
@@ -176,3 +163,18 @@ MusicMaker เปิดรับความร่วมมือผ่านโ
 
 **[ดูรายละเอียดโปรแกรมและวิธีสมัคร →](https://musicmaker.im/affiliate-program/)**
 <!-- BRAND-AFFILIATE:END -->
+
+<!-- READER-NOTES:START -->
+### หมายเหตุและแหล่งข้อมูล
+
+[MusicMaker](https://github.com/aimusicmaker) จัดทำและดูแลคู่มือนี้ รวมถึงให้บริการเครื่องมือ MusicMaker ที่แนะนำในคู่มือ บทสอนและแบบฝึกหัดฉบับละเอียดเป็นภาษาอังกฤษ [ผู้จัดทำและวิธีตรวจสอบ · อังกฤษ](../docs/editorial-policy.md)
+
+- ตรวจสอบข้อมูลโมเดลเมื่อ 2026-09-23
+- แบบฝึกหัดเพลงอะคูสติกในหน้านี้ยังไม่ได้ผ่านการทดสอบสร้างเพลงและฟังผลลัพธ์
+- คำสั่งไม่ได้รับประกันความยาวที่ตรงเป๊ะหรือทำนองเดิมทุกครั้ง ควรฟังและตรวจสอบผลลัพธ์
+- แต่ละบริการมีบัญชี เครดิต และสิทธิ์ใช้งานแยกกัน พรอมป์ต์เดียวกันไม่ได้รับประกันผลลัพธ์เหมือนกัน
+- ภาพหน้าจอเครื่องมือตรวจจับเพลงของ MusicMaker แสดงอินเทอร์เฟซภาษาอังกฤษ
+- ผลการตรวจจับใช้เป็นข้อมูลอ้างอิง โปรดยืนยันสิทธิ์การใช้ผลงานกับผู้สร้าง
+
+[Sources · English](../docs/sources.md) · [Contributing · English](../CONTRIBUTING.md)
+<!-- READER-NOTES:END -->

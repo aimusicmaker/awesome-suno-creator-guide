@@ -39,8 +39,6 @@ Folk, dance, jazz, or a score for your next animation or short film. Describe yo
 
 Want to write a song, score a video, or give an old melody a new arrangement? Start with Suno’s official demos, explore dance tracks, piano performances and film scores from X creators, then choose a direction and follow the tutorial.
 
-Published and maintained by [MusicMaker](https://github.com/aimusicmaker). The MusicMaker tools introduced here are operated by MusicMaker. [Publisher and editing method](docs/editorial-policy.md).
-
 ## What can Suno v6 do?
 
 **Start with an idea, a hum, or an image. Then develop the passage worth keeping.** v6 accepts multiple input types and supports arranging, replacing sections, and extending songs.
@@ -60,8 +58,6 @@ Published and maintained by [MusicMaker](https://github.com/aimusicmaker). The M
 **Current models:** v6-mini is available on all plans; v6 and v6-wild require Pro / Premier. Listen for timing, melody and transitions, then edit as needed.
 
 Sources: [Official v6 FAQ](https://help.suno.com/en/articles/13924481) · [v6 features](https://help.suno.com/en/articles/13924801). [Watch the official workflow video →](https://www.youtube.com/watch?v=tkKGNBzkHwE)
-
-<sub>Model information checked 2026-09-23.</sub>
 
 <a id="official-examples"></a>
 <a id="prompts-and-demonstrations-from-x"></a>
@@ -110,8 +106,6 @@ Open the source posts for videos and production notes. X may require sign-in.
 </tr>
 </table>
 
-Images come from the linked official interviews; listening links lead to their featured tracks. Open a card to explore the workflow.
-
 > “start with the moment someone would replay.”
 > — [Suno’s short-form guide](https://suno.com/blog/how-to-make-short-form), August 5, 2026
 
@@ -141,7 +135,7 @@ Choose a direction from nine X community examples. Click an image to view the or
 </table>
 <!-- COMMUNITY-CASES:END -->
 
-Once you have a direction, open **[Suno](https://suno.com/create)** or **[MusicMaker](https://musicmaker.im/ai-song-generator/)**. Next, try a separate brand-inspired exercise using the acoustic instrumentation of Morning with Healing Hands.
+Once you have a direction, open **[Suno](https://suno.com/create)** or **[MusicMaker](https://musicmaker.im/ai-song-generator/)**. Try the acoustic instrumentation of Morning with Healing Hands in the exercise below.
 
 <a id="start"></a>
 ## Make your first song
@@ -163,7 +157,7 @@ Use [Morning with Healing Hands](https://musicmaker.im/detail/discover-v2-106/) 
 3. Check your model, credits and sharing settings, then generate. Listen for unwanted vocals and whether the arrangement suits your scene.
 4. Change one thing next, such as reducing the strings, while keeping other directions fixed.
 
-**Copy-ready exercise: a warm everyday soundtrack** · Awaiting a listening test:
+**Copy-ready exercise: a warm everyday soundtrack**:
 
 ```text
 An instrumental acoustic piece for a quiet everyday scene.
@@ -171,7 +165,7 @@ Fingerpicked guitar leads, with upright bass and light strings.
 Keep the mood warm and hopeful. No singing or spoken voice.
 ```
 
-Each service manages its own accounts, credits and usage rights. [See the source brief and another adaptation exercise →](docs/listening-lab.md#3-morning-with-healing-hands)
+[See the source brief and another adaptation exercise →](docs/listening-lab.md#3-morning-with-healing-hands)
 
 ### Want a different direction?
 
@@ -231,20 +225,15 @@ For those moments, try **MusicMaker’s Free Suno AI Music Detector**. Upload th
 
 <a href="https://musicmaker.im/free-suno-ai-music-detector/"><img src="assets/screenshots/musicmaker-suno-detector.jpg" width="100%" alt="MusicMaker detector website: audio upload, Check button and results area; click to try the tool"></a>
 
-<sub>MusicMaker detector interface, shown in English.</sub>
-
 Upload your audio → sign in and click **Check** → review the prediction and AI probability.
 
 **[Try MusicMaker’s music detector →](https://musicmaker.im/free-suno-ai-music-detector/)** · [How to read the result · English](docs/detector-and-release.md)
 
-<sub>Use the estimate as a reference; confirm permission to use a work with its creator.</sub>
 <!-- MUSICMAKER-DETECTOR:END -->
 
 ### Contribute to the MusicMaker guide
 
 Have a better recipe? [Contribute a prompt or correction](CONTRIBUTING.md) with the model, settings, and an output you have permission to share. Useful failures are welcome too.
-
-[Sources and asset credits](docs/sources.md) · [MIT license](LICENSE) · [Media rights](assets/README.md)
 
 <!-- BRAND-AFFILIATE:START -->
 ### Partner with MusicMaker
@@ -253,3 +242,18 @@ MusicMaker welcomes affiliate partners, including creators, reviewers, educators
 
 **[Explore the affiliate program and apply →](https://musicmaker.im/affiliate-program/)**
 <!-- BRAND-AFFILIATE:END -->
+
+<!-- READER-NOTES:START -->
+### Notes and sources
+
+Published and maintained by [MusicMaker](https://github.com/aimusicmaker). The MusicMaker tools introduced here are operated by MusicMaker. [Publisher and editing method](docs/editorial-policy.md).
+
+- Model information checked 2026-09-23.
+- The homepage acoustic exercise has not been generation-tested.
+- Each service manages its own accounts, credits and usage rights.
+- The interview cards use images and listening references from the corresponding official interviews.
+- The MusicMaker detector screenshot shows the English interface.
+- Use the estimate as a reference; confirm permission to use a work with its creator.
+
+[Sources and asset credits](docs/sources.md) · [MIT license](LICENSE) · [Media rights](assets/README.md)
+<!-- READER-NOTES:END -->

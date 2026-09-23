@@ -37,8 +37,6 @@
 <p align="center"><a href="#start"><strong>▶ 最初の曲を作る</strong></a> · <a href="../docs/troubleshooting.md">生成の問題を解決する · 英語</a></p>
 </div>
 
-このガイドは [MusicMaker](https://github.com/aimusicmaker) が公開・管理しています。紹介している MusicMaker のツールも同ブランドが運営しています。詳しい解説と練習ページは英語です。 [運営と編集方針 · 英語](../docs/editorial-policy.md)。
-
 <a id="official"></a>
 ## Suno v6 でできること
 
@@ -46,11 +44,9 @@
 
 [![Suno v6 でできること](../assets/suno-workflow.svg)](https://help.suno.com/en/articles/13924481)
 
-v6-mini は全プラン、v6 と v6-wild は Pro / Premier 向けです。指定した秒数や旋律が毎回そのまま再現される保証はありません。生成後に聴いて確認しましょう。
+v6-mini は全プラン、v6 と v6-wild は Pro / Premier 向けです。
 
 [公式情報 ↗](https://help.suno.com/en/articles/13924481) · [Suno v6 ↗](https://help.suno.com/en/articles/13924801)
-
-<sub>モデル情報の確認日 2026-09-23。</sub>
 
 <a id="examples"></a>
 ## X の公式プロンプト例
@@ -101,15 +97,11 @@ X コミュニティの9つの事例から方向性を選べます。画像を�
 
 Morning with Healing Hands の楽器構成を参考に、歌声のない曲へアレンジする練習です。
 
-**試聴待ち**
-
 ```text
 An instrumental acoustic piece for a quiet everyday scene.
 Fingerpicked guitar leads, with upright bass and light strings.
 Keep the mood warm and hopeful. No singing or spoken voice.
 ```
-
-アカウント、クレジット、利用条件はサービスごとに別です。同じプロンプトでも同じ結果になるとは限りません。
 
 [詳しいガイド・英語 →](../docs/official-suno-guide.md)
 
@@ -158,16 +150,11 @@ Keep the mood warm and hopeful. No singing or spoken voice.
 
 <a href="https://musicmaker.im/free-suno-ai-music-detector/"><img src="../assets/screenshots/musicmaker-suno-detector.jpg" width="100%" alt="MusicMaker の検出ツールの画面：音声アップロード、Check ボタン、結果欄。クリックして試す"></a>
 
-<sub>英語の画面です。</sub>
-
 音声をアップロード → ログインして **Check** をクリック → 判定と AI 生成の可能性を確認。
 
 **[MusicMaker の音楽検出ツールを試す →](https://musicmaker.im/free-suno-ai-music-detector/)** · [結果の読み方・英語](../docs/detector-and-release.md)
 
-<sub>検出結果は参考情報です。作品の利用許可は作者に確認してください。</sub>
 <!-- MUSICMAKER-DETECTOR:END -->
-
-[Sources · English](../docs/sources.md) · [Contributing · English](../CONTRIBUTING.md)
 
 <!-- BRAND-AFFILIATE:START -->
 ### MusicMaker のアフィリエイトパートナー募集
@@ -176,3 +163,18 @@ MusicMaker では、クリエイター、レビュー執筆者、教育者、コ
 
 **[プログラムの詳細と参加方法を見る →](https://musicmaker.im/affiliate-program/)**
 <!-- BRAND-AFFILIATE:END -->
+
+<!-- READER-NOTES:START -->
+### 補足と出典
+
+このガイドは [MusicMaker](https://github.com/aimusicmaker) が公開・管理しています。紹介している MusicMaker のツールも同ブランドが運営しています。詳しい解説と練習ページは英語です。 [運営と編集方針 · 英語](../docs/editorial-policy.md)。
+
+- モデル情報の確認日 2026-09-23。
+- このページのアコースティック練習は、生成・試聴テストをまだ行っていません。
+- 指定した秒数や旋律が毎回そのまま再現される保証はありません。生成後に聴いて確認しましょう。
+- アカウント、クレジット、利用条件はサービスごとに別です。同じプロンプトでも同じ結果になるとは限りません。
+- MusicMaker 検出ツールのスクリーンショットは英語の画面です。
+- 検出結果は参考情報です。作品の利用許可は作者に確認してください。
+
+[Sources · English](../docs/sources.md) · [Contributing · English](../CONTRIBUTING.md)
+<!-- READER-NOTES:END -->

@@ -37,8 +37,6 @@
 <p align="center"><a href="#start"><strong>▶ Создать первую песню</strong></a> · <a href="../docs/troubleshooting.md">Решить проблемы · Английский</a></p>
 </div>
 
-[MusicMaker](https://github.com/aimusicmaker) публикует и поддерживает это руководство, а также управляет представленными здесь инструментами MusicMaker. Подробные уроки и упражнения доступны на английском. [Издатель и редакция · Английский](../docs/editorial-policy.md).
-
 <a id="official"></a>
 ## Что умеет Suno v6
 
@@ -46,11 +44,9 @@
 
 [![Что умеет Suno v6](../assets/suno-workflow.svg)](https://help.suno.com/en/articles/13924481)
 
-v6-mini доступна на всех тарифах; для v6 и v6-wild нужны Pro / Premier. Точная длительность и сохранение мелодии не гарантированы. Прослушайте и проверьте результат.
+v6-mini доступна на всех тарифах; для v6 и v6-wild нужны Pro / Premier.
 
 [Официальная справка ↗](https://help.suno.com/en/articles/13924481) · [Suno v6 ↗](https://help.suno.com/en/articles/13924801)
-
-<sub>Сведения о моделях проверены 2026-09-23.</sub>
 
 <a id="examples"></a>
 ## Официальные примеры запросов в X
@@ -101,15 +97,11 @@ v6-mini доступна на всех тарифах; для v6 и v6-wild ну
 
 Инструментальная переработка по мотивам инструментовки Morning with Healing Hands.
 
-**Ожидает проверки прослушиванием**
-
 ```text
 An instrumental acoustic piece for a quiet everyday scene.
 Fingerpicked guitar leads, with upright bass and light strings.
 Keep the mood warm and hopeful. No singing or spoken voice.
 ```
-
-У сервисов отдельные аккаунты, кредиты и условия использования. Одинаковый запрос не гарантирует одинакового результата.
 
 [Инструкция · англ. →](../docs/official-suno-guide.md)
 
@@ -158,16 +150,11 @@ Keep the mood warm and hopeful. No singing or spoken voice.
 
 <a href="https://musicmaker.im/free-suno-ai-music-detector/"><img src="../assets/screenshots/musicmaker-suno-detector.jpg" width="100%" alt="Скриншот детектора MusicMaker: загрузка аудио, кнопка Check и область результатов; нажмите, чтобы попробовать"></a>
 
-<sub>Интерфейс на английском.</sub>
-
 Загрузите аудио → войдите в аккаунт и нажмите **Check** → изучите прогноз и вероятность ИИ.
 
 **[Попробовать детектор музыки MusicMaker →](https://musicmaker.im/free-suno-ai-music-detector/)** · [Как читать результат · На английском](../docs/detector-and-release.md)
 
-<sub>Результаты детектора носят справочный характер. Права на использование произведения уточняйте у автора.</sub>
 <!-- MUSICMAKER-DETECTOR:END -->
-
-[Sources · English](../docs/sources.md) · [Contributing · English](../CONTRIBUTING.md)
 
 <!-- BRAND-AFFILIATE:START -->
 ### Партнёрская программа MusicMaker
@@ -176,3 +163,18 @@ MusicMaker приглашает авторов контента, обозрев�
 
 **[Узнать об условиях и подать заявку →](https://musicmaker.im/affiliate-program/)**
 <!-- BRAND-AFFILIATE:END -->
+
+<!-- READER-NOTES:START -->
+### Примечания и источники
+
+[MusicMaker](https://github.com/aimusicmaker) публикует и поддерживает это руководство, а также управляет представленными здесь инструментами MusicMaker. Подробные уроки и упражнения доступны на английском. [Издатель и редакция · Английский](../docs/editorial-policy.md).
+
+- Сведения о моделях проверены 2026-09-23.
+- Акустическое упражнение на этой странице ещё не проверено генерацией и прослушиванием.
+- Точная длительность и сохранение мелодии не гарантированы. Прослушайте и проверьте результат.
+- У сервисов отдельные аккаунты, кредиты и условия использования. Одинаковый запрос не гарантирует одинакового результата.
+- На снимке экрана детектора MusicMaker показан английский интерфейс.
+- Результаты детектора носят справочный характер. Права на использование произведения уточняйте у автора.
+
+[Sources · English](../docs/sources.md) · [Contributing · English](../CONTRIBUTING.md)
+<!-- READER-NOTES:END -->

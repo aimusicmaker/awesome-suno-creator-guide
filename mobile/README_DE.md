@@ -37,8 +37,6 @@ Folk, Dance, Jazz oder Musik für Animationen und Kurzfilme. Beschreibe deine Id
 <p align="center"><a href="#start"><strong>▶ Deinen ersten Song erstellen</strong></a> · <a href="../docs/troubleshooting.md">Probleme lösen · Englisch</a></p>
 </div>
 
-[MusicMaker](https://github.com/aimusicmaker) veröffentlicht und pflegt diesen Leitfaden und betreibt die hier vorgestellten MusicMaker-Werkzeuge. Ausführliche Anleitungen und Übungen sind auf Englisch. [Herausgeber und Redaktion · Englisch](../docs/editorial-policy.md).
-
 <a id="official"></a>
 ## Was kann Suno v6?
 
@@ -46,11 +44,9 @@ Beginne mit einer Idee, einem Foto, Video oder einer gesummten Melodie. Simple n
 
 [![Was kann Suno v6?](../assets/suno-workflow.svg)](https://help.suno.com/en/articles/13924481)
 
-v6-mini ist in allen Tarifen verfügbar; v6 und v6-wild benötigen Pro / Premier. Exakte Dauer und unveränderte Melodien sind nicht garantiert. Höre dir jedes Ergebnis an.
+v6-mini ist in allen Tarifen verfügbar; v6 und v6-wild benötigen Pro / Premier.
 
 [Offizielle Hilfe ↗](https://help.suno.com/en/articles/13924481) · [Suno v6 ↗](https://help.suno.com/en/articles/13924801)
-
-<sub>Modellinformationen geprüft am 2026-09-23.</sub>
 
 <a id="examples"></a>
 ## Offizielle Prompt-Beispiele auf X
@@ -101,15 +97,11 @@ Wähle eine Richtung aus neun Beispielen der X-Community. Klicke auf ein Bild, u
 
 Instrumentale Abwandlung nach der Instrumentierung von Morning with Healing Hands.
 
-**Ausstehender Hörtest**
-
 ```text
 An instrumental acoustic piece for a quiet everyday scene.
 Fingerpicked guitar leads, with upright bass and light strings.
 Keep the mood warm and hopeful. No singing or spoken voice.
 ```
-
-Konten, Guthaben und Nutzungsrechte sind je Dienst getrennt. Derselbe Prompt garantiert kein identisches Ergebnis.
 
 [Anleitung · Englisch →](../docs/official-suno-guide.md)
 
@@ -158,16 +150,11 @@ Dann kannst du **MusicMakers Free Suno AI Music Detector** ausprobieren. Lade di
 
 <a href="https://musicmaker.im/free-suno-ai-music-detector/"><img src="../assets/screenshots/musicmaker-suno-detector.jpg" width="100%" alt="Screenshot des MusicMaker-Detektors: Audio-Upload, Check-Schaltfläche und Ergebnisbereich; zum Ausprobieren anklicken"></a>
 
-<sub>Englische Benutzeroberfläche.</sub>
-
 Audio hochladen → anmelden und auf **Check** klicken → Einschätzung und KI-Wahrscheinlichkeit ansehen.
 
 **[MusicMaker-Musikdetektor ausprobieren →](https://musicmaker.im/free-suno-ai-music-detector/)** · [Ergebnisse verstehen · Englisch](../docs/detector-and-release.md)
 
-<sub>Die Erkennungsergebnisse dienen als Orientierung. Kläre die Nutzungsrechte am Werk mit dem Urheber.</sub>
 <!-- MUSICMAKER-DETECTOR:END -->
-
-[Sources · English](../docs/sources.md) · [Contributing · English](../CONTRIBUTING.md)
 
 <!-- BRAND-AFFILIATE:START -->
 ### Werde Partner von MusicMaker
@@ -176,3 +163,18 @@ MusicMaker bietet Affiliate-Partnerschaften für Kreative, Rezensenten, Lehrende
 
 **[Affiliate-Programm und Anmeldung ansehen →](https://musicmaker.im/affiliate-program/)**
 <!-- BRAND-AFFILIATE:END -->
+
+<!-- READER-NOTES:START -->
+### Hinweise und Quellen
+
+[MusicMaker](https://github.com/aimusicmaker) veröffentlicht und pflegt diesen Leitfaden und betreibt die hier vorgestellten MusicMaker-Werkzeuge. Ausführliche Anleitungen und Übungen sind auf Englisch. [Herausgeber und Redaktion · Englisch](../docs/editorial-policy.md).
+
+- Modellinformationen geprüft am 2026-09-23.
+- Die Akustikübung auf dieser Seite wurde noch nicht durch Generierung und Anhören getestet.
+- Exakte Dauer und unveränderte Melodien sind nicht garantiert. Höre dir jedes Ergebnis an.
+- Konten, Guthaben und Nutzungsrechte sind je Dienst getrennt. Derselbe Prompt garantiert kein identisches Ergebnis.
+- Der Screenshot des MusicMaker-Detektors zeigt die englische Benutzeroberfläche.
+- Die Erkennungsergebnisse dienen als Orientierung. Kläre die Nutzungsrechte am Werk mit dem Urheber.
+
+[Sources · English](../docs/sources.md) · [Contributing · English](../CONTRIBUTING.md)
+<!-- READER-NOTES:END -->

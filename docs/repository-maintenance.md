@@ -28,7 +28,7 @@ These are target settings, not evidence that an administrator has applied them. 
 
 ## Content maintenance
 
-Keep first-song and troubleshooting links near the top of each language page. The desktop README is the maintained source for its mobile counterpart. Preserve image descriptions, source links and the distinction between official guidance, community examples and tested exercises.
+Keep first-song and troubleshooting links near the top of each language page. Group publishing relationships, check dates, test-status notes and general limitations in the final Notes and sources section. Keep source links, prerequisites that affect the task, and practical instructions alongside the relevant content. The desktop README is the maintained source for its mobile counterpart. Preserve image descriptions, source links and the distinction between official guidance, community examples and tested exercises.
 
 Update dates only when the relevant claims have been rechecked. Use [source notes](sources.md) for evidence and [editorial policy](editorial-policy.md) for responsibility. Run the four checks in [CONTRIBUTING.md](../CONTRIBUTING.md) and inspect visual changes on GitHub.
 

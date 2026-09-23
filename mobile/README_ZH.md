@@ -40,8 +40,6 @@
 
 想写自己的歌、给视频配乐，或为一段旧旋律换个编曲？先看看 Suno 的官方演示，再听听 X 创作者的舞曲、钢琴与影视配乐作品，找到想尝试的方向，跟着教程动手做。
 
-[MusicMaker](https://github.com/aimusicmaker) 发布和维护本指南，并运营文中介绍的 MusicMaker 工具。本页提供中文入门，详细教程和练习说明为英文。 [维护与编辑方法 · 英文](../docs/editorial-policy.md)。
-
 ## Suno v6：能做什么？
 
 **从一句想法、一段哼唱或一张照片开始，再把好听的片段打磨成歌。** 官方 v6 支持多种输入，并可继续改编曲、替换局部和延长歌曲。
@@ -70,8 +68,6 @@
 <strong>当前模型：</strong>v6-mini 面向所有套餐；v6 与 v6-wild 面向 Pro / Premier。生成后先试听节奏、旋律和段落衔接，再按需要剪辑。
 
 依据：[官方 v6 FAQ](https://help.suno.com/en/articles/13924481) · [v6 功能说明](https://help.suno.com/en/articles/13924801)。[观看官方流程视频 →](https://www.youtube.com/watch?v=tkKGNBzkHwE)
-
-<sub>模型信息核验于 2026-09-23。</sub>
 
 <a id="official-examples"></a>
 <a id="x-上的提示词与作品演示"></a>
@@ -111,8 +107,6 @@
 
 <p align="center"><a href="https://suno.com/blog/eric-christian"><img src="https://cdn.sanity.io/images/cl7b1q1i/production/56df772e7c08412e574609840a2a47fa7c5cb9e2-1920x1080.jpg?auto=format&amp;fit=max&amp;w=2400" alt="Suno 官方访谈配图，点击阅读：Eric Christian" width="100%"></a><br><b>Eric Christian</b><br>用钢琴旋律探索不同管弦配器<br><a href="https://suno.com/blog/eric-christian">阅读 Suno 官方访谈 →</a> · <a href="https://suno.com/embed/f7689d96-3d3e-4115-95fb-c66a842963ce">▶ 试听</a></p>
 
-图片来自对应官方访谈；试听为访谈关联作品。点击人物卡看创作过程。
-
 > Suno 建议：把观众想再听一次的片段放在开头。（意译）
 > — [Suno 官方短视频指南](https://suno.com/blog/how-to-make-short-form)，2026-08-05
 
@@ -142,7 +136,7 @@
 <p align="center"><a href="https://x.com/DJKNEK/status/2001536418393543105"><img src="https://cdn2.suno.ai/2607b0c3-4c55-4cad-98f8-e8e0217a184e.jpeg" width="100%" alt="用多轮修改打磨放克混音 — @DJKNEK — 原帖关联素材预览；点击打开创作者的 X 原帖"></a><br><b>用多轮修改打磨放克混音</b><br><sub><a href="https://x.com/DJKNEK/status/2001536418393543105">@DJKNEK</a> · 2025-12-18</sub><br><sub>公开音乐提示词</sub><br><a href="https://x.com/DJKNEK/status/2001536418393543105">▶ 看 X 原帖</a> · <a href="../docs/x-community-examples.md#case-2001536418393543105">案例笔记 · 英文 →</a></p>
 <!-- COMMUNITY-CASES:END -->
 
-选好后，可以在 **[Suno 官方](https://suno.com/create)** 或 **[MusicMaker](https://musicmaker.im/ai-song-generator/)** 开始。接下来换一个独立练习：参考品牌作品 Morning with Healing Hands 的木吉他配器，尝试自己的版本。
+选好后，可以在 **[Suno 官方](https://suno.com/create)** 或 **[MusicMaker](https://musicmaker.im/ai-song-generator/)** 开始。接下来参考 Morning with Healing Hands 的木吉他配器，尝试自己的版本。
 
 <a id="start"></a>
 ## 开始第一首歌
@@ -167,7 +161,7 @@
 3. 确认所选模型、额度和公开设置后生成。先检查是否仍有人声，再听配器是否适合你的画面。
 4. 下一次只调整一项，例如减少弦乐，其余要求保持不变。
 
-<strong>可复制练习：温暖的日常配乐</strong> · 待试听
+<strong>可复制练习：温暖的日常配乐</strong>
 
 ```text
 An instrumental acoustic piece for a quiet everyday scene.
@@ -175,7 +169,7 @@ Fingerpicked guitar leads, with upright bass and light strings.
 Keep the mood warm and hopeful. No singing or spoken voice.
 ```
 
-两种工具的账号、额度和作品权限分别管理。[查看这首作品的来源风格与另一项改写练习 →](../docs/listening-lab.md#3-morning-with-healing-hands)
+[查看这首作品的来源风格与另一项改写练习 →](../docs/listening-lab.md#3-morning-with-healing-hands)
 
 ### 想换一种风格？
 
@@ -255,20 +249,15 @@ Keep the mood warm and hopeful. No singing or spoken voice.
 
 <a href="https://musicmaker.im/free-suno-ai-music-detector/"><img src="../assets/screenshots/musicmaker-suno-detector.jpg" width="100%" alt="MusicMaker 检测工具官网截图：上传音频、检测按钮与结果区域；点击试用"></a>
 
-<sub>MusicMaker 检测工具的英文界面。</sub>
-
 上传音频 → 登录并点击 **Check（检测）** → 查看预测结果和 AI 概率。
 
 **[试用 MusicMaker 音乐来源检测 →](https://musicmaker.im/free-suno-ai-music-detector/)** · [如何理解检测结果 · 英文](../docs/detector-and-release.md)
 
-<sub>检测结果供参考；作品的使用权限请向作者确认。</sub>
 <!-- MUSICMAKER-DETECTOR:END -->
 
 ### 参与 MusicMaker 创作指南
 
 欢迎[提交实用提示词、失败例子或纠错](../CONTRIBUTING.md)，请写明模型、设置和实际测试情况，并只分享有权公开的素材。
-
-[素材和来源（英文）](../docs/sources.md) · [MIT 许可证](../LICENSE) · [媒体素材权利说明（英文）](../assets/README.md)
 
 <!-- BRAND-AFFILIATE:START -->
 ### 与 MusicMaker 联盟推广合作
@@ -277,3 +266,18 @@ MusicMaker 支持联盟推广合作，欢迎创作者、测评作者、教育者
 
 **[了解联盟计划与申请方式 →](https://musicmaker.im/affiliate-program/)**
 <!-- BRAND-AFFILIATE:END -->
+
+<!-- READER-NOTES:START -->
+### 说明与来源
+
+[MusicMaker](https://github.com/aimusicmaker) 发布和维护本指南，并运营文中介绍的 MusicMaker 工具。本页提供中文入门，详细教程和练习说明为英文。 [维护与编辑方法 · 英文](../docs/editorial-policy.md)。
+
+- 模型信息核验于 2026-09-23。
+- 首页的木吉他配乐练习尚未完成生成与试听测试。
+- 两种工具的账号、额度和作品权限分别管理。
+- 访谈卡片中的图片与关联试听来自对应官方访谈。
+- MusicMaker 检测工具截图显示的是英文界面。
+- 检测结果供参考；作品的使用权限请向作者确认。
+
+[素材和来源（英文）](../docs/sources.md) · [MIT 许可证](../LICENSE) · [媒体素材权利说明（英文）](../assets/README.md)
+<!-- READER-NOTES:END -->

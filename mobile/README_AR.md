@@ -39,8 +39,6 @@
 <p align="center"><a href="#start"><strong>▶ أنشئ أغنيتك الأولى</strong></a> · <a href="../docs/troubleshooting.md">حل مشكلات الإنشاء · الإنجليزية</a></p>
 </div>
 
-تنشر [MusicMaker](https://github.com/aimusicmaker) هذا الدليل وتحدّثه، وتدير أيضًا أدوات MusicMaker المعروضة فيه. الدروس والتمارين التفصيلية متاحة باللغة الإنجليزية. [الناشر ومنهج التحرير · الإنجليزية](../docs/editorial-policy.md).
-
 <a id="official"></a>
 ## ما الذي يقدمه Suno v6؟
 
@@ -48,11 +46,9 @@
 
 [![ما الذي يقدمه Suno v6؟](../assets/suno-workflow.svg)](https://help.suno.com/en/articles/13924481)
 
-يتوفر v6-mini في جميع الخطط، بينما يتطلب v6 وv6-wild خطة Pro أو Premier. لا تضمن التعليمات مدة دقيقة أو الحفاظ على اللحن نفسه. استمع إلى النتيجة وراجعها.
+يتوفر v6-mini في جميع الخطط، بينما يتطلب v6 وv6-wild خطة Pro أو Premier.
 
 [الدليل الرسمي ↗](https://help.suno.com/en/articles/13924481) · [Suno v6 ↗](https://help.suno.com/en/articles/13924801)
-
-<sub>تاريخ التحقق من معلومات النماذج 2026-09-23.</sub>
 
 <a id="examples"></a>
 ## أمثلة رسمية للتعليمات على X
@@ -103,15 +99,11 @@
 
 تمرين موسيقي بلا غناء يستلهم توزيع الآلات في Morning with Healing Hands.
 
-**بانتظار اختبار الاستماع**
-
 ```text
 An instrumental acoustic piece for a quiet everyday scene.
 Fingerpicked guitar leads, with upright bass and light strings.
 Keep the mood warm and hopeful. No singing or spoken voice.
 ```
-
-الحسابات والأرصدة وحقوق الاستخدام منفصلة بين الخدمتين. التعليمات نفسها لا تضمن نتيجة متطابقة.
 
 [الدليل المفصل · بالإنجليزية →](../docs/official-suno-guide.md)
 
@@ -160,16 +152,11 @@ Keep the mood warm and hopeful. No singing or spoken voice.
 
 <a href="https://musicmaker.im/free-suno-ai-music-detector/"><img src="../assets/screenshots/musicmaker-suno-detector.jpg" width="100%" alt="لقطة لموقع كاشف MusicMaker: رفع الصوت وزر Check ومنطقة النتائج؛ انقر للتجربة"></a>
 
-<sub>واجهة باللغة الإنجليزية.</sub>
-
 ارفع الملف الصوتي ← سجّل الدخول واضغط **Check** ← راجع التوقّع واحتمال التوليد بالذكاء الاصطناعي.
 
 **[جرّب كاشف الموسيقى من MusicMaker ←](https://musicmaker.im/free-suno-ai-music-detector/)** · [كيفية قراءة النتيجة · بالإنجليزية](../docs/detector-and-release.md)
 
-<sub>نتائج الكشف للاستئناس. تأكد من حقوق استخدام العمل مع صاحبه.</sub>
 <!-- MUSICMAKER-DETECTOR:END -->
-
-[Sources · English](../docs/sources.md) · [Contributing · English](../CONTRIBUTING.md)
 
 <!-- BRAND-AFFILIATE:START -->
 ### تعاون مع MusicMaker عبر برنامج التسويق بالعمولة
@@ -178,5 +165,20 @@ Keep the mood warm and hopeful. No singing or spoken voice.
 
 **[تعرّف على البرنامج وطريقة الانضمام ←](https://musicmaker.im/affiliate-program/)**
 <!-- BRAND-AFFILIATE:END -->
+
+<!-- READER-NOTES:START -->
+### ملاحظات ومصادر
+
+تنشر [MusicMaker](https://github.com/aimusicmaker) هذا الدليل وتحدّثه، وتدير أيضًا أدوات MusicMaker المعروضة فيه. الدروس والتمارين التفصيلية متاحة باللغة الإنجليزية. [الناشر ومنهج التحرير · الإنجليزية](../docs/editorial-policy.md).
+
+- تاريخ التحقق من معلومات النماذج 2026-09-23.
+- لم يكتمل بعد اختبار إنشاء الموسيقى والاستماع لنتائج التمرين الصوتي في هذه الصفحة.
+- لا تضمن التعليمات مدة دقيقة أو الحفاظ على اللحن نفسه. استمع إلى النتيجة وراجعها.
+- الحسابات والأرصدة وحقوق الاستخدام منفصلة بين الخدمتين. التعليمات نفسها لا تضمن نتيجة متطابقة.
+- تعرض لقطة شاشة أداة كشف الموسيقى من MusicMaker الواجهة باللغة الإنجليزية.
+- نتائج الكشف للاستئناس. تأكد من حقوق استخدام العمل مع صاحبه.
+
+[Sources · English](../docs/sources.md) · [Contributing · English](../CONTRIBUTING.md)
+<!-- READER-NOTES:END -->
 
 </div>

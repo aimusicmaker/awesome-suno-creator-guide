@@ -37,8 +37,6 @@ Folk, dance, jazz ou musique pour une animation ou un court métrage. Décrivez 
 <p align="center"><a href="#start"><strong>▶ Créer votre premier morceau</strong></a> · <a href="../docs/troubleshooting.md">Résoudre les problèmes · Anglais</a></p>
 </div>
 
-[MusicMaker](https://github.com/aimusicmaker) publie et tient à jour ce guide, et exploite les outils MusicMaker présentés ici. Les tutoriels et exercices détaillés sont en anglais. [Éditeur et méthode éditoriale · Anglais](../docs/editorial-policy.md).
-
 <a id="official"></a>
 ## Que permet Suno v6 ?
 
@@ -46,11 +44,9 @@ Partez d’une idée, d’une photo, d’une vidéo ou d’un air fredonné. Sim
 
 [![Que permet Suno v6 ?](../assets/suno-workflow.svg)](https://help.suno.com/en/articles/13924481)
 
-v6-mini est accessible avec tous les forfaits ; v6 et v6-wild nécessitent Pro / Premier. Une consigne ne garantit ni une durée exacte ni la conservation d’une mélodie. Écoutez le résultat avant de le publier.
+v6-mini est accessible avec tous les forfaits ; v6 et v6-wild nécessitent Pro / Premier.
 
 [Guide officiel ↗](https://help.suno.com/en/articles/13924481) · [Suno v6 ↗](https://help.suno.com/en/articles/13924801)
-
-<sub>Informations sur les modèles vérifiées le 2026-09-23.</sub>
 
 <a id="examples"></a>
 ## Exemples de prompts officiels sur X
@@ -101,15 +97,11 @@ Choisissez une direction parmi neuf exemples de la communauté sur X. Cliquez su
 
 Exercice instrumental inspiré des instruments de Morning with Healing Hands.
 
-**En attente d’un test d’écoute**
-
 ```text
 An instrumental acoustic piece for a quiet everyday scene.
 Fingerpicked guitar leads, with upright bass and light strings.
 Keep the mood warm and hopeful. No singing or spoken voice.
 ```
-
-Les comptes, crédits et droits d’utilisation sont propres à chaque service. Un même prompt ne garantit pas un résultat identique.
 
 [Guide détaillé · anglais →](../docs/official-suno-guide.md)
 
@@ -158,16 +150,11 @@ Dans ce cas, essayez **Free Suno AI Music Detector de MusicMaker**. Importez le 
 
 <a href="https://musicmaker.im/free-suno-ai-music-detector/"><img src="../assets/screenshots/musicmaker-suno-detector.jpg" width="100%" alt="Capture du détecteur MusicMaker : import audio, bouton Check et zone de résultats ; cliquez pour essayer"></a>
 
-<sub>Interface en anglais.</sub>
-
 Importez l’audio → connectez-vous et cliquez sur **Check** → consultez la prédiction et la probabilité d’IA.
 
 **[Essayer le détecteur musical de MusicMaker →](https://musicmaker.im/free-suno-ai-music-detector/)** · [Comprendre le résultat · En anglais](../docs/detector-and-release.md)
 
-<sub>Les résultats de détection sont donnés à titre indicatif. Confirmez les droits d’utilisation de l’œuvre auprès de son auteur.</sub>
 <!-- MUSICMAKER-DETECTOR:END -->
-
-[Sources · English](../docs/sources.md) · [Contributing · English](../CONTRIBUTING.md)
 
 <!-- BRAND-AFFILIATE:START -->
 ### Devenez partenaire de MusicMaker
@@ -176,3 +163,18 @@ MusicMaker propose un programme d’affiliation aux créateurs, auteurs de criti
 
 **[Découvrir le programme d’affiliation et comment participer →](https://musicmaker.im/affiliate-program/)**
 <!-- BRAND-AFFILIATE:END -->
+
+<!-- READER-NOTES:START -->
+### Notes et sources
+
+[MusicMaker](https://github.com/aimusicmaker) publie et tient à jour ce guide, et exploite les outils MusicMaker présentés ici. Les tutoriels et exercices détaillés sont en anglais. [Éditeur et méthode éditoriale · Anglais](../docs/editorial-policy.md).
+
+- Informations sur les modèles vérifiées le 2026-09-23.
+- L’exercice acoustique de cette page n’a pas encore fait l’objet d’un test de génération et d’écoute.
+- Une consigne ne garantit ni une durée exacte ni la conservation d’une mélodie. Écoutez le résultat avant de le publier.
+- Les comptes, crédits et droits d’utilisation sont propres à chaque service. Un même prompt ne garantit pas un résultat identique.
+- La capture du détecteur MusicMaker présente l’interface en anglais.
+- Les résultats de détection sont donnés à titre indicatif. Confirmez les droits d’utilisation de l’œuvre auprès de son auteur.
+
+[Sources · English](../docs/sources.md) · [Contributing · English](../CONTRIBUTING.md)
+<!-- READER-NOTES:END -->

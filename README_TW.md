@@ -36,8 +36,6 @@
 <p align="center"><a href="#start"><strong>▶ 開始第一首歌</strong></a> · <a href="docs/troubleshooting.md">解決生成問題 · 英文</a></p>
 </div>
 
-[MusicMaker](https://github.com/aimusicmaker) 發布和維護本指南，並營運文中介紹的 MusicMaker 工具。詳細教學與練習說明為英文。 [維護與編輯方法 · 英文](docs/editorial-policy.md)。
-
 <a id="official"></a>
 ## Suno v6 能做什麼？
 
@@ -45,11 +43,9 @@
 
 [![Suno v6 能做什麼？](assets/suno-workflow.svg)](https://help.suno.com/en/articles/13924481)
 
-v6-mini 適用所有方案；v6 與 v6-wild 需要 Pro / Premier。提示詞不保證精確秒數，也不保證每次保留相同旋律，生成後仍須試聽檢查。
+v6-mini 適用所有方案；v6 與 v6-wild 需要 Pro / Premier。
 
 [官方說明 ↗](https://help.suno.com/en/articles/13924481) · [Suno v6 ↗](https://help.suno.com/en/articles/13924801)
-
-<sub>模型資訊核對於 2026-09-23。</sub>
 
 <a id="examples"></a>
 ## X 上的官方提示詞案例
@@ -103,15 +99,11 @@ v6-mini 適用所有方案；v6 與 v6-wild 需要 Pro / Premier。提示詞不�
 
 這份純音樂改寫參考 Morning with Healing Hands 的配器。
 
-**待試聽**
-
 ```text
 An instrumental acoustic piece for a quiet everyday scene.
 Fingerpicked guitar leads, with upright bass and light strings.
 Keep the mood warm and hopeful. No singing or spoken voice.
 ```
-
-兩個服務的帳號、額度與使用權限分開管理。同一份提示詞不保證得到相同結果。
 
 [詳細指南・英文 →](docs/official-suno-guide.md)
 
@@ -159,16 +151,11 @@ Keep the mood warm and hopeful. No singing or spoken voice.
 
 <a href="https://musicmaker.im/free-suno-ai-music-detector/"><img src="assets/screenshots/musicmaker-suno-detector.jpg" width="100%" alt="MusicMaker 檢測工具官網截圖：上傳音訊、檢測按鈕與結果區域；點擊試用"></a>
 
-<sub>英文介面。</sub>
-
 上傳音訊 → 登入並點擊 **Check（檢測）** → 查看預測結果與 AI 機率。
 
 **[試用 MusicMaker 音樂來源檢測 →](https://musicmaker.im/free-suno-ai-music-detector/)** · [如何理解檢測結果 · 英文](docs/detector-and-release.md)
 
-<sub>檢測結果僅供參考，作品使用權限請向作者確認。</sub>
 <!-- MUSICMAKER-DETECTOR:END -->
-
-[Sources · English](docs/sources.md) · [Contributing · English](CONTRIBUTING.md)
 
 <!-- BRAND-AFFILIATE:START -->
 ### 與 MusicMaker 聯盟推廣合作
@@ -177,3 +164,18 @@ MusicMaker 支援聯盟推廣合作，歡迎創作者、評測作者、教育工
 
 **[了解聯盟計畫與申請方式 →](https://musicmaker.im/affiliate-program/)**
 <!-- BRAND-AFFILIATE:END -->
+
+<!-- READER-NOTES:START -->
+### 說明與來源
+
+[MusicMaker](https://github.com/aimusicmaker) 發布和維護本指南，並營運文中介紹的 MusicMaker 工具。詳細教學與練習說明為英文。 [維護與編輯方法 · 英文](docs/editorial-policy.md)。
+
+- 模型資訊核對於 2026-09-23。
+- 首頁的木吉他配樂練習尚未完成生成與試聽測試。
+- 提示詞不保證精確秒數，也不保證每次保留相同旋律，生成後仍須試聽檢查。
+- 兩個服務的帳號、額度與使用權限分開管理。同一份提示詞不保證得到相同結果。
+- MusicMaker 檢測工具截圖為英文介面。
+- 檢測結果僅供參考，作品使用權限請向作者確認。
+
+[Sources · English](docs/sources.md) · [Contributing · English](CONTRIBUTING.md)
+<!-- READER-NOTES:END -->

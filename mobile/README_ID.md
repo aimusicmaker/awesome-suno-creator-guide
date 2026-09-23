@@ -37,8 +37,6 @@ Folk, dance, jazz, atau musik untuk animasi dan film pendek. Jelaskan ide Anda d
 <p align="center"><a href="#start"><strong>▶ Buat lagu pertama</strong></a> · <a href="../docs/troubleshooting.md">Atasi masalah hasil · Inggris</a></p>
 </div>
 
-Panduan ini diterbitkan dan dikelola oleh [MusicMaker](https://github.com/aimusicmaker), yang juga mengoperasikan alat MusicMaker yang diperkenalkan di sini. Tutorial dan latihan terperinci tersedia dalam bahasa Inggris. [Penerbit dan metode penyuntingan · Inggris](../docs/editorial-policy.md).
-
 <a id="official"></a>
 ## Apa yang bisa dilakukan Suno v6?
 
@@ -46,11 +44,9 @@ Mulai dari ide, foto, video, atau senandung. Gunakan Simple untuk menjelaskan id
 
 [![Apa yang bisa dilakukan Suno v6?](../assets/suno-workflow.svg)](https://help.suno.com/en/articles/13924481)
 
-v6-mini tersedia di semua paket; v6 dan v6-wild memerlukan Pro / Premier. Durasi tepat dan melodi yang tetap sama tidak dijamin. Dengarkan dan periksa hasilnya.
+v6-mini tersedia di semua paket; v6 dan v6-wild memerlukan Pro / Premier.
 
 [Panduan resmi ↗](https://help.suno.com/en/articles/13924481) · [Suno v6 ↗](https://help.suno.com/en/articles/13924801)
-
-<sub>Informasi model diperiksa 2026-09-23.</sub>
 
 <a id="examples"></a>
 ## Contoh prompt resmi di X
@@ -101,15 +97,11 @@ Pilih arah dari sembilan contoh komunitas di X. Klik gambar untuk melihat unggah
 
 Adaptasi instrumental berdasarkan pilihan alat musik dalam Morning with Healing Hands.
 
-**Menunggu uji dengar**
-
 ```text
 An instrumental acoustic piece for a quiet everyday scene.
 Fingerpicked guitar leads, with upright bass and light strings.
 Keep the mood warm and hopeful. No singing or spoken voice.
 ```
-
-Akun, kredit, dan hak penggunaan masing-masing layanan terpisah. Prompt yang sama tidak menjamin hasil yang sama.
 
 [Panduan lengkap · Inggris →](../docs/official-suno-guide.md)
 
@@ -158,16 +150,11 @@ Untuk saat seperti itu, coba **Free Suno AI Music Detector dari MusicMaker**. Un
 
 <a href="https://musicmaker.im/free-suno-ai-music-detector/"><img src="../assets/screenshots/musicmaker-suno-detector.jpg" width="100%" alt="Tangkapan layar detektor MusicMaker: unggah audio, tombol Check, dan area hasil; klik untuk mencoba"></a>
 
-<sub>Antarmuka berbahasa Inggris.</sub>
-
 Unggah audio → masuk dan klik **Check** → baca prediksi dan probabilitas AI.
 
 **[Coba detektor musik MusicMaker →](https://musicmaker.im/free-suno-ai-music-detector/)** · [Cara membaca hasil · Bahasa Inggris](../docs/detector-and-release.md)
 
-<sub>Hasil deteksi hanya sebagai rujukan. Konfirmasikan hak penggunaan karya kepada pembuatnya.</sub>
 <!-- MUSICMAKER-DETECTOR:END -->
-
-[Sources · English](../docs/sources.md) · [Contributing · English](../CONTRIBUTING.md)
 
 <!-- BRAND-AFFILIATE:START -->
 ### Bermitra dengan MusicMaker
@@ -176,3 +163,18 @@ MusicMaker membuka kerja sama afiliasi bagi kreator, pengulas, pendidik, dan kom
 
 **[Lihat program afiliasi dan cara mendaftar →](https://musicmaker.im/affiliate-program/)**
 <!-- BRAND-AFFILIATE:END -->
+
+<!-- READER-NOTES:START -->
+### Catatan dan sumber
+
+Panduan ini diterbitkan dan dikelola oleh [MusicMaker](https://github.com/aimusicmaker), yang juga mengoperasikan alat MusicMaker yang diperkenalkan di sini. Tutorial dan latihan terperinci tersedia dalam bahasa Inggris. [Penerbit dan metode penyuntingan · Inggris](../docs/editorial-policy.md).
+
+- Informasi model diperiksa 2026-09-23.
+- Latihan akustik di halaman ini belum diuji melalui pembuatan dan penilaian hasil audio.
+- Durasi tepat dan melodi yang tetap sama tidak dijamin. Dengarkan dan periksa hasilnya.
+- Akun, kredit, dan hak penggunaan masing-masing layanan terpisah. Prompt yang sama tidak menjamin hasil yang sama.
+- Tangkapan layar alat deteksi MusicMaker menampilkan antarmuka berbahasa Inggris.
+- Hasil deteksi hanya sebagai rujukan. Konfirmasikan hak penggunaan karya kepada pembuatnya.
+
+[Sources · English](../docs/sources.md) · [Contributing · English](../CONTRIBUTING.md)
+<!-- READER-NOTES:END -->

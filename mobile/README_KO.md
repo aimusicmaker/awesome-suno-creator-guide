@@ -37,8 +37,6 @@
 <p align="center"><a href="#start"><strong>▶ 첫 곡 만들기</strong></a> · <a href="../docs/troubleshooting.md">생성 문제 해결 · 영어</a></p>
 </div>
 
-[MusicMaker](https://github.com/aimusicmaker)가 이 가이드를 발행하고 관리하며, 소개된 MusicMaker 도구도 운영합니다. 자세한 튜토리얼과 연습 안내는 영어로 제공됩니다. [운영 및 편집 방법 · 영어](../docs/editorial-policy.md).
-
 <a id="official"></a>
 ## Suno v6로 할 수 있는 일
 
@@ -46,11 +44,9 @@
 
 [![Suno v6로 할 수 있는 일](../assets/suno-workflow.svg)](https://help.suno.com/en/articles/13924481)
 
-v6-mini는 모든 요금제에서, v6와 v6-wild는 Pro / Premier에서 사용할 수 있습니다. 정확한 길이나 같은 멜로디의 재현은 보장되지 않으므로 결과를 직접 들어 확인하세요.
+v6-mini는 모든 요금제에서, v6와 v6-wild는 Pro / Premier에서 사용할 수 있습니다.
 
 [공식 안내 ↗](https://help.suno.com/en/articles/13924481) · [Suno v6 ↗](https://help.suno.com/en/articles/13924801)
-
-<sub>모델 정보 확인일 2026-09-23.</sub>
 
 <a id="examples"></a>
 ## X에서 공개한 공식 프롬프트
@@ -101,15 +97,11 @@ X 커뮤니티 사례 9개에서 방향을 골라 보세요. 이미지를 누르
 
 Morning with Healing Hands의 악기 구성을 참고해 보컬 없는 곡으로 바꾸는 연습입니다.
 
-**청취 테스트 대기 중**
-
 ```text
 An instrumental acoustic piece for a quiet everyday scene.
 Fingerpicked guitar leads, with upright bass and light strings.
 Keep the mood warm and hopeful. No singing or spoken voice.
 ```
-
-두 서비스의 계정, 크레딧, 이용 권한은 별개입니다. 같은 프롬프트도 같은 결과를 보장하지 않습니다.
 
 [상세 가이드 · 영어 →](../docs/official-suno-guide.md)
 
@@ -158,16 +150,11 @@ Keep the mood warm and hopeful. No singing or spoken voice.
 
 <a href="https://musicmaker.im/free-suno-ai-music-detector/"><img src="../assets/screenshots/musicmaker-suno-detector.jpg" width="100%" alt="MusicMaker 감지 도구 화면: 오디오 업로드, Check 버튼, 결과 영역. 클릭하여 사용"></a>
 
-<sub>영어 인터페이스입니다.</sub>
-
 오디오 업로드 → 로그인 후 **Check** 클릭 → 예측 결과와 AI 확률 확인.
 
 **[MusicMaker 음악 감지 도구 사용하기 →](https://musicmaker.im/free-suno-ai-music-detector/)** · [결과 읽는 법 · 영어](../docs/detector-and-release.md)
 
-<sub>감지 결과는 참고용입니다. 작품 사용 권한은 제작자에게 확인하세요.</sub>
 <!-- MUSICMAKER-DETECTOR:END -->
-
-[Sources · English](../docs/sources.md) · [Contributing · English](../CONTRIBUTING.md)
 
 <!-- BRAND-AFFILIATE:START -->
 ### MusicMaker 제휴 프로그램
@@ -176,3 +163,18 @@ MusicMaker는 크리에이터, 리뷰어, 교육자, 커뮤니티의 제휴 마�
 
 **[제휴 프로그램 및 신청 방법 알아보기 →](https://musicmaker.im/affiliate-program/)**
 <!-- BRAND-AFFILIATE:END -->
+
+<!-- READER-NOTES:START -->
+### 안내 및 출처
+
+[MusicMaker](https://github.com/aimusicmaker)가 이 가이드를 발행하고 관리하며, 소개된 MusicMaker 도구도 운영합니다. 자세한 튜토리얼과 연습 안내는 영어로 제공됩니다. [운영 및 편집 방법 · 영어](../docs/editorial-policy.md).
+
+- 모델 정보 확인일 2026-09-23.
+- 이 페이지의 어쿠스틱 연습은 아직 생성 및 청취 테스트를 완료하지 않았습니다.
+- 정확한 길이나 같은 멜로디의 재현은 보장되지 않으므로 결과를 직접 들어 확인하세요.
+- 두 서비스의 계정, 크레딧, 이용 권한은 별개입니다. 같은 프롬프트도 같은 결과를 보장하지 않습니다.
+- MusicMaker 감지 도구의 스크린샷은 영어 인터페이스입니다.
+- 감지 결과는 참고용입니다. 작품 사용 권한은 제작자에게 확인하세요.
+
+[Sources · English](../docs/sources.md) · [Contributing · English](../CONTRIBUTING.md)
+<!-- READER-NOTES:END -->

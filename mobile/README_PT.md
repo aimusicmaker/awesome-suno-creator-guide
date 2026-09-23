@@ -37,8 +37,6 @@ Folk, dance, jazz ou uma trilha para animações e curtas. Descreva sua ideia no
 <p align="center"><a href="#start"><strong>▶ Crie sua primeira música</strong></a> · <a href="../docs/troubleshooting.md">Resolva problemas · Inglês</a></p>
 </div>
 
-Este guia é publicado e mantido pela [MusicMaker](https://github.com/aimusicmaker), que também opera as ferramentas MusicMaker apresentadas aqui. Tutoriais e exercícios detalhados estão em inglês. [Publicação e edição · Inglês](../docs/editorial-policy.md).
-
 <a id="official"></a>
 ## O que o Suno v6 pode fazer
 
@@ -46,11 +44,9 @@ Comece com uma ideia, foto, vídeo ou melodia cantarolada. Use Simple para descr
 
 [![O que o Suno v6 pode fazer](../assets/suno-workflow.svg)](https://help.suno.com/en/articles/13924481)
 
-v6-mini está disponível em todos os planos; v6 e v6-wild exigem Pro / Premier. As instruções não garantem duração exata nem preservação da melodia. Ouça e revise cada resultado.
+v6-mini está disponível em todos os planos; v6 e v6-wild exigem Pro / Premier.
 
 [Guia oficial ↗](https://help.suno.com/en/articles/13924481) · [Suno v6 ↗](https://help.suno.com/en/articles/13924801)
-
-<sub>Informações dos modelos verificadas em 2026-09-23.</sub>
 
 <a id="examples"></a>
 ## Exemplos oficiais de prompts no X
@@ -101,15 +97,11 @@ Escolha uma direção entre nove exemplos da comunidade no X. Clique em uma imag
 
 Adaptação instrumental inspirada nos instrumentos de Morning with Healing Hands.
 
-**Aguardando teste de audição**
-
 ```text
 An instrumental acoustic piece for a quiet everyday scene.
 Fingerpicked guitar leads, with upright bass and light strings.
 Keep the mood warm and hopeful. No singing or spoken voice.
 ```
-
-Contas, créditos e direitos de uso são separados entre os serviços. O mesmo prompt não garante o mesmo resultado.
 
 [Guia completo · inglês →](../docs/official-suno-guide.md)
 
@@ -158,16 +150,11 @@ Nesses momentos, experimente o **Free Suno AI Music Detector do MusicMaker**. En
 
 <a href="https://musicmaker.im/free-suno-ai-music-detector/"><img src="../assets/screenshots/musicmaker-suno-detector.jpg" width="100%" alt="Captura do detector MusicMaker: envio de áudio, botão Check e área de resultados; clique para experimentar"></a>
 
-<sub>Interface em inglês.</sub>
-
 Envie o áudio → faça login e clique em **Check** → consulte a previsão e a probabilidade de IA.
 
 **[Experimente o detector de música do MusicMaker →](https://musicmaker.im/free-suno-ai-music-detector/)** · [Como interpretar o resultado · Inglês](../docs/detector-and-release.md)
 
-<sub>Os resultados da detecção servem apenas como referência. Confirme com o autor os direitos de uso da obra.</sub>
 <!-- MUSICMAKER-DETECTOR:END -->
-
-[Sources · English](../docs/sources.md) · [Contributing · English](../CONTRIBUTING.md)
 
 <!-- BRAND-AFFILIATE:START -->
 ### Seja parceiro do MusicMaker
@@ -176,3 +163,18 @@ O MusicMaker oferece parcerias de afiliados para criadores, autores de avaliaç�
 
 **[Conheça o programa de afiliados e saiba como participar →](https://musicmaker.im/affiliate-program/)**
 <!-- BRAND-AFFILIATE:END -->
+
+<!-- READER-NOTES:START -->
+### Notas e fontes
+
+Este guia é publicado e mantido pela [MusicMaker](https://github.com/aimusicmaker), que também opera as ferramentas MusicMaker apresentadas aqui. Tutoriais e exercícios detalhados estão em inglês. [Publicação e edição · Inglês](../docs/editorial-policy.md).
+
+- Informações dos modelos verificadas em 2026-09-23.
+- O exercício acústico desta página ainda não foi testado com geração e avaliação auditiva.
+- As instruções não garantem duração exata nem preservação da melodia. Ouça e revise cada resultado.
+- Contas, créditos e direitos de uso são separados entre os serviços. O mesmo prompt não garante o mesmo resultado.
+- A captura de tela do detector MusicMaker mostra a interface em inglês.
+- Os resultados da detecção servem apenas como referência. Confirme com o autor os direitos de uso da obra.
+
+[Sources · English](../docs/sources.md) · [Contributing · English](../CONTRIBUTING.md)
+<!-- READER-NOTES:END -->

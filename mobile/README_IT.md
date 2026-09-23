@@ -37,8 +37,6 @@ Folk, dance, jazz o musica per animazioni e cortometraggi. Descrivi la tua idea 
 <p align="center"><a href="#start"><strong>▶ Crea il primo brano</strong></a> · <a href="../docs/troubleshooting.md">Risolvi i problemi · Inglese</a></p>
 </div>
 
-Questa guida è pubblicata e mantenuta da [MusicMaker](https://github.com/aimusicmaker), che gestisce anche gli strumenti MusicMaker presentati qui. Tutorial ed esercizi dettagliati sono in inglese. [Editore e metodo editoriale · Inglese](../docs/editorial-policy.md).
-
 <a id="official"></a>
 ## Cosa puoi fare con Suno v6
 
@@ -46,11 +44,9 @@ Parti da un’idea, una foto, un video o una melodia canticchiata. Simple accett
 
 [![Cosa puoi fare con Suno v6](../assets/suno-workflow.svg)](https://help.suno.com/en/articles/13924481)
 
-v6-mini è disponibile in tutti i piani; v6 e v6-wild richiedono Pro / Premier. Le istruzioni non garantiscono una durata precisa o la conservazione della melodia. Ascolta sempre il risultato.
+v6-mini è disponibile in tutti i piani; v6 e v6-wild richiedono Pro / Premier.
 
 [Guida ufficiale ↗](https://help.suno.com/en/articles/13924481) · [Suno v6 ↗](https://help.suno.com/en/articles/13924801)
-
-<sub>Informazioni sui modelli verificate il 2026-09-23.</sub>
 
 <a id="examples"></a>
 ## Esempi di prompt ufficiali su X
@@ -101,15 +97,11 @@ Scegli una direzione fra nove esempi della comunità su X. Fai clic su un’imma
 
 Adattamento strumentale ispirato agli strumenti di Morning with Healing Hands.
 
-**In attesa di una prova d’ascolto**
-
 ```text
 An instrumental acoustic piece for a quiet everyday scene.
 Fingerpicked guitar leads, with upright bass and light strings.
 Keep the mood warm and hopeful. No singing or spoken voice.
 ```
-
-Account, crediti e diritti d’uso sono separati per ciascun servizio. Lo stesso prompt non garantisce lo stesso risultato.
 
 [Guida completa · inglese →](../docs/official-suno-guide.md)
 
@@ -158,16 +150,11 @@ In questi casi, puoi provare **Free Suno AI Music Detector di MusicMaker**. Cari
 
 <a href="https://musicmaker.im/free-suno-ai-music-detector/"><img src="../assets/screenshots/musicmaker-suno-detector.jpg" width="100%" alt="Schermata del rilevatore MusicMaker: caricamento audio, pulsante Check e area dei risultati; fai clic per provarlo"></a>
 
-<sub>Interfaccia in inglese.</sub>
-
 Carica l’audio → accedi e fai clic su **Check** → leggi la previsione e la probabilità di IA.
 
 **[Prova il rilevatore musicale di MusicMaker →](https://musicmaker.im/free-suno-ai-music-detector/)** · [Come leggere il risultato · Inglese](../docs/detector-and-release.md)
 
-<sub>I risultati del rilevamento sono indicativi. Verifica con l’autore i diritti d’uso dell’opera.</sub>
 <!-- MUSICMAKER-DETECTOR:END -->
-
-[Sources · English](../docs/sources.md) · [Contributing · English](../CONTRIBUTING.md)
 
 <!-- BRAND-AFFILIATE:START -->
 ### Collabora con MusicMaker
@@ -176,3 +163,18 @@ MusicMaker accoglie creator, recensori, educatori e community nel suo programma 
 
 **[Scopri il programma di affiliazione e come aderire →](https://musicmaker.im/affiliate-program/)**
 <!-- BRAND-AFFILIATE:END -->
+
+<!-- READER-NOTES:START -->
+### Note e fonti
+
+Questa guida è pubblicata e mantenuta da [MusicMaker](https://github.com/aimusicmaker), che gestisce anche gli strumenti MusicMaker presentati qui. Tutorial ed esercizi dettagliati sono in inglese. [Editore e metodo editoriale · Inglese](../docs/editorial-policy.md).
+
+- Informazioni sui modelli verificate il 2026-09-23.
+- L’esercizio acustico di questa pagina non è ancora stato verificato con una prova di generazione e ascolto.
+- Le istruzioni non garantiscono una durata precisa o la conservazione della melodia. Ascolta sempre il risultato.
+- Account, crediti e diritti d’uso sono separati per ciascun servizio. Lo stesso prompt non garantisce lo stesso risultato.
+- La schermata del rilevatore MusicMaker mostra l’interfaccia in inglese.
+- I risultati del rilevamento sono indicativi. Verifica con l’autore i diritti d’uso dell’opera.
+
+[Sources · English](../docs/sources.md) · [Contributing · English](../CONTRIBUTING.md)
+<!-- READER-NOTES:END -->

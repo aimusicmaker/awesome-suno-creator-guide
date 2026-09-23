@@ -36,8 +36,6 @@ Folk, dance, jazz o música para animaciones y cortometrajes. Describe tu idea e
 <p align="center"><a href="#start"><strong>▶ Crea tu primera canción</strong></a> · <a href="docs/troubleshooting.md">Resuelve problemas · Inglés</a></p>
 </div>
 
-[MusicMaker](https://github.com/aimusicmaker) publica y mantiene esta guía y opera las herramientas MusicMaker que se presentan aquí. Los tutoriales y ejercicios detallados están en inglés. [Publicación y edición · Inglés](docs/editorial-policy.md).
-
 <a id="official"></a>
 ## Qué puedes hacer con Suno v6
 
@@ -45,11 +43,9 @@ Empieza con una idea, una foto, un vídeo o un tarareo. Usa Simple para describi
 
 [![Qué puedes hacer con Suno v6](assets/suno-workflow.svg)](https://help.suno.com/en/articles/13924481)
 
-v6-mini está disponible en todos los planes; v6 y v6-wild requieren Pro / Premier. Las instrucciones no garantizan una duración exacta ni la conservación de una melodía. Escucha y revisa el resultado.
+v6-mini está disponible en todos los planes; v6 y v6-wild requieren Pro / Premier.
 
 [Guía oficial ↗](https://help.suno.com/en/articles/13924481) · [Suno v6 ↗](https://help.suno.com/en/articles/13924801)
-
-<sub>Información de modelos verificada el 2026-09-23.</sub>
 
 <a id="examples"></a>
 ## Ejemplos oficiales de prompts en X
@@ -103,15 +99,11 @@ Elige una dirección entre nueve casos de la comunidad en X. Pulsa una imagen pa
 
 Adaptación instrumental inspirada en los instrumentos de Morning with Healing Hands.
 
-**Pendiente de prueba de escucha**
-
 ```text
 An instrumental acoustic piece for a quiet everyday scene.
 Fingerpicked guitar leads, with upright bass and light strings.
 Keep the mood warm and hopeful. No singing or spoken voice.
 ```
-
-Las cuentas, los créditos y los derechos de uso son independientes. Un mismo prompt no garantiza el mismo resultado.
 
 [Guía detallada · inglés →](docs/official-suno-guide.md)
 
@@ -159,16 +151,11 @@ Para esos momentos, puedes probar **Free Suno AI Music Detector de MusicMaker**.
 
 <a href="https://musicmaker.im/free-suno-ai-music-detector/"><img src="assets/screenshots/musicmaker-suno-detector.jpg" width="100%" alt="Captura del detector MusicMaker: carga de audio, botón Check y área de resultados; pulsa para probarlo"></a>
 
-<sub>Interfaz en inglés.</sub>
-
 Sube el audio → inicia sesión y pulsa **Check** → consulta la predicción y la probabilidad de IA.
 
 **[Prueba el detector de música de MusicMaker →](https://musicmaker.im/free-suno-ai-music-detector/)** · [Cómo interpretar el resultado · Inglés](docs/detector-and-release.md)
 
-<sub>Los resultados de detección son orientativos. Confirma con el autor los derechos de uso de la obra.</sub>
 <!-- MUSICMAKER-DETECTOR:END -->
-
-[Sources · English](docs/sources.md) · [Contributing · English](CONTRIBUTING.md)
 
 <!-- BRAND-AFFILIATE:START -->
 ### Colabora con MusicMaker
@@ -177,3 +164,18 @@ MusicMaker ofrece un programa de afiliados para creadores, autores de reseñas, 
 
 **[Conoce el programa de afiliados y cómo participar →](https://musicmaker.im/affiliate-program/)**
 <!-- BRAND-AFFILIATE:END -->
+
+<!-- READER-NOTES:START -->
+### Notas y fuentes
+
+[MusicMaker](https://github.com/aimusicmaker) publica y mantiene esta guía y opera las herramientas MusicMaker que se presentan aquí. Los tutoriales y ejercicios detallados están en inglés. [Publicación y edición · Inglés](docs/editorial-policy.md).
+
+- Información de modelos verificada el 2026-09-23.
+- El ejercicio acústico de esta página todavía no se ha probado mediante generación y escucha.
+- Las instrucciones no garantizan una duración exacta ni la conservación de una melodía. Escucha y revisa el resultado.
+- Las cuentas, los créditos y los derechos de uso son independientes. Un mismo prompt no garantiza el mismo resultado.
+- La captura del detector MusicMaker muestra la interfaz en inglés.
+- Los resultados de detección son orientativos. Confirma con el autor los derechos de uso de la obra.
+
+[Sources · English](docs/sources.md) · [Contributing · English](CONTRIBUTING.md)
+<!-- READER-NOTES:END -->

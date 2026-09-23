@@ -37,8 +37,6 @@ Folk, nhạc dance, jazz hay nhạc nền cho hoạt hình và phim ngắn. Mô 
 <p align="center"><a href="#start"><strong>▶ Tạo bài hát đầu tiên</strong></a> · <a href="../docs/troubleshooting.md">Khắc phục lỗi · Tiếng Anh</a></p>
 </div>
 
-[MusicMaker](https://github.com/aimusicmaker) xuất bản và duy trì hướng dẫn này, đồng thời vận hành các công cụ MusicMaker được giới thiệu. Các bài hướng dẫn và bài tập chi tiết bằng tiếng Anh. [Đơn vị xuất bản và biên tập · Tiếng Anh](../docs/editorial-policy.md).
-
 <a id="official"></a>
 ## Suno v6 có thể làm gì?
 
@@ -46,11 +44,9 @@ Bắt đầu từ ý tưởng, ảnh, video hoặc giai điệu ngân nga. Dùng
 
 [![Suno v6 có thể làm gì?](../assets/suno-workflow.svg)](https://help.suno.com/en/articles/13924481)
 
-v6-mini có trên mọi gói; v6 và v6-wild yêu cầu Pro / Premier. Không bảo đảm thời lượng chính xác hay giữ nguyên giai điệu. Hãy nghe và kiểm tra kết quả.
+v6-mini có trên mọi gói; v6 và v6-wild yêu cầu Pro / Premier.
 
 [Hướng dẫn chính thức ↗](https://help.suno.com/en/articles/13924481) · [Suno v6 ↗](https://help.suno.com/en/articles/13924801)
-
-<sub>Thông tin mô hình được kiểm tra ngày 2026-09-23.</sub>
 
 <a id="examples"></a>
 ## Ví dụ câu lệnh chính thức trên X
@@ -101,15 +97,11 @@ Chọn hướng đi từ chín ví dụ cộng đồng trên X. Nhấn ảnh đ�
 
 Bài tập biến tấu không lời dựa trên cách chọn nhạc cụ của Morning with Healing Hands.
 
-**Đang chờ nghe thử**
-
 ```text
 An instrumental acoustic piece for a quiet everyday scene.
 Fingerpicked guitar leads, with upright bass and light strings.
 Keep the mood warm and hopeful. No singing or spoken voice.
 ```
-
-Tài khoản, tín dụng và quyền sử dụng của hai dịch vụ là riêng biệt. Cùng câu lệnh không bảo đảm cùng kết quả.
 
 [Chi tiết · tiếng Anh →](../docs/official-suno-guide.md)
 
@@ -158,16 +150,11 @@ Lúc đó, bạn có thể thử **Free Suno AI Music Detector của MusicMaker*
 
 <a href="https://musicmaker.im/free-suno-ai-music-detector/"><img src="../assets/screenshots/musicmaker-suno-detector.jpg" width="100%" alt="Ảnh chụp công cụ MusicMaker: tải âm thanh, nút Check và vùng kết quả; nhấn để dùng thử"></a>
 
-<sub>Giao diện tiếng Anh.</sub>
-
 Tải âm thanh lên → đăng nhập và nhấn **Check** → xem dự đoán và xác suất AI.
 
 **[Thử công cụ kiểm tra âm nhạc của MusicMaker →](https://musicmaker.im/free-suno-ai-music-detector/)** · [Cách đọc kết quả · Tiếng Anh](../docs/detector-and-release.md)
 
-<sub>Kết quả phát hiện chỉ để tham khảo. Hãy xác nhận quyền sử dụng tác phẩm với tác giả.</sub>
 <!-- MUSICMAKER-DETECTOR:END -->
-
-[Sources · English](../docs/sources.md) · [Contributing · English](../CONTRIBUTING.md)
 
 <!-- BRAND-AFFILIATE:START -->
 ### Hợp tác tiếp thị liên kết với MusicMaker
@@ -176,3 +163,18 @@ MusicMaker chào đón nhà sáng tạo, người viết đánh giá, nhà giáo
 
 **[Tìm hiểu chương trình và cách đăng ký →](https://musicmaker.im/affiliate-program/)**
 <!-- BRAND-AFFILIATE:END -->
+
+<!-- READER-NOTES:START -->
+### Ghi chú và nguồn
+
+[MusicMaker](https://github.com/aimusicmaker) xuất bản và duy trì hướng dẫn này, đồng thời vận hành các công cụ MusicMaker được giới thiệu. Các bài hướng dẫn và bài tập chi tiết bằng tiếng Anh. [Đơn vị xuất bản và biên tập · Tiếng Anh](../docs/editorial-policy.md).
+
+- Thông tin mô hình được kiểm tra ngày 2026-09-23.
+- Bài tập acoustic trên trang này chưa được kiểm thử bằng cách tạo nhạc và nghe kết quả.
+- Không bảo đảm thời lượng chính xác hay giữ nguyên giai điệu. Hãy nghe và kiểm tra kết quả.
+- Tài khoản, tín dụng và quyền sử dụng của hai dịch vụ là riêng biệt. Cùng câu lệnh không bảo đảm cùng kết quả.
+- Ảnh chụp công cụ phát hiện nhạc MusicMaker hiển thị giao diện tiếng Anh.
+- Kết quả phát hiện chỉ để tham khảo. Hãy xác nhận quyền sử dụng tác phẩm với tác giả.
+
+[Sources · English](../docs/sources.md) · [Contributing · English](../CONTRIBUTING.md)
+<!-- READER-NOTES:END -->
