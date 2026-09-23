@@ -33,7 +33,7 @@
 
 [![Suno 创作指南封面：米白底色与橙色黑胶唱片，主题是创作下一首自己喜欢的歌；点击打开 Suno 官方 v6 FAQ。](../assets/creator-guide-cover.png)](https://help.suno.com/en/articles/13924481)
 
-<p align="center"><a href="#suno-v6能做什么"><img src="../assets/ui/official-zh.svg" height="32" alt="官方能力"></a> <a href="#x-上的提示词与作品演示"><img src="../assets/ui/cases-zh.svg" height="32" alt="X 案例"></a> <a href="#先选你要做的内容"><img src="../assets/ui/briefs-zh.svg" height="32" alt="创作提案"></a></p>
+<p align="center"><a href="#suno-v6能做什么"><img src="../assets/ui/official-zh.svg" height="32" alt="官方能力"></a> <a href="#official-examples"><img src="../assets/ui/cases-zh.svg" height="32" alt="官方案例"></a> <a href="#先选你要做的内容"><img src="../assets/ui/briefs-zh.svg" height="32" alt="创作提案"></a></p>
 
 </div>
 
@@ -70,9 +70,11 @@
 
 依据：[官方 v6 FAQ](https://help.suno.com/en/articles/13924481) · [v6 功能说明](https://help.suno.com/en/articles/13924801)。[观看官方流程视频 →](https://www.youtube.com/watch?v=tkKGNBzkHwE)
 
-## X 上的提示词与作品演示
+<a id="official-examples"></a>
+<a id="x-上的提示词与作品演示"></a>
+## Suno 官方案例：提示词、演示与访谈
 
-先看 4 条 **Suno 官方 v6 提示词**，再对照 2 个官方视频演示。点击图片直达原帖；提示词卡是本仓库制作的导读图，不是原帖截图。
+先看 4 条 **Suno 官方 v6 提示词**和 2 个视频演示，再通过官方创作者访谈了解完整创作过程。点击图片直达原帖；提示词卡是本仓库制作的导读图，不是原帖截图。
 
 <p align="center"><a href="https://x.com/suno/status/2098504030204973500"><img src="../assets/x-cases/rooftop.svg" width="100%" alt="从一个场景开始；点击阅读 Suno 原帖"></a><br><b>从一个场景开始</b><br><code>make a song that feels like midnight on a rooftop</code><br><sub><a href="https://x.com/suno">@suno</a> · v6 Simple · 2026-09-12 · 原文节选</sub></p>
 
@@ -95,8 +97,8 @@
 
 </details>
 
-
-## 看看创作者怎样使用这些工具
+<a id="看看创作者怎样使用这些工具"></a>
+**从提示词到作品：4 篇 Suno 官方创作者访谈**
 
 <p align="center"><a href="https://suno.com/blog/dream-relic"><img src="https://cdn.sanity.io/images/cl7b1q1i/production/640170d16c1e92e38bef8980bf72655750a37cf2-1920x1080.jpg?auto=format&amp;fit=max&amp;w=2400" alt="Suno 官方访谈配图，点击阅读：Dream Relic" width="100%"></a><br><b>Dream Relic</b><br>围绕一幅画面写歌<br><a href="https://suno.com/blog/dream-relic">阅读 Suno 官方访谈 →</a> · <a href="https://suno.com/embed/2e6b6eb7-9421-4c10-bdab-ba70252ae152">▶ 试听</a></p>
 

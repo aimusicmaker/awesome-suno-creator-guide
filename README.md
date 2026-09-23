@@ -32,7 +32,7 @@ Copy-ready prompts, original lyrics, real listening references, and practical fi
 
 [![The Suno Creator Guide: Make your next favorite song. Orange vinyl on an ivory background; open the official Suno v6 FAQ.](assets/creator-guide-cover.png)](https://help.suno.com/en/articles/13924481)
 
-<p align="center"><a href="#what-can-suno-v6-do"><img src="assets/ui/official-en.svg" height="32" alt="Official capabilities"></a> <a href="#prompts-and-demonstrations-from-x"><img src="assets/ui/cases-en.svg" height="32" alt="X examples"></a> <a href="#what-are-you-making"><img src="assets/ui/briefs-en.svg" height="32" alt="Creation briefs"></a></p>
+<p align="center"><a href="#what-can-suno-v6-do"><img src="assets/ui/official-en.svg" height="32" alt="Official capabilities"></a> <a href="#official-examples"><img src="assets/ui/cases-en.svg" height="32" alt="Official examples"></a> <a href="#what-are-you-making"><img src="assets/ui/briefs-en.svg" height="32" alt="Creation briefs"></a></p>
 
 </div>
 
@@ -60,9 +60,11 @@ An independent guide, not official Suno documentation. Published source tracks, 
 
 Sources: [Official v6 FAQ](https://help.suno.com/en/articles/13924481) · [v6 features](https://help.suno.com/en/articles/13924801). [Watch the official workflow video →](https://www.youtube.com/watch?v=tkKGNBzkHwE)
 
-## Prompts and demonstrations from X
+<a id="official-examples"></a>
+<a id="prompts-and-demonstrations-from-x"></a>
+## Suno official examples: prompts, demos and interviews
 
-Start with **4 official v6 prompt examples**, then explore 2 official video demonstrations. Every image opens its original post. Prompt cards are our editorial graphics, not screenshots.
+Start with **4 official v6 prompt examples** and 2 video demos, then explore the creative process through Suno’s creator interviews. Every image opens its original post. Prompt cards are our editorial graphics, not screenshots.
 
 <table>
 <tr>
@@ -91,8 +93,8 @@ Media and prompts belong to their authors. We checked public posts and attached 
 
 </details>
 
-
-## Learn from the community
+<a id="learn-from-the-community"></a>
+**From prompts to finished work: 4 official Suno creator interviews**
 
 <table>
 <tr>

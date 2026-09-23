@@ -33,7 +33,7 @@ Copy-ready prompts, original lyrics, real listening references, and practical fi
 
 [![The Suno Creator Guide: Make your next favorite song. Orange vinyl on an ivory background; open the official Suno v6 FAQ.](../assets/creator-guide-cover.png)](https://help.suno.com/en/articles/13924481)
 
-<p align="center"><a href="#what-can-suno-v6-do"><img src="../assets/ui/official-en.svg" height="32" alt="Official capabilities"></a> <a href="#prompts-and-demonstrations-from-x"><img src="../assets/ui/cases-en.svg" height="32" alt="X examples"></a> <a href="#what-are-you-making"><img src="../assets/ui/briefs-en.svg" height="32" alt="Creation briefs"></a></p>
+<p align="center"><a href="#what-can-suno-v6-do"><img src="../assets/ui/official-en.svg" height="32" alt="Official capabilities"></a> <a href="#official-examples"><img src="../assets/ui/cases-en.svg" height="32" alt="Official examples"></a> <a href="#what-are-you-making"><img src="../assets/ui/briefs-en.svg" height="32" alt="Creation briefs"></a></p>
 
 </div>
 
@@ -70,9 +70,11 @@ An independent guide, not official Suno documentation. Published source tracks, 
 
 Sources: [Official v6 FAQ](https://help.suno.com/en/articles/13924481) · [v6 features](https://help.suno.com/en/articles/13924801). [Watch the official workflow video →](https://www.youtube.com/watch?v=tkKGNBzkHwE)
 
-## Prompts and demonstrations from X
+<a id="official-examples"></a>
+<a id="prompts-and-demonstrations-from-x"></a>
+## Suno official examples: prompts, demos and interviews
 
-Start with **4 official v6 prompt examples**, then explore 2 official video demonstrations. Every image opens its original post. Prompt cards are our editorial graphics, not screenshots.
+Start with **4 official v6 prompt examples** and 2 video demos, then explore the creative process through Suno’s creator interviews. Every image opens its original post. Prompt cards are our editorial graphics, not screenshots.
 
 <p align="center"><a href="https://x.com/suno/status/2098504030204973500"><img src="../assets/x-cases/rooftop.svg" width="100%" alt="Start with a feeling; open Suno’s original X prompt"></a><br><b>Start with a feeling</b><br><code>make a song that feels like midnight on a rooftop</code><br><sub><a href="https://x.com/suno">@suno</a> · v6 Simple · 2026-09-12 · excerpt</sub></p>
 
@@ -95,8 +97,8 @@ Media and prompts belong to their authors. We checked public posts and attached 
 
 </details>
 
-
-## Learn from the community
+<a id="learn-from-the-community"></a>
+**From prompts to finished work: 4 official Suno creator interviews**
 
 <p align="center"><a href="https://suno.com/blog/dream-relic"><img src="https://cdn.sanity.io/images/cl7b1q1i/production/640170d16c1e92e38bef8980bf72655750a37cf2-1920x1080.jpg?auto=format&amp;fit=max&amp;w=2400" alt="Suno interview artwork; open the interview: Dream Relic" width="100%"></a><br><b>Dream Relic</b><br>Write around one image<br><a href="https://suno.com/blog/dream-relic">Read the Suno interview →</a> · <a href="https://suno.com/embed/2e6b6eb7-9421-4c10-bdab-ba70252ae152">▶ Listen</a></p>
 
