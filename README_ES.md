@@ -1,6 +1,6 @@
 <div align="center">
 
-# Guía de creación musical con Suno
+# Guía de creación musical con Suno: prompts, ejemplos y tutoriales
 
 **Una idea, muchos sonidos.**
 
@@ -30,12 +30,13 @@ Folk, dance, jazz o música para animaciones y cortometrajes. Describe tu idea e
 <p align="center"><a href="mobile/README_ES.md"><img src="assets/ui/mobile-es.svg" height="40" alt="Versión móvil"></a></p>
 <!-- DEVICE-VIEW:END -->
 
-<a href="https://help.suno.com/en/articles/13924481"><img src="assets/creator-guide-cover.png" width="960" alt="Collage de piano, jazz, guitarra acústica, dance y animación: describe, crea, mejora. Abre las preguntas frecuentes oficiales de Suno v6."></a>
+<a href="https://help.suno.com/en/articles/13924481"><img src="assets/creator-guide-cover.jpg" width="960" alt="Collage de piano, jazz, guitarra acústica, dance y animación: describe, crea, mejora. Abre las preguntas frecuentes oficiales de Suno v6."></a>
 
 <p><a href="#official"><img src="assets/ui/official-es.svg" height="32" alt="Guía oficial"></a> <a href="#examples"><img src="assets/ui/cases-es.svg" height="32" alt="Ejemplos en X"></a> <a href="#briefs"><img src="assets/ui/briefs-es.svg" height="32" alt="Elige una idea"></a></p>
+<p align="center"><a href="#start"><strong>▶ Crea tu primera canción</strong></a> · <a href="docs/troubleshooting.md">Resuelve problemas · Inglés</a></p>
 </div>
 
-Introducción en español. Las guías detalladas y los ejercicios están en inglés. Guía independiente de MusicMaker.
+[MusicMaker](https://github.com/aimusicmaker) publica y mantiene esta guía y opera las herramientas MusicMaker que se presentan aquí. Los tutoriales y ejercicios detallados están en inglés. [Publicación y edición · Inglés](docs/editorial-policy.md).
 
 <a id="official"></a>
 ## Qué puedes hacer con Suno v6
@@ -47,6 +48,8 @@ Empieza con una idea, una foto, un vídeo o un tarareo. Usa Simple para describi
 v6-mini está disponible en todos los planes; v6 y v6-wild requieren Pro / Premier. Las instrucciones no garantizan una duración exacta ni la conservación de una melodía. Escucha y revisa el resultado.
 
 [Guía oficial ↗](https://help.suno.com/en/articles/13924481) · [Suno v6 ↗](https://help.suno.com/en/articles/13924801)
+
+<sub>Información de modelos verificada el 2026-09-23.</sub>
 
 <a id="examples"></a>
 ## Ejemplos oficiales de prompts en X
@@ -72,7 +75,7 @@ Elige una dirección entre nueve casos de la comunidad en X. Pulsa una imagen pa
 
 <table width="100%">
 <tr>
-<td width="33%" align="center" valign="top"><a href="https://x.com/maxescu/status/2049444543360336167"><img src="https://pbs.twimg.com/amplify_video_thumb/2049444325596286976/img/lqCxWmk86QgVYb-a.jpg" width="1200" alt="Tech house con un prompt breve — @maxescu — Imagen de la fuente; abrir el post original en X"></a><br><b>Tech house con un prompt breve</b><br><sub><a href="https://x.com/maxescu/status/2049444543360336167">@maxescu</a> · 2026-04-29</sub><br><sub>Prompt musical publicado</sub><br><a href="https://x.com/maxescu/status/2049444543360336167">▶ Ver en X</a> · <a href="docs/x-community-examples.md#case-2049444543360336167">Notas · inglés →</a></td>
+<td width="33%" align="center" valign="top"><a href="https://x.com/maxescu/status/2049444543360336167"><img src="https://pbs.twimg.com/amplify_video_thumb/2049444325596286976/img/lqCxWmk86QgVYb-a.jpg" width="1200" alt="Tech house: prompt breve y modelo personalizado — @maxescu — Imagen de la fuente; abrir el post original en X"></a><br><b>Tech house: prompt breve y modelo personalizado</b><br><sub><a href="https://x.com/maxescu/status/2049444543360336167">@maxescu</a> · 2026-04-29</sub><br><sub>Prompt musical publicado</sub><br><a href="https://x.com/maxescu/status/2049444543360336167">▶ Ver en X</a> · <a href="docs/x-community-examples.md#case-2049444543360336167">Notas · inglés →</a></td>
 <td width="33%" align="center" valign="top"><a href="https://x.com/KiwiJazzTutor/status/2069599574000586959"><img src="https://pbs.twimg.com/amplify_video_thumb/2069594596422672384/img/F5ujZhXCu71zlQcd.jpg" width="1200" alt="Piano y jazz latino — @KiwiJazzTutor — Imagen de la fuente; abrir el post original en X"></a><br><b>Piano y jazz latino</b><br><sub><a href="https://x.com/KiwiJazzTutor/status/2069599574000586959">@KiwiJazzTutor</a> · 2026-06-24</sub><br><sub>Proceso / obra terminada</sub><br><a href="https://x.com/KiwiJazzTutor/status/2069599574000586959">▶ Ver en X</a> · <a href="docs/x-community-examples.md#case-2069599574000586959">Notas · inglés →</a></td>
 <td width="33%" align="center" valign="top"><a href="https://x.com/Framer_X/status/2093001366922744183"><img src="https://pbs.twimg.com/amplify_video_thumb/2092980107551858688/img/anFYID4N5V4X_n1y.jpg" width="1200" alt="Anima una canción — @Framer_X — Imagen de la fuente; abrir el post original en X"></a><br><b>Anima una canción</b><br><sub><a href="https://x.com/Framer_X/status/2093001366922744183">@Framer_X</a> · 2026-08-27</sub><br><sub>Proceso / obra terminada</sub><br><a href="https://x.com/Framer_X/status/2093001366922744183">▶ Ver en X</a> · <a href="docs/x-community-examples.md#case-2093001366922744183">Notas · inglés →</a></td>
 </tr>
@@ -89,6 +92,7 @@ Elige una dirección entre nueve casos de la comunidad en X. Pulsa una imagen pa
 </table>
 <!-- COMMUNITY-CASES:END -->
 
+<a id="start"></a>
 ## Crea tu primera canción
 
 **[Suno · Crear canción ↗](https://suno.com/create)** · **[MusicMaker · Crear canción ↗](https://musicmaker.im/ai-song-generator/)**

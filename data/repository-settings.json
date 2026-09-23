@@ -1,0 +1,6 @@
+{
+  "description": "A visual Suno music-making guide with prompts, creator examples, step-by-step workflows, and troubleshooting. Maintained by MusicMaker.",
+  "homepage": "https://musicmaker.im/",
+  "topics": ["suno", "ai-music", "music-production", "songwriting", "music-prompts", "musicmaker"],
+  "social_preview": "assets/social-preview.jpg"
+}

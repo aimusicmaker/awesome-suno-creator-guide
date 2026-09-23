@@ -1,0 +1,10 @@
+Use case: ads-marketing
+Asset type: GitHub repository social sharing preview, exactly 1280 by 640 pixels, 2:1 landscape.
+Primary request: Recompose the attached Suno Creator Guide cover into a concise highly legible social preview, preserving its editorial torn-paper collage art direction, ivory charcoal burnt orange muted teal palette, and piano, Latin-jazz percussion, acoustic guitar, dancer and animation motifs. This is an independent guide published by MusicMaker.
+Composition: Large SUNO CREATOR GUIDE title on the left. Rich cohesive music collage on the right. Plenty of safe margins. Fewer small decorative details so it is recognizable at small preview size. Bottom left small but legible publisher line.
+Text exactly and only:
+"SUNO"
+"CREATOR GUIDE"
+"Prompts • Examples • Tutorials"
+"by MusicMaker"
+Do not include the three-step line or previous tagline. No fake product screenshot. No official Suno logo or endorsement badge. Use solid background, no transparency. Keep all typography correct, strong and legible.

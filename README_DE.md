@@ -1,6 +1,6 @@
 <div align="center">
 
-# Leitfaden für Musik mit Suno
+# Musik mit Suno erstellen: Prompts, Beispiele und Anleitungen
 
 **Eine Idee, viele Klänge.**
 
@@ -30,12 +30,13 @@ Folk, Dance, Jazz oder Musik für Animationen und Kurzfilme. Beschreibe deine Id
 <p align="center"><a href="mobile/README_DE.md"><img src="assets/ui/mobile-de.svg" height="40" alt="Mobile Ansicht"></a></p>
 <!-- DEVICE-VIEW:END -->
 
-<a href="https://help.suno.com/en/articles/13924481"><img src="assets/creator-guide-cover.png" width="960" alt="Collage aus Klavier, Jazz, Akustikgitarre, Dance und Animation: beschreiben, erstellen, verfeinern. Offizielle Suno-v6-FAQ öffnen."></a>
+<a href="https://help.suno.com/en/articles/13924481"><img src="assets/creator-guide-cover.jpg" width="960" alt="Collage aus Klavier, Jazz, Akustikgitarre, Dance und Animation: beschreiben, erstellen, verfeinern. Offizielle Suno-v6-FAQ öffnen."></a>
 
 <p><a href="#official"><img src="assets/ui/official-de.svg" height="32" alt="Offizielle Hilfe"></a> <a href="#examples"><img src="assets/ui/cases-de.svg" height="32" alt="Beispiele auf X"></a> <a href="#briefs"><img src="assets/ui/briefs-de.svg" height="32" alt="Idee auswählen"></a></p>
+<p align="center"><a href="#start"><strong>▶ Deinen ersten Song erstellen</strong></a> · <a href="docs/troubleshooting.md">Probleme lösen · Englisch</a></p>
 </div>
 
-Deutschsprachiger Einstieg. Ausführliche Anleitungen und Übungen sind auf Englisch. Ein unabhängiger Leitfaden von MusicMaker.
+[MusicMaker](https://github.com/aimusicmaker) veröffentlicht und pflegt diesen Leitfaden und betreibt die hier vorgestellten MusicMaker-Werkzeuge. Ausführliche Anleitungen und Übungen sind auf Englisch. [Herausgeber und Redaktion · Englisch](docs/editorial-policy.md).
 
 <a id="official"></a>
 ## Was kann Suno v6?
@@ -47,6 +48,8 @@ Beginne mit einer Idee, einem Foto, Video oder einer gesummten Melodie. Simple n
 v6-mini ist in allen Tarifen verfügbar; v6 und v6-wild benötigen Pro / Premier. Exakte Dauer und unveränderte Melodien sind nicht garantiert. Höre dir jedes Ergebnis an.
 
 [Offizielle Hilfe ↗](https://help.suno.com/en/articles/13924481) · [Suno v6 ↗](https://help.suno.com/en/articles/13924801)
+
+<sub>Modellinformationen geprüft am 2026-09-23.</sub>
 
 <a id="examples"></a>
 ## Offizielle Prompt-Beispiele auf X
@@ -72,7 +75,7 @@ Wähle eine Richtung aus neun Beispielen der X-Community. Klicke auf ein Bild, u
 
 <table width="100%">
 <tr>
-<td width="33%" align="center" valign="top"><a href="https://x.com/maxescu/status/2049444543360336167"><img src="https://pbs.twimg.com/amplify_video_thumb/2049444325596286976/img/lqCxWmk86QgVYb-a.jpg" width="1200" alt="Tech House mit kurzem Prompt — @maxescu — Quellbild; Originalbeitrag auf X öffnen"></a><br><b>Tech House mit kurzem Prompt</b><br><sub><a href="https://x.com/maxescu/status/2049444543360336167">@maxescu</a> · 2026-04-29</sub><br><sub>Musik-Prompt veröffentlicht</sub><br><a href="https://x.com/maxescu/status/2049444543360336167">▶ Auf X ansehen</a> · <a href="docs/x-community-examples.md#case-2049444543360336167">Erläuterungen · Englisch →</a></td>
+<td width="33%" align="center" valign="top"><a href="https://x.com/maxescu/status/2049444543360336167"><img src="https://pbs.twimg.com/amplify_video_thumb/2049444325596286976/img/lqCxWmk86QgVYb-a.jpg" width="1200" alt="Tech House: kurzer Prompt und eigenes Modell — @maxescu — Quellbild; Originalbeitrag auf X öffnen"></a><br><b>Tech House: kurzer Prompt und eigenes Modell</b><br><sub><a href="https://x.com/maxescu/status/2049444543360336167">@maxescu</a> · 2026-04-29</sub><br><sub>Musik-Prompt veröffentlicht</sub><br><a href="https://x.com/maxescu/status/2049444543360336167">▶ Auf X ansehen</a> · <a href="docs/x-community-examples.md#case-2049444543360336167">Erläuterungen · Englisch →</a></td>
 <td width="33%" align="center" valign="top"><a href="https://x.com/KiwiJazzTutor/status/2069599574000586959"><img src="https://pbs.twimg.com/amplify_video_thumb/2069594596422672384/img/F5ujZhXCu71zlQcd.jpg" width="1200" alt="Klavier und Latin Jazz — @KiwiJazzTutor — Quellbild; Originalbeitrag auf X öffnen"></a><br><b>Klavier und Latin Jazz</b><br><sub><a href="https://x.com/KiwiJazzTutor/status/2069599574000586959">@KiwiJazzTutor</a> · 2026-06-24</sub><br><sub>Arbeitsweise / fertiges Werk</sub><br><a href="https://x.com/KiwiJazzTutor/status/2069599574000586959">▶ Auf X ansehen</a> · <a href="docs/x-community-examples.md#case-2069599574000586959">Erläuterungen · Englisch →</a></td>
 <td width="33%" align="center" valign="top"><a href="https://x.com/Framer_X/status/2093001366922744183"><img src="https://pbs.twimg.com/amplify_video_thumb/2092980107551858688/img/anFYID4N5V4X_n1y.jpg" width="1200" alt="Ein Lied animieren — @Framer_X — Quellbild; Originalbeitrag auf X öffnen"></a><br><b>Ein Lied animieren</b><br><sub><a href="https://x.com/Framer_X/status/2093001366922744183">@Framer_X</a> · 2026-08-27</sub><br><sub>Arbeitsweise / fertiges Werk</sub><br><a href="https://x.com/Framer_X/status/2093001366922744183">▶ Auf X ansehen</a> · <a href="docs/x-community-examples.md#case-2093001366922744183">Erläuterungen · Englisch →</a></td>
 </tr>
@@ -89,6 +92,7 @@ Wähle eine Richtung aus neun Beispielen der X-Community. Klicke auf ein Bild, u
 </table>
 <!-- COMMUNITY-CASES:END -->
 
+<a id="start"></a>
 ## Dein erstes Stück erstellen
 
 **[Suno · Song erstellen ↗](https://suno.com/create)** · **[MusicMaker · Song erstellen ↗](https://musicmaker.im/ai-song-generator/)**

@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hướng dẫn sáng tác nhạc với Suno
+# Hướng dẫn tạo nhạc với Suno: câu lệnh, ví dụ và bài hướng dẫn
 
 **Một ý tưởng, nhiều sắc thái âm nhạc.**
 
@@ -30,12 +30,13 @@ Folk, nhạc dance, jazz hay nhạc nền cho hoạt hình và phim ngắn. Mô 
 <p align="center"><a href="mobile/README_VI.md"><img src="assets/ui/mobile-vi.svg" height="40" alt="Bản di động"></a></p>
 <!-- DEVICE-VIEW:END -->
 
-<a href="https://help.suno.com/en/articles/13924481"><img src="assets/creator-guide-cover.png" width="960" alt="Ảnh ghép piano, jazz, guitar acoustic, nhạc dance và hoạt hình: mô tả, tạo nhạc, chỉnh sửa. Mở FAQ chính thức của Suno v6."></a>
+<a href="https://help.suno.com/en/articles/13924481"><img src="assets/creator-guide-cover.jpg" width="960" alt="Ảnh ghép piano, jazz, guitar acoustic, nhạc dance và hoạt hình: mô tả, tạo nhạc, chỉnh sửa. Mở FAQ chính thức của Suno v6."></a>
 
 <p><a href="#official"><img src="assets/ui/official-vi.svg" height="32" alt="Hướng dẫn chính thức"></a> <a href="#examples"><img src="assets/ui/cases-vi.svg" height="32" alt="Ví dụ trên X"></a> <a href="#briefs"><img src="assets/ui/briefs-vi.svg" height="32" alt="Chọn ý tưởng"></a></p>
+<p align="center"><a href="#start"><strong>▶ Tạo bài hát đầu tiên</strong></a> · <a href="docs/troubleshooting.md">Khắc phục lỗi · Tiếng Anh</a></p>
 </div>
 
-Hướng dẫn nhập môn bằng tiếng Việt. Tài liệu chi tiết và bài tập bằng tiếng Anh. Đây là hướng dẫn độc lập của MusicMaker.
+[MusicMaker](https://github.com/aimusicmaker) xuất bản và duy trì hướng dẫn này, đồng thời vận hành các công cụ MusicMaker được giới thiệu. Các bài hướng dẫn và bài tập chi tiết bằng tiếng Anh. [Đơn vị xuất bản và biên tập · Tiếng Anh](docs/editorial-policy.md).
 
 <a id="official"></a>
 ## Suno v6 có thể làm gì?
@@ -47,6 +48,8 @@ Bắt đầu từ ý tưởng, ảnh, video hoặc giai điệu ngân nga. Dùng
 v6-mini có trên mọi gói; v6 và v6-wild yêu cầu Pro / Premier. Không bảo đảm thời lượng chính xác hay giữ nguyên giai điệu. Hãy nghe và kiểm tra kết quả.
 
 [Hướng dẫn chính thức ↗](https://help.suno.com/en/articles/13924481) · [Suno v6 ↗](https://help.suno.com/en/articles/13924801)
+
+<sub>Thông tin mô hình được kiểm tra ngày 2026-09-23.</sub>
 
 <a id="examples"></a>
 ## Ví dụ câu lệnh chính thức trên X
@@ -72,7 +75,7 @@ Chọn hướng đi từ chín ví dụ cộng đồng trên X. Nhấn ảnh đ�
 
 <table width="100%">
 <tr>
-<td width="33%" align="center" valign="top"><a href="https://x.com/maxescu/status/2049444543360336167"><img src="https://pbs.twimg.com/amplify_video_thumb/2049444325596286976/img/lqCxWmk86QgVYb-a.jpg" width="1200" alt="Tech house từ prompt ngắn — @maxescu — Ảnh từ nguồn; mở bài gốc trên X"></a><br><b>Tech house từ prompt ngắn</b><br><sub><a href="https://x.com/maxescu/status/2049444543360336167">@maxescu</a> · 2026-04-29</sub><br><sub>Prompt âm nhạc đã công bố</sub><br><a href="https://x.com/maxescu/status/2049444543360336167">▶ Xem trên X</a> · <a href="docs/x-community-examples.md#case-2049444543360336167">Ghi chú · tiếng Anh →</a></td>
+<td width="33%" align="center" valign="top"><a href="https://x.com/maxescu/status/2049444543360336167"><img src="https://pbs.twimg.com/amplify_video_thumb/2049444325596286976/img/lqCxWmk86QgVYb-a.jpg" width="1200" alt="Tech house: câu lệnh ngắn và mô hình tùy chỉnh — @maxescu — Ảnh từ nguồn; mở bài gốc trên X"></a><br><b>Tech house: câu lệnh ngắn và mô hình tùy chỉnh</b><br><sub><a href="https://x.com/maxescu/status/2049444543360336167">@maxescu</a> · 2026-04-29</sub><br><sub>Prompt âm nhạc đã công bố</sub><br><a href="https://x.com/maxescu/status/2049444543360336167">▶ Xem trên X</a> · <a href="docs/x-community-examples.md#case-2049444543360336167">Ghi chú · tiếng Anh →</a></td>
 <td width="33%" align="center" valign="top"><a href="https://x.com/KiwiJazzTutor/status/2069599574000586959"><img src="https://pbs.twimg.com/amplify_video_thumb/2069594596422672384/img/F5ujZhXCu71zlQcd.jpg" width="1200" alt="Piano và jazz Latin — @KiwiJazzTutor — Ảnh từ nguồn; mở bài gốc trên X"></a><br><b>Piano và jazz Latin</b><br><sub><a href="https://x.com/KiwiJazzTutor/status/2069599574000586959">@KiwiJazzTutor</a> · 2026-06-24</sub><br><sub>Quy trình / tác phẩm hoàn chỉnh</sub><br><a href="https://x.com/KiwiJazzTutor/status/2069599574000586959">▶ Xem trên X</a> · <a href="docs/x-community-examples.md#case-2069599574000586959">Ghi chú · tiếng Anh →</a></td>
 <td width="33%" align="center" valign="top"><a href="https://x.com/Framer_X/status/2093001366922744183"><img src="https://pbs.twimg.com/amplify_video_thumb/2092980107551858688/img/anFYID4N5V4X_n1y.jpg" width="1200" alt="Làm hoạt hình cho bài hát — @Framer_X — Ảnh từ nguồn; mở bài gốc trên X"></a><br><b>Làm hoạt hình cho bài hát</b><br><sub><a href="https://x.com/Framer_X/status/2093001366922744183">@Framer_X</a> · 2026-08-27</sub><br><sub>Quy trình / tác phẩm hoàn chỉnh</sub><br><a href="https://x.com/Framer_X/status/2093001366922744183">▶ Xem trên X</a> · <a href="docs/x-community-examples.md#case-2093001366922744183">Ghi chú · tiếng Anh →</a></td>
 </tr>
@@ -89,6 +92,7 @@ Chọn hướng đi từ chín ví dụ cộng đồng trên X. Nhấn ảnh đ�
 </table>
 <!-- COMMUNITY-CASES:END -->
 
+<a id="start"></a>
 ## Tạo bài hát đầu tiên
 
 **[Suno · Tạo bài hát ↗](https://suno.com/create)** · **[MusicMaker · Tạo bài hát ↗](https://musicmaker.im/ai-song-generator/)**

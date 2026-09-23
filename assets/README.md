@@ -3,6 +3,8 @@
 [← Home](../README.md) · [Sources](../docs/sources.md)
 
 - **creator-guide-cover.png:** original editorial collage generated with the built-in image generation tool for this repository on September 23, 2026. Piano, Latin jazz, acoustic guitar, dance and animation connect the cover to the community examples; the three-step caption introduces the creative workflow. [Generation prompt](creator-guide-cover.prompt.txt). Included under the repository's existing MIT license to the extent applicable.
+- **creator-guide-cover.jpg:** compressed display copy of the original PNG, preserving its full 2172 × 724 composition. The PNG remains available as the source artwork.
+- **social-preview.jpg:** original AI-generated sharing-card adaptation, 1280 × 640, with MusicMaker publisher attribution. Generated with the built-in image tool from the cover reference, then resized and JPEG-encoded for GitHub’s file limit. [Generation prompt](social-preview.prompt.txt). The same artwork license applies. This file must be uploaded separately in repository Social preview settings.
 - **MusicMaker track covers:** referenced from the brand's public CDN, with links back to the corresponding tracks. They remain brand/source media; the repository's MIT license does not relicense them.
 - **MusicMaker audio and community songs:** linked for listening, not bundled or relicensed. Public playback is not permission to sample, redistribute, train on, or commercially reuse a recording.
 - **Recipe lyrics:** newly written short song sketches included with the repository text. They are not transcriptions of the linked tracks.

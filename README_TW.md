@@ -1,6 +1,6 @@
 <div align="center">
 
-# Suno 音樂創作指南
+# Suno 音樂創作指南：提示詞、案例與入門教學
 
 **一句想法，做出不同風格的音樂。**
 
@@ -30,12 +30,13 @@
 <p align="center"><a href="mobile/README_TW.md"><img src="assets/ui/mobile-tw.svg" height="40" alt="手機版首頁"></a></p>
 <!-- DEVICE-VIEW:END -->
 
-<a href="https://help.suno.com/en/articles/13924481"><img src="assets/creator-guide-cover.png" width="960" alt="鋼琴、爵士、吉他、舞曲與動畫拼貼：描述想法、生成、調整。點擊查看 Suno 官方 v6 常見問題。"></a>
+<a href="https://help.suno.com/en/articles/13924481"><img src="assets/creator-guide-cover.jpg" width="960" alt="鋼琴、爵士、吉他、舞曲與動畫拼貼：描述想法、生成、調整。點擊查看 Suno 官方 v6 常見問題。"></a>
 
 <p><a href="#official"><img src="assets/ui/official-tw.svg" height="32" alt="官方說明"></a> <a href="#examples"><img src="assets/ui/cases-tw.svg" height="32" alt="X 案例"></a> <a href="#briefs"><img src="assets/ui/briefs-tw.svg" height="32" alt="選創作提案"></a></p>
+<p align="center"><a href="#start"><strong>▶ 開始第一首歌</strong></a> · <a href="docs/troubleshooting.md">解決生成問題 · 英文</a></p>
 </div>
 
-本頁提供繁體中文入門說明；詳細指南與練習頁為英文。這是 MusicMaker 提供的獨立創作指南。
+[MusicMaker](https://github.com/aimusicmaker) 發布和維護本指南，並營運文中介紹的 MusicMaker 工具。詳細教學與練習說明為英文。 [維護與編輯方法 · 英文](docs/editorial-policy.md)。
 
 <a id="official"></a>
 ## Suno v6 能做什麼？
@@ -47,6 +48,8 @@
 v6-mini 適用所有方案；v6 與 v6-wild 需要 Pro / Premier。提示詞不保證精確秒數，也不保證每次保留相同旋律，生成後仍須試聽檢查。
 
 [官方說明 ↗](https://help.suno.com/en/articles/13924481) · [Suno v6 ↗](https://help.suno.com/en/articles/13924801)
+
+<sub>模型資訊核對於 2026-09-23。</sub>
 
 <a id="examples"></a>
 ## X 上的官方提示詞案例
@@ -72,7 +75,7 @@ v6-mini 適用所有方案；v6 與 v6-wild 需要 Pro / Premier。提示詞不�
 
 <table width="100%">
 <tr>
-<td width="33%" align="center" valign="top"><a href="https://x.com/maxescu/status/2049444543360336167"><img src="https://pbs.twimg.com/amplify_video_thumb/2049444325596286976/img/lqCxWmk86QgVYb-a.jpg" width="1200" alt="用短提示詞做 Tech house — @maxescu — 原帖相關素材預覽；點擊開啟創作者的 X 原帖"></a><br><b>用短提示詞做 Tech house</b><br><sub><a href="https://x.com/maxescu/status/2049444543360336167">@maxescu</a> · 2026-04-29</sub><br><sub>公開音樂提示詞</sub><br><a href="https://x.com/maxescu/status/2049444543360336167">▶ 看 X 原帖</a> · <a href="docs/x-community-examples.md#case-2049444543360336167">案例筆記 · 英文 →</a></td>
+<td width="33%" align="center" valign="top"><a href="https://x.com/maxescu/status/2049444543360336167"><img src="https://pbs.twimg.com/amplify_video_thumb/2049444325596286976/img/lqCxWmk86QgVYb-a.jpg" width="1200" alt="Tech house：短提示詞與自訂模型 — @maxescu — 原帖相關素材預覽；點擊開啟創作者的 X 原帖"></a><br><b>Tech house：短提示詞與自訂模型</b><br><sub><a href="https://x.com/maxescu/status/2049444543360336167">@maxescu</a> · 2026-04-29</sub><br><sub>公開音樂提示詞</sub><br><a href="https://x.com/maxescu/status/2049444543360336167">▶ 看 X 原帖</a> · <a href="docs/x-community-examples.md#case-2049444543360336167">案例筆記 · 英文 →</a></td>
 <td width="33%" align="center" valign="top"><a href="https://x.com/KiwiJazzTutor/status/2069599574000586959"><img src="https://pbs.twimg.com/amplify_video_thumb/2069594596422672384/img/F5ujZhXCu71zlQcd.jpg" width="1200" alt="把鋼琴接進拉丁爵士 — @KiwiJazzTutor — 原帖相關素材預覽；點擊開啟創作者的 X 原帖"></a><br><b>把鋼琴接進拉丁爵士</b><br><sub><a href="https://x.com/KiwiJazzTutor/status/2069599574000586959">@KiwiJazzTutor</a> · 2026-06-24</sub><br><sub>流程 / 成品案例</sub><br><a href="https://x.com/KiwiJazzTutor/status/2069599574000586959">▶ 看 X 原帖</a> · <a href="docs/x-community-examples.md#case-2069599574000586959">案例筆記 · 英文 →</a></td>
 <td width="33%" align="center" valign="top"><a href="https://x.com/Framer_X/status/2093001366922744183"><img src="https://pbs.twimg.com/amplify_video_thumb/2092980107551858688/img/anFYID4N5V4X_n1y.jpg" width="1200" alt="為歌曲製作動畫短片 — @Framer_X — 原帖相關素材預覽；點擊開啟創作者的 X 原帖"></a><br><b>為歌曲製作動畫短片</b><br><sub><a href="https://x.com/Framer_X/status/2093001366922744183">@Framer_X</a> · 2026-08-27</sub><br><sub>流程 / 成品案例</sub><br><a href="https://x.com/Framer_X/status/2093001366922744183">▶ 看 X 原帖</a> · <a href="docs/x-community-examples.md#case-2093001366922744183">案例筆記 · 英文 →</a></td>
 </tr>
@@ -89,6 +92,7 @@ v6-mini 適用所有方案；v6 與 v6-wild 需要 Pro / Premier。提示詞不�
 </table>
 <!-- COMMUNITY-CASES:END -->
 
+<a id="start"></a>
 ## 開始第一首歌
 
 **[Suno · 創作歌曲 ↗](https://suno.com/create)** · **[MusicMaker · 創作歌曲 ↗](https://musicmaker.im/ai-song-generator/)**

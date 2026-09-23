@@ -1,6 +1,6 @@
 <div align="center">
 
-# Panduan Membuat Musik dengan Suno
+# Panduan Membuat Musik dengan Suno: Prompt, Contoh & Tutorial
 
 **Satu ide, beragam musik.**
 
@@ -30,12 +30,13 @@ Folk, dance, jazz, atau musik untuk animasi dan film pendek. Jelaskan ide Anda d
 <p align="center"><a href="mobile/README_ID.md"><img src="assets/ui/mobile-id.svg" height="40" alt="Versi seluler"></a></p>
 <!-- DEVICE-VIEW:END -->
 
-<a href="https://help.suno.com/en/articles/13924481"><img src="assets/creator-guide-cover.png" width="960" alt="Kolase piano, jazz, gitar akustik, dance, dan animasi: jelaskan, buat, sempurnakan. Buka FAQ v6 resmi Suno."></a>
+<a href="https://help.suno.com/en/articles/13924481"><img src="assets/creator-guide-cover.jpg" width="960" alt="Kolase piano, jazz, gitar akustik, dance, dan animasi: jelaskan, buat, sempurnakan. Buka FAQ v6 resmi Suno."></a>
 
 <p><a href="#official"><img src="assets/ui/official-id.svg" height="32" alt="Panduan resmi"></a> <a href="#examples"><img src="assets/ui/cases-id.svg" height="32" alt="Contoh di X"></a> <a href="#briefs"><img src="assets/ui/briefs-id.svg" height="32" alt="Pilih ide"></a></p>
+<p align="center"><a href="#start"><strong>▶ Buat lagu pertama</strong></a> · <a href="docs/troubleshooting.md">Atasi masalah hasil · Inggris</a></p>
 </div>
 
-Panduan awal dalam bahasa Indonesia. Panduan terperinci dan latihan tersedia dalam bahasa Inggris. Panduan independen dari MusicMaker.
+Panduan ini diterbitkan dan dikelola oleh [MusicMaker](https://github.com/aimusicmaker), yang juga mengoperasikan alat MusicMaker yang diperkenalkan di sini. Tutorial dan latihan terperinci tersedia dalam bahasa Inggris. [Penerbit dan metode penyuntingan · Inggris](docs/editorial-policy.md).
 
 <a id="official"></a>
 ## Apa yang bisa dilakukan Suno v6?
@@ -47,6 +48,8 @@ Mulai dari ide, foto, video, atau senandung. Gunakan Simple untuk menjelaskan id
 v6-mini tersedia di semua paket; v6 dan v6-wild memerlukan Pro / Premier. Durasi tepat dan melodi yang tetap sama tidak dijamin. Dengarkan dan periksa hasilnya.
 
 [Panduan resmi ↗](https://help.suno.com/en/articles/13924481) · [Suno v6 ↗](https://help.suno.com/en/articles/13924801)
+
+<sub>Informasi model diperiksa 2026-09-23.</sub>
 
 <a id="examples"></a>
 ## Contoh prompt resmi di X
@@ -72,7 +75,7 @@ Pilih arah dari sembilan contoh komunitas di X. Klik gambar untuk melihat unggah
 
 <table width="100%">
 <tr>
-<td width="33%" align="center" valign="top"><a href="https://x.com/maxescu/status/2049444543360336167"><img src="https://pbs.twimg.com/amplify_video_thumb/2049444325596286976/img/lqCxWmk86QgVYb-a.jpg" width="1200" alt="Tech house dari prompt singkat — @maxescu — Gambar sumber; buka unggahan asli di X"></a><br><b>Tech house dari prompt singkat</b><br><sub><a href="https://x.com/maxescu/status/2049444543360336167">@maxescu</a> · 2026-04-29</sub><br><sub>Prompt musik tersedia</sub><br><a href="https://x.com/maxescu/status/2049444543360336167">▶ Lihat di X</a> · <a href="docs/x-community-examples.md#case-2049444543360336167">Catatan · Inggris →</a></td>
+<td width="33%" align="center" valign="top"><a href="https://x.com/maxescu/status/2049444543360336167"><img src="https://pbs.twimg.com/amplify_video_thumb/2049444325596286976/img/lqCxWmk86QgVYb-a.jpg" width="1200" alt="Tech house: prompt singkat + model khusus — @maxescu — Gambar sumber; buka unggahan asli di X"></a><br><b>Tech house: prompt singkat + model khusus</b><br><sub><a href="https://x.com/maxescu/status/2049444543360336167">@maxescu</a> · 2026-04-29</sub><br><sub>Prompt musik tersedia</sub><br><a href="https://x.com/maxescu/status/2049444543360336167">▶ Lihat di X</a> · <a href="docs/x-community-examples.md#case-2049444543360336167">Catatan · Inggris →</a></td>
 <td width="33%" align="center" valign="top"><a href="https://x.com/KiwiJazzTutor/status/2069599574000586959"><img src="https://pbs.twimg.com/amplify_video_thumb/2069594596422672384/img/F5ujZhXCu71zlQcd.jpg" width="1200" alt="Piano dan jazz Latin — @KiwiJazzTutor — Gambar sumber; buka unggahan asli di X"></a><br><b>Piano dan jazz Latin</b><br><sub><a href="https://x.com/KiwiJazzTutor/status/2069599574000586959">@KiwiJazzTutor</a> · 2026-06-24</sub><br><sub>Proses / karya selesai</sub><br><a href="https://x.com/KiwiJazzTutor/status/2069599574000586959">▶ Lihat di X</a> · <a href="docs/x-community-examples.md#case-2069599574000586959">Catatan · Inggris →</a></td>
 <td width="33%" align="center" valign="top"><a href="https://x.com/Framer_X/status/2093001366922744183"><img src="https://pbs.twimg.com/amplify_video_thumb/2092980107551858688/img/anFYID4N5V4X_n1y.jpg" width="1200" alt="Buat animasi untuk lagu — @Framer_X — Gambar sumber; buka unggahan asli di X"></a><br><b>Buat animasi untuk lagu</b><br><sub><a href="https://x.com/Framer_X/status/2093001366922744183">@Framer_X</a> · 2026-08-27</sub><br><sub>Proses / karya selesai</sub><br><a href="https://x.com/Framer_X/status/2093001366922744183">▶ Lihat di X</a> · <a href="docs/x-community-examples.md#case-2093001366922744183">Catatan · Inggris →</a></td>
 </tr>
@@ -89,6 +92,7 @@ Pilih arah dari sembilan contoh komunitas di X. Klik gambar untuk melihat unggah
 </table>
 <!-- COMMUNITY-CASES:END -->
 
+<a id="start"></a>
 ## Buat lagu pertama Anda
 
 **[Suno · Buat lagu ↗](https://suno.com/create)** · **[MusicMaker · Buat lagu ↗](https://musicmaker.im/ai-song-generator/)**

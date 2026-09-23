@@ -1,6 +1,6 @@
 <div align="center">
 
-# คู่มือสร้างเพลงด้วย Suno
+# คู่มือทำเพลงด้วย Suno: พรอมป์ต์ ตัวอย่าง และวิธีเริ่มต้น
 
 **ไอเดียเดียว สร้างเพลงได้หลายแนว**
 
@@ -30,12 +30,13 @@
 <p align="center"><a href="mobile/README_TH.md"><img src="assets/ui/mobile-th.svg" height="40" alt="เวอร์ชันมือถือ"></a></p>
 <!-- DEVICE-VIEW:END -->
 
-<a href="https://help.suno.com/en/articles/13924481"><img src="assets/creator-guide-cover.png" width="960" alt="ภาพคอลลาจเปียโน แจ๊ส กีตาร์อะคูสติก แดนซ์ และแอนิเมชัน: บอกไอเดีย สร้างเพลง ปรับแต่ง เปิดคำถามที่พบบ่อยอย่างเป็นทางการของ Suno v6"></a>
+<a href="https://help.suno.com/en/articles/13924481"><img src="assets/creator-guide-cover.jpg" width="960" alt="ภาพคอลลาจเปียโน แจ๊ส กีตาร์อะคูสติก แดนซ์ และแอนิเมชัน: บอกไอเดีย สร้างเพลง ปรับแต่ง เปิดคำถามที่พบบ่อยอย่างเป็นทางการของ Suno v6"></a>
 
 <p><a href="#official"><img src="assets/ui/official-th.svg" height="32" alt="ข้อมูลทางการ"></a> <a href="#examples"><img src="assets/ui/cases-th.svg" height="32" alt="ตัวอย่างจาก X"></a> <a href="#briefs"><img src="assets/ui/briefs-th.svg" height="32" alt="เลือกแนวคิด"></a></p>
+<p align="center"><a href="#start"><strong>▶ สร้างเพลงแรก</strong></a> · <a href="docs/troubleshooting.md">แก้ปัญหาการสร้างเพลง · อังกฤษ</a></p>
 </div>
 
-หน้านี้เป็นคู่มือเริ่มต้นภาษาไทย ส่วนคู่มือฉบับละเอียดและแบบฝึกหัดเป็นภาษาอังกฤษ คู่มืออิสระจาก MusicMaker
+[MusicMaker](https://github.com/aimusicmaker) จัดทำและดูแลคู่มือนี้ รวมถึงให้บริการเครื่องมือ MusicMaker ที่แนะนำในคู่มือ บทสอนและแบบฝึกหัดฉบับละเอียดเป็นภาษาอังกฤษ [ผู้จัดทำและวิธีตรวจสอบ · อังกฤษ](docs/editorial-policy.md)
 
 <a id="official"></a>
 ## Suno v6 ทำอะไรได้บ้าง
@@ -47,6 +48,8 @@
 v6-mini ใช้ได้กับทุกแผน ส่วน v6 และ v6-wild ต้องใช้ Pro / Premier คำสั่งไม่ได้รับประกันความยาวที่ตรงเป๊ะหรือทำนองเดิมทุกครั้ง ควรฟังและตรวจสอบผลลัพธ์
 
 [ข้อมูลทางการ ↗](https://help.suno.com/en/articles/13924481) · [Suno v6 ↗](https://help.suno.com/en/articles/13924801)
+
+<sub>ตรวจสอบข้อมูลโมเดลเมื่อ 2026-09-23</sub>
 
 <a id="examples"></a>
 ## ตัวอย่างพรอมป์ต์ทางการบน X
@@ -72,7 +75,7 @@ v6-mini ใช้ได้กับทุกแผน ส่วน v6 และ 
 
 <table width="100%">
 <tr>
-<td width="33%" align="center" valign="top"><a href="https://x.com/maxescu/status/2049444543360336167"><img src="https://pbs.twimg.com/amplify_video_thumb/2049444325596286976/img/lqCxWmk86QgVYb-a.jpg" width="1200" alt="เทคเฮาส์จากพรอมป์ต์สั้น — @maxescu — ภาพจากแหล่งที่มา คลิกเพื่อเปิดโพสต์ต้นฉบับบน X"></a><br><b>เทคเฮาส์จากพรอมป์ต์สั้น</b><br><sub><a href="https://x.com/maxescu/status/2049444543360336167">@maxescu</a> · 2026-04-29</sub><br><sub>เผยแพร่พรอมป์ต์เพลง</sub><br><a href="https://x.com/maxescu/status/2049444543360336167">▶ ดูโพสต์บน X</a> · <a href="docs/x-community-examples.md#case-2049444543360336167">รายละเอียด · ภาษาอังกฤษ →</a></td>
+<td width="33%" align="center" valign="top"><a href="https://x.com/maxescu/status/2049444543360336167"><img src="https://pbs.twimg.com/amplify_video_thumb/2049444325596286976/img/lqCxWmk86QgVYb-a.jpg" width="1200" alt="Tech house: พรอมป์ต์สั้นและโมเดลที่ปรับแต่งเอง — @maxescu — ภาพจากแหล่งที่มา คลิกเพื่อเปิดโพสต์ต้นฉบับบน X"></a><br><b>Tech house: พรอมป์ต์สั้นและโมเดลที่ปรับแต่งเอง</b><br><sub><a href="https://x.com/maxescu/status/2049444543360336167">@maxescu</a> · 2026-04-29</sub><br><sub>เผยแพร่พรอมป์ต์เพลง</sub><br><a href="https://x.com/maxescu/status/2049444543360336167">▶ ดูโพสต์บน X</a> · <a href="docs/x-community-examples.md#case-2049444543360336167">รายละเอียด · ภาษาอังกฤษ →</a></td>
 <td width="33%" align="center" valign="top"><a href="https://x.com/KiwiJazzTutor/status/2069599574000586959"><img src="https://pbs.twimg.com/amplify_video_thumb/2069594596422672384/img/F5ujZhXCu71zlQcd.jpg" width="1200" alt="เปียโนกับลาตินแจ๊ส — @KiwiJazzTutor — ภาพจากแหล่งที่มา คลิกเพื่อเปิดโพสต์ต้นฉบับบน X"></a><br><b>เปียโนกับลาตินแจ๊ส</b><br><sub><a href="https://x.com/KiwiJazzTutor/status/2069599574000586959">@KiwiJazzTutor</a> · 2026-06-24</sub><br><sub>ขั้นตอน / ผลงานสำเร็จ</sub><br><a href="https://x.com/KiwiJazzTutor/status/2069599574000586959">▶ ดูโพสต์บน X</a> · <a href="docs/x-community-examples.md#case-2069599574000586959">รายละเอียด · ภาษาอังกฤษ →</a></td>
 <td width="33%" align="center" valign="top"><a href="https://x.com/Framer_X/status/2093001366922744183"><img src="https://pbs.twimg.com/amplify_video_thumb/2092980107551858688/img/anFYID4N5V4X_n1y.jpg" width="1200" alt="ทำแอนิเมชันให้เพลง — @Framer_X — ภาพจากแหล่งที่มา คลิกเพื่อเปิดโพสต์ต้นฉบับบน X"></a><br><b>ทำแอนิเมชันให้เพลง</b><br><sub><a href="https://x.com/Framer_X/status/2093001366922744183">@Framer_X</a> · 2026-08-27</sub><br><sub>ขั้นตอน / ผลงานสำเร็จ</sub><br><a href="https://x.com/Framer_X/status/2093001366922744183">▶ ดูโพสต์บน X</a> · <a href="docs/x-community-examples.md#case-2093001366922744183">รายละเอียด · ภาษาอังกฤษ →</a></td>
 </tr>
@@ -89,6 +92,7 @@ v6-mini ใช้ได้กับทุกแผน ส่วน v6 และ 
 </table>
 <!-- COMMUNITY-CASES:END -->
 
+<a id="start"></a>
 ## สร้างเพลงแรก
 
 **[Suno · สร้างเพลง ↗](https://suno.com/create)** · **[MusicMaker · สร้างเพลง ↗](https://musicmaker.im/ai-song-generator/)**

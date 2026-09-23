@@ -1,0 +1,51 @@
+name: Share a music creation case
+description: Share a reproducible result, useful failure or clearly marked practice idea.
+title: "[Case] "
+body:
+  - type: input
+    id: purpose
+    attributes:
+      label: What were you making?
+      description: State the use case and musical direction.
+    validations:
+      required: true
+  - type: dropdown
+    id: status
+    attributes:
+      label: What did you actually complete?
+      options:
+        - Generated and listened to the output
+        - Generated output, listening assessment pending
+        - Untested practice idea
+    validations:
+      required: true
+  - type: textarea
+    id: setup
+    attributes:
+      label: Tool, model, date and settings
+      description: Include instrumental mode, input audio, custom-model requirements and relevant plan conditions. Do not share private account details.
+    validations:
+      required: true
+  - type: textarea
+    id: inputs
+    attributes:
+      label: Exact Style and Lyrics inputs
+      description: Separate the fields. Credit sources and use original or licensed lyrics.
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Output, observations and one revision
+      description: Link a shareable output if available; record timestamps, what worked, what failed and the single change you tried. For an untested idea, say what remains to be tested.
+    validations:
+      required: true
+  - type: checkboxes
+    id: rights
+    attributes:
+      label: Permission and privacy
+      options:
+        - label: I have permission to share the submitted material and have credited its sources.
+          required: true
+        - label: I have removed private account details and collaborator information.
+          required: true

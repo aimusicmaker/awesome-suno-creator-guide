@@ -1,6 +1,6 @@
 <div align="center">
 
-# Suno 音楽制作ガイド
+# Suno 音楽制作ガイド：プロンプト・実例・入門
 
 **ひとつのアイデアから、いろいろな音楽へ。**
 
@@ -30,12 +30,13 @@
 <p align="center"><a href="mobile/README_JA.md"><img src="assets/ui/mobile-ja.svg" height="40" alt="モバイル版"></a></p>
 <!-- DEVICE-VIEW:END -->
 
-<a href="https://help.suno.com/en/articles/13924481"><img src="assets/creator-guide-cover.png" width="960" alt="ピアノ、ジャズ、ギター、ダンス、アニメのコラージュ。伝える、作る、磨く。Suno 公式 v6 FAQ を開く。"></a>
+<a href="https://help.suno.com/en/articles/13924481"><img src="assets/creator-guide-cover.jpg" width="960" alt="ピアノ、ジャズ、ギター、ダンス、アニメのコラージュ。伝える、作る、磨く。Suno 公式 v6 FAQ を開く。"></a>
 
 <p><a href="#official"><img src="assets/ui/official-ja.svg" height="32" alt="公式情報"></a> <a href="#examples"><img src="assets/ui/cases-ja.svg" height="32" alt="X の実例"></a> <a href="#briefs"><img src="assets/ui/briefs-ja.svg" height="32" alt="制作案を選ぶ"></a></p>
+<p align="center"><a href="#start"><strong>▶ 最初の曲を作る</strong></a> · <a href="docs/troubleshooting.md">生成の問題を解決する · 英語</a></p>
 </div>
 
-日本語の入門ページです。詳しい解説と練習ページは英語です。MusicMaker による独立制作ガイドです。
+このガイドは [MusicMaker](https://github.com/aimusicmaker) が公開・管理しています。紹介している MusicMaker のツールも同ブランドが運営しています。詳しい解説と練習ページは英語です。 [運営と編集方針 · 英語](docs/editorial-policy.md)。
 
 <a id="official"></a>
 ## Suno v6 でできること
@@ -47,6 +48,8 @@
 v6-mini は全プラン、v6 と v6-wild は Pro / Premier 向けです。指定した秒数や旋律が毎回そのまま再現される保証はありません。生成後に聴いて確認しましょう。
 
 [公式情報 ↗](https://help.suno.com/en/articles/13924481) · [Suno v6 ↗](https://help.suno.com/en/articles/13924801)
+
+<sub>モデル情報の確認日 2026-09-23。</sub>
 
 <a id="examples"></a>
 ## X の公式プロンプト例
@@ -72,7 +75,7 @@ X コミュニティの9つの事例から方向性を選べます。画像を�
 
 <table width="100%">
 <tr>
-<td width="33%" align="center" valign="top"><a href="https://x.com/maxescu/status/2049444543360336167"><img src="https://pbs.twimg.com/amplify_video_thumb/2049444325596286976/img/lqCxWmk86QgVYb-a.jpg" width="1200" alt="短い指示でテックハウス — @maxescu — 元投稿の関連画像。クリックして X の投稿を開く"></a><br><b>短い指示でテックハウス</b><br><sub><a href="https://x.com/maxescu/status/2049444543360336167">@maxescu</a> · 2026-04-29</sub><br><sub>公開音楽プロンプト</sub><br><a href="https://x.com/maxescu/status/2049444543360336167">▶ X の元投稿</a> · <a href="docs/x-community-examples.md#case-2049444543360336167">解説 · 英語 →</a></td>
+<td width="33%" align="center" valign="top"><a href="https://x.com/maxescu/status/2049444543360336167"><img src="https://pbs.twimg.com/amplify_video_thumb/2049444325596286976/img/lqCxWmk86QgVYb-a.jpg" width="1200" alt="Tech house：短いプロンプトとカスタムモデル — @maxescu — 元投稿の関連画像。クリックして X の投稿を開く"></a><br><b>Tech house：短いプロンプトとカスタムモデル</b><br><sub><a href="https://x.com/maxescu/status/2049444543360336167">@maxescu</a> · 2026-04-29</sub><br><sub>公開音楽プロンプト</sub><br><a href="https://x.com/maxescu/status/2049444543360336167">▶ X の元投稿</a> · <a href="docs/x-community-examples.md#case-2049444543360336167">解説 · 英語 →</a></td>
 <td width="33%" align="center" valign="top"><a href="https://x.com/KiwiJazzTutor/status/2069599574000586959"><img src="https://pbs.twimg.com/amplify_video_thumb/2069594596422672384/img/F5ujZhXCu71zlQcd.jpg" width="1200" alt="ピアノとラテンジャズ — @KiwiJazzTutor — 元投稿の関連画像。クリックして X の投稿を開く"></a><br><b>ピアノとラテンジャズ</b><br><sub><a href="https://x.com/KiwiJazzTutor/status/2069599574000586959">@KiwiJazzTutor</a> · 2026-06-24</sub><br><sub>制作過程 / 完成作品</sub><br><a href="https://x.com/KiwiJazzTutor/status/2069599574000586959">▶ X の元投稿</a> · <a href="docs/x-community-examples.md#case-2069599574000586959">解説 · 英語 →</a></td>
 <td width="33%" align="center" valign="top"><a href="https://x.com/Framer_X/status/2093001366922744183"><img src="https://pbs.twimg.com/amplify_video_thumb/2092980107551858688/img/anFYID4N5V4X_n1y.jpg" width="1200" alt="曲にアニメ映像を付ける — @Framer_X — 元投稿の関連画像。クリックして X の投稿を開く"></a><br><b>曲にアニメ映像を付ける</b><br><sub><a href="https://x.com/Framer_X/status/2093001366922744183">@Framer_X</a> · 2026-08-27</sub><br><sub>制作過程 / 完成作品</sub><br><a href="https://x.com/Framer_X/status/2093001366922744183">▶ X の元投稿</a> · <a href="docs/x-community-examples.md#case-2093001366922744183">解説 · 英語 →</a></td>
 </tr>
@@ -89,6 +92,7 @@ X コミュニティの9つの事例から方向性を選べます。画像を�
 </table>
 <!-- COMMUNITY-CASES:END -->
 
+<a id="start"></a>
 ## まず一曲作ってみる
 
 **[Suno · 曲を作る ↗](https://suno.com/create)** · **[MusicMaker · 曲を作る ↗](https://musicmaker.im/ai-song-generator/)**

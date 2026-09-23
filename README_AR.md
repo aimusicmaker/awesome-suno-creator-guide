@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# دليل إنشاء الموسيقى باستخدام Suno
+# دليل إنشاء الموسيقى مع Suno: أوامر وأمثلة ودروس
 
 **فكرة واحدة، ألوان موسيقية متعددة.**
 
@@ -32,12 +32,13 @@
 <p align="center"><a href="mobile/README_AR.md"><img src="assets/ui/mobile-ar.svg" height="40" alt="نسخة الهاتف"></a></p>
 <!-- DEVICE-VIEW:END -->
 
-<a href="https://help.suno.com/en/articles/13924481"><img src="assets/creator-guide-cover.png" width="960" alt="كولاج يجمع البيانو والجاز والغيتار والرقص والرسوم المتحركة: صِف، أنشئ، حسّن. افتح الأسئلة الشائعة الرسمية حول Suno v6."></a>
+<a href="https://help.suno.com/en/articles/13924481"><img src="assets/creator-guide-cover.jpg" width="960" alt="كولاج يجمع البيانو والجاز والغيتار والرقص والرسوم المتحركة: صِف، أنشئ، حسّن. افتح الأسئلة الشائعة الرسمية حول Suno v6."></a>
 
 <p><a href="#official"><img src="assets/ui/official-ar.svg" height="32" alt="الدليل الرسمي"></a> <a href="#examples"><img src="assets/ui/cases-ar.svg" height="32" alt="أمثلة من X"></a> <a href="#briefs"><img src="assets/ui/briefs-ar.svg" height="32" alt="اختر فكرة"></a></p>
+<p align="center"><a href="#start"><strong>▶ أنشئ أغنيتك الأولى</strong></a> · <a href="docs/troubleshooting.md">حل مشكلات الإنشاء · الإنجليزية</a></p>
 </div>
 
-هذه مقدمة باللغة العربية. الأدلة التفصيلية والتمارين باللغة الإنجليزية. دليل مستقل يقدمه MusicMaker.
+تنشر [MusicMaker](https://github.com/aimusicmaker) هذا الدليل وتحدّثه، وتدير أيضًا أدوات MusicMaker المعروضة فيه. الدروس والتمارين التفصيلية متاحة باللغة الإنجليزية. [الناشر ومنهج التحرير · الإنجليزية](docs/editorial-policy.md).
 
 <a id="official"></a>
 ## ما الذي يقدمه Suno v6؟
@@ -49,6 +50,8 @@
 يتوفر v6-mini في جميع الخطط، بينما يتطلب v6 وv6-wild خطة Pro أو Premier. لا تضمن التعليمات مدة دقيقة أو الحفاظ على اللحن نفسه. استمع إلى النتيجة وراجعها.
 
 [الدليل الرسمي ↗](https://help.suno.com/en/articles/13924481) · [Suno v6 ↗](https://help.suno.com/en/articles/13924801)
+
+<sub>تاريخ التحقق من معلومات النماذج 2026-09-23.</sub>
 
 <a id="examples"></a>
 ## أمثلة رسمية للتعليمات على X
@@ -74,7 +77,7 @@
 
 <table width="100%">
 <tr>
-<td width="33%" align="center" valign="top"><a href="https://x.com/maxescu/status/2049444543360336167"><img src="https://pbs.twimg.com/amplify_video_thumb/2049444325596286976/img/lqCxWmk86QgVYb-a.jpg" width="1200" alt="تك هاوس بأمر قصير — @maxescu — صورة مرتبطة بالمصدر؛ افتح المنشور الأصلي على X"></a><br><b>تك هاوس بأمر قصير</b><br><sub><a href="https://x.com/maxescu/status/2049444543360336167">@maxescu</a> · 2026-04-29</sub><br><sub>أمر موسيقي منشور</sub><br><a href="https://x.com/maxescu/status/2049444543360336167">▶ شاهد على X</a> · <a href="docs/x-community-examples.md#case-2049444543360336167">شرح بالإنجليزية →</a></td>
+<td width="33%" align="center" valign="top"><a href="https://x.com/maxescu/status/2049444543360336167"><img src="https://pbs.twimg.com/amplify_video_thumb/2049444325596286976/img/lqCxWmk86QgVYb-a.jpg" width="1200" alt="Tech house: أمر قصير ونموذج مخصّص — @maxescu — صورة مرتبطة بالمصدر؛ افتح المنشور الأصلي على X"></a><br><b>Tech house: أمر قصير ونموذج مخصّص</b><br><sub><a href="https://x.com/maxescu/status/2049444543360336167">@maxescu</a> · 2026-04-29</sub><br><sub>أمر موسيقي منشور</sub><br><a href="https://x.com/maxescu/status/2049444543360336167">▶ شاهد على X</a> · <a href="docs/x-community-examples.md#case-2049444543360336167">شرح بالإنجليزية →</a></td>
 <td width="33%" align="center" valign="top"><a href="https://x.com/KiwiJazzTutor/status/2069599574000586959"><img src="https://pbs.twimg.com/amplify_video_thumb/2069594596422672384/img/F5ujZhXCu71zlQcd.jpg" width="1200" alt="البيانو والجاز اللاتيني — @KiwiJazzTutor — صورة مرتبطة بالمصدر؛ افتح المنشور الأصلي على X"></a><br><b>البيانو والجاز اللاتيني</b><br><sub><a href="https://x.com/KiwiJazzTutor/status/2069599574000586959">@KiwiJazzTutor</a> · 2026-06-24</sub><br><sub>أسلوب عمل / عمل مكتمل</sub><br><a href="https://x.com/KiwiJazzTutor/status/2069599574000586959">▶ شاهد على X</a> · <a href="docs/x-community-examples.md#case-2069599574000586959">شرح بالإنجليزية →</a></td>
 <td width="33%" align="center" valign="top"><a href="https://x.com/Framer_X/status/2093001366922744183"><img src="https://pbs.twimg.com/amplify_video_thumb/2092980107551858688/img/anFYID4N5V4X_n1y.jpg" width="1200" alt="أضف رسومًا متحركة إلى أغنية — @Framer_X — صورة مرتبطة بالمصدر؛ افتح المنشور الأصلي على X"></a><br><b>أضف رسومًا متحركة إلى أغنية</b><br><sub><a href="https://x.com/Framer_X/status/2093001366922744183">@Framer_X</a> · 2026-08-27</sub><br><sub>أسلوب عمل / عمل مكتمل</sub><br><a href="https://x.com/Framer_X/status/2093001366922744183">▶ شاهد على X</a> · <a href="docs/x-community-examples.md#case-2093001366922744183">شرح بالإنجليزية →</a></td>
 </tr>
@@ -91,6 +94,7 @@
 </table>
 <!-- COMMUNITY-CASES:END -->
 
+<a id="start"></a>
 ## أنشئ أغنيتك الأولى
 
 **[Suno · أنشئ أغنية ↗](https://suno.com/create)** · **[MusicMaker · أنشئ أغنية ↗](https://musicmaker.im/ai-song-generator/)**

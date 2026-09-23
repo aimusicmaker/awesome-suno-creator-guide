@@ -1,6 +1,6 @@
 <div align="center">
 
-# Suno 음악 창작 가이드
+# Suno 음악 제작 가이드: 프롬프트, 사례와 입문
 
 **하나의 아이디어로, 다채로운 음악을.**
 
@@ -30,12 +30,13 @@
 <p align="center"><a href="mobile/README_KO.md"><img src="assets/ui/mobile-ko.svg" height="40" alt="모바일 버전"></a></p>
 <!-- DEVICE-VIEW:END -->
 
-<a href="https://help.suno.com/en/articles/13924481"><img src="assets/creator-guide-cover.png" width="960" alt="피아노, 재즈, 기타, 댄스, 애니메이션 콜라주. 설명하고, 만들고, 다듬기. Suno 공식 v6 FAQ 열기."></a>
+<a href="https://help.suno.com/en/articles/13924481"><img src="assets/creator-guide-cover.jpg" width="960" alt="피아노, 재즈, 기타, 댄스, 애니메이션 콜라주. 설명하고, 만들고, 다듬기. Suno 공식 v6 FAQ 열기."></a>
 
 <p><a href="#official"><img src="assets/ui/official-ko.svg" height="32" alt="공식 안내"></a> <a href="#examples"><img src="assets/ui/cases-ko.svg" height="32" alt="X 사례"></a> <a href="#briefs"><img src="assets/ui/briefs-ko.svg" height="32" alt="창작 방향 선택"></a></p>
+<p align="center"><a href="#start"><strong>▶ 첫 곡 만들기</strong></a> · <a href="docs/troubleshooting.md">생성 문제 해결 · 영어</a></p>
 </div>
 
-한국어 입문 안내입니다. 자세한 설명과 연습 문서는 영어로 제공됩니다. MusicMaker에서 만든 독립 창작 가이드입니다.
+[MusicMaker](https://github.com/aimusicmaker)가 이 가이드를 발행하고 관리하며, 소개된 MusicMaker 도구도 운영합니다. 자세한 튜토리얼과 연습 안내는 영어로 제공됩니다. [운영 및 편집 방법 · 영어](docs/editorial-policy.md).
 
 <a id="official"></a>
 ## Suno v6로 할 수 있는 일
@@ -47,6 +48,8 @@
 v6-mini는 모든 요금제에서, v6와 v6-wild는 Pro / Premier에서 사용할 수 있습니다. 정확한 길이나 같은 멜로디의 재현은 보장되지 않으므로 결과를 직접 들어 확인하세요.
 
 [공식 안내 ↗](https://help.suno.com/en/articles/13924481) · [Suno v6 ↗](https://help.suno.com/en/articles/13924801)
+
+<sub>모델 정보 확인일 2026-09-23.</sub>
 
 <a id="examples"></a>
 ## X에서 공개한 공식 프롬프트
@@ -72,7 +75,7 @@ X 커뮤니티 사례 9개에서 방향을 골라 보세요. 이미지를 누르
 
 <table width="100%">
 <tr>
-<td width="33%" align="center" valign="top"><a href="https://x.com/maxescu/status/2049444543360336167"><img src="https://pbs.twimg.com/amplify_video_thumb/2049444325596286976/img/lqCxWmk86QgVYb-a.jpg" width="1200" alt="짧은 프롬프트로 테크 하우스 — @maxescu — 원문 관련 이미지. X 원문 열기"></a><br><b>짧은 프롬프트로 테크 하우스</b><br><sub><a href="https://x.com/maxescu/status/2049444543360336167">@maxescu</a> · 2026-04-29</sub><br><sub>공개 음악 프롬프트</sub><br><a href="https://x.com/maxescu/status/2049444543360336167">▶ X 원문 보기</a> · <a href="docs/x-community-examples.md#case-2049444543360336167">해설 · 영어 →</a></td>
+<td width="33%" align="center" valign="top"><a href="https://x.com/maxescu/status/2049444543360336167"><img src="https://pbs.twimg.com/amplify_video_thumb/2049444325596286976/img/lqCxWmk86QgVYb-a.jpg" width="1200" alt="Tech house: 짧은 프롬프트와 맞춤 모델 — @maxescu — 원문 관련 이미지. X 원문 열기"></a><br><b>Tech house: 짧은 프롬프트와 맞춤 모델</b><br><sub><a href="https://x.com/maxescu/status/2049444543360336167">@maxescu</a> · 2026-04-29</sub><br><sub>공개 음악 프롬프트</sub><br><a href="https://x.com/maxescu/status/2049444543360336167">▶ X 원문 보기</a> · <a href="docs/x-community-examples.md#case-2049444543360336167">해설 · 영어 →</a></td>
 <td width="33%" align="center" valign="top"><a href="https://x.com/KiwiJazzTutor/status/2069599574000586959"><img src="https://pbs.twimg.com/amplify_video_thumb/2069594596422672384/img/F5ujZhXCu71zlQcd.jpg" width="1200" alt="피아노와 라틴 재즈 — @KiwiJazzTutor — 원문 관련 이미지. X 원문 열기"></a><br><b>피아노와 라틴 재즈</b><br><sub><a href="https://x.com/KiwiJazzTutor/status/2069599574000586959">@KiwiJazzTutor</a> · 2026-06-24</sub><br><sub>제작 과정 / 완성작</sub><br><a href="https://x.com/KiwiJazzTutor/status/2069599574000586959">▶ X 원문 보기</a> · <a href="docs/x-community-examples.md#case-2069599574000586959">해설 · 영어 →</a></td>
 <td width="33%" align="center" valign="top"><a href="https://x.com/Framer_X/status/2093001366922744183"><img src="https://pbs.twimg.com/amplify_video_thumb/2092980107551858688/img/anFYID4N5V4X_n1y.jpg" width="1200" alt="노래에 애니메이션 입히기 — @Framer_X — 원문 관련 이미지. X 원문 열기"></a><br><b>노래에 애니메이션 입히기</b><br><sub><a href="https://x.com/Framer_X/status/2093001366922744183">@Framer_X</a> · 2026-08-27</sub><br><sub>제작 과정 / 완성작</sub><br><a href="https://x.com/Framer_X/status/2093001366922744183">▶ X 원문 보기</a> · <a href="docs/x-community-examples.md#case-2093001366922744183">해설 · 영어 →</a></td>
 </tr>
@@ -89,6 +92,7 @@ X 커뮤니티 사례 9개에서 방향을 골라 보세요. 이미지를 누르
 </table>
 <!-- COMMUNITY-CASES:END -->
 
+<a id="start"></a>
 ## 첫 곡 만들기
 
 **[Suno · 곡 만들기 ↗](https://suno.com/create)** · **[MusicMaker · 곡 만들기 ↗](https://musicmaker.im/ai-song-generator/)**

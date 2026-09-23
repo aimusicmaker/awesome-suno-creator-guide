@@ -1,6 +1,6 @@
 <div align="center">
 
-# Awesome Suno Creator Guide
+# Suno Music Creation Guide: Prompts, Examples & Tutorials
 
 **One idea. Many sounds.**
 
@@ -30,15 +30,16 @@ Folk, dance, jazz, or a score for your next animation or short film. Describe yo
 <p align="center"><a href="mobile/README.md"><img src="assets/ui/mobile-en.svg" height="40" alt="Mobile version"></a></p>
 <!-- DEVICE-VIEW:END -->
 
-[![Piano, jazz, acoustic guitar, dance and animation: describe, create, refine. Open the official Suno v6 FAQ.](assets/creator-guide-cover.png)](https://help.suno.com/en/articles/13924481)
+[![Piano, jazz, acoustic guitar, dance and animation: describe, create, refine. Open the official Suno v6 FAQ.](assets/creator-guide-cover.jpg)](https://help.suno.com/en/articles/13924481)
 
 <p align="center"><a href="#what-can-suno-v6-do"><img src="assets/ui/official-en.svg" height="32" alt="Official capabilities"></a> <a href="#official-examples"><img src="assets/ui/cases-en.svg" height="32" alt="Official examples"></a> <a href="#what-are-you-making"><img src="assets/ui/briefs-en.svg" height="32" alt="Creation briefs"></a></p>
 
+<p align="center"><a href="#start"><strong>▶ Make your first song</strong></a> · <a href="#fix">Fix generation problems</a></p>
 </div>
 
 Want to write a song, score a video, or give an old melody a new arrangement? Start with Suno’s official demos, explore dance tracks, piano performances and film scores from X creators, then choose a direction and follow the tutorial.
 
-An independent creation guide by MusicMaker, with source links and practical exercises.
+Published and maintained by [MusicMaker](https://github.com/aimusicmaker). The MusicMaker tools introduced here are operated by MusicMaker. [Publisher and editing method](docs/editorial-policy.md).
 
 ## What can Suno v6 do?
 
@@ -59,6 +60,8 @@ An independent creation guide by MusicMaker, with source links and practical exe
 **Current models:** v6-mini is available on all plans; v6 and v6-wild require Pro / Premier. Listen for timing, melody and transitions, then edit as needed.
 
 Sources: [Official v6 FAQ](https://help.suno.com/en/articles/13924481) · [v6 features](https://help.suno.com/en/articles/13924801). [Watch the official workflow video →](https://www.youtube.com/watch?v=tkKGNBzkHwE)
+
+<sub>Model information checked 2026-09-23.</sub>
 
 <a id="official-examples"></a>
 <a id="prompts-and-demonstrations-from-x"></a>
@@ -121,7 +124,7 @@ Choose a direction from nine X community examples. Click an image to view the or
 
 <table width="100%">
 <tr>
-<td width="33%" align="center" valign="top"><a href="https://x.com/maxescu/status/2049444543360336167"><img src="https://pbs.twimg.com/amplify_video_thumb/2049444325596286976/img/lqCxWmk86QgVYb-a.jpg" width="1200" alt="Tech house from a short prompt — @maxescu — Source preview; open the creator’s X post"></a><br><b>Tech house from a short prompt</b><br><sub><a href="https://x.com/maxescu/status/2049444543360336167">@maxescu</a> · 2026-04-29</sub><br><sub>Music prompt</sub><br><a href="https://x.com/maxescu/status/2049444543360336167">▶ Watch on X</a> · <a href="docs/x-community-examples.md#case-2049444543360336167">Case notes · English →</a></td>
+<td width="33%" align="center" valign="top"><a href="https://x.com/maxescu/status/2049444543360336167"><img src="https://pbs.twimg.com/amplify_video_thumb/2049444325596286976/img/lqCxWmk86QgVYb-a.jpg" width="1200" alt="Tech house: short prompt + custom model — @maxescu — Source preview; open the creator’s X post"></a><br><b>Tech house: short prompt + custom model</b><br><sub><a href="https://x.com/maxescu/status/2049444543360336167">@maxescu</a> · 2026-04-29</sub><br><sub>Music prompt</sub><br><a href="https://x.com/maxescu/status/2049444543360336167">▶ Watch on X</a> · <a href="docs/x-community-examples.md#case-2049444543360336167">Case notes · English →</a></td>
 <td width="33%" align="center" valign="top"><a href="https://x.com/KiwiJazzTutor/status/2069599574000586959"><img src="https://pbs.twimg.com/amplify_video_thumb/2069594596422672384/img/F5ujZhXCu71zlQcd.jpg" width="1200" alt="Latin jazz with live piano — @KiwiJazzTutor — Source preview; open the creator’s X post"></a><br><b>Latin jazz with live piano</b><br><sub><a href="https://x.com/KiwiJazzTutor/status/2069599574000586959">@KiwiJazzTutor</a> · 2026-06-24</sub><br><sub>Workflow / finished work</sub><br><a href="https://x.com/KiwiJazzTutor/status/2069599574000586959">▶ Watch on X</a> · <a href="docs/x-community-examples.md#case-2069599574000586959">Case notes · English →</a></td>
 <td width="33%" align="center" valign="top"><a href="https://x.com/Framer_X/status/2093001366922744183"><img src="https://pbs.twimg.com/amplify_video_thumb/2092980107551858688/img/anFYID4N5V4X_n1y.jpg" width="1200" alt="Give a song an animated video — @Framer_X — Source preview; open the creator’s X post"></a><br><b>Give a song an animated video</b><br><sub><a href="https://x.com/Framer_X/status/2093001366922744183">@Framer_X</a> · 2026-08-27</sub><br><sub>Workflow / finished work</sub><br><a href="https://x.com/Framer_X/status/2093001366922744183">▶ Watch on X</a> · <a href="docs/x-community-examples.md#case-2093001366922744183">Case notes · English →</a></td>
 </tr>
@@ -140,6 +143,7 @@ Choose a direction from nine X community examples. Click an image to view the or
 
 Once you have a direction, open **[Suno](https://suno.com/create)** or **[MusicMaker](https://musicmaker.im/ai-song-generator/)**. Next, try a separate brand-inspired exercise using the acoustic instrumentation of Morning with Healing Hands.
 
+<a id="start"></a>
 ## Make your first song
 
 You do not need to clone this repository or install anything.
@@ -202,6 +206,7 @@ Explore **12 more sounds** through their published styles. These MusicMaker sele
 
 [Browse all materials by type →](docs/musicmaker-catalog.md#按类型浏览--browse-by-type) · [Create with MusicMaker →](https://musicmaker.im/ai-song-generator/)
 
+<a id="fix"></a>
 ## Better songs come from better revisions
 
 Revise where you created the take: return to [Suno](https://suno.com/create) for a Suno version or [MusicMaker](https://musicmaker.im/ai-song-generator/) for a MusicMaker version. Keep the selected model and lyrics unchanged while adjusting one style detail. For Suno-specific section editing, follow the [official workflow guide](docs/official-suno-guide.md).

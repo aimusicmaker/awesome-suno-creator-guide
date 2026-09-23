@@ -1,6 +1,6 @@
 # Sources and editorial notes
 
-[← Home](../README.md)
+[← Home](../README.md) · [Publisher and editorial method](editorial-policy.md)
 
 Checked **2026-09-23**. Source links are provided so readers can inspect the original context. Recipes and lyric sketches were newly written for this repository; no generation tests are claimed.
 
@@ -66,7 +66,7 @@ No engagement counts or “viral” labels are used as a quality guarantee. Comm
 
 ## Original visual
 
-`assets/creator-guide-cover.png` was generated for this repository using imagegen. Creative brief: an editorial music-guide banner, ivory paper, orange translucent vinyl, large black typography, with the words “Make your next favorite song.” It is decorative artwork, not a product screenshot or a generated-song result.
+The original [cover](../assets/creator-guide-cover.png) was generated with imagegen. Its piano, Latin-jazz percussion, acoustic guitar, dance and animation collage connects to the guide’s music examples. The caption reads “One idea. Many sounds.” and introduces the Describe → Create → Refine workflow. The [generation prompt](../assets/creator-guide-cover.prompt.txt) records the brief. It is editorial artwork.
 
 See [asset rights](../assets/README.md) before republishing media. Please [report changed or broken sources](../CONTRIBUTING.md).
 
@@ -78,12 +78,12 @@ See [asset rights](../assets/README.md) before republishing media. Please [repor
 - [Remix guide](https://help.suno.com/en/articles/6050497): creator permission and remix rights.
 - [Eric Christian interview](https://suno.com/blog/eric-christian): piano-to-orchestration workflow and featured track.
 - Homepage creator portraits are the header images linked from the four corresponding Suno interviews. They remain hosted by Suno's image provider and are credited through each card. Their inclusion does not imply endorsement.
-- The nine homepage creation-brief cards and the full catalog use MusicMaker’s public detail pages and linked cover/audio assets. Their model labels are retained in the [source snapshot](../data/musicmaker-discover.json), not promoted as independent model authentication.
+- The nine former brand creation briefs are archived in the listening lab. The current homepage grid features nine nonofficial X community examples. The separate twelve-style brand selection and full catalog use MusicMaker’s public track details and linked cover/audio assets; source model labels remain in the [catalog snapshot](../data/musicmaker-discover.json).
 - [Listening lab](listening-lab.md): nine archived brand briefs span contrasting genres and suggested uses, with three earlier gentle song ideas retained. Summaries paraphrase published Style; where only a genre is published, the summary stays at genre level. Proposed uses and variations are original, untested exercises. No source lyrics are reproduced. Audio URL availability is not an audio-quality evaluation or reproduction test.
 
 ## X examples
 
-The homepage links four separate replies in [Suno’s September 12 v6 thread](https://x.com/suno/status/2098504028522942964), with short excerpts and original editorial cards. These are official prompt examples, not independently reproduced tracks. Two further official cards link demonstrations by Minz via Suno and Suno. Kevin Pereira and 瑶酱Hermione now appear once in the dedicated community grid. Full prompts are not claimed where the posts omit them. Native X post text, dates, and media thumbnails were inspected September 23, 2026. Popularity metrics are intentionally not used as a quality score.
+The homepage links four separate replies in [Suno’s September 12 v6 thread](https://x.com/suno/status/2098504028522942964), with short excerpts and original editorial cards. These are official prompt examples, not independently reproduced tracks. Two further official cards link demonstrations by Minz via Suno and Suno. Kevin Pereira and 瑶酱Hermione now appear once in the dedicated community grid. Full prompts are not claimed where the posts omit them. The official X examples were inspected in the native X interface on September 23, 2026. The later nonofficial community selection was checked through FxTwitter, as described below. Popularity metrics are intentionally not used as a quality score.
 
 ## Two creation routes
 

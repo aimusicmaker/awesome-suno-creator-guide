@@ -1,6 +1,6 @@
 <div align="center">
 
-# Руководство по созданию музыки в Suno
+# Создание музыки в Suno: промпты, примеры и уроки
 
 **Одна идея — разная музыка.**
 
@@ -30,12 +30,13 @@
 <p align="center"><a href="mobile/README_RU.md"><img src="assets/ui/mobile-ru.svg" height="40" alt="Мобильная версия"></a></p>
 <!-- DEVICE-VIEW:END -->
 
-<a href="https://help.suno.com/en/articles/13924481"><img src="assets/creator-guide-cover.png" width="960" alt="Коллаж: фортепиано, джаз, акустическая гитара, танцы и анимация. Опишите, создайте, доработайте. Открыть официальный FAQ Suno v6."></a>
+<a href="https://help.suno.com/en/articles/13924481"><img src="assets/creator-guide-cover.jpg" width="960" alt="Коллаж: фортепиано, джаз, акустическая гитара, танцы и анимация. Опишите, создайте, доработайте. Открыть официальный FAQ Suno v6."></a>
 
 <p><a href="#official"><img src="assets/ui/official-ru.svg" height="32" alt="Официальная справка"></a> <a href="#examples"><img src="assets/ui/cases-ru.svg" height="32" alt="Примеры из X"></a> <a href="#briefs"><img src="assets/ui/briefs-ru.svg" height="32" alt="Выбрать идею"></a></p>
+<p align="center"><a href="#start"><strong>▶ Создать первую песню</strong></a> · <a href="docs/troubleshooting.md">Решить проблемы · Английский</a></p>
 </div>
 
-Вводное руководство на русском. Подробные инструкции и упражнения — на английском. Независимое руководство от MusicMaker.
+[MusicMaker](https://github.com/aimusicmaker) публикует и поддерживает это руководство, а также управляет представленными здесь инструментами MusicMaker. Подробные уроки и упражнения доступны на английском. [Издатель и редакция · Английский](docs/editorial-policy.md).
 
 <a id="official"></a>
 ## Что умеет Suno v6
@@ -47,6 +48,8 @@
 v6-mini доступна на всех тарифах; для v6 и v6-wild нужны Pro / Premier. Точная длительность и сохранение мелодии не гарантированы. Прослушайте и проверьте результат.
 
 [Официальная справка ↗](https://help.suno.com/en/articles/13924481) · [Suno v6 ↗](https://help.suno.com/en/articles/13924801)
+
+<sub>Сведения о моделях проверены 2026-09-23.</sub>
 
 <a id="examples"></a>
 ## Официальные примеры запросов в X
@@ -72,7 +75,7 @@ v6-mini доступна на всех тарифах; для v6 и v6-wild ну
 
 <table width="100%">
 <tr>
-<td width="33%" align="center" valign="top"><a href="https://x.com/maxescu/status/2049444543360336167"><img src="https://pbs.twimg.com/amplify_video_thumb/2049444325596286976/img/lqCxWmk86QgVYb-a.jpg" width="1200" alt="Тек-хаус с коротким промптом — @maxescu — Изображение из источника; открыть исходный пост в X"></a><br><b>Тек-хаус с коротким промптом</b><br><sub><a href="https://x.com/maxescu/status/2049444543360336167">@maxescu</a> · 2026-04-29</sub><br><sub>Музыкальный промпт опубликован</sub><br><a href="https://x.com/maxescu/status/2049444543360336167">▶ Смотреть в X</a> · <a href="docs/x-community-examples.md#case-2049444543360336167">Разбор · английский →</a></td>
+<td width="33%" align="center" valign="top"><a href="https://x.com/maxescu/status/2049444543360336167"><img src="https://pbs.twimg.com/amplify_video_thumb/2049444325596286976/img/lqCxWmk86QgVYb-a.jpg" width="1200" alt="Tech house: короткий промпт и своя модель — @maxescu — Изображение из источника; открыть исходный пост в X"></a><br><b>Tech house: короткий промпт и своя модель</b><br><sub><a href="https://x.com/maxescu/status/2049444543360336167">@maxescu</a> · 2026-04-29</sub><br><sub>Музыкальный промпт опубликован</sub><br><a href="https://x.com/maxescu/status/2049444543360336167">▶ Смотреть в X</a> · <a href="docs/x-community-examples.md#case-2049444543360336167">Разбор · английский →</a></td>
 <td width="33%" align="center" valign="top"><a href="https://x.com/KiwiJazzTutor/status/2069599574000586959"><img src="https://pbs.twimg.com/amplify_video_thumb/2069594596422672384/img/F5ujZhXCu71zlQcd.jpg" width="1200" alt="Фортепиано и латинский джаз — @KiwiJazzTutor — Изображение из источника; открыть исходный пост в X"></a><br><b>Фортепиано и латинский джаз</b><br><sub><a href="https://x.com/KiwiJazzTutor/status/2069599574000586959">@KiwiJazzTutor</a> · 2026-06-24</sub><br><sub>Процесс / готовая работа</sub><br><a href="https://x.com/KiwiJazzTutor/status/2069599574000586959">▶ Смотреть в X</a> · <a href="docs/x-community-examples.md#case-2069599574000586959">Разбор · английский →</a></td>
 <td width="33%" align="center" valign="top"><a href="https://x.com/Framer_X/status/2093001366922744183"><img src="https://pbs.twimg.com/amplify_video_thumb/2092980107551858688/img/anFYID4N5V4X_n1y.jpg" width="1200" alt="Анимация для песни — @Framer_X — Изображение из источника; открыть исходный пост в X"></a><br><b>Анимация для песни</b><br><sub><a href="https://x.com/Framer_X/status/2093001366922744183">@Framer_X</a> · 2026-08-27</sub><br><sub>Процесс / готовая работа</sub><br><a href="https://x.com/Framer_X/status/2093001366922744183">▶ Смотреть в X</a> · <a href="docs/x-community-examples.md#case-2093001366922744183">Разбор · английский →</a></td>
 </tr>
@@ -89,6 +92,7 @@ v6-mini доступна на всех тарифах; для v6 и v6-wild ну
 </table>
 <!-- COMMUNITY-CASES:END -->
 
+<a id="start"></a>
 ## Создайте первый трек
 
 **[Suno · Создать песню ↗](https://suno.com/create)** · **[MusicMaker · Создать песню ↗](https://musicmaker.im/ai-song-generator/)**
