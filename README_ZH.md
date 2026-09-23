@@ -35,11 +35,9 @@
 以下三首歌曲来自 [MusicMaker Discover](https://musicmaker.im/discover/)。点击封面打开单曲页，再按播放按钮。这是一组跨模型的品牌作品：Island Sunshine 页面标注 Mureka V9.5，Morning with Healing Hands 标注 V6.0；这是页面信息，不是本仓库对模型的独立认证。
 
 <table>
-<tr>
-<td width="33%" align="center"><a href="https://musicmaker.im/detail/discover-v2-94/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp" alt="Neon Pulse，点击打开单曲页" width="240"></a><br><b>Neon Pulse</b><br>02:53 · 品牌作品<br><a href="https://musicmaker.im/detail/discover-v2-94/">▶ 打开单曲</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.mp3">直接听音频</a></td>
-<td width="33%" align="center"><a href="https://musicmaker.im/detail/discover-v2-106/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" alt="Morning with Healing Hands，点击打开单曲页" width="240"></a><br><b>Morning with Healing Hands</b><br>03:33 · 木吉他风格<br><a href="https://musicmaker.im/detail/discover-v2-106/">▶ 打开单曲</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.mp3">直接听音频</a></td>
-<td width="33%" align="center"><a href="https://musicmaker.im/detail/discover-v2-101/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/island_sunshine.webp" alt="Island Sunshine，点击打开单曲页" width="240"></a><br><b>Island Sunshine</b><br>03:51 · Mureka V9.5<br><a href="https://musicmaker.im/detail/discover-v2-101/">▶ 打开单曲</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/island_sunshine.mp3">直接听音频</a></td>
-</tr>
+<tr><td width="30%"><a href="https://musicmaker.im/detail/discover-v2-94/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp" alt="Neon Pulse" width="150"></a></td><td><b>Neon Pulse</b><br>02:53 · 品牌作品<br><a href="https://musicmaker.im/detail/discover-v2-94/">▶ 打开单曲</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.mp3">直接听音频</a></td></tr>
+<tr><td width="30%"><a href="https://musicmaker.im/detail/discover-v2-106/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" alt="Morning with Healing Hands" width="150"></a></td><td><b>Morning with Healing Hands</b><br>03:33 · 木吉他风格<br><a href="https://musicmaker.im/detail/discover-v2-106/">▶ 打开单曲</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.mp3">直接听音频</a></td></tr>
+<tr><td width="30%"><a href="https://musicmaker.im/detail/discover-v2-101/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/island_sunshine.webp" alt="Island Sunshine" width="150"></a></td><td><b>Island Sunshine</b><br>03:51 · Mureka V9.5<br><a href="https://musicmaker.im/detail/discover-v2-101/">▶ 打开单曲</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/island_sunshine.mp3">直接听音频</a></td></tr>
 </table>
 
 **一个小练习：**选一首，记下最先留下印象的声音、情绪发生变化的位置，以及是谁在带动旋律。借鉴这些声音特点，重新写自己的故事、旋律和歌词。[素材来源说明（英文）→](docs/sources.md)
