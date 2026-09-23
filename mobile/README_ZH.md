@@ -82,7 +82,7 @@
 <a id="x-上的提示词与作品演示"></a>
 ## Suno 官方案例：提示词、演示与访谈
 
-先看 4 条 **Suno 官方 v6 提示词**和 2 个视频演示，再通过官方创作者访谈了解完整创作过程。提示词配有导读图，点击图片即可查看原帖。
+先看 4 条 **Suno 官方 v6 提示词**和 3 个视频演示，再通过官方创作者访谈了解完整创作过程。提示词配有导读图，点击图片即可查看原帖。
 
 <p align="center"><a href="https://x.com/suno/status/2098504030204973500"><img src="../assets/x-cases/rooftop.svg" width="100%" alt="从一个场景开始；点击阅读 Suno 原帖"></a><br><b>从一个场景开始</b><br><code>make a song that feels like midnight on a rooftop</code><br><sub><a href="https://x.com/suno">@suno</a> · v6 Simple · 2026-09-12 · 原文节选</sub></p>
 
@@ -93,13 +93,15 @@
 <p align="center"><a href="https://x.com/suno/status/2098504035292618787"><img src="../assets/x-cases/arc.svg" width="100%" alt="写清情绪怎样变化；点击阅读 Suno 原帖"></a><br><b>写清情绪怎样变化</b><br><code>The verses are intimate, then the chorus cracks open</code><br><sub><a href="https://x.com/suno">@suno</a> · v6 Simple · 2026-09-12 · 原文节选</sub></p>
 
 <details>
-<summary>▶ 展开 2 个官方视频案例：原始输入、歌曲成品与音效编辑</summary>
+<summary>▶ 展开 3 个官方视频案例：声音输入、音效编辑与 v6 创作流程</summary>
 
-<strong>看输入如何变成作品：</strong>从打字声配乐到音效调整，参考官方演示中的创作方法。
+<strong>看输入如何变成作品：</strong>从打字声配乐、音效调整到 v6 工作流程，参考官方演示中的创作方法。
 
 <p align="center"><a href="https://x.com/suno/status/1806740550566949019"><img src="https://pbs.twimg.com/ext_tw_video_thumb/1806740388373291008/pu/img/DDPGSmwQyy6srgb1?format=webp&amp;name=large" width="100%" alt="把打字声变成低保真桑巴：原视频封面，点击在 X 观看"></a><br><b>把打字声变成低保真桑巴</b><br><sub>Minz / Suno · 2024-06-29</sub><br>用打字声作为输入，探索低保真桑巴的节奏与配器。<br><a href="https://x.com/suno/status/1806740550566949019">▶ 查看原视频</a></p>
 
 <p align="center"><a href="https://x.com/suno/status/2102066500043510096"><img src="https://pbs.twimg.com/amplify_video_thumb/2102066204907040769/img/bwJ9Vf6zKR6h_lCz?format=webp&amp;name=large" width="100%" alt="用语言描述想要的音效：原视频封面，点击在 X 观看"></a><br><b>用语言描述想要的音效</b><br><sub>Suno · 2026-09-22</sub><br>用自然语言描述饱和效果，调整声音的质感。<br><a href="https://x.com/suno/status/2102066500043510096">▶ 查看原视频</a></p>
+
+<p align="center"><a href="https://www.youtube.com/watch?v=tkKGNBzkHwE"><img src="https://i.ytimg.com/vi/tkKGNBzkHwE/hqdefault.jpg" width="100%" alt="Suno 官方 v6 工作流程视频封面；点击在 YouTube 观看"></a><br><b>把熟悉的创作流程迁移到 v6</b><br><sub>Suno Music · YouTube</sub><br>跟随官方教程，了解如何在 v6 中继续使用熟悉的创作方式。<br><a href="https://www.youtube.com/watch?v=tkKGNBzkHwE">▶ 观看官方教程</a></p>
 
 点击原帖查看视频和制作说明。X 可能需要登录。
 

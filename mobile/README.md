@@ -73,7 +73,7 @@ Sources: [Official v6 FAQ](https://help.suno.com/en/articles/13924481) · [v6 fe
 <a id="prompts-and-demonstrations-from-x"></a>
 ## Suno official examples: prompts, demos and interviews
 
-Start with **4 official v6 prompt examples** and 2 video demos, then explore the creative process through Suno’s creator interviews. Illustrated prompt cards link directly to the original posts.
+Start with **4 official v6 prompt examples** and 3 video demos, then explore the creative process through Suno’s creator interviews. Illustrated prompt cards link directly to the original posts.
 
 <p align="center"><a href="https://x.com/suno/status/2098504030204973500"><img src="../assets/x-cases/rooftop.svg" width="100%" alt="Start with a feeling; open Suno’s original X prompt"></a><br><b>Start with a feeling</b><br><code>make a song that feels like midnight on a rooftop</code><br><sub><a href="https://x.com/suno">@suno</a> · v6 Simple · 2026-09-12 · excerpt</sub></p>
 
@@ -84,13 +84,15 @@ Start with **4 official v6 prompt examples** and 2 video demos, then explore the
 <p align="center"><a href="https://x.com/suno/status/2098504035292618787"><img src="../assets/x-cases/arc.svg" width="100%" alt="Describe an emotional arc; open Suno’s original X prompt"></a><br><b>Describe an emotional arc</b><br><code>The verses are intimate, then the chorus cracks open</code><br><sub><a href="https://x.com/suno">@suno</a> · v6 Simple · 2026-09-12 · excerpt</sub></p>
 
 <details>
-<summary>▶ 2 official video demonstrations: original inputs, finished clips, and editing</summary>
+<summary>▶ 3 official video demonstrations: audio inputs, effects, and v6 workflow</summary>
 
-**See input become music:** explore the creative process, from a typing-sound soundtrack to effect adjustments.
+**See input become music:** explore the creative process, from a typing-sound soundtrack and effect adjustments to the v6 workflow.
 
 <p align="center"><a href="https://x.com/suno/status/1806740550566949019"><img src="https://pbs.twimg.com/ext_tw_video_thumb/1806740388373291008/pu/img/DDPGSmwQyy6srgb1?format=webp&amp;name=large" width="100%" alt="Typing becomes lo-fi samba: original video thumbnail; watch on X"></a><br><b>Typing becomes lo-fi samba</b><br><sub>Minz / Suno · 2024-06-29</sub><br>Use typing sounds as input to explore a lo-fi samba rhythm and arrangement.<br><a href="https://x.com/suno/status/1806740550566949019">▶ Open original video</a></p>
 
 <p align="center"><a href="https://x.com/suno/status/2102066500043510096"><img src="https://pbs.twimg.com/amplify_video_thumb/2102066204907040769/img/bwJ9Vf6zKR6h_lCz?format=webp&amp;name=large" width="100%" alt="Describe the sound of an effect: original video thumbnail; watch on X"></a><br><b>Describe the sound of an effect</b><br><sub>Suno · 2026-09-22</sub><br>Describe saturation in natural language to shape the texture of a sound.<br><a href="https://x.com/suno/status/2102066500043510096">▶ Open original video</a></p>
+
+<p align="center"><a href="https://www.youtube.com/watch?v=tkKGNBzkHwE"><img src="https://i.ytimg.com/vi/tkKGNBzkHwE/hqdefault.jpg" width="100%" alt="Official Suno v6 workflow video thumbnail; watch on YouTube"></a><br><b>Bring your workflow into v6</b><br><sub>Suno Music · YouTube</sub><br>Follow Suno’s walkthrough to bring familiar creation methods into v6.<br><a href="https://www.youtube.com/watch?v=tkKGNBzkHwE">▶ Watch the official tutorial</a></p>
 
 Open the source posts for videos and production notes. X may require sign-in.
 
