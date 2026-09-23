@@ -6,11 +6,29 @@
 
 可直接复制的提示词、原创歌词、真实试听参考，以及常见问题的修改办法。
 
-[English](README.md) · 简体中文
+<!-- LANGUAGES:START -->
+<p align="center">
+<a href="README.md"><img src="assets/ui/lang-en.svg" height="32" alt="English"></a>
+<a href="README_ZH.md" aria-current="page"><img src="assets/ui/lang-zh-active.svg" height="32" alt="简体中文 — 当前语言"></a>
+<a href="README_TW.md"><img src="assets/ui/lang-tw.svg" height="32" alt="繁體中文"></a>
+<a href="README_JA.md"><img src="assets/ui/lang-ja.svg" height="32" alt="日本語"></a>
+<a href="README_KO.md"><img src="assets/ui/lang-ko.svg" height="32" alt="한국어"></a>
+<a href="README_ID.md"><img src="assets/ui/lang-id.svg" height="32" alt="Bahasa Indonesia"></a>
+<a href="README_IT.md"><img src="assets/ui/lang-it.svg" height="32" alt="Italiano"></a>
+<a href="README_PT.md"><img src="assets/ui/lang-pt.svg" height="32" alt="Português"></a>
+<a href="README_ES.md"><img src="assets/ui/lang-es.svg" height="32" alt="Español"></a>
+<a href="README_DE.md"><img src="assets/ui/lang-de.svg" height="32" alt="Deutsch"></a>
+<a href="README_RU.md"><img src="assets/ui/lang-ru.svg" height="32" alt="Русский"></a>
+<a href="README_FR.md"><img src="assets/ui/lang-fr.svg" height="32" alt="Français"></a>
+<a href="README_TH.md"><img src="assets/ui/lang-th.svg" height="32" alt="ไทย"></a>
+<a href="README_VI.md"><img src="assets/ui/lang-vi.svg" height="32" alt="Tiếng Việt"></a>
+<a href="README_AR.md"><img src="assets/ui/lang-ar.svg" height="32" alt="العربية"></a>
+</p>
+<!-- LANGUAGES:END -->
 
 [![Suno 创作指南封面：米白底色与橙色黑胶唱片，主题是创作下一首自己喜欢的歌；点击打开 Suno 官方 v6 FAQ。](assets/creator-guide-cover.png)](https://help.suno.com/en/articles/13924481)
 
-**[认识 Suno v6](#suno-v6能做什么) · [看 X 案例](#x-上的提示词与作品演示) · [开始写歌](#开始第一首歌)**
+<p align="center"><a href="#suno-v6能做什么"><img src="assets/ui/official-zh.svg" height="32" alt="官方能力"></a> <a href="#x-上的提示词与作品演示"><img src="assets/ui/cases-zh.svg" height="32" alt="X 案例"></a> <a href="#先选你要做的内容"><img src="assets/ui/briefs-zh.svg" height="32" alt="创作提案"></a></p>
 
 </div>
 
@@ -167,18 +185,31 @@ Keep the mood warm and hopeful. No singing or spoken voice.
 
 从试听获得灵感，再把自己的想法写成歌。在 **MusicMaker**，你可以发现作品、创作歌曲、检测音乐来源。这份指南由 **AI Music Maker** 维护。
 
-**[发现音乐](https://musicmaker.im/discover/) · [创作歌曲](https://musicmaker.im/ai-song-generator/) · [音乐来源检测](https://musicmaker.im/free-suno-ai-music-detector/)**
+<p align="center"><a href="https://musicmaker.im/discover/"><img src="assets/ui/discover-zh.svg" height="32" alt="发现音乐"></a> <a href="https://musicmaker.im/ai-song-generator/"><img src="assets/ui/create-zh.svg" height="32" alt="创作歌曲"></a> <a href="https://musicmaker.im/free-suno-ai-music-detector/"><img src="assets/ui/detect-zh.svg" height="32" alt="音乐来源检测"></a></p>
 
-### MusicMaker 精选试听
+### MusicMaker 精选试听 · 9 首作品
 
 点击封面进入 MusicMaker 作品页，或直接播放音频。以下为曲库精选，不是本仓库提示词的生成结果；来源链接与模型信息见[素材说明](docs/sources.md)。
 
+<!-- MUSICMAKER-GALLERY:START -->
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-101/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/island_sunshine.webp" width="440" alt="Island Sunshine：封面，点击在 MusicMaker 试听"></a><br><b>Island Sunshine</b><br><sub>MusicMaker Discover</sub><br><a href="https://musicmaker.im/detail/discover-v2-101/">▶ 打开作品</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/island_sunshine.mp3">听音频</a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-94/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp" width="440" alt="Neon Pulse：封面，点击在 MusicMaker 试听"></a><br><b>Neon Pulse</b><br><sub>MusicMaker Discover</sub><br><a href="https://musicmaker.im/detail/discover-v2-94/">▶ 打开作品</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.mp3">听音频</a></td>
+<td width="33%" align="center" valign="top"><a href="https://musicmaker.im/detail/discover-v2-101/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/island_sunshine.webp" width="280" alt="MusicMaker · Island Sunshine — 试听"></a><br><b>Island Sunshine</b><br><a href="https://musicmaker.im/detail/discover-v2-101/"><b>▶ 试听</b></a><br><a href="https://cdn.musicmaker.im/musicmaker/discover_v2/island_sunshine.mp3">♫ 音频</a></td>
+<td width="33%" align="center" valign="top"><a href="https://musicmaker.im/detail/discover-v2-104/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_open_road.webp" width="280" alt="MusicMaker · The Open Road — 试听"></a><br><b>The Open Road</b><br><a href="https://musicmaker.im/detail/discover-v2-104/"><b>▶ 试听</b></a><br><a href="https://cdn.musicmaker.im/musicmaker/discover_v2/the_open_road.mp3">♫ 音频</a></td>
+<td width="33%" align="center" valign="top"><a href="https://musicmaker.im/detail/discover-v2-103/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/sunshine_crew.webp" width="280" alt="MusicMaker · Sunshine Crew — 试听"></a><br><b>Sunshine Crew</b><br><a href="https://musicmaker.im/detail/discover-v2-103/"><b>▶ 试听</b></a><br><a href="https://cdn.musicmaker.im/musicmaker/discover_v2/sunshine_crew.mp3">♫ 音频</a></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="https://musicmaker.im/detail/discover-v2-100/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_golden_road.webp" width="280" alt="MusicMaker · The Golden Road — 试听"></a><br><b>The Golden Road</b><br><a href="https://musicmaker.im/detail/discover-v2-100/"><b>▶ 试听</b></a><br><a href="https://cdn.musicmaker.im/musicmaker/discover_v2/the_golden_road.mp3">♫ 音频</a></td>
+<td width="33%" align="center" valign="top"><a href="https://musicmaker.im/detail/discover-v2-97/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/claim_the_day.webp" width="280" alt="MusicMaker · Claim the Day — 试听"></a><br><b>Claim the Day</b><br><a href="https://musicmaker.im/detail/discover-v2-97/"><b>▶ 试听</b></a><br><a href="https://cdn.musicmaker.im/musicmaker/discover_v2/claim_the_day.mp3">♫ 音频</a></td>
+<td width="33%" align="center" valign="top"><a href="https://musicmaker.im/detail/discover-v2-99/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/sunshine_people.webp" width="280" alt="MusicMaker · Sunshine People — 试听"></a><br><b>Sunshine People</b><br><a href="https://musicmaker.im/detail/discover-v2-99/"><b>▶ 试听</b></a><br><a href="https://cdn.musicmaker.im/musicmaker/discover_v2/sunshine_people.mp3">♫ 音频</a></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="https://musicmaker.im/detail/discover-v2-95/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/echoes_of_you.webp" width="280" alt="MusicMaker · Echoes of You — 试听"></a><br><b>Echoes of You</b><br><a href="https://musicmaker.im/detail/discover-v2-95/"><b>▶ 试听</b></a><br><a href="https://cdn.musicmaker.im/musicmaker/discover_v2/echoes_of_you.mp3">♫ 音频</a></td>
+<td width="33%" align="center" valign="top"><a href="https://musicmaker.im/detail/discover-v2-96/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/summer_high.webp" width="280" alt="MusicMaker · Summer High — 试听"></a><br><b>Summer High</b><br><a href="https://musicmaker.im/detail/discover-v2-96/"><b>▶ 试听</b></a><br><a href="https://cdn.musicmaker.im/musicmaker/discover_v2/summer_high.mp3">♫ 音频</a></td>
+<td width="33%" align="center" valign="top"><a href="https://musicmaker.im/detail/discover-v2-94/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp" width="280" alt="MusicMaker · Neon Pulse — 试听"></a><br><b>Neon Pulse</b><br><a href="https://musicmaker.im/detail/discover-v2-94/"><b>▶ 试听</b></a><br><a href="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.mp3">♫ 音频</a></td>
 </tr>
 </table>
+<!-- MUSICMAKER-GALLERY:END -->
 
 <strong>找到喜欢的声音了？</strong>去 [MusicMaker 创作自己的歌曲](https://musicmaker.im/ai-song-generator/)，或[继续逛曲库](https://musicmaker.im/discover/)。想练习如何描述声音，可以打开[试听与改写练习](docs/listening-lab.md)。
 

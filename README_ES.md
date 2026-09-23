@@ -1,0 +1,131 @@
+<div align="center">
+
+# Guía de creación musical con Suno
+
+Conoce las funciones oficiales, escucha ejemplos y crea tu propia canción.
+
+<!-- LANGUAGES:START -->
+<p align="center">
+<a href="README.md"><img src="assets/ui/lang-en.svg" height="32" alt="English"></a>
+<a href="README_ZH.md"><img src="assets/ui/lang-zh.svg" height="32" alt="简体中文"></a>
+<a href="README_TW.md"><img src="assets/ui/lang-tw.svg" height="32" alt="繁體中文"></a>
+<a href="README_JA.md"><img src="assets/ui/lang-ja.svg" height="32" alt="日本語"></a>
+<a href="README_KO.md"><img src="assets/ui/lang-ko.svg" height="32" alt="한국어"></a>
+<a href="README_ID.md"><img src="assets/ui/lang-id.svg" height="32" alt="Bahasa Indonesia"></a>
+<a href="README_IT.md"><img src="assets/ui/lang-it.svg" height="32" alt="Italiano"></a>
+<a href="README_PT.md"><img src="assets/ui/lang-pt.svg" height="32" alt="Português"></a>
+<a href="README_ES.md" aria-current="page"><img src="assets/ui/lang-es-active.svg" height="32" alt="Español — Idioma actual"></a>
+<a href="README_DE.md"><img src="assets/ui/lang-de.svg" height="32" alt="Deutsch"></a>
+<a href="README_RU.md"><img src="assets/ui/lang-ru.svg" height="32" alt="Русский"></a>
+<a href="README_FR.md"><img src="assets/ui/lang-fr.svg" height="32" alt="Français"></a>
+<a href="README_TH.md"><img src="assets/ui/lang-th.svg" height="32" alt="ไทย"></a>
+<a href="README_VI.md"><img src="assets/ui/lang-vi.svg" height="32" alt="Tiếng Việt"></a>
+<a href="README_AR.md"><img src="assets/ui/lang-ar.svg" height="32" alt="العربية"></a>
+</p>
+<!-- LANGUAGES:END -->
+
+<a href="https://help.suno.com/en/articles/13924481"><img src="assets/creator-guide-cover.png" width="960" alt="Portada de esta guía independiente; abre las preguntas frecuentes oficiales de Suno v6."></a>
+
+<p><a href="#official"><img src="assets/ui/official-es.svg" height="32" alt="Guía oficial"></a> <a href="#examples"><img src="assets/ui/cases-es.svg" height="32" alt="Ejemplos en X"></a> <a href="#briefs"><img src="assets/ui/briefs-es.svg" height="32" alt="Elige una idea"></a></p>
+</div>
+
+Introducción en español. Las guías detalladas y los ejercicios están en inglés. Guía independiente de MusicMaker; no es documentación oficial de Suno.
+
+<a id="official"></a>
+## Qué puedes hacer con Suno v6
+
+Empieza con una idea, una foto, un vídeo o un tarareo. Usa Simple para describir una idea y Custom para introducir el estilo y la letra por separado.
+
+[![Qué puedes hacer con Suno v6](assets/suno-workflow.svg)](https://help.suno.com/en/articles/13924481)
+
+v6-mini está disponible en todos los planes; v6 y v6-wild requieren Pro / Premier. Las instrucciones no garantizan una duración exacta ni la conservación de una melodía. Escucha y revisa el resultado.
+
+[Guía oficial ↗](https://help.suno.com/en/articles/13924481) · [Suno v6 ↗](https://help.suno.com/en/articles/13924801)
+
+<a id="examples"></a>
+## Ejemplos oficiales de prompts en X
+
+Cada imagen abre la publicación original de Suno. Las tarjetas son ilustraciones de esta guía, no capturas de X.
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://x.com/suno/status/2098504030204973500"><img src="assets/x-cases/rooftop.svg" width="440" alt="Empieza con una escena — Suno / X"></a><br><a href="https://x.com/suno/status/2098504030204973500"><b>Empieza con una escena ↗</b></a></td>
+<td width="50%" valign="top"><a href="https://x.com/suno/status/2098504032079814672"><img src="assets/x-cases/input.svg" width="440" alt="Usa una foto o un tarareo — Suno / X"></a><br><a href="https://x.com/suno/status/2098504032079814672"><b>Usa una foto o un tarareo ↗</b></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://x.com/suno/status/2098504033698812198"><img src="assets/x-cases/edit.svg" width="440" alt="Cambia una sola cosa — Suno / X"></a><br><a href="https://x.com/suno/status/2098504033698812198"><b>Cambia una sola cosa ↗</b></a></td>
+<td width="50%" valign="top"><a href="https://x.com/suno/status/2098504035292618787"><img src="assets/x-cases/arc.svg" width="440" alt="Describe la evolución emocional — Suno / X"></a><br><a href="https://x.com/suno/status/2098504035292618787"><b>Describe la evolución emocional ↗</b></a></td>
+</tr>
+</table>
+
+<a id="briefs"></a>
+## Escucha y elige una idea para crear
+
+Estas propuestas parten de canciones existentes de MusicMaker y sus descripciones públicas. El audio es la obra de referencia, no un resultado generado con nuestras adaptaciones.
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="docs/listening-lab.md#1-it-takes-another-shape"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.webp" width="440" alt="It Takes Another Shape — Portada del tema; abre la propuesta de creación en inglés."></a><br><b>Convierte un recuerdo en una canción lenta</b><br>It Takes Another Shape<br><a href="https://musicmaker.im/detail/discover-v2-108/">▶ Escuchar</a> · <a href="docs/listening-lab.md#1-it-takes-another-shape">Propuesta · inglés →</a></td>
+<td width="50%" valign="top"><a href="docs/listening-lab.md#2-what-love-can-lose"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/what_love_can_lose.webp" width="440" alt="What Love Can Lose — Portada del tema; abre la propuesta de creación en inglés."></a><br><b>Da más cuerpo al estribillo</b><br>What Love Can Lose<br><a href="https://musicmaker.im/detail/discover-v2-107/">▶ Escuchar</a> · <a href="docs/listening-lab.md#2-what-love-can-lose">Propuesta · inglés →</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="docs/listening-lab.md#3-morning-with-healing-hands"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" width="440" alt="Morning with Healing Hands — Portada del tema; abre la propuesta de creación en inglés."></a><br><b>Música cálida para escenas cotidianas</b><br>Morning with Healing Hands<br><a href="https://musicmaker.im/detail/discover-v2-106/">▶ Escuchar</a> · <a href="docs/listening-lab.md#3-morning-with-healing-hands">Propuesta · inglés →</a></td>
+<td width="50%" valign="top"><a href="docs/listening-lab.md#4-the-secret-is-you"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_secret_is_you.webp" width="440" alt="The Secret Is You — Portada del tema; abre la propuesta de creación en inglés."></a><br><b>Una canción de amor suave</b><br>The Secret Is You<br><a href="https://musicmaker.im/detail/discover-v2-105/">▶ Escuchar</a> · <a href="docs/listening-lab.md#4-the-secret-is-you">Propuesta · inglés →</a></td>
+</tr>
+</table>
+
+## Crea tu primera canción
+
+**[Suno · Crear canción ↗](https://suno.com/create)** · **[MusicMaker · Crear canción ↗](https://musicmaker.im/ai-song-generator/)**
+
+1. Abre una de las dos herramientas y selecciona Custom.
+2. Pega el estilo en Styles de Suno o Music Style de MusicMaker; la letra va en Lyrics.
+3. El ejercicio siguiente es instrumental: activa Instrumental y deja Lyrics vacío. Revisa el modelo, los créditos y la visibilidad antes de generar.
+
+Adaptación instrumental inspirada en los instrumentos de Morning with Healing Hands. No se ha probado mediante generación y no copia su melodía ni su letra.
+
+```text
+An instrumental acoustic piece for a quiet everyday scene.
+Fingerpicked guitar leads, with upright bass and light strings.
+Keep the mood warm and hopeful. No singing or spoken voice.
+```
+
+Las cuentas, los créditos y los derechos de uso son independientes. Un mismo prompt no garantiza el mismo resultado.
+
+[Guía detallada · inglés →](docs/official-suno-guide.md) · [12 plantillas originales adicionales →](prompts/README.md)
+
+## Descubre tu próxima canción favorita en MusicMaker
+
+<p align="center"><a href="https://musicmaker.im/"><img src="https://musicmaker.im/images/logo.svg" width="64" alt="MusicMaker — musicmaker.im"></a><br><strong>AI Music Maker</strong><br><a href="https://musicmaker.im/">musicmaker.im</a></p>
+
+El logotipo abre la web oficial y cada portada abre su canción. Escucha, encuentra una idea y crea tu propia versión.
+
+<p align="center"><a href="https://musicmaker.im/es/discover/"><img src="assets/ui/discover-es.svg" height="32" alt="Explorar música"></a> <a href="https://musicmaker.im/ai-song-generator/"><img src="assets/ui/create-es.svg" height="32" alt="Crear canción"></a> <a href="https://musicmaker.im/free-suno-ai-music-detector/"><img src="assets/ui/detect-es.svg" height="32" alt="Comprobar origen"></a></p>
+
+### MusicMaker · Escuchar · 9
+
+<!-- MUSICMAKER-GALLERY:START -->
+<table>
+<tr>
+<td width="33%" align="center" valign="top"><a href="https://musicmaker.im/detail/discover-v2-101/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/island_sunshine.webp" width="280" alt="MusicMaker · Island Sunshine — Escuchar"></a><br><b>Island Sunshine</b><br><a href="https://musicmaker.im/detail/discover-v2-101/"><b>▶ Escuchar</b></a><br><a href="https://cdn.musicmaker.im/musicmaker/discover_v2/island_sunshine.mp3">♫ Audio</a></td>
+<td width="33%" align="center" valign="top"><a href="https://musicmaker.im/detail/discover-v2-104/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_open_road.webp" width="280" alt="MusicMaker · The Open Road — Escuchar"></a><br><b>The Open Road</b><br><a href="https://musicmaker.im/detail/discover-v2-104/"><b>▶ Escuchar</b></a><br><a href="https://cdn.musicmaker.im/musicmaker/discover_v2/the_open_road.mp3">♫ Audio</a></td>
+<td width="33%" align="center" valign="top"><a href="https://musicmaker.im/detail/discover-v2-103/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/sunshine_crew.webp" width="280" alt="MusicMaker · Sunshine Crew — Escuchar"></a><br><b>Sunshine Crew</b><br><a href="https://musicmaker.im/detail/discover-v2-103/"><b>▶ Escuchar</b></a><br><a href="https://cdn.musicmaker.im/musicmaker/discover_v2/sunshine_crew.mp3">♫ Audio</a></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="https://musicmaker.im/detail/discover-v2-100/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_golden_road.webp" width="280" alt="MusicMaker · The Golden Road — Escuchar"></a><br><b>The Golden Road</b><br><a href="https://musicmaker.im/detail/discover-v2-100/"><b>▶ Escuchar</b></a><br><a href="https://cdn.musicmaker.im/musicmaker/discover_v2/the_golden_road.mp3">♫ Audio</a></td>
+<td width="33%" align="center" valign="top"><a href="https://musicmaker.im/detail/discover-v2-97/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/claim_the_day.webp" width="280" alt="MusicMaker · Claim the Day — Escuchar"></a><br><b>Claim the Day</b><br><a href="https://musicmaker.im/detail/discover-v2-97/"><b>▶ Escuchar</b></a><br><a href="https://cdn.musicmaker.im/musicmaker/discover_v2/claim_the_day.mp3">♫ Audio</a></td>
+<td width="33%" align="center" valign="top"><a href="https://musicmaker.im/detail/discover-v2-99/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/sunshine_people.webp" width="280" alt="MusicMaker · Sunshine People — Escuchar"></a><br><b>Sunshine People</b><br><a href="https://musicmaker.im/detail/discover-v2-99/"><b>▶ Escuchar</b></a><br><a href="https://cdn.musicmaker.im/musicmaker/discover_v2/sunshine_people.mp3">♫ Audio</a></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="https://musicmaker.im/detail/discover-v2-95/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/echoes_of_you.webp" width="280" alt="MusicMaker · Echoes of You — Escuchar"></a><br><b>Echoes of You</b><br><a href="https://musicmaker.im/detail/discover-v2-95/"><b>▶ Escuchar</b></a><br><a href="https://cdn.musicmaker.im/musicmaker/discover_v2/echoes_of_you.mp3">♫ Audio</a></td>
+<td width="33%" align="center" valign="top"><a href="https://musicmaker.im/detail/discover-v2-96/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/summer_high.webp" width="280" alt="MusicMaker · Summer High — Escuchar"></a><br><b>Summer High</b><br><a href="https://musicmaker.im/detail/discover-v2-96/"><b>▶ Escuchar</b></a><br><a href="https://cdn.musicmaker.im/musicmaker/discover_v2/summer_high.mp3">♫ Audio</a></td>
+<td width="33%" align="center" valign="top"><a href="https://musicmaker.im/detail/discover-v2-94/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp" width="280" alt="MusicMaker · Neon Pulse — Escuchar"></a><br><b>Neon Pulse</b><br><a href="https://musicmaker.im/detail/discover-v2-94/"><b>▶ Escuchar</b></a><br><a href="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.mp3">♫ Audio</a></td>
+</tr>
+</table>
+<!-- MUSICMAKER-GALLERY:END -->
+
+El detector de MusicMaker ofrece una estimación, no una prueba de autoría, copyright o permiso comercial. Requiere iniciar sesión.
+
+[Comprobar origen ↗](https://musicmaker.im/free-suno-ai-music-detector/) · [Guía detallada · inglés →](docs/detector-and-release.md)
+
+[Sources · English](docs/sources.md) · [Contributing · English](CONTRIBUTING.md)

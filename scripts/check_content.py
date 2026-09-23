@@ -74,6 +74,28 @@ for homepage in [ROOT / 'README.md', ROOT / 'README_ZH.md']:
         if f'docs/listening-lab.md#{fragment}' not in body:
             errors.append(f'{homepage.name}: missing brand creation brief: {fragment}')
 
+# All brand-supported entry languages must remain real, mutually linked pages.
+home_names = ['README.md'] + [f'README_{code}.md' for code in
+    ['ZH', 'TW', 'JA', 'KO', 'ID', 'IT', 'PT', 'ES', 'DE', 'RU', 'FR', 'TH', 'VI', 'AR']]
+for name in home_names:
+    path = ROOT / name
+    if not path.exists():
+        errors.append(f'Missing localized entry: {name}')
+        continue
+    body = path.read_text()
+    languages = re.search(r'<!-- LANGUAGES:START -->(.*?)<!-- LANGUAGES:END -->', body, re.S)
+    if not languages or set(re.findall(r'href="([^"]+)"', languages[1])) != set(home_names):
+        errors.append(f'{name}: language navigation must link all 15 entry pages')
+    gallery = re.search(r'<!-- MUSICMAKER-GALLERY:START -->(.*?)<!-- MUSICMAKER-GALLERY:END -->', body, re.S)
+    rows = re.findall(r'<tr>(.*?)</tr>', gallery[1], re.S) if gallery else []
+    if len(rows) != 3 or any(len(re.findall(r'<td\b', row)) != 3 for row in rows):
+        errors.append(f'{name}: brand gallery must contain 3 rows of 3 cards')
+    elif len(set(re.findall(r'<img src="([^"]+)"', gallery[1]))) != 9:
+        errors.append(f'{name}: brand gallery needs 9 distinct covers')
+    for img in re.findall(r'<img\b[^>]*>', body):
+        if not re.search(r'alt="[^"\s][^"]*"', img):
+            errors.append(f'{name}: image needs descriptive alt text')
+
 if errors:
     print('\n'.join(errors))
     sys.exit(1)

@@ -6,11 +6,29 @@
 
 Copy-ready prompts, original lyrics, real listening references, and practical fixes for your next track.
 
-[English](README.md) · [简体中文](README_ZH.md)
+<!-- LANGUAGES:START -->
+<p align="center">
+<a href="README.md" aria-current="page"><img src="assets/ui/lang-en-active.svg" height="32" alt="English — Current language"></a>
+<a href="README_ZH.md"><img src="assets/ui/lang-zh.svg" height="32" alt="简体中文"></a>
+<a href="README_TW.md"><img src="assets/ui/lang-tw.svg" height="32" alt="繁體中文"></a>
+<a href="README_JA.md"><img src="assets/ui/lang-ja.svg" height="32" alt="日本語"></a>
+<a href="README_KO.md"><img src="assets/ui/lang-ko.svg" height="32" alt="한국어"></a>
+<a href="README_ID.md"><img src="assets/ui/lang-id.svg" height="32" alt="Bahasa Indonesia"></a>
+<a href="README_IT.md"><img src="assets/ui/lang-it.svg" height="32" alt="Italiano"></a>
+<a href="README_PT.md"><img src="assets/ui/lang-pt.svg" height="32" alt="Português"></a>
+<a href="README_ES.md"><img src="assets/ui/lang-es.svg" height="32" alt="Español"></a>
+<a href="README_DE.md"><img src="assets/ui/lang-de.svg" height="32" alt="Deutsch"></a>
+<a href="README_RU.md"><img src="assets/ui/lang-ru.svg" height="32" alt="Русский"></a>
+<a href="README_FR.md"><img src="assets/ui/lang-fr.svg" height="32" alt="Français"></a>
+<a href="README_TH.md"><img src="assets/ui/lang-th.svg" height="32" alt="ไทย"></a>
+<a href="README_VI.md"><img src="assets/ui/lang-vi.svg" height="32" alt="Tiếng Việt"></a>
+<a href="README_AR.md"><img src="assets/ui/lang-ar.svg" height="32" alt="العربية"></a>
+</p>
+<!-- LANGUAGES:END -->
 
 [![The Suno Creator Guide: Make your next favorite song. Orange vinyl on an ivory background; open the official Suno v6 FAQ.](assets/creator-guide-cover.png)](https://help.suno.com/en/articles/13924481)
 
-**[Meet Suno v6](#what-can-suno-v6-do) · [Explore X examples](#prompts-and-demonstrations-from-x) · [Make a song](#make-your-first-song)**
+<p align="center"><a href="#what-can-suno-v6-do"><img src="assets/ui/official-en.svg" height="32" alt="Official capabilities"></a> <a href="#prompts-and-demonstrations-from-x"><img src="assets/ui/cases-en.svg" height="32" alt="X examples"></a> <a href="#what-are-you-making"><img src="assets/ui/briefs-en.svg" height="32" alt="Creation briefs"></a></p>
 
 </div>
 
@@ -161,18 +179,31 @@ Revise where you created the take: return to [Suno](https://suno.com/create) for
 
 Discover a sound you like, then turn your own idea into a song. **MusicMaker** brings together track discovery, song creation, and music-origin detection. AI Music Maker maintains this guide.
 
-**[Discover music](https://musicmaker.im/discover/) · [Create a song](https://musicmaker.im/ai-song-generator/) · [Check music origin](https://musicmaker.im/free-suno-ai-music-detector/)**
+<p align="center"><a href="https://musicmaker.im/discover/"><img src="assets/ui/discover-en.svg" height="32" alt="Discover music"></a> <a href="https://musicmaker.im/ai-song-generator/"><img src="assets/ui/create-en.svg" height="32" alt="Create a song"></a> <a href="https://musicmaker.im/free-suno-ai-music-detector/"><img src="assets/ui/detect-en.svg" height="32" alt="Check music origin"></a></p>
 
-### Selected from MusicMaker Discover
+### MusicMaker Discover · 9 tracks
 
 Open a cover to visit its MusicMaker track page, or play the audio directly. These are catalog selections, not outputs from our recipes. [Source notes](docs/sources.md) document source links and model provenance.
 
+<!-- MUSICMAKER-GALLERY:START -->
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-101/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/island_sunshine.webp" width="440" alt="Island Sunshine: cover; listen on MusicMaker"></a><br><b>Island Sunshine</b><br><sub>MusicMaker Discover</sub><br><a href="https://musicmaker.im/detail/discover-v2-101/">▶ Open track</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/island_sunshine.mp3">Audio</a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-94/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp" width="440" alt="Neon Pulse: cover; listen on MusicMaker"></a><br><b>Neon Pulse</b><br><sub>MusicMaker Discover</sub><br><a href="https://musicmaker.im/detail/discover-v2-94/">▶ Open track</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.mp3">Audio</a></td>
+<td width="33%" align="center" valign="top"><a href="https://musicmaker.im/detail/discover-v2-101/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/island_sunshine.webp" width="280" alt="MusicMaker · Island Sunshine — Listen"></a><br><b>Island Sunshine</b><br><a href="https://musicmaker.im/detail/discover-v2-101/"><b>▶ Listen</b></a><br><a href="https://cdn.musicmaker.im/musicmaker/discover_v2/island_sunshine.mp3">♫ Audio</a></td>
+<td width="33%" align="center" valign="top"><a href="https://musicmaker.im/detail/discover-v2-104/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_open_road.webp" width="280" alt="MusicMaker · The Open Road — Listen"></a><br><b>The Open Road</b><br><a href="https://musicmaker.im/detail/discover-v2-104/"><b>▶ Listen</b></a><br><a href="https://cdn.musicmaker.im/musicmaker/discover_v2/the_open_road.mp3">♫ Audio</a></td>
+<td width="33%" align="center" valign="top"><a href="https://musicmaker.im/detail/discover-v2-103/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/sunshine_crew.webp" width="280" alt="MusicMaker · Sunshine Crew — Listen"></a><br><b>Sunshine Crew</b><br><a href="https://musicmaker.im/detail/discover-v2-103/"><b>▶ Listen</b></a><br><a href="https://cdn.musicmaker.im/musicmaker/discover_v2/sunshine_crew.mp3">♫ Audio</a></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="https://musicmaker.im/detail/discover-v2-100/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_golden_road.webp" width="280" alt="MusicMaker · The Golden Road — Listen"></a><br><b>The Golden Road</b><br><a href="https://musicmaker.im/detail/discover-v2-100/"><b>▶ Listen</b></a><br><a href="https://cdn.musicmaker.im/musicmaker/discover_v2/the_golden_road.mp3">♫ Audio</a></td>
+<td width="33%" align="center" valign="top"><a href="https://musicmaker.im/detail/discover-v2-97/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/claim_the_day.webp" width="280" alt="MusicMaker · Claim the Day — Listen"></a><br><b>Claim the Day</b><br><a href="https://musicmaker.im/detail/discover-v2-97/"><b>▶ Listen</b></a><br><a href="https://cdn.musicmaker.im/musicmaker/discover_v2/claim_the_day.mp3">♫ Audio</a></td>
+<td width="33%" align="center" valign="top"><a href="https://musicmaker.im/detail/discover-v2-99/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/sunshine_people.webp" width="280" alt="MusicMaker · Sunshine People — Listen"></a><br><b>Sunshine People</b><br><a href="https://musicmaker.im/detail/discover-v2-99/"><b>▶ Listen</b></a><br><a href="https://cdn.musicmaker.im/musicmaker/discover_v2/sunshine_people.mp3">♫ Audio</a></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="https://musicmaker.im/detail/discover-v2-95/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/echoes_of_you.webp" width="280" alt="MusicMaker · Echoes of You — Listen"></a><br><b>Echoes of You</b><br><a href="https://musicmaker.im/detail/discover-v2-95/"><b>▶ Listen</b></a><br><a href="https://cdn.musicmaker.im/musicmaker/discover_v2/echoes_of_you.mp3">♫ Audio</a></td>
+<td width="33%" align="center" valign="top"><a href="https://musicmaker.im/detail/discover-v2-96/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/summer_high.webp" width="280" alt="MusicMaker · Summer High — Listen"></a><br><b>Summer High</b><br><a href="https://musicmaker.im/detail/discover-v2-96/"><b>▶ Listen</b></a><br><a href="https://cdn.musicmaker.im/musicmaker/discover_v2/summer_high.mp3">♫ Audio</a></td>
+<td width="33%" align="center" valign="top"><a href="https://musicmaker.im/detail/discover-v2-94/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp" width="280" alt="MusicMaker · Neon Pulse — Listen"></a><br><b>Neon Pulse</b><br><a href="https://musicmaker.im/detail/discover-v2-94/"><b>▶ Listen</b></a><br><a href="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.mp3">♫ Audio</a></td>
 </tr>
 </table>
+<!-- MUSICMAKER-GALLERY:END -->
 
 **Found a sound you like?** [Create your own song on MusicMaker](https://musicmaker.im/ai-song-generator/) or [keep exploring Discover](https://musicmaker.im/discover/). For a guided exercise, open the [listening lab](docs/listening-lab.md).
 
