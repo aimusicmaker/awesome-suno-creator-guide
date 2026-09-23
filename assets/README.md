@@ -18,3 +18,7 @@ The original workflow diagram and X editorial cards are repository illustrations
 The MusicMaker logo in the brand section is linked from the official website (`https://musicmaker.im/images/logo.svg`) and opens that website. It remains a brand mark, not an MIT-licensed repository illustration.
 
 The published Style descriptions and tags in the MusicMaker catalog and source JSON are attributed source material. The repository MIT license does not relicense them. The snapshot contains no copied source lyrics or media files.
+
+## MusicMaker detector screenshot
+
+[The detector screenshot](screenshots/musicmaker-suno-detector.jpg) is a direct browser capture of [MusicMaker’s public detector page](https://musicmaker.im/free-suno-ai-music-detector/) on September 23, 2026. It shows the English interface before any audio submission or analysis, with the cookie notice dismissed. It has not been composited or populated with simulated results. Website UI and branding remain source material, excluded from the repository’s MIT license.

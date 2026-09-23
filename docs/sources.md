@@ -78,7 +78,7 @@ See [asset rights](../assets/README.md) before republishing media. Please [repor
 - [Remix guide](https://help.suno.com/en/articles/6050497): creator permission and remix rights.
 - [Eric Christian interview](https://suno.com/blog/eric-christian): piano-to-orchestration workflow and featured track.
 - Homepage creator portraits are the header images linked from the four corresponding Suno interviews. They remain hosted by Suno's image provider and are credited through each card. Their inclusion does not imply endorsement.
-- The nine homepage creation-brief cards and the listening galleries use MusicMaker’s public detail pages and linked cover/audio assets. Their model labels are retained in the [source snapshot](../data/musicmaker-discover.json), not promoted as independent model authentication.
+- The nine homepage creation-brief cards and the full catalog use MusicMaker’s public detail pages and linked cover/audio assets. Their model labels are retained in the [source snapshot](../data/musicmaker-discover.json), not promoted as independent model authentication.
 - [Listening lab](listening-lab.md): nine featured briefs span contrasting genres and suggested uses, with three earlier gentle song ideas retained. Summaries paraphrase published Style; where only a genre is published, the summary stays at genre level. Proposed uses and variations are original, untested exercises. No source lyrics are reproduced. Audio URL availability is not an audio-quality evaluation or reproduction test.
 
 ## X examples
@@ -89,11 +89,11 @@ The homepage links four separate replies in [Suno’s September 12 v6 thread](ht
 
 The [MusicMaker song generator](https://musicmaker.im/ai-song-generator/) was inspected in the browser on September 23, 2026 with Music 6.0 selected. Basic showed Description and Instrumental; switching to Custom exposed Lyrics, Music Style, Music Title, and Instrumental. A Public switch was also visible. This was an interface inspection, not a paid generation or output-quality test. Suno’s corresponding Custom route is documented in its [own-lyrics guide](https://help.suno.com/en/articles/2415873). The README and recipe links connect the two services through a shared creative brief, not through shared accounts, credits, rights, or guaranteed identical capabilities.
 
-## README languages and nine-track gallery
+## README languages and detector screenshot
 
 The fifteen language links match the language navigation on [MusicMaker Discover](https://musicmaker.im/discover/), checked September 23, 2026: English, Japanese, Indonesian, Italian, Portuguese, Spanish, German, Russian, French, Simplified Chinese, Traditional Chinese, Korean, Thai, Vietnamese and Arabic. Localized README pages provide the main reader journey; detailed reference documents remain in English and are labeled accordingly.
 
-The nine-track brand gallery uses existing MusicMaker titles, covers and public audio URLs. It adds seven source records checked September 23, 2026. Tracks without a published Style field are not assigned invented genre labels. Images link to the matching source track, and audio links remain separate.
+The brand section recommends the [MusicMaker detector](https://musicmaker.im/free-suno-ai-music-detector/). Its [website screenshot](../assets/screenshots/musicmaker-suno-detector.jpg) was captured directly from the public English interface on September 23, 2026, after dismissing the cookie notice. It shows the audio-upload control, Check button and empty results area. No audio was submitted, no detection was run, and the screenshot is not evidence of detection accuracy. The screenshot links to the tool in every localized README; captions identify the English interface. The former nine-track listening gallery has been removed from the homepages; those tracks remain available in the complete catalog.
 
 ## Complete MusicMaker Discover snapshot
 
@@ -101,4 +101,4 @@ The [complete catalog](musicmaker-catalog.md) covers **148 public Discover recor
 
 We retain titles, covers, audio links, published Style and tags, source model labels, and source links. Lyrics and media binaries are not copied. Reader categories are editorial groupings based on published Style/tags; the birthday group is based on the source lyrics’ explicit birthday theme. Twenty-four records publish neither Style nor tags and remain unclassified. Published Style is source metadata, not a claim to recover the complete original generation prompt, settings or editing history. Source text is not relicensed under the repository MIT license.
 
-The README’s twelve further styles introduce twelve different source tracks, with more specific published genres such as city pop, dream pop, deep house and lo-fi soul. They share no tracks with the nine purpose-led creation briefs or the separate nine-track listening gallery. Compact thumbnails distinguish this style index from the larger creation-brief cards. Images and titles open the corresponding catalog record; listening links open the original brand track. Regenerate the catalog with `python3 scripts/build_musicmaker_catalog.py`; `--check` verifies that it still matches the stored snapshot.
+The README’s twelve further styles introduce twelve different source tracks, with more specific published genres such as city pop, dream pop, deep house and lo-fi soul. They share no tracks with the nine purpose-led creation briefs. Both selections use large clickable covers across three columns; the twelve further styles occupy four rows. Images and titles open the corresponding catalog record; listening links open the original brand track. Regenerate the catalog with `python3 scripts/build_musicmaker_catalog.py`; `--check` verifies that it still matches the stored snapshot.
