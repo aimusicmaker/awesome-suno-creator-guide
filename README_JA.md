@@ -2,7 +2,9 @@
 
 # Suno 音楽制作ガイド
 
-公式情報を知り、実例を聴き、自分の曲を作ろう。
+**ひとつのアイデアから、いろいろな音楽へ。**
+
+フォーク、ダンス、ジャズ、アニメや短編映画の音楽も。Suno に作りたい曲を伝え、できた曲を聴いて、気に入った部分を磨いていきましょう。
 
 <!-- LANGUAGES:START -->
 <p align="center">
@@ -28,7 +30,7 @@
 <p align="center"><a href="mobile/README_JA.md"><img src="assets/ui/mobile-ja.svg" height="40" alt="モバイル版"></a></p>
 <!-- DEVICE-VIEW:END -->
 
-<a href="https://help.suno.com/en/articles/13924481"><img src="assets/creator-guide-cover.png" width="960" alt="独立ガイドの表紙。クリックして Suno 公式 v6 FAQ を開く。"></a>
+<a href="https://help.suno.com/en/articles/13924481"><img src="assets/creator-guide-cover.png" width="960" alt="ピアノ、ジャズ、ギター、ダンス、アニメのコラージュ。伝える、作る、磨く。Suno 公式 v6 FAQ を開く。"></a>
 
 <p><a href="#official"><img src="assets/ui/official-ja.svg" height="32" alt="公式情報"></a> <a href="#examples"><img src="assets/ui/cases-ja.svg" height="32" alt="X の実例"></a> <a href="#briefs"><img src="assets/ui/briefs-ja.svg" height="32" alt="制作案を選ぶ"></a></p>
 </div>

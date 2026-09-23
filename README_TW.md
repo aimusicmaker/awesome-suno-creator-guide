@@ -2,7 +2,9 @@
 
 # Suno 音樂創作指南
 
-先看官方能力，再聽真實案例，最後動手創作自己的歌。
+**一句想法，做出不同風格的音樂。**
+
+民謠、舞曲、爵士，或動畫與短片配樂。在 Suno 中描述想法，生成後試聽，再調整喜歡的片段。
 
 <!-- LANGUAGES:START -->
 <p align="center">
@@ -28,7 +30,7 @@
 <p align="center"><a href="mobile/README_TW.md"><img src="assets/ui/mobile-tw.svg" height="40" alt="手機版首頁"></a></p>
 <!-- DEVICE-VIEW:END -->
 
-<a href="https://help.suno.com/en/articles/13924481"><img src="assets/creator-guide-cover.png" width="960" alt="本獨立指南封面；點擊開啟 Suno 官方 v6 常見問題。"></a>
+<a href="https://help.suno.com/en/articles/13924481"><img src="assets/creator-guide-cover.png" width="960" alt="鋼琴、爵士、吉他、舞曲與動畫拼貼：描述想法、生成、調整。點擊查看 Suno 官方 v6 常見問題。"></a>
 
 <p><a href="#official"><img src="assets/ui/official-tw.svg" height="32" alt="官方說明"></a> <a href="#examples"><img src="assets/ui/cases-tw.svg" height="32" alt="X 案例"></a> <a href="#briefs"><img src="assets/ui/briefs-tw.svg" height="32" alt="選創作提案"></a></p>
 </div>

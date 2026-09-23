@@ -3,7 +3,9 @@
 
 # Hướng dẫn sáng tác nhạc với Suno
 
-Tìm hiểu tính năng chính thức, nghe ví dụ và tạo bài hát của riêng bạn.
+**Một ý tưởng, nhiều sắc thái âm nhạc.**
+
+Folk, nhạc dance, jazz hay nhạc nền cho hoạt hình và phim ngắn. Mô tả ý tưởng trong Suno, nghe kết quả rồi chỉnh sửa những đoạn bạn thích.
 
 <!-- LANGUAGES:START -->
 <p align="center">
@@ -29,7 +31,7 @@ Tìm hiểu tính năng chính thức, nghe ví dụ và tạo bài hát của r
 <p align="center"><a href="../README_VI.md"><img src="../assets/ui/desktop-vi.svg" height="40" alt="Bản máy tính"></a></p>
 <!-- DEVICE-VIEW:END -->
 
-<a href="https://help.suno.com/en/articles/13924481"><img src="../assets/creator-guide-cover.png" width="960" alt="Ảnh bìa hướng dẫn độc lập này; mở phần hỏi đáp chính thức về Suno v6."></a>
+<a href="https://help.suno.com/en/articles/13924481"><img src="../assets/creator-guide-cover.png" width="960" alt="Ảnh ghép piano, jazz, guitar acoustic, nhạc dance và hoạt hình: mô tả, tạo nhạc, chỉnh sửa. Mở FAQ chính thức của Suno v6."></a>
 
 <p><a href="#official"><img src="../assets/ui/official-vi.svg" height="32" alt="Hướng dẫn chính thức"></a> <a href="#examples"><img src="../assets/ui/cases-vi.svg" height="32" alt="Ví dụ trên X"></a> <a href="#briefs"><img src="../assets/ui/briefs-vi.svg" height="32" alt="Chọn ý tưởng"></a></p>
 </div>

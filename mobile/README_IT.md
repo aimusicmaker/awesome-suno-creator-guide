@@ -3,7 +3,9 @@
 
 # Guida alla creazione musicale con Suno
 
-Scopri le funzioni ufficiali, ascolta gli esempi e crea la tua canzone.
+**Un’idea, tanti suoni.**
+
+Folk, dance, jazz o musica per animazioni e cortometraggi. Descrivi la tua idea in Suno, ascolta il risultato e perfeziona le parti che ti piacciono.
 
 <!-- LANGUAGES:START -->
 <p align="center">
@@ -29,7 +31,7 @@ Scopri le funzioni ufficiali, ascolta gli esempi e crea la tua canzone.
 <p align="center"><a href="../README_IT.md"><img src="../assets/ui/desktop-it.svg" height="40" alt="Versione desktop"></a></p>
 <!-- DEVICE-VIEW:END -->
 
-<a href="https://help.suno.com/en/articles/13924481"><img src="../assets/creator-guide-cover.png" width="960" alt="Copertina di questa guida indipendente; apre le FAQ ufficiali di Suno v6."></a>
+<a href="https://help.suno.com/en/articles/13924481"><img src="../assets/creator-guide-cover.png" width="960" alt="Collage di pianoforte, jazz, chitarra acustica, dance e animazione: descrivi, crea, perfeziona. Apri le FAQ ufficiali di Suno v6."></a>
 
 <p><a href="#official"><img src="../assets/ui/official-it.svg" height="32" alt="Guida ufficiale"></a> <a href="#examples"><img src="../assets/ui/cases-it.svg" height="32" alt="Esempi su X"></a> <a href="#briefs"><img src="../assets/ui/briefs-it.svg" height="32" alt="Scegli un progetto"></a></p>
 </div>

@@ -2,7 +2,9 @@
 
 # Leitfaden für Musik mit Suno
 
-Offizielle Funktionen verstehen, Beispiele anhören und eigene Musik gestalten.
+**Eine Idee, viele Klänge.**
+
+Folk, Dance, Jazz oder Musik für Animationen und Kurzfilme. Beschreibe deine Idee in Suno, hör dir das Ergebnis an und verfeinere die Stellen, die dir gefallen.
 
 <!-- LANGUAGES:START -->
 <p align="center">
@@ -28,7 +30,7 @@ Offizielle Funktionen verstehen, Beispiele anhören und eigene Musik gestalten.
 <p align="center"><a href="mobile/README_DE.md"><img src="assets/ui/mobile-de.svg" height="40" alt="Mobile Ansicht"></a></p>
 <!-- DEVICE-VIEW:END -->
 
-<a href="https://help.suno.com/en/articles/13924481"><img src="assets/creator-guide-cover.png" width="960" alt="Cover dieses unabhängigen Leitfadens; öffnet die offiziellen Suno-v6-FAQ."></a>
+<a href="https://help.suno.com/en/articles/13924481"><img src="assets/creator-guide-cover.png" width="960" alt="Collage aus Klavier, Jazz, Akustikgitarre, Dance und Animation: beschreiben, erstellen, verfeinern. Offizielle Suno-v6-FAQ öffnen."></a>
 
 <p><a href="#official"><img src="assets/ui/official-de.svg" height="32" alt="Offizielle Hilfe"></a> <a href="#examples"><img src="assets/ui/cases-de.svg" height="32" alt="Beispiele auf X"></a> <a href="#briefs"><img src="assets/ui/briefs-de.svg" height="32" alt="Idee auswählen"></a></p>
 </div>

@@ -2,9 +2,9 @@
 
 # Suno 音乐创作指南
 
-**做一首自己还想再听的歌。**
+**一句想法，做出不同风格的音乐。**
 
-可直接复制的提示词、原创歌词、真实试听参考，以及常见问题的修改办法。
+民谣、舞曲、爵士，或动画与短片配乐。在 Suno 中描述想法，生成后试听，再调整喜欢的片段。
 
 <!-- LANGUAGES:START -->
 <p align="center">
@@ -30,13 +30,13 @@
 <p align="center"><a href="mobile/README_ZH.md"><img src="assets/ui/mobile-zh.svg" height="40" alt="手机版首页"></a></p>
 <!-- DEVICE-VIEW:END -->
 
-[![Suno 创作指南封面：米白底色与橙色黑胶唱片，主题是创作下一首自己喜欢的歌；点击打开 Suno 官方 v6 FAQ。](assets/creator-guide-cover.png)](https://help.suno.com/en/articles/13924481)
+[![钢琴、爵士、吉他、舞曲与动画拼贴：描述想法、生成、调整。点击查看 Suno 官方 v6 常见问题。](assets/creator-guide-cover.png)](https://help.suno.com/en/articles/13924481)
 
 <p align="center"><a href="#suno-v6能做什么"><img src="assets/ui/official-zh.svg" height="32" alt="官方能力"></a> <a href="#official-examples"><img src="assets/ui/cases-zh.svg" height="32" alt="官方案例"></a> <a href="#先选你要做的内容"><img src="assets/ui/briefs-zh.svg" height="32" alt="创作提案"></a></p>
 
 </div>
 
-适合第一次写歌的人、需要视频配乐的创作者，以及“脑中有声音，却总生成不出来”的音乐爱好者。先了解官方能力，再从 X 社区作品里找灵感，最后跟着教程开始自己的创作。
+想写自己的歌、给视频配乐，或为一段旧旋律换个编曲？先看看 Suno 的官方演示，再听听 X 创作者的舞曲、钢琴与影视配乐作品，找到想尝试的方向，跟着教程动手做。
 
 MusicMaker 制作的独立创作指南。本页提供中文入门，详细教程和练习说明为英文。
 

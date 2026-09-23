@@ -1,0 +1,13 @@
+Use case: ads-marketing
+Asset type: a wide landscape GitHub README cover for an independent Suno music creation guide, approximately 3:1 aspect ratio, designed to remain readable at 900px wide.
+Primary request: Make music creation feel diverse, approachable and easy to start. Visually connect to the guide's real examples: tech-house dance music, live piano and Latin jazz, acoustic songwriting, and animated or cinematic music videos.
+Style: polished editorial collage mixing cinematic photography, tactile paper cutouts and one charming stylized animation frame. Rich warm ivory, charcoal, burnt orange, muted teal and small lavender accents; confident music magazine art direction. Not a software dashboard.
+Composition: bold clean typography occupying the left third, a cohesive lively collage occupying the remaining two thirds. Show a close-up of piano keys with a playing hand, an acoustic guitar and microphone, a dancer's feet with a bass waveform, and a small colorful animated music-video scene. Interweave these as one composition with large recognizable imagery, not a grid of tiny tiles. A single flowing musical line connects the scenes, suggesting different sounds emerging from one idea.
+Text, exactly and only:
+"SUNO"
+"CREATOR GUIDE"
+"One idea. Many sounds."
+"DESCRIBE  →  CREATE  →  REFINE"
+Use large clear typography, especially SUNO and the tagline. Bottom three-step line should be legible and spare, with small simple corresponding speech bubble, play and adjustment icons.
+Mood: inviting, energetic, easy to try, creative rather than technical.
+Constraints: original artwork, no imitation of actual creator images or identifiable people, no fake screenshot or product UI, no official Suno logo or official endorsement badge, no model version, no claims of instant professional results, no vinyl record as main subject, no extraneous text. Keep all text inside generous safe margins. Full-bleed wide composition.

@@ -4,7 +4,9 @@
 
 # دليل إنشاء الموسيقى باستخدام Suno
 
-تعرّف على الإمكانات الرسمية، واستمع إلى أمثلة، ثم أنشئ أغنيتك الخاصة.
+**فكرة واحدة، ألوان موسيقية متعددة.**
+
+فولك، موسيقى راقصة، جاز، أو موسيقى للرسوم المتحركة والأفلام القصيرة. صِف فكرتك في Suno، واستمع إلى النتيجة، ثم حسّن المقاطع التي تعجبك.
 
 <!-- LANGUAGES:START -->
 <p align="center">
@@ -30,7 +32,7 @@
 <p align="center"><a href="mobile/README_AR.md"><img src="assets/ui/mobile-ar.svg" height="40" alt="نسخة الهاتف"></a></p>
 <!-- DEVICE-VIEW:END -->
 
-<a href="https://help.suno.com/en/articles/13924481"><img src="assets/creator-guide-cover.png" width="960" alt="غلاف هذا الدليل المستقل؛ افتح الأسئلة الشائعة الرسمية حول Suno v6."></a>
+<a href="https://help.suno.com/en/articles/13924481"><img src="assets/creator-guide-cover.png" width="960" alt="كولاج يجمع البيانو والجاز والغيتار والرقص والرسوم المتحركة: صِف، أنشئ، حسّن. افتح الأسئلة الشائعة الرسمية حول Suno v6."></a>
 
 <p><a href="#official"><img src="assets/ui/official-ar.svg" height="32" alt="الدليل الرسمي"></a> <a href="#examples"><img src="assets/ui/cases-ar.svg" height="32" alt="أمثلة من X"></a> <a href="#briefs"><img src="assets/ui/briefs-ar.svg" height="32" alt="اختر فكرة"></a></p>
 </div>

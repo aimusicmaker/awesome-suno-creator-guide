@@ -2,7 +2,9 @@
 
 # คู่มือสร้างเพลงด้วย Suno
 
-รู้จักความสามารถจากข้อมูลทางการ ฟังตัวอย่าง แล้วสร้างเพลงของคุณเอง
+**ไอเดียเดียว สร้างเพลงได้หลายแนว**
+
+โฟล์ก แดนซ์ แจ๊ส หรือเพลงประกอบแอนิเมชันและหนังสั้น บอกไอเดียของคุณกับ Suno ฟังเพลงที่ได้ แล้วปรับท่อนที่ชอบให้ลงตัว
 
 <!-- LANGUAGES:START -->
 <p align="center">
@@ -28,7 +30,7 @@
 <p align="center"><a href="mobile/README_TH.md"><img src="assets/ui/mobile-th.svg" height="40" alt="เวอร์ชันมือถือ"></a></p>
 <!-- DEVICE-VIEW:END -->
 
-<a href="https://help.suno.com/en/articles/13924481"><img src="assets/creator-guide-cover.png" width="960" alt="ภาพปกคู่มืออิสระนี้ คลิกเพื่อเปิดคำถามที่พบบ่อยอย่างเป็นทางการของ Suno v6"></a>
+<a href="https://help.suno.com/en/articles/13924481"><img src="assets/creator-guide-cover.png" width="960" alt="ภาพคอลลาจเปียโน แจ๊ส กีตาร์อะคูสติก แดนซ์ และแอนิเมชัน: บอกไอเดีย สร้างเพลง ปรับแต่ง เปิดคำถามที่พบบ่อยอย่างเป็นทางการของ Suno v6"></a>
 
 <p><a href="#official"><img src="assets/ui/official-th.svg" height="32" alt="ข้อมูลทางการ"></a> <a href="#examples"><img src="assets/ui/cases-th.svg" height="32" alt="ตัวอย่างจาก X"></a> <a href="#briefs"><img src="assets/ui/briefs-th.svg" height="32" alt="เลือกแนวคิด"></a></p>
 </div>

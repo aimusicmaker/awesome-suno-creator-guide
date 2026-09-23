@@ -2,7 +2,9 @@
 
 # Suno 음악 창작 가이드
 
-공식 기능을 살펴보고, 실제 곡을 들으며 나만의 음악을 만들어 보세요.
+**하나의 아이디어로, 다채로운 음악을.**
+
+포크, 댄스, 재즈부터 애니메이션과 단편 영화 음악까지. Suno에 아이디어를 설명하고, 만들어진 음악을 들어본 뒤 마음에 드는 부분을 다듬어 보세요.
 
 <!-- LANGUAGES:START -->
 <p align="center">
@@ -28,7 +30,7 @@
 <p align="center"><a href="mobile/README_KO.md"><img src="assets/ui/mobile-ko.svg" height="40" alt="모바일 버전"></a></p>
 <!-- DEVICE-VIEW:END -->
 
-<a href="https://help.suno.com/en/articles/13924481"><img src="assets/creator-guide-cover.png" width="960" alt="독립 가이드 표지. Suno 공식 v6 FAQ 열기."></a>
+<a href="https://help.suno.com/en/articles/13924481"><img src="assets/creator-guide-cover.png" width="960" alt="피아노, 재즈, 기타, 댄스, 애니메이션 콜라주. 설명하고, 만들고, 다듬기. Suno 공식 v6 FAQ 열기."></a>
 
 <p><a href="#official"><img src="assets/ui/official-ko.svg" height="32" alt="공식 안내"></a> <a href="#examples"><img src="assets/ui/cases-ko.svg" height="32" alt="X 사례"></a> <a href="#briefs"><img src="assets/ui/briefs-ko.svg" height="32" alt="창작 방향 선택"></a></p>
 </div>

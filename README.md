@@ -2,9 +2,9 @@
 
 # Awesome Suno Creator Guide
 
-**Make a song you want to hear again.**
+**One idea. Many sounds.**
 
-Copy-ready prompts, original lyrics, real listening references, and practical fixes for your next track.
+Folk, dance, jazz, or a score for your next animation or short film. Describe your idea in Suno, listen to what it creates, then refine the parts you like.
 
 <!-- LANGUAGES:START -->
 <p align="center">
@@ -30,13 +30,13 @@ Copy-ready prompts, original lyrics, real listening references, and practical fi
 <p align="center"><a href="mobile/README.md"><img src="assets/ui/mobile-en.svg" height="40" alt="Mobile version"></a></p>
 <!-- DEVICE-VIEW:END -->
 
-[![The Suno Creator Guide: Make your next favorite song. Orange vinyl on an ivory background; open the official Suno v6 FAQ.](assets/creator-guide-cover.png)](https://help.suno.com/en/articles/13924481)
+[![Piano, jazz, acoustic guitar, dance and animation: describe, create, refine. Open the official Suno v6 FAQ.](assets/creator-guide-cover.png)](https://help.suno.com/en/articles/13924481)
 
 <p align="center"><a href="#what-can-suno-v6-do"><img src="assets/ui/official-en.svg" height="32" alt="Official capabilities"></a> <a href="#official-examples"><img src="assets/ui/cases-en.svg" height="32" alt="Official examples"></a> <a href="#what-are-you-making"><img src="assets/ui/briefs-en.svg" height="32" alt="Creation briefs"></a></p>
 
 </div>
 
-For first-time songwriters and video creators: explore official capabilities, find inspiration in X community works, then follow the tutorial to make your own song.
+Want to write a song, score a video, or give an old melody a new arrangement? Start with Suno’s official demos, explore dance tracks, piano performances and film scores from X creators, then choose a direction and follow the tutorial.
 
 An independent creation guide by MusicMaker, with source links and practical exercises.
 

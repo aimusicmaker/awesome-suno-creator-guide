@@ -3,7 +3,9 @@
 
 # Руководство по созданию музыки в Suno
 
-Изучите официальные возможности, послушайте примеры и создайте свою песню.
+**Одна идея — разная музыка.**
+
+Фолк, танцевальная музыка, джаз или саундтрек к анимации и короткому метру. Опишите идею в Suno, послушайте результат и доработайте понравившиеся фрагменты.
 
 <!-- LANGUAGES:START -->
 <p align="center">
@@ -29,7 +31,7 @@
 <p align="center"><a href="../README_RU.md"><img src="../assets/ui/desktop-ru.svg" height="40" alt="Версия для компьютера"></a></p>
 <!-- DEVICE-VIEW:END -->
 
-<a href="https://help.suno.com/en/articles/13924481"><img src="../assets/creator-guide-cover.png" width="960" alt="Обложка независимого руководства; открыть официальные ответы на вопросы о Suno v6."></a>
+<a href="https://help.suno.com/en/articles/13924481"><img src="../assets/creator-guide-cover.png" width="960" alt="Коллаж: фортепиано, джаз, акустическая гитара, танцы и анимация. Опишите, создайте, доработайте. Открыть официальный FAQ Suno v6."></a>
 
 <p><a href="#official"><img src="../assets/ui/official-ru.svg" height="32" alt="Официальная справка"></a> <a href="#examples"><img src="../assets/ui/cases-ru.svg" height="32" alt="Примеры из X"></a> <a href="#briefs"><img src="../assets/ui/briefs-ru.svg" height="32" alt="Выбрать идею"></a></p>
 </div>

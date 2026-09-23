@@ -3,7 +3,9 @@
 
 # Panduan Membuat Musik dengan Suno
 
-Kenali fitur resmi, dengarkan contoh, lalu buat lagu Anda sendiri.
+**Satu ide, beragam musik.**
+
+Folk, dance, jazz, atau musik untuk animasi dan film pendek. Jelaskan ide Anda di Suno, dengarkan hasilnya, lalu sempurnakan bagian yang Anda suka.
 
 <!-- LANGUAGES:START -->
 <p align="center">
@@ -29,7 +31,7 @@ Kenali fitur resmi, dengarkan contoh, lalu buat lagu Anda sendiri.
 <p align="center"><a href="../README_ID.md"><img src="../assets/ui/desktop-id.svg" height="40" alt="Versi desktop"></a></p>
 <!-- DEVICE-VIEW:END -->
 
-<a href="https://help.suno.com/en/articles/13924481"><img src="../assets/creator-guide-cover.png" width="960" alt="Sampul panduan independen ini; buka FAQ resmi Suno v6."></a>
+<a href="https://help.suno.com/en/articles/13924481"><img src="../assets/creator-guide-cover.png" width="960" alt="Kolase piano, jazz, gitar akustik, dance, dan animasi: jelaskan, buat, sempurnakan. Buka FAQ v6 resmi Suno."></a>
 
 <p><a href="#official"><img src="../assets/ui/official-id.svg" height="32" alt="Panduan resmi"></a> <a href="#examples"><img src="../assets/ui/cases-id.svg" height="32" alt="Contoh di X"></a> <a href="#briefs"><img src="../assets/ui/briefs-id.svg" height="32" alt="Pilih ide"></a></p>
 </div>

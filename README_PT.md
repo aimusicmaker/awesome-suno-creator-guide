@@ -2,7 +2,9 @@
 
 # Guia de criação musical com Suno
 
-Conheça os recursos oficiais, ouça exemplos e crie sua própria música.
+**Uma ideia, muitos sons.**
+
+Folk, dance, jazz ou uma trilha para animações e curtas. Descreva sua ideia no Suno, ouça o resultado e aperfeiçoe os trechos de que mais gostar.
 
 <!-- LANGUAGES:START -->
 <p align="center">
@@ -28,7 +30,7 @@ Conheça os recursos oficiais, ouça exemplos e crie sua própria música.
 <p align="center"><a href="mobile/README_PT.md"><img src="assets/ui/mobile-pt.svg" height="40" alt="Versão móvel"></a></p>
 <!-- DEVICE-VIEW:END -->
 
-<a href="https://help.suno.com/en/articles/13924481"><img src="assets/creator-guide-cover.png" width="960" alt="Capa deste guia independente; abre as perguntas frequentes oficiais do Suno v6."></a>
+<a href="https://help.suno.com/en/articles/13924481"><img src="assets/creator-guide-cover.png" width="960" alt="Colagem de piano, jazz, violão, dance e animação: descreva, crie, aperfeiçoe. Abra as perguntas frequentes oficiais do Suno v6."></a>
 
 <p><a href="#official"><img src="assets/ui/official-pt.svg" height="32" alt="Guia oficial"></a> <a href="#examples"><img src="assets/ui/cases-pt.svg" height="32" alt="Exemplos no X"></a> <a href="#briefs"><img src="assets/ui/briefs-pt.svg" height="32" alt="Escolher uma ideia"></a></p>
 </div>
