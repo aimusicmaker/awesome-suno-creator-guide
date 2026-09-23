@@ -173,3 +173,11 @@ El detector de MusicMaker ofrece una estimación, no una prueba de autoría, cop
 [Comprobar origen ↗](https://musicmaker.im/free-suno-ai-music-detector/) · [Guía detallada · inglés →](docs/detector-and-release.md)
 
 [Sources · English](docs/sources.md) · [Contributing · English](CONTRIBUTING.md)
+
+<!-- BRAND-AFFILIATE:START -->
+### Colabora con MusicMaker
+
+MusicMaker ofrece un programa de afiliados para creadores, autores de reseñas, educadores y comunidades. Recomienda MusicMaker a tu público y recibe comisiones por los pedidos que cumplan los requisitos del programa.
+
+**[Conoce el programa de afiliados y cómo participar →](https://musicmaker.im/affiliate-program/)**
+<!-- BRAND-AFFILIATE:END -->

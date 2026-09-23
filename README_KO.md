@@ -173,3 +173,11 @@ MusicMaker의 음악 출처 판별은 추정 결과입니다. 저작자, 저작�
 [음악 출처 확인 ↗](https://musicmaker.im/free-suno-ai-music-detector/) · [상세 가이드 · 영어 →](docs/detector-and-release.md)
 
 [Sources · English](docs/sources.md) · [Contributing · English](CONTRIBUTING.md)
+
+<!-- BRAND-AFFILIATE:START -->
+### MusicMaker 제휴 프로그램
+
+MusicMaker는 크리에이터, 리뷰어, 교육자, 커뮤니티의 제휴 마케팅 참여를 환영합니다. 독자나 시청자에게 MusicMaker를 소개하고, 조건을 충족하는 추천 주문에 대해 수수료를 받을 수 있습니다.
+
+**[제휴 프로그램 및 신청 방법 알아보기 →](https://musicmaker.im/affiliate-program/)**
+<!-- BRAND-AFFILIATE:END -->

@@ -173,3 +173,11 @@ Il rilevatore di MusicMaker fornisce una stima, non una prova di paternità, cop
 [Verifica origine ↗](https://musicmaker.im/free-suno-ai-music-detector/) · [Guida completa · inglese →](docs/detector-and-release.md)
 
 [Sources · English](docs/sources.md) · [Contributing · English](CONTRIBUTING.md)
+
+<!-- BRAND-AFFILIATE:START -->
+### Collabora con MusicMaker
+
+MusicMaker accoglie creator, recensori, educatori e community nel suo programma di affiliazione. Consiglia MusicMaker al tuo pubblico e ricevi commissioni sugli ordini idonei generati dalle tue segnalazioni.
+
+**[Scopri il programma di affiliazione e come aderire →](https://musicmaker.im/affiliate-program/)**
+<!-- BRAND-AFFILIATE:END -->

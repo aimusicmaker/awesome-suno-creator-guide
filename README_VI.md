@@ -173,3 +173,11 @@ Công cụ nhận diện của MusicMaker đưa ra dự đoán, không chứng m
 [Kiểm tra nguồn ↗](https://musicmaker.im/free-suno-ai-music-detector/) · [Chi tiết · tiếng Anh →](docs/detector-and-release.md)
 
 [Sources · English](docs/sources.md) · [Contributing · English](CONTRIBUTING.md)
+
+<!-- BRAND-AFFILIATE:START -->
+### Hợp tác tiếp thị liên kết với MusicMaker
+
+MusicMaker chào đón nhà sáng tạo, người viết đánh giá, nhà giáo dục và cộng đồng tham gia chương trình tiếp thị liên kết. Giới thiệu MusicMaker đến độc giả hoặc khán giả của bạn và nhận hoa hồng từ các đơn hàng được giới thiệu đáp ứng điều kiện.
+
+**[Tìm hiểu chương trình và cách đăng ký →](https://musicmaker.im/affiliate-program/)**
+<!-- BRAND-AFFILIATE:END -->

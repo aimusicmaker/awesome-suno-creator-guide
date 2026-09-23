@@ -176,4 +176,12 @@ Keep the mood warm and hopeful. No singing or spoken voice.
 
 [Sources · English](docs/sources.md) · [Contributing · English](CONTRIBUTING.md)
 
+<!-- BRAND-AFFILIATE:START -->
+### تعاون مع MusicMaker عبر برنامج التسويق بالعمولة
+
+يرحّب MusicMaker بصنّاع المحتوى وكتّاب المراجعات والمعلّمين والمجتمعات للانضمام إلى برنامج التسويق بالعمولة. عرّف جمهورك على MusicMaker واحصل على عمولات مقابل الطلبات المُحالة التي تستوفي شروط البرنامج.
+
+**[تعرّف على البرنامج وطريقة الانضمام ←](https://musicmaker.im/affiliate-program/)**
+<!-- BRAND-AFFILIATE:END -->
+
 </div>

@@ -268,3 +268,11 @@ Keep the mood warm and hopeful. No singing or spoken voice.
 欢迎[提交实用提示词、失败例子或纠错](CONTRIBUTING.md)，请写明模型、设置和实际测试情况，并只分享有权公开的素材。
 
 [素材和来源（英文）](docs/sources.md) · [MIT 许可证](LICENSE) · [媒体素材权利说明（英文）](assets/README.md)
+
+<!-- BRAND-AFFILIATE:START -->
+### 与 MusicMaker 联盟推广合作
+
+MusicMaker 支持联盟推广合作，欢迎创作者、测评作者、教育者和社群加入。向你的读者或观众推荐 MusicMaker，可通过符合条件的推荐订单获得佣金。
+
+**[了解联盟计划与申请方式 →](https://musicmaker.im/affiliate-program/)**
+<!-- BRAND-AFFILIATE:END -->

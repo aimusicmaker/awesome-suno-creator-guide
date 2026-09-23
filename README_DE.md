@@ -173,3 +173,11 @@ MusicMakers Erkennung liefert eine Einschätzung, keinen Nachweis für Urhebersc
 [Herkunft prüfen ↗](https://musicmaker.im/free-suno-ai-music-detector/) · [Anleitung · Englisch →](docs/detector-and-release.md)
 
 [Sources · English](docs/sources.md) · [Contributing · English](CONTRIBUTING.md)
+
+<!-- BRAND-AFFILIATE:START -->
+### Werde Partner von MusicMaker
+
+MusicMaker bietet Affiliate-Partnerschaften für Kreative, Rezensenten, Lehrende und Communitys. Empfiehl MusicMaker deinem Publikum und erhalte Provisionen für vermittelte Bestellungen, die die Programmbedingungen erfüllen.
+
+**[Affiliate-Programm und Anmeldung ansehen →](https://musicmaker.im/affiliate-program/)**
+<!-- BRAND-AFFILIATE:END -->

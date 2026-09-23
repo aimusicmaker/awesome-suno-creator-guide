@@ -173,3 +173,11 @@ Keep the mood warm and hopeful. No singing or spoken voice.
 [Проверить источник ↗](https://musicmaker.im/free-suno-ai-music-detector/) · [Инструкция · англ. →](docs/detector-and-release.md)
 
 [Sources · English](docs/sources.md) · [Contributing · English](CONTRIBUTING.md)
+
+<!-- BRAND-AFFILIATE:START -->
+### Партнёрская программа MusicMaker
+
+MusicMaker приглашает авторов контента, обозревателей, преподавателей и сообщества к партнёрскому сотрудничеству. Рекомендуйте MusicMaker своей аудитории и получайте комиссию за привлечённые заказы, соответствующие условиям программы.
+
+**[Узнать об условиях и подать заявку →](https://musicmaker.im/affiliate-program/)**
+<!-- BRAND-AFFILIATE:END -->

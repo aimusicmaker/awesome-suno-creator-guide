@@ -262,3 +262,11 @@ Curious about a track's origin? **[MusicMaker’s music-origin detector](https:/
 Have a better recipe? [Contribute a prompt or correction](CONTRIBUTING.md) with the model, settings, and an output you have permission to share. Useful failures are welcome too.
 
 [Sources and asset credits](docs/sources.md) · [MIT license](LICENSE) · [Media rights](assets/README.md)
+
+<!-- BRAND-AFFILIATE:START -->
+### Partner with MusicMaker
+
+MusicMaker welcomes affiliate partners, including creators, reviewers, educators and communities. Share MusicMaker with your audience and earn commissions on eligible referrals.
+
+**[Explore the affiliate program and apply →](https://musicmaker.im/affiliate-program/)**
+<!-- BRAND-AFFILIATE:END -->

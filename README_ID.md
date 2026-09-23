@@ -173,3 +173,11 @@ Detektor MusicMaker memberikan perkiraan, bukan bukti pencipta, hak cipta, atau 
 [Periksa asal ↗](https://musicmaker.im/free-suno-ai-music-detector/) · [Panduan lengkap · Inggris →](docs/detector-and-release.md)
 
 [Sources · English](docs/sources.md) · [Contributing · English](CONTRIBUTING.md)
+
+<!-- BRAND-AFFILIATE:START -->
+### Bermitra dengan MusicMaker
+
+MusicMaker membuka kerja sama afiliasi bagi kreator, pengulas, pendidik, dan komunitas. Rekomendasikan MusicMaker kepada audiens Anda dan dapatkan komisi dari pesanan rujukan yang memenuhi syarat.
+
+**[Lihat program afiliasi dan cara mendaftar →](https://musicmaker.im/affiliate-program/)**
+<!-- BRAND-AFFILIATE:END -->

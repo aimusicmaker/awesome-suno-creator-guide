@@ -173,3 +173,11 @@ MusicMaker の音楽判定は推測の手掛かりです。作者、著作権、
 [音楽を判定 ↗](https://musicmaker.im/free-suno-ai-music-detector/) · [詳しいガイド・英語 →](docs/detector-and-release.md)
 
 [Sources · English](docs/sources.md) · [Contributing · English](CONTRIBUTING.md)
+
+<!-- BRAND-AFFILIATE:START -->
+### MusicMaker のアフィリエイトパートナー募集
+
+MusicMaker では、クリエイター、レビュー執筆者、教育者、コミュニティとのアフィリエイト提携を受け付けています。読者や視聴者に MusicMaker を紹介し、条件を満たす紹介注文に応じて報酬を受け取れます。
+
+**[プログラムの詳細と参加方法を見る →](https://musicmaker.im/affiliate-program/)**
+<!-- BRAND-AFFILIATE:END -->

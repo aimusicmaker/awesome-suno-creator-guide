@@ -173,3 +173,11 @@ MusicMaker 的音樂來源檢測提供預測線索，不是作者身分、著作
 [檢測音樂來源 ↗](https://musicmaker.im/free-suno-ai-music-detector/) · [詳細指南・英文 →](docs/detector-and-release.md)
 
 [Sources · English](docs/sources.md) · [Contributing · English](CONTRIBUTING.md)
+
+<!-- BRAND-AFFILIATE:START -->
+### 與 MusicMaker 聯盟推廣合作
+
+MusicMaker 支援聯盟推廣合作，歡迎創作者、評測作者、教育工作者與社群加入。向你的讀者或觀眾推薦 MusicMaker，可透過符合條件的推薦訂單獲得佣金。
+
+**[了解聯盟計畫與申請方式 →](https://musicmaker.im/affiliate-program/)**
+<!-- BRAND-AFFILIATE:END -->
