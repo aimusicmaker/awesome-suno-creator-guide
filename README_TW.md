@@ -63,16 +63,25 @@ v6-mini 適用所有方案；v6 與 v6-wild 需要 Pro / Premier。提示詞不�
 
 以下提案取自 MusicMaker 現有曲庫與公開風格描述。試聽是原作品，不是依照我們的改寫所生成的結果。
 
+<!-- CREATION-BRIEFS:START -->
 <table>
 <tr>
-<td width="50%" valign="top"><a href="docs/listening-lab.md#1-it-takes-another-shape"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.webp" width="440" alt="It Takes Another Shape — 作品封面；點擊開啟對應創作提案（英文）。"></a><br><b>把回憶寫成慢歌</b><br>It Takes Another Shape<br><a href="https://musicmaker.im/detail/discover-v2-108/">▶ 試聽</a> · <a href="docs/listening-lab.md#1-it-takes-another-shape">創作提案・英文 →</a></td>
-<td width="50%" valign="top"><a href="docs/listening-lab.md#2-what-love-can-lose"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/what_love_can_lose.webp" width="440" alt="What Love Can Lose — 作品封面；點擊開啟對應創作提案（英文）。"></a><br><b>讓副歌逐漸飽滿</b><br>What Love Can Lose<br><a href="https://musicmaker.im/detail/discover-v2-107/">▶ 試聽</a> · <a href="docs/listening-lab.md#2-what-love-can-lose">創作提案・英文 →</a></td>
+<td width="33%" valign="top"><a href="docs/listening-lab.md#3-morning-with-healing-hands"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" width="280" alt="Morning with Healing Hands — 作品封面；點擊開啟對應創作提案（英文）。"></a><br><b>給日常畫面配溫暖民謠</b><br><sub>Morning with Healing Hands</sub><br><a href="https://musicmaker.im/detail/discover-v2-106/">▶ 試聽</a><br><a href="docs/listening-lab.md#3-morning-with-healing-hands">創作提案・英文 →</a></td>
+<td width="33%" valign="top"><a href="docs/listening-lab.md#brief-discover-v2-13"><img src="https://cdn.musicmaker.im/musicmaker/discover_ai_music/v2/cover/no_knees_no_crown.webp" width="280" alt="No Knees, No Crown — 作品封面；點擊開啟對應創作提案（英文）。"></a><br><b>給運動短片寫硬核饒舌</b><br><sub>No Knees, No Crown</sub><br><a href="https://musicmaker.im/detail/discover-v2-13/">▶ 試聽</a><br><a href="docs/listening-lab.md#brief-discover-v2-13">創作提案・英文 →</a></td>
+<td width="33%" valign="top"><a href="docs/listening-lab.md#brief-discover-v2-24"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/crown_of_the_tempest.webp" width="280" alt="Crown of the Tempest — 作品封面；點擊開啟對應創作提案（英文）。"></a><br><b>為冒險故事寫史詩配樂</b><br><sub>Crown of the Tempest</sub><br><a href="https://musicmaker.im/detail/discover-v2-24/">▶ 試聽</a><br><a href="docs/listening-lab.md#brief-discover-v2-24">創作提案・英文 →</a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="docs/listening-lab.md#3-morning-with-healing-hands"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" width="440" alt="Morning with Healing Hands — 作品封面；點擊開啟對應創作提案（英文）。"></a><br><b>為日常畫面寫溫暖配樂</b><br>Morning with Healing Hands<br><a href="https://musicmaker.im/detail/discover-v2-106/">▶ 試聽</a> · <a href="docs/listening-lab.md#3-morning-with-healing-hands">創作提案・英文 →</a></td>
-<td width="50%" valign="top"><a href="docs/listening-lab.md#4-the-secret-is-you"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_secret_is_you.webp" width="440" alt="The Secret Is You — 作品封面；點擊開啟對應創作提案（英文）。"></a><br><b>寫一首輕柔的情歌</b><br>The Secret Is You<br><a href="https://musicmaker.im/detail/discover-v2-105/">▶ 試聽</a> · <a href="docs/listening-lab.md#4-the-secret-is-you">創作提案・英文 →</a></td>
+<td width="33%" valign="top"><a href="docs/listening-lab.md#brief-discover-v2-21"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/sleeptown_windowlight.webp" width="280" alt="Sleeptown Windowlight — 作品封面；點擊開啟對應創作提案（英文）。"></a><br><b>做一段睡前鋼琴曲</b><br><sub>Sleeptown Windowlight</sub><br><a href="https://musicmaker.im/detail/discover-v2-21/">▶ 試聽</a><br><a href="docs/listening-lab.md#brief-discover-v2-21">創作提案・英文 →</a></td>
+<td width="33%" valign="top"><a href="docs/listening-lab.md#brief-discover-v2-41"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/ignite_the_night.webp" width="280" alt="Ignite the Night — 作品封面；點擊開啟對應創作提案（英文）。"></a><br><b>給派對做電子舞曲</b><br><sub>Ignite the Night</sub><br><a href="https://musicmaker.im/detail/discover-v2-41/">▶ 試聽</a><br><a href="docs/listening-lab.md#brief-discover-v2-41">創作提案・英文 →</a></td>
+<td width="33%" valign="top"><a href="docs/listening-lab.md#brief-discover-v2-17"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/leave_me_bored.webp" width="280" alt="Leave Me Bored — 作品封面；點擊開啟對應創作提案（英文）。"></a><br><b>把青春煩惱唱成龐克</b><br><sub>Leave Me Bored</sub><br><a href="https://musicmaker.im/detail/discover-v2-17/">▶ 試聽</a><br><a href="docs/listening-lab.md#brief-discover-v2-17">創作提案・英文 →</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="docs/listening-lab.md#brief-discover-v2-37"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/rain_on_the_windowpane.webp" width="280" alt="Rain On The Windowpane — 作品封面；點擊開啟對應創作提案（英文）。"></a><br><b>給咖啡館寫輕柔爵士</b><br><sub>Rain On The Windowpane</sub><br><a href="https://musicmaker.im/detail/discover-v2-37/">▶ 試聽</a><br><a href="docs/listening-lab.md#brief-discover-v2-37">創作提案・英文 →</a></td>
+<td width="33%" valign="top"><a href="docs/listening-lab.md#brief-discover-v2-54"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/candlelight_for_you.webp" width="280" alt="Candlelight for You — 作品封面；點擊開啟對應創作提案（英文）。"></a><br><b>寫一首專屬生日歌</b><br><sub>Candlelight for You</sub><br><a href="https://musicmaker.im/detail/discover-v2-54/">▶ 試聽</a><br><a href="docs/listening-lab.md#brief-discover-v2-54">創作提案・英文 →</a></td>
+<td width="33%" valign="top"><a href="docs/listening-lab.md#brief-discover-2"><img src="https://cdn.musicmaker.im/musicmaker/discover_ai_music/example/Ahava's_melody.webp" width="280" alt="Ahava&#x27;s melody — 作品封面；點擊開啟對應創作提案（英文）。"></a><br><b>寫一段 Klezmer 風格舞曲</b><br><sub>Ahava&#x27;s melody</sub><br><a href="https://musicmaker.im/detail/discover-2/">▶ 試聽</a><br><a href="docs/listening-lab.md#brief-discover-2">創作提案・英文 →</a></td>
 </tr>
 </table>
+<!-- CREATION-BRIEFS:END -->
 
 ## 開始第一首歌
 

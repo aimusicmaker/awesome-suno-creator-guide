@@ -1867,5 +1867,43 @@
       "category": "pop",
       "sourceUrl": "https://musicmaker.im/detail/discover-30/"
     }
+  ],
+  "creationBriefs": [
+    {
+      "id": "discover-v2-106",
+      "anchor": "3-morning-with-healing-hands"
+    },
+    {
+      "id": "discover-v2-13",
+      "anchor": "brief-discover-v2-13"
+    },
+    {
+      "id": "discover-v2-24",
+      "anchor": "brief-discover-v2-24"
+    },
+    {
+      "id": "discover-v2-21",
+      "anchor": "brief-discover-v2-21"
+    },
+    {
+      "id": "discover-v2-41",
+      "anchor": "brief-discover-v2-41"
+    },
+    {
+      "id": "discover-v2-17",
+      "anchor": "brief-discover-v2-17"
+    },
+    {
+      "id": "discover-v2-37",
+      "anchor": "brief-discover-v2-37"
+    },
+    {
+      "id": "discover-v2-54",
+      "anchor": "brief-discover-v2-54"
+    },
+    {
+      "id": "discover-2",
+      "anchor": "brief-discover-2"
+    }
   ]
 }

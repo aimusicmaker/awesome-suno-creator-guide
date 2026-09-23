@@ -71,9 +71,6 @@ for homepage in [ROOT / 'README.md', ROOT / 'README_ZH.md']:
     body = homepage.read_text()
     if 'prompts/README.md' not in body:
         errors.append(f'{homepage.name}: missing supplementary recipe index')
-    for fragment in ['1-it-takes-another-shape', '2-what-love-can-lose', '3-morning-with-healing-hands', '4-the-secret-is-you']:
-        if f'docs/listening-lab.md#{fragment}' not in body:
-            errors.append(f'{homepage.name}: missing brand creation brief: {fragment}')
 
 # All brand-supported entry languages must remain real, mutually linked pages.
 home_names = ['README.md'] + [f'README_{code}.md' for code in
@@ -121,6 +118,25 @@ for name in home_names:
         t = tracks[ident]
         if not all(value in card for value in [f'docs/musicmaker-catalog.md#{ident}', t['coverUrl'], t['sourceUrl']]):
             errors.append(f'{name}: mismatched brand selection: {ident}')
+
+# Creation briefs must be a true 3x3 selection of distinct, source-backed records.
+briefs = catalog['creationBriefs']
+if len(briefs) != 9 or len({b['id'] for b in briefs}) != 9:
+    errors.append('Expected nine distinct brand creation briefs')
+if len({tracks[b['id']]['category'] for b in briefs}) != 9:
+    errors.append('The nine creation briefs must span nine distinct catalog categories')
+for name in home_names:
+    body = (ROOT / name).read_text()
+    block = re.search(r'<!-- CREATION-BRIEFS:START -->(.*?)<!-- CREATION-BRIEFS:END -->', body, re.S)
+    rows = re.findall(r'<tr>(.*?)</tr>', block[1], re.S) if block else []
+    if len(rows) != 3 or any(len(re.findall(r'<td\b', row)) != 3 for row in rows):
+        errors.append(f'{name}: creation briefs must use three rows of three cards')
+        continue
+    cards = re.findall(r'<td\b.*?</td>', block[1], re.S)
+    for card, brief in zip(cards, briefs):
+        track = tracks[brief['id']]
+        if not all(v in card for v in [track['coverUrl'], track['sourceUrl'], f"docs/listening-lab.md#{brief['anchor']}"]):
+            errors.append(f"{name}: mismatched creation brief: {brief['id']}")
 
 if errors:
     print('\n'.join(errors))

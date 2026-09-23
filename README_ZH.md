@@ -114,20 +114,29 @@
 
 ## 先选你要做的内容
 
-<strong>先听作品，再选创作方向。</strong>下面四份提案选自 MusicMaker 现有曲库，使用原作品封面和公开风格描述。图中“用途”是我们给读者的改写方向；试听展示的是原作品，不是改写结果。
+<strong>先听作品，再选创作方向。</strong>下面九份提案选自 MusicMaker 现有曲库，使用原作品封面和公开风格描述。卡片上的用途是我们建议的创作方向；试听展示的是原作品，不是改写结果。
 
+<!-- CREATION-BRIEFS:START -->
 <table>
 <tr>
-<td width="50%" valign="top"><a href="docs/listening-lab.md#1-it-takes-another-shape"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.webp" width="440" alt="It Takes Another Shape 品牌作品封面；点击查看对应创作提案"></a><br><b>把一段回忆写成慢歌</b><br><sub>MusicMaker Discover · It Takes Another Shape</sub><br>参考指弹吉他、柔和钢琴与渐强的末段。<br><a href="https://musicmaker.im/detail/discover-v2-108/">▶ 试听原作品</a> · <a href="docs/listening-lab.md#1-it-takes-another-shape">打开创作提案 →</a></td>
-<td width="50%" valign="top"><a href="docs/listening-lab.md#2-what-love-can-lose"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/what_love_can_lose.webp" width="440" alt="What Love Can Lose 品牌作品封面；点击查看对应创作提案"></a><br><b>让副歌逐渐饱满</b><br><sub>MusicMaker Discover · What Love Can Lose</sub><br>参考钢琴起步，再加入大提琴、贝斯和和声。<br><a href="https://musicmaker.im/detail/discover-v2-107/">▶ 试听原作品</a> · <a href="docs/listening-lab.md#2-what-love-can-lose">打开创作提案 →</a></td>
+<td width="33%" valign="top"><a href="docs/listening-lab.md#3-morning-with-healing-hands"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" width="280" alt="Morning with Healing Hands — 品牌作品封面；打开对应创作提案"></a><br><b>给日常画面配温暖民谣</b><br><sub>Morning with Healing Hands</sub><br><a href="https://musicmaker.im/detail/discover-v2-106/">▶ 试听原作</a><br><a href="docs/listening-lab.md#3-morning-with-healing-hands">创作提案 →</a></td>
+<td width="33%" valign="top"><a href="docs/listening-lab.md#brief-discover-v2-13"><img src="https://cdn.musicmaker.im/musicmaker/discover_ai_music/v2/cover/no_knees_no_crown.webp" width="280" alt="No Knees, No Crown — 品牌作品封面；打开对应创作提案"></a><br><b>给运动短片写硬核说唱</b><br><sub>No Knees, No Crown</sub><br><a href="https://musicmaker.im/detail/discover-v2-13/">▶ 试听原作</a><br><a href="docs/listening-lab.md#brief-discover-v2-13">创作提案 →</a></td>
+<td width="33%" valign="top"><a href="docs/listening-lab.md#brief-discover-v2-24"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/crown_of_the_tempest.webp" width="280" alt="Crown of the Tempest — 品牌作品封面；打开对应创作提案"></a><br><b>为冒险故事写史诗配乐</b><br><sub>Crown of the Tempest</sub><br><a href="https://musicmaker.im/detail/discover-v2-24/">▶ 试听原作</a><br><a href="docs/listening-lab.md#brief-discover-v2-24">创作提案 →</a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="docs/listening-lab.md#3-morning-with-healing-hands"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" width="440" alt="Morning with Healing Hands 品牌作品封面；点击查看对应创作提案"></a><br><b>为日常画面写温暖配乐</b><br><sub>MusicMaker Discover · Morning with Healing Hands</sub><br>参考木吉他、低音提琴和轻盈弦乐。<br><a href="https://musicmaker.im/detail/discover-v2-106/">▶ 试听原作品</a> · <a href="docs/listening-lab.md#3-morning-with-healing-hands">打开创作提案 →</a></td>
-<td width="50%" valign="top"><a href="docs/listening-lab.md#4-the-secret-is-you"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_secret_is_you.webp" width="440" alt="The Secret Is You 品牌作品封面；点击查看对应创作提案"></a><br><b>写一首轻快的告白歌</b><br><sub>MusicMaker Discover · The Secret Is You</sub><br>参考尼龙弦吉他、轻鼓与末段拍手。<br><a href="https://musicmaker.im/detail/discover-v2-105/">▶ 试听原作品</a> · <a href="docs/listening-lab.md#4-the-secret-is-you">打开创作提案 →</a></td>
+<td width="33%" valign="top"><a href="docs/listening-lab.md#brief-discover-v2-21"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/sleeptown_windowlight.webp" width="280" alt="Sleeptown Windowlight — 品牌作品封面；打开对应创作提案"></a><br><b>做一段睡前钢琴曲</b><br><sub>Sleeptown Windowlight</sub><br><a href="https://musicmaker.im/detail/discover-v2-21/">▶ 试听原作</a><br><a href="docs/listening-lab.md#brief-discover-v2-21">创作提案 →</a></td>
+<td width="33%" valign="top"><a href="docs/listening-lab.md#brief-discover-v2-41"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/ignite_the_night.webp" width="280" alt="Ignite the Night — 品牌作品封面；打开对应创作提案"></a><br><b>给派对做电子舞曲</b><br><sub>Ignite the Night</sub><br><a href="https://musicmaker.im/detail/discover-v2-41/">▶ 试听原作</a><br><a href="docs/listening-lab.md#brief-discover-v2-41">创作提案 →</a></td>
+<td width="33%" valign="top"><a href="docs/listening-lab.md#brief-discover-v2-17"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/leave_me_bored.webp" width="280" alt="Leave Me Bored — 品牌作品封面；打开对应创作提案"></a><br><b>把青春烦恼唱成朋克</b><br><sub>Leave Me Bored</sub><br><a href="https://musicmaker.im/detail/discover-v2-17/">▶ 试听原作</a><br><a href="docs/listening-lab.md#brief-discover-v2-17">创作提案 →</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="docs/listening-lab.md#brief-discover-v2-37"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/rain_on_the_windowpane.webp" width="280" alt="Rain On The Windowpane — 品牌作品封面；打开对应创作提案"></a><br><b>给咖啡馆写轻柔爵士</b><br><sub>Rain On The Windowpane</sub><br><a href="https://musicmaker.im/detail/discover-v2-37/">▶ 试听原作</a><br><a href="docs/listening-lab.md#brief-discover-v2-37">创作提案 →</a></td>
+<td width="33%" valign="top"><a href="docs/listening-lab.md#brief-discover-v2-54"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/candlelight_for_you.webp" width="280" alt="Candlelight for You — 品牌作品封面；打开对应创作提案"></a><br><b>写一首专属生日歌</b><br><sub>Candlelight for You</sub><br><a href="https://musicmaker.im/detail/discover-v2-54/">▶ 试听原作</a><br><a href="docs/listening-lab.md#brief-discover-v2-54">创作提案 →</a></td>
+<td width="33%" valign="top"><a href="docs/listening-lab.md#brief-discover-2"><img src="https://cdn.musicmaker.im/musicmaker/discover_ai_music/example/Ahava's_melody.webp" width="280" alt="Ahava&#x27;s melody — 品牌作品封面；打开对应创作提案"></a><br><b>写一段 Klezmer 风格舞曲</b><br><sub>Ahava&#x27;s melody</sub><br><a href="https://musicmaker.im/detail/discover-2/">▶ 试听原作</a><br><a href="docs/listening-lab.md#brief-discover-2">创作提案 →</a></td>
 </tr>
 </table>
+<!-- CREATION-BRIEFS:END -->
 
-选好后，可以在 **[Suno 官方](https://suno.com/create)** 或 **[MusicMaker](https://musicmaker.im/ai-song-generator/)** 开始。下面用第三首的木吉他配器做一次示范。
+选好后，可以在 **[Suno 官方](https://suno.com/create)** 或 **[MusicMaker](https://musicmaker.im/ai-song-generator/)** 开始。下面以 Morning with Healing Hands 的木吉他配器做一次示范。
 
 ## 开始第一首歌
 
