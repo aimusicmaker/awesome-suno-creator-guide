@@ -26,6 +26,10 @@
 </p>
 <!-- LANGUAGES:END -->
 
+<!-- DEVICE-VIEW:START -->
+<p align="center"><a href="mobile/README_ZH.md"><img src="assets/ui/mobile-zh.svg" height="40" alt="手机版首页"></a></p>
+<!-- DEVICE-VIEW:END -->
+
 [![Suno 创作指南封面：米白底色与橙色黑胶唱片，主题是创作下一首自己喜欢的歌；点击打开 Suno 官方 v6 FAQ。](assets/creator-guide-cover.png)](https://help.suno.com/en/articles/13924481)
 
 <p align="center"><a href="#suno-v6能做什么"><img src="assets/ui/official-zh.svg" height="32" alt="官方能力"></a> <a href="#x-上的提示词与作品演示"><img src="assets/ui/cases-zh.svg" height="32" alt="X 案例"></a> <a href="#先选你要做的内容"><img src="assets/ui/briefs-zh.svg" height="32" alt="创作提案"></a></p>
@@ -152,7 +156,7 @@
 
 这次以 [Morning with Healing Hands](https://musicmaker.im/detail/discover-v2-106/) 为参考：来源风格包含指弹吉他、低音提琴、轻盈弦乐与温暖男声。我们保留配器方向，尝试改成纯音乐，不复制原曲歌词或旋律。
 
-1. 先试听原作品，再打开上表中的一个工具，选择 **Custom**。
+1. 先试听原作品，再打开上面介绍的一个工具，选择 **Custom**。
 2. 将下面的改写填入对应风格栏，开启 **Instrumental（纯音乐）**，歌词栏留空。
 3. 确认所选模型、额度和公开设置后生成。先检查是否仍有人声，再听配器是否适合你的画面。
 4. 下一次只调整一项，例如减少弦乐，其余要求保持不变。
@@ -174,26 +178,26 @@ Keep the mood warm and hopeful. No singing or spoken voice.
 [完整曲库：148 首作品 →](docs/musicmaker-catalog.md)
 
 <!-- BRAND-STYLES:START -->
-<table>
+<table width="100%">
 <tr>
-<td width="294" align="center" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-26"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/plastic_midnight.webp" width="360" alt="城市流行 · Plastic Midnight — 打开公开风格与素材说明"></a><br><b>城市流行</b><br><a href="docs/musicmaker-catalog.md#discover-v2-26">Plastic Midnight</a><br><a href="https://musicmaker.im/detail/discover-v2-26/">▶ 试听</a></td>
-<td width="294" align="center" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-11"><img src="https://cdn.musicmaker.im/musicmaker/discover_ai_music/v2/cover/cypress_moon_rising.webp" width="360" alt="沼泽蓝调 · Cypress Moon Rising — 打开公开风格与素材说明"></a><br><b>沼泽蓝调</b><br><a href="docs/musicmaker-catalog.md#discover-v2-11">Cypress Moon Rising</a><br><a href="https://musicmaker.im/detail/discover-v2-11/">▶ 试听</a></td>
-<td width="294" align="center" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-43"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/midnight_rearview.webp" width="360" alt="深浩室 · Deep house · Midnight Rearview — 打开公开风格与素材说明"></a><br><b>深浩室 · Deep house</b><br><a href="docs/musicmaker-catalog.md#discover-v2-43">Midnight Rearview</a><br><a href="https://musicmaker.im/detail/discover-v2-43/">▶ 试听</a></td>
+<td width="33%" align="center" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-26"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/plastic_midnight.webp" width="1200" alt="城市流行 · Plastic Midnight — 打开公开风格与素材说明"></a><br><b>城市流行</b><br><a href="docs/musicmaker-catalog.md#discover-v2-26">Plastic Midnight</a><br><a href="https://musicmaker.im/detail/discover-v2-26/">▶ 试听</a></td>
+<td width="33%" align="center" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-11"><img src="https://cdn.musicmaker.im/musicmaker/discover_ai_music/v2/cover/cypress_moon_rising.webp" width="1200" alt="沼泽蓝调 · Cypress Moon Rising — 打开公开风格与素材说明"></a><br><b>沼泽蓝调</b><br><a href="docs/musicmaker-catalog.md#discover-v2-11">Cypress Moon Rising</a><br><a href="https://musicmaker.im/detail/discover-v2-11/">▶ 试听</a></td>
+<td width="33%" align="center" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-43"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/midnight_rearview.webp" width="1200" alt="深浩室 · Deep house · Midnight Rearview — 打开公开风格与素材说明"></a><br><b>深浩室 · Deep house</b><br><a href="docs/musicmaker-catalog.md#discover-v2-43">Midnight Rearview</a><br><a href="https://musicmaker.im/detail/discover-v2-43/">▶ 试听</a></td>
 </tr>
 <tr>
-<td width="294" align="center" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-78"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/sunrise_on_vinyl.webp" width="360" alt="低保真灵魂乐 · Sunrise On Vinyl — 打开公开风格与素材说明"></a><br><b>低保真灵魂乐</b><br><a href="docs/musicmaker-catalog.md#discover-v2-78">Sunrise On Vinyl</a><br><a href="https://musicmaker.im/detail/discover-v2-78/">▶ 试听</a></td>
-<td width="294" align="center" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-28"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/glass_dolls.webp" width="360" alt="暗黑流行 · Glass Dolls — 打开公开风格与素材说明"></a><br><b>暗黑流行</b><br><a href="docs/musicmaker-catalog.md#discover-v2-28">Glass Dolls</a><br><a href="https://musicmaker.im/detail/discover-v2-28/">▶ 试听</a></td>
-<td width="294" align="center" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-46"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/bonfire_kinda_night.webp" width="360" alt="现代乡村 · Bonfire Kinda Night — 打开公开风格与素材说明"></a><br><b>现代乡村</b><br><a href="docs/musicmaker-catalog.md#discover-v2-46">Bonfire Kinda Night</a><br><a href="https://musicmaker.im/detail/discover-v2-46/">▶ 试听</a></td>
+<td width="33%" align="center" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-78"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/sunrise_on_vinyl.webp" width="1200" alt="低保真灵魂乐 · Sunrise On Vinyl — 打开公开风格与素材说明"></a><br><b>低保真灵魂乐</b><br><a href="docs/musicmaker-catalog.md#discover-v2-78">Sunrise On Vinyl</a><br><a href="https://musicmaker.im/detail/discover-v2-78/">▶ 试听</a></td>
+<td width="33%" align="center" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-28"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/glass_dolls.webp" width="1200" alt="暗黑流行 · Glass Dolls — 打开公开风格与素材说明"></a><br><b>暗黑流行</b><br><a href="docs/musicmaker-catalog.md#discover-v2-28">Glass Dolls</a><br><a href="https://musicmaker.im/detail/discover-v2-28/">▶ 试听</a></td>
+<td width="33%" align="center" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-46"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/bonfire_kinda_night.webp" width="1200" alt="现代乡村 · Bonfire Kinda Night — 打开公开风格与素材说明"></a><br><b>现代乡村</b><br><a href="docs/musicmaker-catalog.md#discover-v2-46">Bonfire Kinda Night</a><br><a href="https://musicmaker.im/detail/discover-v2-46/">▶ 试听</a></td>
 </tr>
 <tr>
-<td width="294" align="center" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-86"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/rua_em_chamas.webp" width="360" alt="巴西 Phonk · Rua Em Chamas — 打开公开风格与素材说明"></a><br><b>巴西 Phonk</b><br><a href="docs/musicmaker-catalog.md#discover-v2-86">Rua Em Chamas</a><br><a href="https://musicmaker.im/detail/discover-v2-86/">▶ 试听</a></td>
-<td width="294" align="center" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-29"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/first_look_forever.webp" width="360" alt="梦幻流行 · First Look, Forever — 打开公开风格与素材说明"></a><br><b>梦幻流行</b><br><a href="docs/musicmaker-catalog.md#discover-v2-29">First Look, Forever</a><br><a href="https://musicmaker.im/detail/discover-v2-29/">▶ 试听</a></td>
-<td width="294" align="center" valign="top"><a href="docs/musicmaker-catalog.md#discover-10"><img src="https://cdn.musicmaker.im/musicmaker/discover_ai_music/example/Awakening_echoes.webp" width="360" alt="Hyper-afrobeat · Awakening echoes — 打开公开风格与素材说明"></a><br><b>Hyper-afrobeat</b><br><a href="docs/musicmaker-catalog.md#discover-10">Awakening echoes</a><br><a href="https://musicmaker.im/detail/discover-10/">▶ 试听</a></td>
+<td width="33%" align="center" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-86"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/rua_em_chamas.webp" width="1200" alt="巴西 Phonk · Rua Em Chamas — 打开公开风格与素材说明"></a><br><b>巴西 Phonk</b><br><a href="docs/musicmaker-catalog.md#discover-v2-86">Rua Em Chamas</a><br><a href="https://musicmaker.im/detail/discover-v2-86/">▶ 试听</a></td>
+<td width="33%" align="center" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-29"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/first_look_forever.webp" width="1200" alt="梦幻流行 · First Look, Forever — 打开公开风格与素材说明"></a><br><b>梦幻流行</b><br><a href="docs/musicmaker-catalog.md#discover-v2-29">First Look, Forever</a><br><a href="https://musicmaker.im/detail/discover-v2-29/">▶ 试听</a></td>
+<td width="33%" align="center" valign="top"><a href="docs/musicmaker-catalog.md#discover-10"><img src="https://cdn.musicmaker.im/musicmaker/discover_ai_music/example/Awakening_echoes.webp" width="1200" alt="Hyper-afrobeat · Awakening echoes — 打开公开风格与素材说明"></a><br><b>Hyper-afrobeat</b><br><a href="docs/musicmaker-catalog.md#discover-10">Awakening echoes</a><br><a href="https://musicmaker.im/detail/discover-10/">▶ 试听</a></td>
 </tr>
 <tr>
-<td width="294" align="center" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-22"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/midnight_garden_circuits.webp" width="360" alt="氛围电子 · Midnight Garden Circuits — 打开公开风格与素材说明"></a><br><b>氛围电子</b><br><a href="docs/musicmaker-catalog.md#discover-v2-22">Midnight Garden Circuits</a><br><a href="https://musicmaker.im/detail/discover-v2-22/">▶ 试听</a></td>
-<td width="294" align="center" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-19"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/salt_on_my_skin.webp" width="360" alt="热带浩室 · Salt on My Skin — 打开公开风格与素材说明"></a><br><b>热带浩室</b><br><a href="docs/musicmaker-catalog.md#discover-v2-19">Salt on My Skin</a><br><a href="https://musicmaker.im/detail/discover-v2-19/">▶ 试听</a></td>
-<td width="294" align="center" valign="top"><a href="docs/musicmaker-catalog.md#discover-37"><img src="https://cdn.musicmaker.im/musicmaker/discover_ai_music/example/City_pulse.webp" width="360" alt="合成器浪潮 · City pulse — 打开公开风格与素材说明"></a><br><b>合成器浪潮</b><br><a href="docs/musicmaker-catalog.md#discover-37">City pulse</a><br><a href="https://musicmaker.im/detail/discover-37/">▶ 试听</a></td>
+<td width="33%" align="center" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-22"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/midnight_garden_circuits.webp" width="1200" alt="氛围电子 · Midnight Garden Circuits — 打开公开风格与素材说明"></a><br><b>氛围电子</b><br><a href="docs/musicmaker-catalog.md#discover-v2-22">Midnight Garden Circuits</a><br><a href="https://musicmaker.im/detail/discover-v2-22/">▶ 试听</a></td>
+<td width="33%" align="center" valign="top"><a href="docs/musicmaker-catalog.md#discover-v2-19"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/salt_on_my_skin.webp" width="1200" alt="热带浩室 · Salt on My Skin — 打开公开风格与素材说明"></a><br><b>热带浩室</b><br><a href="docs/musicmaker-catalog.md#discover-v2-19">Salt on My Skin</a><br><a href="https://musicmaker.im/detail/discover-v2-19/">▶ 试听</a></td>
+<td width="33%" align="center" valign="top"><a href="docs/musicmaker-catalog.md#discover-37"><img src="https://cdn.musicmaker.im/musicmaker/discover_ai_music/example/City_pulse.webp" width="1200" alt="合成器浪潮 · City pulse — 打开公开风格与素材说明"></a><br><b>合成器浪潮</b><br><a href="docs/musicmaker-catalog.md#discover-37">City pulse</a><br><a href="https://musicmaker.im/detail/discover-37/">▶ 试听</a></td>
 </tr>
 </table>
 <!-- BRAND-STYLES:END -->

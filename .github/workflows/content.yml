@@ -14,3 +14,4 @@ jobs:
           python-version: '3.12'
       - run: python scripts/check_content.py
       - run: python scripts/build_musicmaker_catalog.py --check
+      - run: python scripts/build_mobile_readmes.py --check
