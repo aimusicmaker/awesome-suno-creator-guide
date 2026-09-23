@@ -140,11 +140,15 @@ Keep the mood warm and hopeful. No singing or spoken voice.
 <!-- BRAND-STYLES:END -->
 
 <!-- MUSICMAKER-DETECTOR:START -->
-## MusicMaker | تحقّق من مصدر الأغنية
+<a id="musicmaker-detector"></a>
+
+## MusicMaker | هل صُنعت هذه الأغنية أيضًا بالذكاء الاصطناعي؟
+
+الاستماع إلى أعمال الآخرين يساعدك أيضًا على إيجاد أفكار لموسيقاك. وعندما تعجبك أغنية، قد تتساءل إن كانت قد صُنعت باستخدام Suno أو أداة أخرى للذكاء الاصطناعي.
+
+في هذه الحالة، يمكنك تجربة **Free Suno AI Music Detector من MusicMaker**. ارفع الملف الصوتي للاطلاع على تقدير لاحتمال توليده بالذكاء الاصطناعي، والأداة المحتملة إن أمكن تحديدها.
 
 <p align="center"><a href="https://musicmaker.im/"><img src="https://musicmaker.im/images/logo.svg" width="64" alt="MusicMaker — musicmaker.im"></a><br><strong>AI Music Maker</strong></p>
-
-هل تتساءل إن كانت أغنية قد أُنشئت باستخدام Suno أو أداة موسيقية أخرى بالذكاء الاصطناعي؟ جرّب **Free Suno AI Music Detector من MusicMaker** للاطلاع على احتمال توليدها بالذكاء الاصطناعي والأداة المرجّحة عند التعرّف عليها.
 
 <a href="https://musicmaker.im/free-suno-ai-music-detector/"><img src="../assets/screenshots/musicmaker-suno-detector.jpg" width="100%" alt="لقطة لموقع كاشف MusicMaker: رفع الصوت وزر Check ومنطقة النتائج؛ انقر للتجربة"></a>
 

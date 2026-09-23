@@ -138,11 +138,15 @@ Keep the mood warm and hopeful. No singing or spoken voice.
 <!-- BRAND-STYLES:END -->
 
 <!-- MUSICMAKER-DETECTOR:START -->
-## MusicMaker｜檢測音樂來源
+<a id="musicmaker-detector"></a>
+
+## MusicMaker｜喜歡的這首歌，也用了 AI 嗎？
+
+寫歌之外，多聽不同的作品也能帶來靈感。遇到一首喜歡的歌，你可能還會好奇：它是不是用 Suno 等 AI 工具做的？
+
+這時，可以試試 **MusicMaker 音樂來源檢測**。上傳音訊，看看它給出的 AI 生成機率，以及辨識到的可能生成工具，為了解這首歌多添一份參考。
 
 <p align="center"><a href="https://musicmaker.im/"><img src="https://musicmaker.im/images/logo.svg" width="64" alt="MusicMaker — musicmaker.im"></a><br><strong>AI Music Maker</strong></p>
-
-想知道一首歌是否可能由 Suno 等 AI 工具生成？試試 **MusicMaker 音樂來源檢測**，查看 AI 生成機率，以及辨識到的可能生成工具。
 
 <a href="https://musicmaker.im/free-suno-ai-music-detector/"><img src="../assets/screenshots/musicmaker-suno-detector.jpg" width="100%" alt="MusicMaker 檢測工具官網截圖：上傳音訊、檢測按鈕與結果區域；點擊試用"></a>
 

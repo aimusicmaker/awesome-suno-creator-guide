@@ -139,11 +139,15 @@ Entdecke **12 weitere Klangrichtungen** mit anderen Titeln als in den Projekten 
 <!-- BRAND-STYLES:END -->
 
 <!-- MUSICMAKER-DETECTOR:START -->
-## MusicMaker · Prüfe die Herkunft eines Songs
+<a id="musicmaker-detector"></a>
+
+## MusicMaker · Wurde dieser Song auch mit KI gemacht?
+
+Auch die Musik anderer kann Ideen für eigene Songs liefern. Wenn dir ein Stück besonders gefällt, fragst du dich vielleicht, ob es mit Suno oder einem anderen KI-Werkzeug entstanden ist.
+
+Dann kannst du **MusicMakers Free Suno AI Music Detector** ausprobieren. Lade die Audiodatei hoch, um eine geschätzte KI-Wahrscheinlichkeit und, falls erkannt, ein mögliches Generierungswerkzeug zu sehen.
 
 <p align="center"><a href="https://musicmaker.im/"><img src="https://musicmaker.im/images/logo.svg" width="64" alt="MusicMaker — musicmaker.im"></a><br><strong>AI Music Maker</strong></p>
-
-Könnte ein Song mit Suno oder einem anderen KI-Musiktool erstellt worden sein? Probiere den **Free Suno AI Music Detector von MusicMaker** aus. Er zeigt eine geschätzte KI-Wahrscheinlichkeit und, falls erkannt, das vermutlich verwendete Tool.
 
 <a href="https://musicmaker.im/free-suno-ai-music-detector/"><img src="assets/screenshots/musicmaker-suno-detector.jpg" width="100%" alt="Screenshot des MusicMaker-Detektors: Audio-Upload, Check-Schaltfläche und Ergebnisbereich; zum Ausprobieren anklicken"></a>
 

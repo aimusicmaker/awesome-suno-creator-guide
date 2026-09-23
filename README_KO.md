@@ -139,11 +139,15 @@ Keep the mood warm and hopeful. No singing or spoken voice.
 <!-- BRAND-STYLES:END -->
 
 <!-- MUSICMAKER-DETECTOR:START -->
-## MusicMaker｜음악 생성 출처 확인
+<a id="musicmaker-detector"></a>
+
+## MusicMaker｜마음에 든 이 곡도 AI로 만들었을까요?
+
+직접 곡을 만드는 것만큼 다양한 음악을 듣는 것도 영감을 줍니다. 마음에 드는 곡을 만나면 Suno 같은 AI 도구로 만들었는지 궁금해질 수 있죠.
+
+그럴 때 **MusicMaker의 Free Suno AI Music Detector**를 써 보세요. 오디오를 올리면 추정된 AI 생성 확률과, 식별된 경우 사용했을 가능성이 있는 생성 도구를 확인할 수 있습니다.
 
 <p align="center"><a href="https://musicmaker.im/"><img src="https://musicmaker.im/images/logo.svg" width="64" alt="MusicMaker — musicmaker.im"></a><br><strong>AI Music Maker</strong></p>
-
-Suno 같은 AI 도구로 만든 곡인지 궁금한가요? **MusicMaker의 Free Suno AI Music Detector**로 AI 생성 확률과, 식별된 경우 추정 생성 도구를 확인해 보세요.
 
 <a href="https://musicmaker.im/free-suno-ai-music-detector/"><img src="assets/screenshots/musicmaker-suno-detector.jpg" width="100%" alt="MusicMaker 감지 도구 화면: 오디오 업로드, Check 버튼, 결과 영역. 클릭하여 사용"></a>
 

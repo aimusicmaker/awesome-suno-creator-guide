@@ -222,11 +222,15 @@ Keep the mood warm and hopeful. No singing or spoken voice.
 每次只改一项，并记录原提示词、模型和结果。不需要为了一个不明显的问题无限重新生成。[详细排查（英文）→](docs/troubleshooting.md)
 
 <!-- MUSICMAKER-DETECTOR:START -->
-## MusicMaker｜检测音乐来源
+<a id="musicmaker-detector"></a>
+
+## MusicMaker｜喜欢的这首歌，也用了 AI 吗？
+
+写歌之外，多听不同的作品也能带来灵感。遇到一首喜欢的歌，你可能还会好奇：它是不是用 Suno 等 AI 工具做的？
+
+这时，可以试试 **MusicMaker 音乐来源检测**。上传音频，看看它给出的 AI 生成概率，以及识别到的可能生成工具，为了解这首歌多添一份参考。
 
 <p align="center"><a href="https://musicmaker.im/"><img src="https://musicmaker.im/images/logo.svg" width="64" alt="MusicMaker — musicmaker.im"></a><br><strong>AI Music Maker</strong></p>
-
-想知道一首歌是否可能由 Suno 等 AI 工具生成？试试 **MusicMaker 音乐来源检测**，查看 AI 生成概率，以及识别到的可能生成工具。
 
 <a href="https://musicmaker.im/free-suno-ai-music-detector/"><img src="assets/screenshots/musicmaker-suno-detector.jpg" width="100%" alt="MusicMaker 检测工具官网截图：上传音频、检测按钮与结果区域；点击试用"></a>
 

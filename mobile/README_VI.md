@@ -138,11 +138,15 @@ Khám phá thêm **12 hướng âm thanh** qua các bài khác với đề xuấ
 <!-- BRAND-STYLES:END -->
 
 <!-- MUSICMAKER-DETECTOR:START -->
-## MusicMaker · Kiểm tra nguồn gốc bài hát
+<a id="musicmaker-detector"></a>
+
+## MusicMaker · Bài hát này cũng được tạo bằng AI sao?
+
+Nghe tác phẩm của người khác cũng giúp bạn tìm cảm hứng cho âm nhạc của mình. Khi gặp một bài hát yêu thích, bạn có thể tò mò liệu tác giả có dùng Suno hay công cụ AI nào khác không.
+
+Lúc đó, bạn có thể thử **Free Suno AI Music Detector của MusicMaker**. Tải âm thanh lên để xem xác suất ước tính về việc tạo bằng AI và công cụ có thể đã được dùng, nếu hệ thống nhận diện được.
 
 <p align="center"><a href="https://musicmaker.im/"><img src="https://musicmaker.im/images/logo.svg" width="64" alt="MusicMaker — musicmaker.im"></a><br><strong>AI Music Maker</strong></p>
-
-Bạn muốn biết một bài hát có thể được tạo bằng Suno hay công cụ âm nhạc AI khác không? Hãy thử **Free Suno AI Music Detector của MusicMaker** để xem xác suất do AI tạo và công cụ có khả năng đã được sử dụng, nếu nhận diện được.
 
 <a href="https://musicmaker.im/free-suno-ai-music-detector/"><img src="../assets/screenshots/musicmaker-suno-detector.jpg" width="100%" alt="Ảnh chụp công cụ MusicMaker: tải âm thanh, nút Check và vùng kết quả; nhấn để dùng thử"></a>
 

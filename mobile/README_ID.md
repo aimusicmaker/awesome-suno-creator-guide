@@ -138,11 +138,15 @@ Jelajahi **12 pilihan suara lainnya** lewat lagu yang berbeda dari ide di atas. 
 <!-- BRAND-STYLES:END -->
 
 <!-- MUSICMAKER-DETECTOR:START -->
-## MusicMaker · Periksa asal sebuah lagu
+<a id="musicmaker-detector"></a>
+
+## MusicMaker · Apakah lagu itu juga dibuat dengan AI?
+
+Mendengarkan karya orang lain juga membantu Anda menemukan inspirasi. Saat sebuah lagu menarik perhatian, Anda mungkin penasaran apakah lagu itu dibuat dengan Suno atau alat AI lain.
+
+Untuk saat seperti itu, coba **Free Suno AI Music Detector dari MusicMaker**. Unggah audio untuk melihat perkiraan kemungkinan dibuat oleh AI dan, jika teridentifikasi, alat yang mungkin digunakan.
 
 <p align="center"><a href="https://musicmaker.im/"><img src="https://musicmaker.im/images/logo.svg" width="64" alt="MusicMaker — musicmaker.im"></a><br><strong>AI Music Maker</strong></p>
-
-Ingin tahu apakah lagu mungkin dibuat dengan Suno atau alat musik AI lain? Coba **Free Suno AI Music Detector dari MusicMaker** untuk melihat skor probabilitas AI dan perkiraan alat pembuatnya jika teridentifikasi.
 
 <a href="https://musicmaker.im/free-suno-ai-music-detector/"><img src="../assets/screenshots/musicmaker-suno-detector.jpg" width="100%" alt="Tangkapan layar detektor MusicMaker: unggah audio, tombol Check, dan area hasil; klik untuk mencoba"></a>
 

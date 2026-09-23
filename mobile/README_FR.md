@@ -138,11 +138,15 @@ Explorez **12 autres sonorités** avec des morceaux différents des projets pré
 <!-- BRAND-STYLES:END -->
 
 <!-- MUSICMAKER-DETECTOR:START -->
-## MusicMaker · Vérifiez l’origine d’un morceau
+<a id="musicmaker-detector"></a>
+
+## MusicMaker · Cette chanson aussi a été créée avec l’IA ?
+
+Écouter les œuvres des autres nourrit aussi vos propres idées. Quand un morceau vous plaît, vous vous demandez peut-être s’il a été créé avec Suno ou un autre outil d’IA.
+
+Dans ce cas, essayez **Free Suno AI Music Detector de MusicMaker**. Importez le fichier audio pour obtenir une estimation de la probabilité de génération par IA et, s’il est identifié, l’outil éventuellement utilisé.
 
 <p align="center"><a href="https://musicmaker.im/"><img src="https://musicmaker.im/images/logo.svg" width="64" alt="MusicMaker — musicmaker.im"></a><br><strong>AI Music Maker</strong></p>
-
-Un morceau pourrait-il avoir été créé avec Suno ou un autre outil musical d’IA ? Essayez **Free Suno AI Music Detector de MusicMaker** pour consulter une probabilité de génération par IA et, lorsqu’il est identifié, l’outil probablement utilisé.
 
 <a href="https://musicmaker.im/free-suno-ai-music-detector/"><img src="../assets/screenshots/musicmaker-suno-detector.jpg" width="100%" alt="Capture du détecteur MusicMaker : import audio, bouton Check et zone de résultats ; cliquez pour essayer"></a>
 

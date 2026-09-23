@@ -138,11 +138,15 @@ Explore **mais 12 sonoridades** com músicas diferentes das propostas acima. Cap
 <!-- BRAND-STYLES:END -->
 
 <!-- MUSICMAKER-DETECTOR:START -->
-## MusicMaker · Verifique a origem de uma música
+<a id="musicmaker-detector"></a>
+
+## MusicMaker · Essa música também foi feita com IA?
+
+Ouvir o trabalho de outras pessoas também ajuda a encontrar inspiração. Quando uma música chama sua atenção, pode surgir a curiosidade: será que foi criada com Suno ou outra ferramenta de IA?
+
+Nesses momentos, experimente o **Free Suno AI Music Detector do MusicMaker**. Envie o áudio para ver uma estimativa da probabilidade de geração por IA e, quando identificada, a possível ferramenta utilizada.
 
 <p align="center"><a href="https://musicmaker.im/"><img src="https://musicmaker.im/images/logo.svg" width="64" alt="MusicMaker — musicmaker.im"></a><br><strong>AI Music Maker</strong></p>
-
-Quer saber se uma música pode ter sido criada com Suno ou outra ferramenta de IA? Experimente o **Free Suno AI Music Detector do MusicMaker** para consultar a probabilidade de geração por IA e a possível ferramenta usada, quando identificada.
 
 <a href="https://musicmaker.im/free-suno-ai-music-detector/"><img src="../assets/screenshots/musicmaker-suno-detector.jpg" width="100%" alt="Captura do detector MusicMaker: envio de áudio, botão Check e área de resultados; clique para experimentar"></a>
 

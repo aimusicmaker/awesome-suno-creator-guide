@@ -216,11 +216,15 @@ Revise where you created the take: return to [Suno](https://suno.com/create) for
 [Write better prompts](docs/prompting.md) · [Shape the lyrics](docs/lyrics-and-structure.md) · [Fix common problems](docs/troubleshooting.md)
 
 <!-- MUSICMAKER-DETECTOR:START -->
-## MusicMaker · Check a song’s origin
+<a id="musicmaker-detector"></a>
+
+## MusicMaker · Could that song be AI-made?
+
+Listening to other people’s music is part of finding your own sound. When a track catches your ear, you might also wonder whether it was made with Suno or another AI tool.
+
+For those moments, try **MusicMaker’s Free Suno AI Music Detector**. Upload the audio to see an estimated AI probability and, when identified, a possible generation tool.
 
 <p align="center"><a href="https://musicmaker.im/"><img src="https://musicmaker.im/images/logo.svg" width="64" alt="MusicMaker — musicmaker.im"></a><br><strong>AI Music Maker</strong></p>
-
-Wondering whether a song may have been made with Suno or another AI music tool? Try **MusicMaker’s Free Suno AI Music Detector** to review an AI probability score and a likely generator when identified.
 
 <a href="https://musicmaker.im/free-suno-ai-music-detector/"><img src="assets/screenshots/musicmaker-suno-detector.jpg" width="100%" alt="MusicMaker detector website: audio upload, Check button and results area; click to try the tool"></a>
 
