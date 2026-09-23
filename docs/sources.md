@@ -23,17 +23,18 @@ Checked **2026-09-23**. Source links are provided so readers can inspect the ori
 
 ## Brand listening references
 
-| Track | Source | Referenced cover |
-|:--|:--|:--|
-| Neon Pulse | [Track page](https://musicmaker.im/detail/discover-v2-94/) | [Original image](https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp) |
-| Morning with Healing Hands | [Track page](https://musicmaker.im/detail/discover-v2-106/) | [Original image](https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp) |
-| Island Sunshine | [Track page](https://musicmaker.im/detail/discover-v2-101/) | [Original image](https://cdn.musicmaker.im/musicmaker/discover_v2/island_sunshine.webp) |
+| Track | Public source | Cover / audio | Source model label |
+|:--|:--|:--|:--|
+| It Takes Another Shape | [Page](https://musicmaker.im/detail/discover-v2-108/) | [Cover](https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.webp) · [Audio](https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.mp3) | suno-chirp-v6.0 |
+| What Love Can Lose | [Page](https://musicmaker.im/detail/discover-v2-107/) | [Cover](https://cdn.musicmaker.im/musicmaker/discover_v2/what_love_can_lose.webp) · [Audio](https://cdn.musicmaker.im/musicmaker/discover_v2/what_love_can_lose.mp3) | suno-chirp-v6.0 |
+| Morning with Healing Hands | [Page](https://musicmaker.im/detail/discover-v2-106/) | [Cover](https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp) · [Audio](https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.mp3) | suno-chirp-v6.0 |
+| The Secret Is You | [Page](https://musicmaker.im/detail/discover-v2-105/) | [Cover](https://cdn.musicmaker.im/musicmaker/discover_v2/the_secret_is_you.webp) · [Audio](https://cdn.musicmaker.im/musicmaker/discover_v2/the_secret_is_you.mp3) | suno-chirp-v6.0 |
+| The Golden Road | [Page](https://musicmaker.im/detail/discover-v2-100/) | [Cover](https://cdn.musicmaker.im/musicmaker/discover_v2/the_golden_road.webp) · [Audio](https://cdn.musicmaker.im/musicmaker/discover_v2/the_golden_road.mp3) | MiniMax Music 3.0 |
+| Island Sunshine | [Page](https://musicmaker.im/detail/discover-v2-101/) | [Cover](https://cdn.musicmaker.im/musicmaker/discover_v2/island_sunshine.webp) · [Audio](https://cdn.musicmaker.im/musicmaker/discover_v2/island_sunshine.mp3) | Mureka V9.5 |
+| Echoes of You | [Page](https://musicmaker.im/detail/discover-v2-95/) | [Cover](https://cdn.musicmaker.im/musicmaker/discover_v2/echoes_of_you.webp) · [Audio](https://cdn.musicmaker.im/musicmaker/discover_v2/echoes_of_you.mp3) | lyria-3-pro |
+| Neon Pulse | [Page](https://musicmaker.im/detail/discover-v2-94/) | [Cover](https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp) · [Audio](https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.mp3) | lyria-3-pro |
 
-All three public track pages were inspected after client-side loading. Their play controls exposed these direct audio links: [Neon Pulse](https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.mp3), [Morning with Healing Hands](https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.mp3), and [Island Sunshine](https://cdn.musicmaker.im/musicmaker/discover_v2/island_sunshine.mp3). We did not download or redistribute the recordings.
-
-Morning with Healing Hands displays a style description mentioning acoustic fingerpicking, upright bass, light strings and a warm male vocal, plus lyrics and a V6.0 label. Island Sunshine displays lyrics and a Mureka V9.5 label, with an empty Style field. Neon Pulse initially shows an empty Style field and a Pro label. These are page observations, not proof of the underlying generation process. The selected tracks are cross-model brand references, not all claimed as Suno outputs.
-
-The listening exercise is for readers, not a claimed audio analysis performed by the maintainer. None of these tracks is claimed as an output of the repository's recipes.
+The eight records were read from public track-page data. Neon Pulse, Morning with Healing Hands, and Island Sunshine were also inspected in the rendered player. Model labels are source claims, not independently authenticated. Covers and recordings are linked, not redistributed. Style summaries are our paraphrases; none of these songs is claimed as a result of our recipes.
 
 ## Creator interviews and featured tracks
 
@@ -61,3 +62,18 @@ No engagement counts or “viral” labels are used as a quality guarantee. Comm
 `assets/creator-guide-cover.png` was generated for this repository using imagegen. Creative brief: an editorial music-guide banner, ivory paper, orange translucent vinyl, large black typography, with the words “Make your next favorite song.” It is decorative artwork, not a product screenshot or a generated-song result.
 
 See [asset rights](../assets/README.md) before republishing media. Please [report changed or broken sources](../CONTRIBUTING.md).
+
+## September 23 expansion: official guidance and listening materials
+
+- [v6 FAQ](https://help.suno.com/en/articles/13924481): Simple workflow, current variants and retirement of older generation models; links the official workflow video.
+- [What's new in v6](https://help.suno.com/en/articles/13924801): current model family and editing capabilities.
+- [Song Editor](https://help.suno.com/en/articles/6141505): local replacement, lyric editing, extension, cropping and fades. Its article predates v6; the v6 feature article confirms continuing editing support.
+- [Remix guide](https://help.suno.com/en/articles/6050497): creator permission and remix rights.
+- [Eric Christian interview](https://suno.com/blog/eric-christian): piano-to-orchestration workflow and featured track.
+- Homepage creator portraits are the header images linked from the four corresponding Suno interviews. They remain hosted by Suno's image provider and are credited through each card. Their inclusion does not imply endorsement.
+- The four homepage listening cards and four listening-lab cards use MusicMaker's public detail pages and their linked cover/audio assets. The first four source records identify `suno-chirp-v6.0`; the others identify MiniMax Music 3.0, Mureka V9.5, and `lyria-3-pro`. Source labels have not been independently authenticated.
+- [Listening lab](listening-lab.md): the four brief summaries paraphrase source text, while the proposed variations are original, untested exercises. No source lyrics are reproduced. Audio URLs were checked for availability; that is not a listening-quality evaluation or reproduction test.
+
+## X examples
+
+The homepage links four separate replies in [Suno’s September 12 v6 thread](https://x.com/suno/status/2098504028522942964), with short excerpts and original editorial cards. These are official prompt examples, not independently reproduced tracks. Four further cards link video demonstrations by Kevin Pereira, Minz via Suno, 瑶酱Hermione, and Suno. Full prompts are not claimed where the posts omit them. Native X post text, dates, and media thumbnails were inspected September 23, 2026. Popularity metrics are intentionally not used as a quality score.

@@ -8,15 +8,91 @@ Copy-ready prompts, original lyrics, real listening references, and practical fi
 
 [English](README.md) · [简体中文](README_ZH.md)
 
-![The Suno Creator Guide: Make your next favorite song. Orange vinyl on an ivory background.](assets/creator-guide-cover.png)
+[![The Suno Creator Guide: Make your next favorite song. Orange vinyl on an ivory background; open the official Suno v6 FAQ.](assets/creator-guide-cover.png)](https://help.suno.com/en/articles/13924481)
 
-**[Find a prompt](prompts/README.md) · [Make your first song](#make-your-first-song) · [Fix a track](docs/troubleshooting.md) · [Explore MusicMaker](https://musicmaker.im/discover/)**
+**[Meet Suno v6](#what-can-suno-v6-do) · [Explore X examples](#prompts-and-demonstrations-from-x) · [Make a song](#make-your-first-song)**
 
 </div>
 
 A guide for first-time songwriters, video creators, and anyone who has a good idea but keeps getting the wrong sound. **12 original recipes** cover vocal songs and instrumentals, with a clear place to paste each part, one useful variation, and a listening check.
 
-Maintained by **[AI Music Maker](https://musicmaker.im/)**. This is an independent guide, not official Suno documentation. The recipes are starting points, not generation-tested results; the listening references below are separate published MusicMaker tracks.
+An independent guide, not official Suno documentation. Our 12 recipes are untested starting points; published examples and original exercises are labeled separately.
+
+## What can Suno v6 do?
+
+**Start with an idea, a hum, or an image. Then develop the passage worth keeping.** v6 accepts multiple input types and supports arranging, replacing sections, and extending songs.
+
+[![Suno v6 workflow: start from an idea or input, create, then edit a section; open the official v6 FAQ](assets/suno-workflow.svg)](https://help.suno.com/en/articles/13924481)
+
+> “Describe what you want and v6 figures out how to get there.”
+> — [Suno v6 FAQ](https://help.suno.com/en/articles/13924481), September 9, 2026
+
+| What you have | Where to start | What to check yourself |
+|:--|:--|:--|
+| A scene or a feeling | Simple: describe it in a sentence | Mood and instrumentation |
+| Lyrics you wrote | Custom: separate style and lyrics | Pronunciation, phrasing, chorus contrast |
+| A photo, video, or hum | v6: supply material you may use | Whether the music reflects the input |
+| A promising draft | Replace Section / Extend | Natural joins and unintended changes |
+
+**Current models:** v6-mini is available on all plans; v6 and v6-wild require Pro / Premier. A prompt is not exact timing control or a promise to preserve a melody on every attempt. Listen and edit before release.
+
+Sources: [Official v6 FAQ](https://help.suno.com/en/articles/13924481) · [v6 features](https://help.suno.com/en/articles/13924801). [Watch the official workflow video →](https://www.youtube.com/watch?v=tkKGNBzkHwE)
+
+## Prompts and demonstrations from X
+
+Start with **4 official v6 prompt examples**, then explore 4 video demonstrations. Every image opens its original post. Prompt cards are our editorial graphics, not screenshots.
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://x.com/suno/status/2098504030204973500"><img src="assets/x-cases/rooftop.svg" width="440" alt="Start with a feeling; open Suno’s original X prompt"></a><br><b>Start with a feeling</b><br><code>make a song that feels like midnight on a rooftop</code><br><sub><a href="https://x.com/suno">@suno</a> · v6 Simple · 2026-09-12 · excerpt</sub></td>
+<td width="50%" valign="top"><a href="https://x.com/suno/status/2098504032079814672"><img src="assets/x-cases/input.svg" width="440" alt="Turn an input into a song; open Suno’s original X prompt"></a><br><b>Turn an input into a song</b><br><code>make a country song based on this photo</code><br><sub><a href="https://x.com/suno">@suno</a> · v6 Simple · 2026-09-12 · excerpt</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://x.com/suno/status/2098504033698812198"><img src="assets/x-cases/edit.svg" width="440" alt="Change one thing; open Suno’s original X prompt"></a><br><b>Change one thing</b><br><code>change the chorus so it's sung by a gospel choir</code><br><sub><a href="https://x.com/suno">@suno</a> · v6 Simple · 2026-09-12 · excerpt</sub></td>
+<td width="50%" valign="top"><a href="https://x.com/suno/status/2098504035292618787"><img src="assets/x-cases/arc.svg" width="440" alt="Describe an emotional arc; open Suno’s original X prompt"></a><br><b>Describe an emotional arc</b><br><code>The verses are intimate, then the chorus cracks open</code><br><sub><a href="https://x.com/suno">@suno</a> · v6 Simple · 2026-09-12 · excerpt</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>▶ 4 video demonstrations: original inputs, finished clips, and editing</summary>
+
+**See input become music:** evidence differs by demo and is noted below. Historical model and plan details do not describe today’s product.
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://x.com/Attack/status/1797664905568412055"><img src="https://pbs.twimg.com/ext_tw_video_thumb/1797663888697090048/pu/img/nPOfswNRcqjBjTWV?format=webp&amp;name=large" width="260" alt="An old melody becomes a new arrangement: original video thumbnail; watch on X"></a><br><b>An old melody becomes a new arrangement</b><br><sub>Kevin Pereira · 2024-06-04</sub><br>v3.5; original upload linked in the replies; full style prompt not disclosed. Uses borrowed lyrics: study the workflow, not those lyrics.<br><a href="https://x.com/Attack/status/1797664905568412055">▶ Open original video</a></td>
+<td width="50%" valign="top"><a href="https://x.com/suno/status/1806740550566949019"><img src="https://pbs.twimg.com/ext_tw_video_thumb/1806740388373291008/pu/img/DDPGSmwQyy6srgb1?format=webp&amp;name=large" width="260" alt="Typing becomes lo-fi samba: original video thumbnail; watch on X"></a><br><b>Typing becomes lo-fi samba</b><br><sub>Minz / Suno · 2024-06-29</sub><br>Official audio-input demonstration; the post names the style, but not the full prompt or exact model.<br><a href="https://x.com/suno/status/1806740550566949019">▶ Open original video</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://x.com/Hermion28758241/status/1802200978969559447"><img src="https://pbs.twimg.com/ext_tw_video_thumb/1802200843904532480/pu/img/Syu6hS_9jGHJvVo7?format=webp&amp;name=large" width="260" alt="A cat-themed sound-to-song experiment: original video thumbnail; watch on X"></a><br><b>A cat-themed sound-to-song experiment</b><br><sub>瑶酱Hermione · 2024-06-16</sub><br>Creator identifies v3.5 sound-to-song; video attached, full prompt not disclosed.<br><a href="https://x.com/Hermion28758241/status/1802200978969559447">▶ Open original video</a></td>
+<td width="50%" valign="top"><a href="https://x.com/suno/status/2102066500043510096"><img src="https://pbs.twimg.com/amplify_video_thumb/2102066204907040769/img/bwJ9Vf6zKR6h_lCz?format=webp&amp;name=large" width="260" alt="Describe the sound of an effect: original video thumbnail; watch on X"></a><br><b>Describe the sound of an effect</b><br><sub>Suno · 2026-09-22</sub><br>Official video on describing effects, including saturation; an editing demo, not a full-song recipe. Exact model not specified in the post.<br><a href="https://x.com/suno/status/2102066500043510096">▶ Open original video</a></td>
+</tr>
+</table>
+
+Media and prompts belong to their authors. We checked public posts and attached media, not generation reproducibility. X may require sign-in.
+
+</details>
+
+
+## Learn from the community
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://suno.com/blog/dream-relic"><img src="https://cdn.sanity.io/images/cl7b1q1i/production/640170d16c1e92e38bef8980bf72655750a37cf2-1920x1080.jpg?auto=format&amp;fit=max&amp;w=2400" alt="Suno interview artwork; open the interview: Dream Relic" width="440"></a><br><b>Dream Relic</b><br>Write around one image<br><a href="https://suno.com/blog/dream-relic">Read the Suno interview →</a> · <a href="https://suno.com/embed/2e6b6eb7-9421-4c10-bdab-ba70252ae152">▶ Listen</a></td>
+<td width="50%" valign="top"><a href="https://suno.com/blog/matt-steffanina"><img src="https://cdn.sanity.io/images/cl7b1q1i/production/57d9cd63195664e1742bee4f79d0d05a29f9be95-1920x1080.jpg?auto=format&amp;fit=max&amp;w=2400" alt="Suno interview artwork; open the interview: Matt Steffanina" width="440"></a><br><b>Matt Steffanina</b><br>Make music for a dance phrase<br><a href="https://suno.com/blog/matt-steffanina">Read the Suno interview →</a> · <a href="https://suno.com/embed/336c6b25-0b32-438c-8857-0a46679ffc13">▶ Listen</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://suno.com/blog/sad-alex"><img src="https://cdn.sanity.io/images/cl7b1q1i/production/b32d7f1a49463d96dd9b69dabe1b1b994bae7a7b-1920x1080.jpg?auto=format&amp;fit=max&amp;w=2400" alt="Suno interview artwork; open the interview: sad alex" width="440"></a><br><b>sad alex</b><br>Develop an unfinished song idea<br><a href="https://suno.com/blog/sad-alex">Read the Suno interview →</a></td>
+<td width="50%" valign="top"><a href="https://suno.com/blog/eric-christian"><img src="https://cdn.sanity.io/images/cl7b1q1i/production/56df772e7c08412e574609840a2a47fa7c5cb9e2-1920x1080.jpg?auto=format&amp;fit=max&amp;w=2400" alt="Suno interview artwork; open the interview: Eric Christian" width="440"></a><br><b>Eric Christian</b><br>Explore orchestration from a piano idea<br><a href="https://suno.com/blog/eric-christian">Read the Suno interview →</a> · <a href="https://suno.com/embed/f7689d96-3d3e-4115-95fb-c66a842963ce">▶ Listen</a></td>
+</tr>
+</table>
+
+Images come from the linked official interviews; listening links lead to their featured tracks. Open a card to explore the workflow.
+
+> “start with the moment someone would replay.”
+> — [Suno’s short-form guide](https://suno.com/blog/how-to-make-short-form), August 5, 2026
+
+**Try it:** put the line you most want to replay at the start of a clip, then pair it with one clear action or image. [Creative exercises](docs/community-playbook.md) · [4 local-editing prompts](docs/official-suno-guide.md#four-editing-briefs)
 
 ## What are you making?
 
@@ -30,23 +106,14 @@ Maintained by **[AI Music Maker](https://musicmaker.im/)**. This is an independe
 | Turn a song into a short social clip | [Community examples and creative exercises](docs/community-playbook.md) |
 | Check a song's possible AI origin | [Detector guide](docs/detector-and-release.md) |
 
-## Listen before you write
-
-Three tracks from the [MusicMaker Discover collection](https://musicmaker.im/discover/). Open a cover to visit its track page, then press play. These are **listening references, not outputs from the recipes**. This is a cross-model MusicMaker selection: Island Sunshine is labeled Mureka V9.5 on its page, and Morning with Healing Hands shows V6.0. These labels are source-page claims, not an independent model audit.
-
-<table>
-<tr><td width="30%"><a href="https://musicmaker.im/detail/discover-v2-94/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp" alt="Neon Pulse" width="150"></a></td><td><b>Neon Pulse</b><br>02:53 · Brand reference<br><a href="https://musicmaker.im/detail/discover-v2-94/">▶ Open track</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.mp3">Direct audio</a></td></tr>
-<tr><td width="30%"><a href="https://musicmaker.im/detail/discover-v2-106/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" alt="Morning with Healing Hands" width="150"></a></td><td><b>Morning with Healing Hands</b><br>03:33 · Acoustic brief<br><a href="https://musicmaker.im/detail/discover-v2-106/">▶ Open track</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.mp3">Direct audio</a></td></tr>
-<tr><td width="30%"><a href="https://musicmaker.im/detail/discover-v2-101/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/island_sunshine.webp" alt="Island Sunshine" width="150"></a></td><td><b>Island Sunshine</b><br>03:51 · Mureka V9.5<br><a href="https://musicmaker.im/detail/discover-v2-101/">▶ Open track</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/island_sunshine.mp3">Direct audio</a></td></tr>
-</table>
-
-**Try this listening exercise:** choose one track and note the first sound you remember, when the energy changes, and whether the vocal or an instrument carries the main idea. Use those observations to describe your own song. Keep its melody and lyrics your own. [Source and media notes →](docs/sources.md)
-
 ## Make your first song
 
 You do not need to clone this repository or install anything.
 
-1. Open [Suno Create](https://suno.com/create) and choose **Custom**. You can also try the same creative brief in [MusicMaker's song generator](https://musicmaker.im/ai-song-generator/); available controls and models differ.
+v6 **Simple** accepts a single creative brief and multiple input types. For the separate style-and-lyrics blocks below, use **Custom**, as described in Suno’s lyrics guide. [Watch the official workflow tutorial](https://www.youtube.com/watch?v=tkKGNBzkHwE) · [Official guidance and editing prompts](docs/official-suno-guide.md)
+
+
+1. Open [Suno Create](https://suno.com/create) and choose **Custom**.
 2. Paste the first block into **Style of Music / Styles**, and the second into **Lyrics**. Leave instrumental mode **off** for this example.
 3. Generate within your available credits. Listen to the alternatives before changing the prompt.
 4. Keep the best take. Change **one** detail for the next attempt: the instrument, vocal delivery, or lyric length.
@@ -112,17 +179,22 @@ Section tags such as `[Verse]` are creative cues, not exact commands. Tempo, dur
 
 [Write better prompts](docs/prompting.md) · [Shape the lyrics](docs/lyrics-and-structure.md) · [Fix common problems](docs/troubleshooting.md)
 
-## Learn from the community
+## Brand listening: 4 Suno v6 tracks
 
-| Creator | Hear the featured work | Try the idea yourself |
-|:--|:--|:--|
-| [Dream Relic](https://suno.com/blog/dream-relic) | [▶ Seven-Eleven Halo](https://suno.com/embed/2e6b6eb7-9421-4c10-bdab-ba70252ae152) | Build a soundtrack around the feeling of one image |
-| [Matt Steffanina](https://suno.com/blog/matt-steffanina) | [▶ The Sound](https://suno.com/embed/336c6b25-0b32-438c-8857-0a46679ffc13) | Write for a movement or dance phrase |
-| [sad alex](https://suno.com/blog/sad-alex) | [Interview and featured track](https://suno.com/blog/sad-alex) | Use alternate arrangements to finish an existing idea |
+These four are labeled Suno v6 in the brand’s public data; captions summarize the published briefs. **They are not outputs from our recipes.** [4 more cross-model references →](docs/listening-lab.md#more-listening-references)
 
-[Dream Relic — Seven Eleven Halo on YouTube](https://www.youtube.com/watch?v=A0jr0cN3vKw) · [See the original Reddit remix campaign](https://www.reddit.com/r/SunoAI/comments/1txu83c/dream_relic_x_suno_remix_contest/) (historical, June 2026).
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-108/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.webp" alt="It Takes Another Shape: cover artwork; open the track page" width="440"></a><br><b>It Takes Another Shape</b><br>Suno v6<br>Published brief: Fingerpicked guitar → a widening final chorus<br><a href="https://musicmaker.im/detail/discover-v2-108/">▶ Track page</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.mp3">Audio</a></td>
+<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-107/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/what_love_can_lose.webp" alt="What Love Can Lose: cover artwork; open the track page" width="440"></a><br><b>What Love Can Lose</b><br>Suno v6<br>Published brief: Felt piano → cello → layered harmonies<br><a href="https://musicmaker.im/detail/discover-v2-107/">▶ Track page</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/what_love_can_lose.mp3">Audio</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-106/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" alt="Morning with Healing Hands: cover artwork; open the track page" width="440"></a><br><b>Morning with Healing Hands</b><br>Suno v6<br>Published brief: Acoustic guitar, upright bass, warm male voice<br><a href="https://musicmaker.im/detail/discover-v2-106/">▶ Track page</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.mp3">Audio</a></td>
+<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-105/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_secret_is_you.webp" alt="The Secret Is You: cover artwork; open the track page" width="440"></a><br><b>The Secret Is You</b><br>Suno v6<br>Published brief: Nylon guitar, soft piano, final-chorus handclaps<br><a href="https://musicmaker.im/detail/discover-v2-105/">▶ Track page</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/the_secret_is_you.mp3">Audio</a></td>
+</tr>
+</table>
 
-These Suno-published interviews describe the creators' own workflows. The featured tracks are linked from the interviews, not generated from our recipes; see the playbook for attribution notes. Our [community playbook](docs/community-playbook.md) turns these examples and public prompting discussions into small exercises, with source context and limitations.
+**Turn listening into your own prompt:** [4 published briefs and adaptation exercises](docs/listening-lab.md). Compare a verse with its chorus, then change one arrangement detail. Keep your melody and lyrics original.
 
 ## From a draft to something you can share
 

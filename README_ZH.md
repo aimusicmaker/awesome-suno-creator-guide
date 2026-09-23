@@ -8,15 +8,91 @@
 
 [English](README.md) · 简体中文
 
-![Suno 创作指南封面：米白底色与橙色黑胶唱片，主题是创作下一首自己喜欢的歌。](assets/creator-guide-cover.png)
+[![Suno 创作指南封面：米白底色与橙色黑胶唱片，主题是创作下一首自己喜欢的歌；点击打开 Suno 官方 v6 FAQ。](assets/creator-guide-cover.png)](https://help.suno.com/en/articles/13924481)
 
-**[挑选提示词](prompts/README.md) · [开始第一首歌](#开始第一首歌) · [解决问题](#生成结果不对怎么办) · [去品牌曲库试听](https://musicmaker.im/discover/)**
+**[认识 Suno v6](#suno-v6能做什么) · [看 X 案例](#x-上的提示词与作品演示) · [开始写歌](#开始第一首歌)**
 
 </div>
 
 适合第一次写歌的人、需要视频配乐的创作者，以及“脑中有声音，却总生成不出来”的音乐爱好者。这里有 **12 份原创方案**，分别写清风格填在哪里、歌词怎么填、下一次改什么、生成后听什么。
 
-本仓库由 **[AI Music Maker](https://musicmaker.im/)** 维护，是独立创作指南，并非 Suno 官方文档。提示词尚未逐条生成验证；下面的品牌歌曲是独立试听参考，不是这些提示词的生成结果。详细教程和大部分方案目前为英文，本页提供中文入门说明和中文歌曲示例。
+独立创作指南，非 Suno 官方文档。12 份原创方案尚未逐条生成验证；公开案例与原创练习分开注明。详细教程和多数方案为英文，本页提供中文入门。
+
+## Suno v6：能做什么？
+
+**从一句想法、一段哼唱或一张照片开始，再把好听的片段打磨成歌。** 官方 v6 支持多种输入，并可继续改编曲、替换局部和延长歌曲。
+
+[![Suno v6 创作流程示意：想法或素材进入创建，再局部修改；点击查看官方 v6 FAQ](assets/suno-workflow.svg)](https://help.suno.com/en/articles/13924481)
+
+> “Describe what you want” — 描述你想要的结果。
+> — [Suno 官方 v6 FAQ](https://help.suno.com/en/articles/13924481)，2026-09-09
+
+| 你已有的素材 | 可以怎样开始 | 要自己检查什么 |
+|:--|:--|:--|
+| 一个场景或情绪 | Simple：用一句话描述 | 情绪和乐器是否符合想法 |
+| 自己写的歌词 | Custom：分别填写风格与歌词 | 咬字、分句和副歌变化 |
+| 照片、视频或哼唱 | v6：用有权上传的素材引导创作 | 生成音乐是否抓住素材特点 |
+| 已经不错的半成品 | Replace Section / Extend：局部替换或延长 | 接缝是否自然、其他部分是否变化 |
+
+<strong>当前模型：</strong>v6-mini 面向所有套餐；v6 与 v6-wild 面向 Pro / Premier。提示词不是精确控制秒数、每次保留相同旋律的保证；生成后仍需试听和剪辑。
+
+依据：[官方 v6 FAQ](https://help.suno.com/en/articles/13924481) · [v6 功能说明](https://help.suno.com/en/articles/13924801)。[观看官方流程视频 →](https://www.youtube.com/watch?v=tkKGNBzkHwE)
+
+## X 上的提示词与作品演示
+
+先看 4 条 **Suno 官方 v6 提示词**，再对照 4 个带视频的演示。点击图片直达原帖；提示词卡是本仓库制作的导读图，不是原帖截图。
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://x.com/suno/status/2098504030204973500"><img src="assets/x-cases/rooftop.svg" width="440" alt="从一个场景开始；点击阅读 Suno 原帖"></a><br><b>从一个场景开始</b><br><code>make a song that feels like midnight on a rooftop</code><br><sub><a href="https://x.com/suno">@suno</a> · v6 Simple · 2026-09-12 · 原文节选</sub></td>
+<td width="50%" valign="top"><a href="https://x.com/suno/status/2098504032079814672"><img src="assets/x-cases/input.svg" width="440" alt="让照片或哼唱变成歌曲；点击阅读 Suno 原帖"></a><br><b>让照片或哼唱变成歌曲</b><br><code>make a country song based on this photo</code><br><sub><a href="https://x.com/suno">@suno</a> · v6 Simple · 2026-09-12 · 原文节选</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://x.com/suno/status/2098504033698812198"><img src="assets/x-cases/edit.svg" width="440" alt="只改变一处；点击阅读 Suno 原帖"></a><br><b>只改变一处</b><br><code>change the chorus so it's sung by a gospel choir</code><br><sub><a href="https://x.com/suno">@suno</a> · v6 Simple · 2026-09-12 · 原文节选</sub></td>
+<td width="50%" valign="top"><a href="https://x.com/suno/status/2098504035292618787"><img src="assets/x-cases/arc.svg" width="440" alt="写清情绪怎样变化；点击阅读 Suno 原帖"></a><br><b>写清情绪怎样变化</b><br><code>The verses are intimate, then the chorus cracks open</code><br><sub><a href="https://x.com/suno">@suno</a> · v6 Simple · 2026-09-12 · 原文节选</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>▶ 展开 4 个视频案例：原始输入、歌曲成品与音效编辑</summary>
+
+<strong>看输入如何变成作品：</strong>以下视频有不同的证据范围，卡片已注明；历史案例中的旧模型与套餐说明不代表当前功能。
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://x.com/Attack/status/1797664905568412055"><img src="https://pbs.twimg.com/ext_tw_video_thumb/1797663888697090048/pu/img/nPOfswNRcqjBjTWV?format=webp&amp;name=large" width="260" alt="让旧旋律长出新编曲：原视频封面，点击在 X 观看"></a><br><b>让旧旋律长出新编曲</b><br><sub>Kevin Pereira · 2024-06-04</sub><br>v3.5；回复中有原始录音，未公开完整风格提示词。作者用了他人的歌词；只参考流程，不复制歌词。<br><a href="https://x.com/Attack/status/1797664905568412055">▶ 查看原视频</a></td>
+<td width="50%" valign="top"><a href="https://x.com/suno/status/1806740550566949019"><img src="https://pbs.twimg.com/ext_tw_video_thumb/1806740388373291008/pu/img/DDPGSmwQyy6srgb1?format=webp&amp;name=large" width="260" alt="把打字声变成低保真桑巴：原视频封面，点击在 X 观看"></a><br><b>把打字声变成低保真桑巴</b><br><sub>Minz / Suno · 2024-06-29</sub><br>官方音频输入演示；帖子说明风格，未提供完整提示词或确切模型。<br><a href="https://x.com/suno/status/1806740550566949019">▶ 查看原视频</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://x.com/Hermion28758241/status/1802200978969559447"><img src="https://pbs.twimg.com/ext_tw_video_thumb/1802200843904532480/pu/img/Syu6hS_9jGHJvVo7?format=webp&amp;name=large" width="260" alt="猫咪主题的声音转歌曲实验：原视频封面，点击在 X 观看"></a><br><b>猫咪主题的声音转歌曲实验</b><br><sub>瑶酱Hermione · 2024-06-16</sub><br>作者标注 v3.5 声音转歌曲，附演示视频，未公开完整提示词。<br><a href="https://x.com/Hermion28758241/status/1802200978969559447">▶ 查看原视频</a></td>
+<td width="50%" valign="top"><a href="https://x.com/suno/status/2102066500043510096"><img src="https://pbs.twimg.com/amplify_video_thumb/2102066204907040769/img/bwJ9Vf6zKR6h_lCz?format=webp&amp;name=large" width="260" alt="用语言描述想要的音效：原视频封面，点击在 X 观看"></a><br><b>用语言描述想要的音效</b><br><sub>Suno · 2026-09-22</sub><br>官方音效描述演示，涉及饱和效果；属于编辑示例，并非整首歌曲提示词。帖子未标明确切模型。<br><a href="https://x.com/suno/status/2102066500043510096">▶ 查看原视频</a></td>
+</tr>
+</table>
+
+视频和提示词均归原作者；我们核对了公开帖子与媒体，未复现生成。X 可能要求登录。
+
+</details>
+
+
+## 看看创作者怎样使用这些工具
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://suno.com/blog/dream-relic"><img src="https://cdn.sanity.io/images/cl7b1q1i/production/640170d16c1e92e38bef8980bf72655750a37cf2-1920x1080.jpg?auto=format&amp;fit=max&amp;w=2400" alt="Suno 官方访谈配图，点击阅读：Dream Relic" width="440"></a><br><b>Dream Relic</b><br>围绕一幅画面写歌<br><a href="https://suno.com/blog/dream-relic">阅读 Suno 官方访谈 →</a> · <a href="https://suno.com/embed/2e6b6eb7-9421-4c10-bdab-ba70252ae152">▶ 试听</a></td>
+<td width="50%" valign="top"><a href="https://suno.com/blog/matt-steffanina"><img src="https://cdn.sanity.io/images/cl7b1q1i/production/57d9cd63195664e1742bee4f79d0d05a29f9be95-1920x1080.jpg?auto=format&amp;fit=max&amp;w=2400" alt="Suno 官方访谈配图，点击阅读：Matt Steffanina" width="440"></a><br><b>Matt Steffanina</b><br>围绕一段舞蹈编曲<br><a href="https://suno.com/blog/matt-steffanina">阅读 Suno 官方访谈 →</a> · <a href="https://suno.com/embed/336c6b25-0b32-438c-8857-0a46679ffc13">▶ 试听</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://suno.com/blog/sad-alex"><img src="https://cdn.sanity.io/images/cl7b1q1i/production/b32d7f1a49463d96dd9b69dabe1b1b994bae7a7b-1920x1080.jpg?auto=format&amp;fit=max&amp;w=2400" alt="Suno 官方访谈配图，点击阅读：sad alex" width="440"></a><br><b>sad alex</b><br>把未完成的歌曲想法继续写下去<br><a href="https://suno.com/blog/sad-alex">阅读 Suno 官方访谈 →</a></td>
+<td width="50%" valign="top"><a href="https://suno.com/blog/eric-christian"><img src="https://cdn.sanity.io/images/cl7b1q1i/production/56df772e7c08412e574609840a2a47fa7c5cb9e2-1920x1080.jpg?auto=format&amp;fit=max&amp;w=2400" alt="Suno 官方访谈配图，点击阅读：Eric Christian" width="440"></a><br><b>Eric Christian</b><br>用钢琴旋律探索不同管弦配器<br><a href="https://suno.com/blog/eric-christian">阅读 Suno 官方访谈 →</a> · <a href="https://suno.com/embed/f7689d96-3d3e-4115-95fb-c66a842963ce">▶ 试听</a></td>
+</tr>
+</table>
+
+图片来自对应官方访谈；试听为访谈关联作品。点击人物卡看创作过程。
+
+> Suno 建议：把观众想再听一次的片段放在开头。（意译）
+> — [Suno 官方短视频指南](https://suno.com/blog/how-to-make-short-form)，2026-08-05
+
+<strong>马上试：</strong>从自己的歌里挑出最想重听的一句，把它放在短片开头，再配一个清晰的动作或画面。[案例练习](docs/community-playbook.md) · [4 份局部编辑提示词](docs/official-suno-guide.md#four-editing-briefs)
 
 ## 先选你要做的内容
 
@@ -30,28 +106,19 @@
 | 把歌曲做成社媒短片 | [公开案例与创作练习（英文）](docs/community-playbook.md) |
 | 了解一段音乐是否可能由 AI 生成 | [本页检测说明](#分享前先检查) |
 
-## 先听，再写
-
-以下三首歌曲来自 [MusicMaker Discover](https://musicmaker.im/discover/)。点击封面打开单曲页，再按播放按钮。这是一组跨模型的品牌作品：Island Sunshine 页面标注 Mureka V9.5，Morning with Healing Hands 标注 V6.0；这是页面信息，不是本仓库对模型的独立认证。
-
-<table>
-<tr><td width="30%"><a href="https://musicmaker.im/detail/discover-v2-94/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp" alt="Neon Pulse" width="150"></a></td><td><b>Neon Pulse</b><br>02:53 · 品牌作品<br><a href="https://musicmaker.im/detail/discover-v2-94/">▶ 打开单曲</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.mp3">直接听音频</a></td></tr>
-<tr><td width="30%"><a href="https://musicmaker.im/detail/discover-v2-106/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" alt="Morning with Healing Hands" width="150"></a></td><td><b>Morning with Healing Hands</b><br>03:33 · 木吉他风格<br><a href="https://musicmaker.im/detail/discover-v2-106/">▶ 打开单曲</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.mp3">直接听音频</a></td></tr>
-<tr><td width="30%"><a href="https://musicmaker.im/detail/discover-v2-101/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/island_sunshine.webp" alt="Island Sunshine" width="150"></a></td><td><b>Island Sunshine</b><br>03:51 · Mureka V9.5<br><a href="https://musicmaker.im/detail/discover-v2-101/">▶ 打开单曲</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/island_sunshine.mp3">直接听音频</a></td></tr>
-</table>
-
-**一个小练习：**选一首，记下最先留下印象的声音、情绪发生变化的位置，以及是谁在带动旋律。借鉴这些声音特点，重新写自己的故事、旋律和歌词。[素材来源说明（英文）→](docs/sources.md)
-
 ## 开始第一首歌
 
 不用下载仓库，也不用安装软件。
 
-1. 打开 [Suno Create](https://suno.com/create)，选择 **Custom（自定义）**。也可在 [MusicMaker 歌曲生成器](https://musicmaker.im/ai-song-generator/)尝试同一份创作想法；两者的模型和控件可能不同。
+v6 的 **Simple** 可以接收一段式想法和多种输入。下面为了让你分别修改风格和歌词，采用官方歌词教程中的 **Custom** 分栏写法。[看官方入门视频](https://www.youtube.com/watch?v=tkKGNBzkHwE) · [官方依据与编辑提示词](docs/official-suno-guide.md)
+
+
+1. 打开 [Suno Create](https://suno.com/create)，选择 **Custom（自定义）**。
 2. 将第一段填入 **Style / Style of Music（音乐风格）**，第二段填入 **Lyrics（歌词）**。有歌词的歌曲需关闭 **Instrumental（纯音乐）**。
 3. 在自己的可用额度内生成，先听完备选结果，再决定改什么。
 4. 保留较好的版本；下一次只改一个因素，例如主乐器、演唱方式或歌词长度。
 
-**歌名：站台的雨。音乐风格栏：**
+<strong>歌名：站台的雨。音乐风格栏：</strong>
 
 ```text
 Mandarin acoustic pop ballad, gentle piano and warm fingerpicked guitar.
@@ -62,7 +129,7 @@ Small instrumental outro.
 
 这段要求的是：中文抒情流行，钢琴和指弹吉他，咬字清晰，主歌简单，副歌再加入贝斯和轻鼓。
 
-**歌词栏：**以下为本仓库新写的短歌词。
+<strong>歌词栏：</strong>以下为本仓库新写的短歌词。
 
 ```text
 [Verse]
@@ -83,7 +150,7 @@ Small instrumental outro.
 
 `[Verse]` 是主歌，`[Chorus]` 是副歌，`[Outro]` 是结尾。这些标签用于提示歌曲结构，不保证模型严格照做。
 
-**生成后先听：**“站台”“那张票”是否唱清楚？副歌是否比主歌更饱满？如果唱得赶，先减字或改断句。[查看完整方案 →](prompts/08-rain-at-the-station.md)
+<strong>生成后先听：</strong>“站台”“那张票”是否唱清楚？副歌是否比主歌更饱满？如果唱得赶，先减字或改断句。[查看完整方案 →](prompts/08-rain-at-the-station.md)
 
 ## 12 份方案，按用途挑
 
@@ -119,17 +186,22 @@ Small instrumental outro.
 
 每次只改一项，并记录原提示词、模型和结果。不需要为了一个不明显的问题无限重新生成。[详细排查（英文）→](docs/troubleshooting.md)
 
-## 看看创作者怎样使用这些工具
+## 品牌试听：4 首 Suno v6 作品
 
-| 创作者 | 作品与访谈 | 可以借鉴的做法 |
-|:--|:--|:--|
-| Dream Relic | [试听 Seven-Eleven Halo](https://suno.com/embed/2e6b6eb7-9421-4c10-bdab-ba70252ae152) · [访谈](https://suno.com/blog/dream-relic) | 先确定画面的情绪，再寻找匹配的声音 |
-| Matt Steffanina | [试听 The Sound](https://suno.com/embed/336c6b25-0b32-438c-8857-0a46679ffc13) · [访谈](https://suno.com/blog/matt-steffanina) | 围绕舞蹈和动作创作音乐 |
-| sad alex | [访谈与内嵌作品](https://suno.com/blog/sad-alex) | 用不同编曲发展已有歌曲想法，自己决定保留什么 |
+这四首的品牌公开数据标注 Suno v6；卡片摘要来自来源风格描述。**它们不是本仓库提示词的生成结果。**[另外 4 首跨模型试听 →](docs/listening-lab.md#more-listening-references)
 
-[Dream Relic《Seven Eleven Halo》YouTube 发布页](https://www.youtube.com/watch?v=A0jr0cN3vKw) · [看 Reddit 混音活动原帖](https://www.reddit.com/r/SunoAI/comments/1txu83c/dream_relic_x_suno_remix_contest/)（2026 年 6 月历史活动，非当前征集）。
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-108/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.webp" alt="It Takes Another Shape：专辑封面，点击打开作品页" width="440"></a><br><b>It Takes Another Shape</b><br>Suno v6<br>来源风格：指弹吉他开场，末段副歌逐步展开<br><a href="https://musicmaker.im/detail/discover-v2-108/">▶ 作品页</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.mp3">听音频</a></td>
+<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-107/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/what_love_can_lose.webp" alt="What Love Can Lose：专辑封面，点击打开作品页" width="440"></a><br><b>What Love Can Lose</b><br>Suno v6<br>来源风格：从毡音钢琴、大提琴到多层和声<br><a href="https://musicmaker.im/detail/discover-v2-107/">▶ 作品页</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/what_love_can_lose.mp3">听音频</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-106/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" alt="Morning with Healing Hands：专辑封面，点击打开作品页" width="440"></a><br><b>Morning with Healing Hands</b><br>Suno v6<br>来源风格：木吉他、低音提琴与温暖男声<br><a href="https://musicmaker.im/detail/discover-v2-106/">▶ 作品页</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.mp3">听音频</a></td>
+<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-105/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_secret_is_you.webp" alt="The Secret Is You：专辑封面，点击打开作品页" width="440"></a><br><b>The Secret Is You</b><br>Suno v6<br>来源风格：尼龙弦吉他、钢琴与末段拍手<br><a href="https://musicmaker.im/detail/discover-v2-105/">▶ 作品页</a> · <a href="https://cdn.musicmaker.im/musicmaker/discover_v2/the_secret_is_you.mp3">听音频</a></td>
+</tr>
+</table>
 
-以上为 Suno 发布的创作者访谈，作品不是本仓库提示词的生成结果。借鉴的是创作方法，不是照搬他们的歌词或声音。[案例拆解与练习（英文）→](docs/community-playbook.md)
+<strong>把试听变成自己的提示词：</strong>[打开 4 份来源风格与改写练习](docs/listening-lab.md)。先听主歌和副歌的差别，再改一项配器；保留自己的旋律和歌词。
 
 ## 分享前，先检查
 
@@ -139,7 +211,7 @@ Small instrumental outro.
 
 ## 和 MusicMaker 一起继续创作
 
-去 [Discover](https://musicmaker.im/discover/)寻找声音灵感，在[歌曲生成器](https://musicmaker.im/ai-song-generator/)尝试自己的版本，再用这里的指南逐步修改。
+本仓库由 **AI Music Maker** 维护。去 [Discover](https://musicmaker.im/discover/)寻找声音灵感，在[歌曲生成器](https://musicmaker.im/ai-song-generator/)尝试自己的版本，再用这里的指南逐步修改。
 
 欢迎[提交实用提示词、失败例子或纠错](CONTRIBUTING.md)，请写明模型、设置和实际测试情况，并只分享有权公开的素材。
 

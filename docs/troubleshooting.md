@@ -24,3 +24,7 @@ These are suggested experiments, not verified fixes for every model. Save the ta
 Pick the one defect that prevents use. Compare the saved take with one changed version. If the change helps, keep it; if it doesn't, roll back. Set your own attempt limit before generating more.
 
 **Ready to share?** [Release and detector guide](detector-and-release.md).
+
+## Fix a section without restarting
+
+Use **Replace Section** for a weak passage, **Edit Lyrics** for a lyric correction, and **Extend** or **Quick Extend** for a continuation. Use **Crop** and fades for a short clip or clean ending. Save the original, then compare both sides of every edit. Controls depend on access and interface. [Official Song Editor guide](https://help.suno.com/en/articles/6141505) · [Four copy-ready editing examples](official-suno-guide.md#four-editing-briefs).

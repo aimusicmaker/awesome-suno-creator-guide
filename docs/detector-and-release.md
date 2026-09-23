@@ -23,6 +23,8 @@ A probability score is **not proof** of authorship, ownership, infringement, or 
 
 Suno's [ownership article](https://help.suno.com/en/articles/2416769), checked September 23, 2026, distinguishes tracks made while subscribed to Pro/Premier from Basic-tier tracks, which it describes as restricted to non-commercial use. Its [copyright article](https://help.suno.com/en/articles/2746945) also distinguishes usage rights from copyright protection. Check the [current Suno terms](https://suno.com/terms) for the song and workflow in question rather than treating a paid plan as clearance for every input.
 
+**Remixes need a separate check.** Suno’s [Remix guide](https://help.suno.com/en/articles/6050497) says rights stay with the original creator and a song that did not start as your own cannot be monetized under that guidance. An enabled Remix button or an old contest announcement does not grant a general commercial license. Your original input lyrics remain yours under the [lyrics guidance](https://help.suno.com/en/articles/2415873); this alone does not establish copyright or commercial rights in the generated recording.
+
 For songs created with MusicMaker, read its [Commercial License](https://musicmaker.im/commercial-license/) and [Terms & Conditions](https://musicmaker.im/terms-of-service/). This guide does not transfer either service's rights to you.
 
 ## A useful release folder

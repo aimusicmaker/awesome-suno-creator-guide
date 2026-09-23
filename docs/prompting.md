@@ -4,6 +4,8 @@
 
 Start with a sound you can describe in one sentence. Add detail only when you can hear what is missing.
 
+For a single creative brief, v6 Simple can handle complex instructions and multiple input types. The table below is specifically for the **Custom** workflow used by our recipes. [Official v6 guidance and editing examples](official-suno-guide.md).
+
 ## Put each instruction in the right place
 
 | Field | Put here | Avoid |
@@ -35,7 +37,7 @@ The second brief gives you specific things to listen for. It does not guarantee 
 
 ## Revise in small steps
 
-1. Keep the lyrics and model the same.
+1. Keep the lyrics and selected v6 variant the same.
 2. Name the problem: “the vocal is buried,” not “it sounds wrong.”
 3. Change one instruction: replace a dense synth layer with sparse piano.
 4. Compare similar passages at similar playback volume. A louder take can seem better just because it is louder.
